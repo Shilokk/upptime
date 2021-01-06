@@ -1,11 +1,15 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: ShiloKk # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Some Random Quotes
     url: https://somerandomquotes.gq
+    
+status-website:
+  baseUrl: /upptime # where "repo" is your repository name
+  name: Website
 
 
 # Upptime also supports notifications, assigning issues, and more
