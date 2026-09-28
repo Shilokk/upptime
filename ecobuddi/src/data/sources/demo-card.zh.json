@@ -1,0 +1,29 @@
+{
+  "commonName": "亿年青 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "天南星科",
+  "description": "一种紧凑型室内观叶植物,宽阔有光泽的椭圆形叶片上,银绿色斑纹点缀在深绿色边缘之间,叶片从中央的茎干顶端抽出。原产于菲律宾和苏拉威西岛的雨林地面。",
+  "reasoning": "宽阔的椭圆形叶片,中央带银色斑纹、边缘为深绿色,与亿年青 'Silver Bay' 高度吻合。",
+  "uses": {
+    "edible": "不可食用。全株含有草酸钙结晶,会灼伤口腔和喉咙。请远离儿童、猫和狗。",
+    "medicinal": "没有安全的传统用途。汁液会刺激皮肤和眼睛,换盆后请务必洗手。",
+    "ecologicalRole": "一种喜阴的东南亚雨林林下植物。在室内它能耐受弱光,是常见的入门级室内植物。",
+    "pollinatorValue": "较低。它在室内极少开花,细小的白色佛焰苞也很少吸引昆虫。",
+    "waterNeeds": "适中。待表层土壤变干后再浇水,并保持环境温度在 15°C 以上。",
+    "culturalUses": "在中国和东南亚家庭中被视为带来好运的吉祥植物。'Silver Bay' 是为宽阔银色叶片而培育的现代栽培品种。"
+  },
+  "alternatives": [
+    {
+      "scientificName": "Dieffenbachia seguine",
+      "family": "天南星科",
+      "commonName": "花叶万年青",
+      "reasoning": "斑纹相似,但花叶万年青的叶片更大更长,长在粗壮如甘蔗的茎干上。"
+    },
+    {
+      "scientificName": "Spathiphyllum wallisii",
+      "family": "天南星科",
+      "commonName": "白鹤芋",
+      "reasoning": "同样拥有光泽深绿的叶片,但白鹤芋的叶片为纯绿色,没有银色斑纹。"
+    }
+  ]
+}

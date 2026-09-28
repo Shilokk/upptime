@@ -50,7 +50,8 @@
     "records": "Àkọsílẹ̀ Mi",
     "settings": "Ètò",
     "leaderboard": "Àtẹ ipò",
-    "community": "Àwùjọ"
+    "community": "Àwùjọ",
+    "explore": "Ìṣàwárí"
   },
   "languages": {
     "en": "English",
@@ -61,7 +62,20 @@
     "pt": "Português",
     "th": "ไทย",
     "yo": "Yorùbá",
-    "ml": "മലയാളം"
+    "ml": "മലയാളം",
+    "zh": "中文",
+    "vi": "Tiếng Việt",
+    "si": "සිංහල",
+    "id": "Bahasa Indonesia",
+    "ne": "नेपाली",
+    "sw": "Kiswahili",
+    "bn": "বাংলা",
+    "ko": "한국어",
+    "hr": "Hrvatski",
+    "ta": "தமிழ்",
+    "kk": "Қазақ тілі",
+    "ru": "Русский",
+    "ur": "اردو"
   },
   "onboarding": {
     "title": "Yàn èdè rẹ",
@@ -525,5 +539,58 @@
     "species": "irú ọ̀gbìn {{count}}",
     "since": "Olùtọ́jú láti {{date}}",
     "empty": "Ya fọ́tò ọ̀gbìn kan láti gba àmì àkọ́kọ́ rẹ."
+  },
+  "explore": {
+    "title": "Ṣàwárí ayé",
+    "subtitle": "Fa ayé náà kí o sì tẹ orílẹ̀-èdè kan láti rí àwọn ọ̀gbìn tó wọ́pọ̀ àti ohun tí àwọn olùtọ́jú ti ya fọ́tò rẹ̀ níbẹ̀.",
+    "commonPlants": "Àwọn ọ̀gbìn tó wọ́pọ̀",
+    "scannedHere": "A ti ya fọ́tò níbí",
+    "noScans": "Kò sí fọ́tò kankan níbí síi. Jẹ́ olùtọ́jú àkọ́kọ́ tí yóò ya fọ́tò ọ̀gbìn kan ní orílẹ̀-èdè yìí.",
+    "stewards": "olùtọ́jú {{count}}",
+    "scans": "fọ́tò {{count}}",
+    "autoRotate": "Yíyí fúnra rẹ̀",
+    "topStewards": "Àwọn olùtọ́jú tó ga jùlọ",
+    "countries": "orílẹ̀-èdè {{count}}",
+    "tapCountry": "Tẹ àmì orílẹ̀-èdè kan",
+    "you": "Àwọn fọ́tò rẹ"
+  },
+  "translate": {
+    "library": "Ìtúmọ̀ láti inú ìkójọ",
+    "live": "Claude ló túmọ̀ rẹ̀",
+    "loading": "Ń túmọ̀"
+  },
+  "countries": {
+    "GB": "Ilẹ̀ Gẹ̀ẹ́sì",
+    "IE": "Áìlándì",
+    "ES": "Sípéènì",
+    "PT": "Pọ́túgál",
+    "FR": "Faransé",
+    "DE": "Jámánì",
+    "NO": "Nọ́wè",
+    "HR": "Kòróṣíà",
+    "RU": "Rọ́ṣíà",
+    "KZ": "Kasakisitani",
+    "IN": "Íńdíà",
+    "LK": "Sirilanka",
+    "NP": "Nẹ́pál",
+    "BD": "Bangiladeshi",
+    "PK": "Pakisitani",
+    "TH": "Tailandi",
+    "VN": "Fẹ́tinamu",
+    "ID": "Indonesia",
+    "CN": "Ṣáínà",
+    "KR": "Gúúsù Kòríà",
+    "JP": "Japan",
+    "KE": "Kẹ́nyà",
+    "NG": "Nàìjíríà",
+    "ZA": "Gúúsù Áfíríkà",
+    "EG": "Íjíbítì",
+    "US": "Amẹ́ríkà",
+    "CA": "Kánádà",
+    "MX": "Mẹ́síkò",
+    "BR": "Bràsíì",
+    "AR": "Argentina",
+    "AU": "Ọsirélíyà",
+    "NZ": "Niu Sílandì"
   }
 }
