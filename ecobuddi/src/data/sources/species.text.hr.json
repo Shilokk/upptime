@@ -1,0 +1,322 @@
+{
+  "quercus-robur": {
+    "commonName": "Hrast lužnjak",
+    "edible": "Žir je jestiv tek nakon opetovanog ispiranja gorkih tanina; nekada se u oskudnim godinama mljeo u brašno.",
+    "medicinal": "Kora bogata taninima tradicionalno se koristila kao adstringens za upalu grla i kožne tegobe.",
+    "ecologicalRole": "Temeljno stablo koje uzdržava više od 2000 vrsta kukaca, gljiva, ptica i sisavaca; stara stabla hrasta dom su rijetkim kornjašima saproksilofagima.",
+    "culturalUses": "Drvo za brodove, bačve i grede kuća s drvenom konstrukcijom; nacionalni simbol Engleske i simbol postojanosti.",
+    "description": "Široko, dugovječno listopadno stablo duboko urezanih listova na vrlo kratkim peteljkama i žira na dugim stapkama. Deblo s godinama postaje golemo i izbrazdano."
+  },
+  "platanus-hispanica": {
+    "commonName": "Javorolisna platana",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Podnosi zbijeno tlo i onečišćenje, sjenom hladi ulice i gradski zrak; kora joj otpada u pločama i s njom nestaje prljavština.",
+    "culturalUses": "Sadi se uz londonske ulice i trgove još od 18. stoljeća i simbol je britanske prijestolnice.",
+    "description": "Visoko hibridno gradsko stablo velikih, javoru sličnih listova, bodljikavih okruglih plodova koji vise cijelu zimu i kore kamuflažnog uzorka koja se ljušti u mrljama."
+  },
+  "betula-pendula": {
+    "commonName": "Bradavičava breza",
+    "edible": "Proljetni sok može se točiti kao blago sladak napitak; mladi listovi dodaju se čajevima.",
+    "medicinal": "Čaj od lišća tradicionalno se koristio kao blagi diuretik, a ulje kore za kožne tegobe.",
+    "ecologicalRole": "Brza pionirska vrsta otvorenih površina koja obogaćuje siromašna tla, hrani mnoge gusjenice moljaca i domaćin je muhari te drugim gljivama.",
+    "culturalUses": "Kora se koristila za potpalu i izradu kanua, grančice za metle, a stablo je simbol obnove u sjevernjačkom folkloru.",
+    "description": "Vitko stablo bijele kore ispresijecane crnim rombovima, povijenih grančica i sitnih trokutastih listova dvostruko nazubljenog ruba."
+  },
+  "fagus-sylvatica": {
+    "commonName": "Obična bukva",
+    "edible": "Bukvica, plod bukve, jestiva je u malim količinama kad se ispeče; mladi proljetni listovi blagog su okusa u salatama.",
+    "medicinal": null,
+    "ecologicalRole": "Baca gustu sjenu koja oblikuje čitave šumske zajednice; rodne godine hrane šojke, miševe i divlje svinje.",
+    "culturalUses": "Glatka siva kora stoljećima se urezuje inicijalima; drvo je cijenjeno za namještaj i ogrjev.",
+    "description": "Dostojanstveno stablo glatke srebrnosive kore, ovalnih listova valovitog ruba s tankim dlačicama dok su mladi, i bodljikavih čaški koje pucaju otpuštajući trokutaste plodove."
+  },
+  "aesculus-hippocastanum": {
+    "commonName": "Divlji kesten",
+    "edible": "Nije jestivo. Kesteni sadrže eskulin i otrovni su za ljude i pse; nemaju veze s pitomim kestenom.",
+    "medicinal": "Standardizirani ekstrakti sjemenki koriste se u Europi za slabu cirkulaciju u nogama, no sirove sjemenke su otrovne.",
+    "ecologicalRole": "Velike, svijećama slične cvatnje hrane pčele u kasno proljeće; lisni mineri danas do kolovoza posmeđe većinu listova.",
+    "culturalUses": "Igra kestenjem klasična je britanska igra na školskim igralištima svake jeseni.",
+    "description": "Veliko, razgranato stablo listova nalik na dlan sastavljenih od pet do sedam liski, bijelih cvjetnih svijeća u svibnju te sjajnih smeđih sjemenki unutar bodljikavih zelenih čahura."
+  },
+  "tilia-europaea": {
+    "commonName": "Obična lipa",
+    "edible": "Mladi listovi ugodni su u salatama; osušeni cvjetovi daju klasičan čaj od lipe.",
+    "medicinal": "Čaj od cvijeta lipe tradicionalni je lijek protiv prehlade, tjeskobe i nemirnog sna.",
+    "ecologicalRole": "Cvjetovi u srpnju zuje od pčela; lisne uši hrane bubamare i kapaju mednu rosu na pločnike ispod.",
+    "culturalUses": "Seoska lipa bila je mjesto okupljanja diljem srednje Europe; meko drvo omiljeno je među rezbarima.",
+    "description": "Visoko stablo srcolikih, nazubljenih listova, izdanaka koji niču oko podnožja debla i mirisnih blijedožutih cvjetova koji vise ispod uskog lisnog zaliska."
+  },
+  "ilex-aquifolium": {
+    "commonName": "Božikovina",
+    "edible": "Nije jestivo. Crveni plodovi izazivaju povraćanje ako se pojedu.",
+    "medicinal": null,
+    "ecologicalRole": "Zimzeleno sklonište pticama koje prezimljuju; plodovi hrane drozdove, a listovi su stanište sitnom plavičastom leptiru.",
+    "culturalUses": "Stoljećima se reže za zimske i božićne ukrase; drvo se koristi za šahovske figure i intarzije.",
+    "description": "Zimzeleno stablo ili grm sjajnih, bodljikavih, tamnozelenih listova koji postaju glatkiji više na krošnji, sitnih bijelih cvjetova i jarkocrvenih plodova na ženskim biljkama."
+  },
+  "hedera-helix": {
+    "commonName": "Bršljan",
+    "edible": "Nije jestivo. Listovi i plodovi blago su otrovni.",
+    "medicinal": "Standardizirani ekstrakti lišća koriste se u sirupima protiv kašlja; sirovo lišće može nadražiti kožu.",
+    "ecologicalRole": "Jesenski cvjetovi ključni su kasni izvor nektara za pčele i muhe lebdilice; plodovi zimi hrane ptice, a gusti rast pruža sklonište šišmišima i palčićima.",
+    "culturalUses": "Simbol vjernosti utkan u vjenčane vijence; zimzeleni ukras na zimskim slavljima.",
+    "description": "Drvenasta zimzelena penjačica lapavih mladih listova i necjelovitih odraslih listova na cvatućim izdancima; okrugli grozdovi zeleno-žutih cvjetova u jesen i crni plodovi u proljeće."
+  },
+  "crataegus-monogyna": {
+    "commonName": "Obični glog",
+    "edible": "Mladi listovi nekad su se grickali kao 'kruh i sir'; plodovi gloga prerađuju se u žele i kečap.",
+    "medicinal": "Cvjetovi, listovi i plodovi dugo su tradicionalni tonik za srce; samo pod nadzorom.",
+    "ecologicalRole": "Cvat hrani proljetne oprašivače, trnovito grmlje sklanja ptice gnjezdarice, a plodovi hrane drozdove selice i kedrovke tijekom seobe.",
+    "culturalUses": "Majsko drvo engleskog folklora; klasična živica ograđenih poljoprivrednih krajolika.",
+    "description": "Trnovito nisko stablo duboko urezanih listova, pjenasto bijelog ili ružičastog cvata u svibnju i grozdova tamnocrvenih plodova od kojih svaki krije jednu košticu."
+  },
+  "sambucus-nigra": {
+    "commonName": "Crna bazga",
+    "edible": "Cvjetovi aromatiziraju sokove i uštipke; plodovi se moraju skuhati prije jela, a koriste se za vino i džem.",
+    "medicinal": "Pripravci od cvijeta i ploda bazge tradicionalni su lijek protiv prehlade i gripe; sirovi plodovi, listovi i kora blago su otrovni.",
+    "ecologicalRole": "Brzo raste na uznemirenom tlu; plodovi hrane mnoge ptice, a cvjetovi privlače muhe lebdilice.",
+    "culturalUses": "Okružena folklorom o zaštiti i vještičarstvu; šuplje grančice koristile su se za zviždaljke i puhaljke za grašak.",
+    "description": "Grm perastih listova sa pet do sedam liski, plosnatih kremastih cvjetnih glavica u lipnju i visećih grozdova sitnih crnih plodova krajem ljeta."
+  },
+  "rubus-fruticosus": {
+    "commonName": "Kupina",
+    "edible": "Zrele kupine slatke su i sigurne za jelo; mladi izdanci i listovi koriste se za čaj.",
+    "medicinal": "Čaj od lišća tradicionalno se koristio protiv proljeva i afti zahvaljujući svojim taninima.",
+    "ecologicalRole": "Cvjetovi mjesecima hrane pčele, a guštici sklanjaju ptice gnjezdarice, puhove i ježeve; u inozemstvu invazivna gdje guši autohtono grmlje.",
+    "culturalUses": null,
+    "description": "Povijeni, bodljikavi grm listova s tri do pet nazubljenih liski, bijelim ili ružičastim cvjetovima cijelo ljeto i plodovima koji sazrijevaju od zelene preko crvene do crne boje."
+  },
+  "urtica-dioica": {
+    "commonName": "Velika kopriva",
+    "edible": "Mladi vrhovi izgube žarenje kuhanjem i daju bogatu juhu ili zamjenu za špinat.",
+    "medicinal": "Čaj i ekstrakti koprive tradicionalno se koriste protiv peludne alergije, boli u zglobovima i kao proljetni tonik.",
+    "ecologicalRole": "Biljka hraniteljica gusjenica leptira paunova oka, koprivara, admirala i C-žutića; znak tla bogatog dušikom.",
+    "culturalUses": "Vlakna su se prela u tkaninu i uže; narodni lijek protiv reumatizma uključivao je namjerno žarenje koprivom.",
+    "description": "Uspravna trajnica nasuprotnih, srcolikih, oštro nazubljenih listova prekrivenih žarnim dlačicama i visećih niti sitnih zelenih cvjetova."
+  },
+  "taraxacum-officinale": {
+    "commonName": "Maslačak",
+    "edible": "Mladi listovi gorka su salata, korijen se peče kao zamjena za kavu, a od cvjetova se pravi vino.",
+    "medicinal": "Listovi su tradicionalni diuretik, a korijen probavna gorčica.",
+    "ecologicalRole": "Jedan od najvažnijih ranih proljetnih izvora nektara i peluda za pčele i muhe lebdilice.",
+    "culturalUses": null,
+    "description": "Rozeta nazubljenih listova sa šupljim stapkama koje krvare mliječni sok, jarkožutim cvjetnim glavicama i poznatom kuglom sjemenki-padobrančića."
+  },
+  "bellis-perennis": {
+    "commonName": "Tratinčica",
+    "edible": "Mladi listovi i cvjetni pupovi mogu se u malim količinama dodati salatama.",
+    "medicinal": "Nekad poznata kao 'trava za modrice', u narodnoj medicini stavljala se na modrice i rane.",
+    "ecologicalRole": "Cvjeta gotovo cijelu godinu u niskoj travi i hrani sitne pčele i muhe lebdilice kad malo toga drugoga cvjeta.",
+    "culturalUses": "Vijenci od tratinčica i igra 'voli me, ne voli me' klasika su djetinjstva.",
+    "description": "Niska trajnica žličastih listova u plosnatoj rozeti i pojedinačnim cvjetnim glavicama bijelih, na vrhu ružičastih latica oko žutog središta, koje se noću zatvaraju."
+  },
+  "trifolium-pratense": {
+    "commonName": "Crvena djetelina",
+    "edible": "Cvjetne glavice slatke su i mogu se jesti sirove ili osušene za čaj.",
+    "medicinal": "Tradicionalno se koristila protiv kašlja i kožnih tegoba; ekstrakti izoflavona prodaju se za tegobe menopauze.",
+    "ecologicalRole": "Veže dušik u tlo i vodeća je paša za bumbare, osobito dugojezične vrste.",
+    "culturalUses": null,
+    "description": "Livadna trajnica triju ovalnih liski, svaka često obilježena blijedim uzorkom, i okruglih ružičasto-ljubičastih cvjetnih glavica."
+  },
+  "plantago-major": {
+    "commonName": "Veliki trputac",
+    "edible": "Vrlo mladi listovi jestivi su kuhani; stariji su žilavi. Sjemenke se mogu jesti poput psylliuma.",
+    "medicinal": "Zgnječeni listovi klasičan su narodni oblog za ubode, posjekotine i osip od koprive.",
+    "ecologicalRole": "Uspijeva na utabanom tlu i stazama; sjemenke hrane zebe i vrapce.",
+    "culturalUses": "U Sjevernoj Americi nazivan 'otisak bijelog čovjeka' jer je pratio staze europskih doseljenika.",
+    "description": "Prizemna rozeta širokih ovalnih listova s izraženim paralelnim žilama, iz koje izbijaju vitki zeleni cvjetni klasovi nalik štakorskim repovima."
+  },
+  "achillea-millefolium": {
+    "commonName": "Stolisnik",
+    "edible": null,
+    "medicinal": "Nazvan po Ahileju, koji ga je navodno koristio za zaustavljanje krvarenja vojničkih rana; i danas tradicionalni lijek za posjekotine, groznicu i prehladu.",
+    "ecologicalRole": "Plosnate cvjetne glavice slijetalište su muhama lebdilicama, kornjašima i samotnim osama; duboko korijenje odolijeva suši.",
+    "culturalUses": "Osušene stabljike koristile su se za bacanje I Chinga u Kini.",
+    "description": "Mirisna trajnica mekih, perastih, sitno razdijeljenih listova i plosnatih grozdova sitnih bijelih ili ružičastih cvjetova."
+  },
+  "digitalis-purpurea": {
+    "commonName": "Crveni napršnjak",
+    "edible": "Nije jestivo. Svaki dio biljke izrazito je otrovan i može zaustaviti srce.",
+    "medicinal": "Izvor je tvari digoxin, srčanog lijeka; nikada se ne smije uzimati samostalno jer je razlika između doze i otrova minimalna.",
+    "ecologicalRole": "Cjevaste latice skrojene su za bumbare, koji ulaze u cvijet prateći pjegave vodilje.",
+    "culturalUses": "Okružen vilinskim folklorom; vjerovalo se da su pjege unutar cvjetova otisci vilinskih prstiju.",
+    "description": "Visoka dvogodišnja biljka s rozetom mekih, baršunastih listova u prvoj godini i klasom ljubičasto-ružičastih, pjegavih cjevastih zvončića u drugoj."
+  },
+  "allium-ursinum": {
+    "commonName": "Sremuš",
+    "edible": "Listovi, cvjetovi i lukovice jestivi su blagog okusa češnjaka; klasika u pestu i juhama. Pazite na slične vrste poput đurđice.",
+    "medicinal": "Tradicionalno se uzimao za krvni tlak i proljetno čišćenje organizma, slično uzgojenom češnjaku.",
+    "ecologicalRole": "U travnju prekriva stare vlažne šume i hrani rane muhe lebdilice; pokazatelj starih šuma.",
+    "culturalUses": "'Medvjeđi češnjak' u njemačkoj i slavenskoj tradiciji, za koji se vjerovalo da ga jedu medvjedi nakon zimskog sna.",
+    "description": "Šumska lukovica širokih, sjajnih, izduženo-ovalnih listova koji zgnječeni snažno mirišu na češnjak, i zvjezdastih bijelih cvjetova u okruglom cvatu."
+  },
+  "hyacinthoides-non-scripta": {
+    "commonName": "Šumski zvončić",
+    "edible": "Nije jestivo. Svi dijelovi sadrže otrovne glikozide.",
+    "medicinal": null,
+    "ecologicalRole": "Otprilike polovica svjetske populacije ove vrste raste u Britaniji; njihovi tepisi hrane rane pčele i leptire i pokazatelj su starih šuma.",
+    "culturalUses": "Zakonom zaštićen u Velikoj Britaniji; ljepljivi sok nekad se koristio za lijepljenje perja na strijele i uvezivanje knjiga.",
+    "description": "Proljetna lukovica uskih, remenastih listova i jednostrano povijenog klasa mirisnih ljubičasto-plavih zvončića savijenih vrhova latica i kremastih prašnika."
+  },
+  "ophrys-apifera": {
+    "commonName": "Pčelasti kokrić",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Cvijet oponaša ženku pčele kako bi namamio mužjake, iako se u Britaniji uglavnom sam oprašuje; specijalist je vapnenastih i uznemirenih tala.",
+    "culturalUses": "Cijenjen nalaz među botaničarima i simbol obnove divljih travnjaka.",
+    "description": "Mala orhideja rozete sivozelenih listova i nekoliko cvjetova ružičastih lapova i baršunaste smeđe usne s uzorkom nalik na bumbara."
+  },
+  "orchis-mascula": {
+    "commonName": "Muški kaćun",
+    "edible": null,
+    "medicinal": "Gomolji su se nekad prerađivali u salep, gusto piće koje se prodavalo prije nego što je u Europu stigla kava.",
+    "ecologicalRole": "Jedna od prvih orhideja koja cvjeta, bez nektara, ali obmanjuje tek probuđene bumbare.",
+    "culturalUses": "Shakespeareove 'duge grimizne' iz Hamleta; okružen folklorom ljubavnih napitaka.",
+    "description": "Šumska i travnjačka orhideja sjajnih listova obično prošaranih ljubičastim mrljama i gustog klasa ljubičastih cvjetova koji slabo mirišu na mačji urin."
+  },
+  "dactylorhiza-fuchsii": {
+    "commonName": "Pjegavi prstenac",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Najčešća britanska orhideja, naseljava rubove cesta i stare livade; posjećuju je pčele i dnevni moljci.",
+    "culturalUses": null,
+    "description": "Orhideja uskih listova prošaranih tamnoljubičastim mrljama i stožastog klasa blijedoružičastih do ljubičastih cvjetova, čija je usna obilježena petljama i točkicama te podijeljena u tri režnja."
+  },
+  "fritillaria-meleagris": {
+    "commonName": "Kockavica",
+    "edible": "Nije jestivo. Lukovice i listovi su otrovni.",
+    "medicinal": null,
+    "ecologicalRole": "Specijalist tradicionalno održavanih poplavnih livada, danas rijedak; cvjetove oprašuju rani bumbari.",
+    "culturalUses": "Simbolični cvijet grofovije Oxfordshire; poznati nasadi svakog travnja privlače posjetitelje u Magdalen Meadow i Cricklade.",
+    "description": "Vitka proljetna lukovica travolikih listova i pognutih, fenjerastih cvjetova kockastog ljubičasto-bijelog uzorka, ponekad posve bijelih."
+  },
+  "primula-vulgaris": {
+    "commonName": "Jaglac",
+    "edible": "Cvjetovi su jestivi i koriste se za ukrašavanje kolača i salata; listovi se mogu kuhati.",
+    "medicinal": "Korijen i cvijet bili su tradicionalni lijek protiv kašlja i glavobolje.",
+    "ecologicalRole": "Među prvim cvjetovima u godini, hrani rane pčele, muhe pčelarice i leptire limunčice.",
+    "culturalUses": "Dan jaglaca 19. travnja obilježava Disraelija; omiljeni simbol proljeća u poeziji.",
+    "description": "Niska trajnica rozete naboranih, jezičastih listova i blijedožutih, peterolatičnih cvjetova tamnijeg žutog oka, svaki na vlastitoj dlakavoj stapci."
+  },
+  "galanthus-nivalis": {
+    "commonName": "Visibaba",
+    "edible": "Nije jestivo. Lukovice su otrovne i lako se zamijene za luk.",
+    "medicinal": "Izvor je tvari galantamine, lijeka za rane stadije Alzheimerove bolesti; sirovu biljku nikada ne koristiti.",
+    "ecologicalRole": "Cvjeta krajem zime kad malo što drugo cvjeta, a otvara se u blagim danima nagrađujući pčele u potrazi za hranom.",
+    "culturalUses": "Simbol nade i Svijećnice; 'galantofili' skupljaju stotine imenovanih sorti.",
+    "description": "Mala lukovica dvaju sivozelenih remenastih listova i jednog povijenog bijelog cvijeta triju vanjskih latica i zeleno obilježenog unutarnjeg pehara."
+  },
+  "reynoutria-japonica": {
+    "commonName": "Japanski dvornik",
+    "edible": "Mladi proljetni izdanci imaju okus oštre rabarbare i kuhaju se u Japanu; branje može raznijeti fragmente biljke, pa je potreban oprez.",
+    "medicinal": "Korijen se koristi u tradicionalnoj istočnoazijskoj medicini i komercijalni je izvor tvari resveratrol.",
+    "ecologicalRole": "Stvara guste sastojine koje zasjenjuju autohtone biljke uz rijeke i pruge; njegovi kasni cvjetovi ipak hrane pčele.",
+    "culturalUses": null,
+    "description": "Snažna trajnica šupljih, crveno pjegavih stabljika nalik bambusu, štitastih listova ravne osnove i metlica kremastih cvjetova krajem ljeta. Ponovno izraste iz sitnih fragmenata korijena."
+  },
+  "impatiens-glandulifera": {
+    "commonName": "Žljezdasta nedirak",
+    "edible": "Sjemenke su jestive i orašastog okusa; mladi listovi mogu se kuhati. Branje sjemenki prije nego što puknu jedan je od načina suzbijanja.",
+    "medicinal": null,
+    "ecologicalRole": "Istiskuje obalne biljke i ostavlja obale gole i podložne eroziji zimi; njeni cvjetovi bogati nektarom odvraćaju pčele od autohtonih vrsta.",
+    "culturalUses": "Uvedena u viktorijanske vrtove 1839. godine, nadimak joj je 'policajčeva kaciga' zbog oblika cvijeta.",
+    "description": "Visoka, mesnata jednogodišnja biljka crvenkastih šupljih stabljika, kopljastih nazubljenih listova u pršljenovima, ružičastih kapuljastih cvjetova i čahura sjemenki koje eksplodiraju na dodir."
+  },
+  "heracleum-mantegazzianum": {
+    "commonName": "Kavkaska boćika",
+    "edible": "Nije jestivo. Ne dirati: sok na suncu izaziva teške opekline i plikove.",
+    "medicinal": null,
+    "ecologicalRole": "Golemi štitasti cvatovi hrane kukce, no kolonije istiskuju obalno bilje i izlažu tlo eroziji.",
+    "culturalUses": null,
+    "description": "Golema kišobranasta biljka visoka do pet metara, ljubičasto pjegavih, čekinjastih stabljika, duboko rezanih listova širih od metra i kišobranastih bijelih cvatova. Opasna biljka za rukovanje."
+  },
+  "rhododendron-ponticum": {
+    "commonName": "Pontski rododendron",
+    "edible": "Nije jestivo. Listovi i nektar sadrže grajanotoksine; med od njega može izazvati trovanje 'ludim medom'.",
+    "medicinal": null,
+    "ecologicalRole": "Gusti zimzeleni guštici zakiseljavaju tlo i zasjenjuju šumsku floru; domaćin je i biljnoj bolesti Phytophthora ramorum.",
+    "culturalUses": "Sađen na viktorijanskim imanjima radi zaklona divljači i proljetne boje prije nego što se shvatila njegova invazivnost.",
+    "description": "Velik zimzeleni grm kožnatih tamnih listova i raskošnih grozdova ljubičasto-ružičastih, lijevkastih cvjetova kasnog proljeća."
+  },
+  "buddleja-davidii": {
+    "commonName": "Ljetni jorgovan",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Cvjetovi privlače oblake leptira i moljaca, no sadnice naseljavaju pruge, zidove i napuštena gradilišta i mogu nadvladati autohtono grmlje.",
+    "culturalUses": "Stalnica seoskih vrtova otkad je iz Kine uvedena 1890-ih.",
+    "description": "Brzorastući grm povijenih grana, sivozelenih kopljastih listova i dugih, medom mirisnih grozdova ljubičastih do purpurnih cvjetova ljeti."
+  },
+  "prunus-laurocerasus": {
+    "commonName": "Lovorvišnja",
+    "edible": "Nije jestivo. Listovi i sjemenke oslobađaju cijanid; zato zgnječeni listovi mirišu na bademe.",
+    "medicinal": null,
+    "ecologicalRole": "Bježi iz živica u šume gdje njena gusta sjena guši prizemnu floru i pomlađivanje drveća.",
+    "culturalUses": "Uobičajena živica za privatnost; listovi su se nekad koristili u posudama za usmrćivanje kod skupljača leptira.",
+    "description": "Gust zimzeleni grm velikih, sjajnih, kožnatih listova, uspravnih klasova sitnih bijelih cvjetova u proljeće i plodova nalik trešnji koji sazrijevaju u crno."
+  },
+  "lythrum-salicaria": {
+    "commonName": "Vrbica",
+    "edible": null,
+    "medicinal": "Tradicionalno se koristila protiv proljeva i kao oblog za rane zahvaljujući svojim taninima.",
+    "ecologicalRole": "Bogata medonosna biljka britanskih močvara, no ozbiljan je uljez sjevernoameričkih močvara gdje istiskuje autohtono bilje.",
+    "culturalUses": null,
+    "description": "Močvarna trajnica četvrtastih stabljika, nasuprotnih kopljastih listova i visokih gustih klasova magenta cvjetova sa šest latica ljeti."
+  },
+  "jacobaea-vulgaris": {
+    "commonName": "Obični kužnjak",
+    "edible": "Nije jestivo. Sadrži alkaloide koji oštećuju jetru; otrovan za konje i goveda, osobito osušen u sijenu.",
+    "medicinal": null,
+    "ecologicalRole": "Uzdržava oko 30 specijaliziranih kukaca, uključujući crno-žutu gusjenicu moljca kužnjaka, i bogat je izvor nektara.",
+    "culturalUses": "U Škotskoj nazivan 'smrdljivi Willie' po vojvodi od Cumberlanda; predmet dugotrajnih rasprava o suzbijanju korova.",
+    "description": "Dvogodišnja biljka rozete duboko urezanih tamnozelenih listova i plosnatih grozdova zlatnožutih, tratinčici sličnih cvjetova na stabljikama visokim do metar."
+  },
+  "chamaenerion-angustifolium": {
+    "commonName": "Uskolisna vrbovnica",
+    "edible": "Mladi izdanci mogu se kuhati poput šparoga; fermentirano lišće daje ruski čaj 'Ivan čaj'.",
+    "medicinal": "Čaj od lišća bio je narodni lijek za probavne tegobe i tegobe prostate.",
+    "ecologicalRole": "Pionirska vrsta spaljenih i raščišćenih površina, otuda naziv 'požarni cvijet'; cvjetovi hrane pčele, a listovi su hrana gusjenicama leptira ljiljka.",
+    "culturalUses": "Nadimak 'bombweed' dobila je nakon što je 1940-ih prekrila londonska bombardirana zemljišta.",
+    "description": "Visoka trajnica uskih, vrbi sličnih listova raspoređenih spiralno uz stabljiku i dugih klasova ružičastih četverolatičnih cvjetova nakon kojih slijede pahuljaste sjemenke."
+  },
+  "symphytum-officinale": {
+    "commonName": "Gavez",
+    "edible": "Nije za jelo. Sadrži pirolizidinske alkaloide koji oštećuju jetru.",
+    "medicinal": "Poznat kao 'kostolom': oblozi od lišća koriste se vanjski za uganuća i modrice, nikada unutarnje.",
+    "ecologicalRole": "Duboko korijenje i bogatstvo hranjivim tvarima; cvjetove obrađuju bumbari, od kojih neki grizu rupe da bi ukrali nektar.",
+    "culturalUses": "Vrtlari namaču listove za snažno tekuće gnojivo.",
+    "description": "Snažna, čekinjasta trajnica velikih, hrapavih, kopljastih listova koji se spuštaju niz stabljiku i savijenih grozdova ljubičastih, ružičastih ili kremastih zvonolikih cvjetova."
+  },
+  "filipendula-ulmaria": {
+    "commonName": "Brestolisna svrbenika",
+    "edible": "Slatko mirisni cvjetovi aromatiziraju sokove, medovinu i deserte.",
+    "medicinal": "Sadrži salicilate i po njoj je nazvan aspirin; tradicionalni lijek za groznicu, bol i žgaravicu.",
+    "ecologicalRole": "Biljka močvara i jaraka čiji pjenasti cvjetovi privlače muhe lebdilice i kornjaše.",
+    "culturalUses": "Sveta biljka druida i srednjovjekovno bilje za prostiranje podova.",
+    "description": "Visoka trajnica vlažnih livada, perastih listova bijelih s donje strane, i gustih pjenastih grozdova kremastobijelih cvjetova koji mirišu na bademe i med."
+  },
+  "mentha-aquatica": {
+    "commonName": "Vodena metvica",
+    "edible": "Listovi se koriste poput vrtne metvice za čajeve, umake i napitke.",
+    "medicinal": "Tradicionalno probavno sredstvo i lijek za glavobolju, poput ostalih vrsta metvice.",
+    "ecologicalRole": "Biljka uz bare čiji cvjetovi krajem ljeta privlače pčele, muhe lebdilice i leptire.",
+    "culturalUses": null,
+    "description": "Mirisna trajnica vlažnih staništa, dlakavih, nazubljenih ovalnih listova, često ljubičasto obojenih, i okruglih glavica ljubičasto-ružičastih cvjetova na vrhovima stabljika."
+  },
+  "rosa-canina": {
+    "commonName": "Pasja ruža",
+    "edible": "Šipurak je bogat vitaminom C i prerađuje se u sirup, žele i čaj; prije toga uklonite nadražujuće dlačice sjemenki.",
+    "medicinal": "Sirup od šipka davan je djeci u Britaniji tijekom rata protiv skorbuta, a i danas se koristi za zdravlje zglobova.",
+    "ecologicalRole": "Cvjetovi hrane pčele i muhe lebdilice; plodovi zimi hrane ptice i sitne sisavce, a trnovite stabljike sklanjaju gnijezda.",
+    "culturalUses": "Divlja ruža engleske heraldike i folklora.",
+    "description": "Povijeni, trnoviti grm perastih listova s pet do sedam liski, blijedoružičastih peterolatičnih cvjetova u lipnju i sjajnih crvenih ovalnih plodova u jesen."
+  },
+  "corylus-avellana": {
+    "commonName": "Lijeska",
+    "edible": "Lješnjaci su jestivi sirovi ili pečeni i sazrijevaju u rujnu, ako ih vjeverice ostave.",
+    "medicinal": null,
+    "ecologicalRole": "Orezana lijeska stvara prošaranu šumu o kojoj ovise puhovi, leptiri šarenci i proljetno cvijeće.",
+    "culturalUses": "Šibe za pletene ograde, letve za pokrivanje slamom i štapove za hodanje; rašljaste grančice za traženje vode.",
+    "description": "Grm više stabljika okruglih, mekih, dvostruko nazubljenih listova, žutih rese u veljači i oraščića u lisnatim čašicama."
+  }
+}
