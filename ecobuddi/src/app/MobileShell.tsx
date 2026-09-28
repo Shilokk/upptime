@@ -21,6 +21,8 @@ export default function MobileShell() {
   const { t } = useTranslation()
   const reduce = useReducedMotion()
   const live = useServerStatus((s) => s.live)
+  const keyMissing = useServerStatus((s) => s.keyMissing)
+  const problem = useServerStatus((s) => s.problem)
   const language = useAppStore((s) => s.settings.language)
   const demo = useDemo()
   const [langOpen, setLangOpen] = useState(false)
@@ -33,7 +35,8 @@ export default function MobileShell() {
         <div className="flex items-center justify-between gap-3">
           <Wordmark size={30} />
           <div className="flex items-center gap-2">
-            {!demo && live === false && <span className="pill pill-uncertain">{t('common.demoMode')}</span>}
+            {!demo && keyMissing && <span className="pill pill-uncertain">{t('common.demoMode')}</span>}
+            {!demo && !keyMissing && live === false && <span className="pill pill-likely" title={problem?.message}>{t('common.aiOffline')}</span>}
             {!demo && live === true && <span className="pill pill-high">{t('common.liveAi')}</span>}
             <button
               type="button"

@@ -13,6 +13,7 @@ export default function SettingsPage() {
   const resetDemo = useAppStore((s) => s.resetDemo)
   const count = useAppStore((s) => s.observations.length)
   const live = useServerStatus((s) => s.live)
+  const keyMissing = useServerStatus((s) => s.keyMissing)
   return (
     <div className="grid grid-cols-1 gap-4">
       <h2 className="text-2xl">{t('settings.title')}</h2>
@@ -27,7 +28,7 @@ export default function SettingsPage() {
       </section>
       <section className="card card-hairline p-5">
         <h3 className="text-lg">{t('settings.aiStatus')}</h3>
-        <p className="mt-1 text-sm text-muted">{live === null ? t('settings.aiChecking') : live ? t('settings.aiLive') : t('settings.aiDemo')}</p>
+        <p className="mt-1 text-sm text-muted">{live === null ? t('settings.aiChecking') : live ? t('settings.aiLive') : keyMissing ? t('settings.aiDemo') : t('settings.aiError')}</p>
         <p className="mt-3 text-sm"><strong>{t('settings.points')}:</strong> {points}</p>
       </section>
       <section className="card card-hairline p-5">

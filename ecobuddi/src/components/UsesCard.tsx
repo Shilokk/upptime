@@ -17,6 +17,8 @@ interface Props {
   silent?: boolean
   /** Seconds to wait before the card slides up, so it follows the result reveal. */
   delay?: number
+  /** Claude is still writing the uses: show placeholders instead of "not recorded". */
+  loading?: boolean
 }
 
 /** Three small bars that bounce while the card is being read aloud. */
@@ -36,7 +38,7 @@ function SpeakingBars() {
   )
 }
 
-export default function UsesCard({ uses, description, score, invasive, sensitive, language, silent, delay = 0 }: Props) {
+export default function UsesCard({ uses, description, score, invasive, sensitive, language, silent, delay = 0, loading = false }: Props) {
   const { t } = useTranslation()
   const reduce = useReducedMotion()
   const [reading, setReading] = useState(false)
@@ -70,7 +72,7 @@ export default function UsesCard({ uses, description, score, invasive, sensitive
     <motion.section className="card p-5" initial={{ y: reduce ? 0 : 28, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ duration: 0.36, ease: EASE_OUT, delay: d }}>
       <div className="flex items-start justify-between gap-3">
         <h3 className="text-xl">{t('uses.title')}</h3>
-        {(isSynthesisSupported() || silent) && (
+        {(isSynthesisSupported() || silent) && !loading && (
           <button type="button" data-demo="read-aloud" aria-pressed={reading} onClick={toggleRead} className={`btn h-10 min-h-10 flex-none px-4 text-sm ${reading ? 'btn-pressed' : 'btn-secondary'}`}>
             {reading ? (
               <SpeakingBars />
@@ -88,6 +90,13 @@ export default function UsesCard({ uses, description, score, invasive, sensitive
         </div>
       )}
       {sensitive && <p className="banner-soft mt-3 text-sm">{t('result.sensitiveNotice')}</p>}
+      {loading && (
+        <div className="mt-4" aria-live="polite">
+          <p className="text-sm font-semibold text-muted">{t('uses.loadingDetails')}…</p>
+          <div className="skeleton mt-2 h-4 w-full" />
+          <div className="skeleton mt-2 h-4 w-5/6" />
+        </div>
+      )}
       {description && (
         <motion.div className="mt-4" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.3, delay: d + 0.12 }}>
           <div className="text-sm font-semibold text-muted">{t('uses.about')}</div>
@@ -105,7 +114,9 @@ export default function UsesCard({ uses, description, score, invasive, sensitive
             transition={{ duration: 0.3, ease: EASE_OUT, delay: d + 0.18 + i * 0.05 }}
           >
             <dt className="text-sm font-semibold">{t(`uses.${key}`)}</dt>
-            {locked ? (
+            {loading && !locked ? (
+              <dd className="mt-2"><div className="skeleton h-4 w-4/5" /></dd>
+            ) : locked ? (
               <dd className="mt-1 text-sm text-muted">
                 <strong className="text-forest">{t('uses.lockedTitle')}</strong> {t('uses.lockedBody', { score })}
               </dd>

@@ -7,7 +7,7 @@ import UsesCard from '@/components/UsesCard'
 import CommunityNotes from '@/components/CommunityNotes'
 import { compressImage, assessQuality } from '@/lib/image'
 import { getPosition, regionCodeForCoords, type Position } from '@/lib/geo'
-import { identifyPlant, usesForCandidate } from '@/lib/identify'
+import { IdentifyError, identifyPlant, mockIdentify, usesForCandidate, warmUpServer } from '@/lib/identify'
 import { translateIdentification } from '@/lib/translate'
 import { bandFor } from '@/lib/confidence'
 import { deviceType, newId } from '@/lib/device'
@@ -16,12 +16,14 @@ import { matchCampaign } from '@/lib/campaigns'
 import { EASE_OUT, EASE_POP, pageVariants, rise, scrollContainerToTop } from '@/lib/motion'
 import { useAppStore } from '@/store'
 import { useDemo } from '@/demo/DemoContext'
-import type { Campaign, Identification, Organ } from '@/lib/types'
+import type { Campaign, Identification, Organ, PlantUses } from '@/lib/types'
 
 type Stage = 'idle' | 'camera' | 'preview' | 'identifying' | 'result' | 'saved'
 /** Stages that share a screen animate inside it; a new group swaps the whole screen. */
 type Group = 'idle' | 'camera' | 'photo' | 'saved'
 const ORGANS: Organ[] = ['leaf', 'flower', 'fruit', 'bark']
+const NO_USES: PlantUses = { edible: null, medicinal: null, ecologicalRole: null, pollinatorValue: null, waterNeeds: null, culturalUses: null }
+const wait = <T,>(ms: number, value: T) => new Promise<T>((r) => setTimeout(() => r(value), ms))
 
 /** Counts from 0 up to `to` inside a translated template such as "+__N__ points". */
 function CountUp({ to, template, delay = 0 }: { to: number; template: string; delay?: number }) {
@@ -86,6 +88,14 @@ export default function IdentifyPage() {
   const [showCampaign, setShowCampaign] = useState(false)
   const [translating, setTranslating] = useState(false)
   const [translationSource, setTranslationSource] = useState<'original' | 'claude' | 'library'>('original')
+  /** Names and scores are on screen; uses and description are still streaming in. */
+  const [detailsPending, setDetailsPending] = useState(false)
+  const [error, setError] = useState<{ code: string; message: string } | null>(null)
+  const [saving, setSaving] = useState(false)
+  const runRef = useRef(0)
+  const shownRef = useRef(-1)
+  const finalRef = useRef<Promise<Identification | null> | null>(null)
+  const positionRef = useRef<Promise<Position> | null>(null)
   const group: Group = stage === 'idle' ? 'idle' : stage === 'camera' ? 'camera' : stage === 'saved' ? 'saved' : 'photo'
   const variants = pageVariants(reduce)
 
@@ -123,8 +133,12 @@ export default function IdentifyPage() {
       const { dataUrl } = await compressImage(file)
       setPhoto(dataUrl)
       setResult(null)
+      setError(null)
       if (demo) setPosition(demo.position)
-      else getPosition().then(setPosition)
+      else {
+        positionRef.current ??= getPosition()
+        positionRef.current.then(setPosition)
+      }
       assessQuality(dataUrl).then((q) => setQuality(q.score)).catch(() => {})
       if (autoIdentify) {
         await runIdentify(dataUrl, demo?.position)
@@ -141,6 +155,7 @@ export default function IdentifyPage() {
       setStage('camera')
       return
     }
+    warmUpServer()
     fileRef.current?.click()
   }
 
@@ -154,37 +169,92 @@ export default function IdentifyPage() {
     await onFile(blob, true)
   }
 
+  function showResult(id: Identification, shot: string, pending: boolean, run: number) {
+    if (runRef.current !== run) return
+    setResult({ ...id, photoRef: shot })
+    setDetailsPending(pending)
+    if (shownRef.current !== run) {
+      shownRef.current = run
+      setTranslationSource('original')
+      setChosenId(id.candidates[0].id)
+      setStage('result')
+    }
+  }
+
+  function hintFor(pos: Position | null, shot: string) {
+    // Never send the stand-in demo location as a hint: it would bias Claude toward the wrong flora.
+    const real = pos && !pos.simulated ? pos : null
+    return { photo: shot, organ, lat: real?.lat ?? null, lng: real?.lng ?? null, language, region: real ? regionCodeForCoords(real.lat, real.lng) : 'OTHER' }
+  }
+
   async function runIdentify(photoArg?: string, positionArg?: Position) {
     const shot = photoArg ?? photo
     if (!shot) return
+    const run = ++runRef.current
+    setError(null)
     setStage('identifying')
-    const pos = positionArg ?? position ?? (demo ? demo.position : await getPosition())
-    setPosition(pos)
-    const id = demo ? await demo.identify() : await identifyPlant({ photo: shot, organ, lat: pos.lat, lng: pos.lng, language, region: regionCodeForCoords(pos.lat, pos.lng) })
-    setResult({ ...id, photoRef: shot })
-    setTranslationSource('original')
-    setChosenId(id.candidates[0].id)
-    setStage('result')
+    if (demo) {
+      setPosition(positionArg ?? demo.position)
+      showResult(await demo.identify(), shot, false, run)
+      return
+    }
+    // Location is only a hint, so the photo goes out after at most 0.6 s even if GPS is still searching.
+    positionRef.current ??= getPosition()
+    const pos = positionArg ?? position ?? (await Promise.race([positionRef.current, wait<Position | null>(600, null)]))
+    const final = identifyPlant(hintFor(pos, shot), { onPartial: (p) => showResult(p, shot, true, run) })
+    finalRef.current = final.catch(() => null)
+    try {
+      showResult(await final, shot, false, run)
+    } catch (err) {
+      if (runRef.current !== run) return
+      if (shownRef.current === run) {
+        setDetailsPending(false)
+        return
+      }
+      const e = err instanceof IdentifyError ? err : new IdentifyError('server', String(err))
+      console.error('[identify]', e.code, e.message)
+      setError({ code: e.code, message: e.message })
+      setStage('preview')
+    }
   }
 
-  function save() {
-    if (!photo || !result || !position) return
-    const chosen = result.candidates.find((c) => c.id === chosenId) ?? result.candidates[0]
-    const info = usesForCandidate(chosen, result, language)
+  /** Explicit choice after an error: the bundled identifier, clearly labelled as such on the result. */
+  function runOffline() {
+    if (!photo) return
+    const run = ++runRef.current
+    setError(null)
+    showResult(mockIdentify(hintFor(position, photo)), photo, false, run)
+  }
+
+  async function save() {
+    if (!photo || !result || saving) return
+    let current = result
+    let pos = position
+    if ((detailsPending && finalRef.current) || !pos) {
+      setSaving(true)
+      if (detailsPending && finalRef.current) {
+        const done = await Promise.race([finalRef.current, wait<Identification | null>(12_000, null)])
+        if (done) current = { ...done, photoRef: photo }
+      }
+      pos ??= await (positionRef.current ?? getPosition())
+      setSaving(false)
+    }
+    const chosen = current.candidates.find((c) => c.id === chosenId) ?? current.candidates[0]
+    const info = usesForCandidate(chosen, current, language)
     const now = new Date()
     const id = newId()
-    const campaign = matchCampaign(campaigns, { scientificName: chosen.scientificName, lat: position.lat, lng: position.lng, timestamp: now.toISOString() })
+    const campaign = matchCampaign(campaigns, { scientificName: chosen.scientificName, lat: pos.lat, lng: pos.lng, timestamp: now.toISOString() })
     addObservation({
       id,
       photo,
-      candidates: result.candidates,
+      candidates: current.candidates,
       chosenCandidateId: chosen.id,
       confidence: chosen.confidence,
       qualityScore: quality,
-      lat: position.lat,
-      lng: position.lng,
-      accuracyM: position.accuracyM,
-      altitudeM: position.altitudeM,
+      lat: pos.lat,
+      lng: pos.lng,
+      accuracyM: pos.accuracyM,
+      altitudeM: pos.altitudeM,
       timestamp: now.toISOString(),
       timeBand: timeBandFor(now),
       habitatNotes: notes,
@@ -194,15 +264,15 @@ export default function IdentifyPage() {
       language,
       verification: 'unverified',
       campaignId: campaign?.id ?? null,
-      sensitive: result.sensitive || !!info.species?.sensitive,
-      invasive: result.invasiveInRegion,
+      sensitive: current.sensitive || !!info.species?.sensitive,
+      invasive: current.invasiveInRegion,
       uses: info.uses,
       description: info.description,
       observerId: 'me',
       speciesId: info.species?.id ?? null,
       correctedScientificName: null,
       pointsAwarded: campaign?.bountyPoints ?? 0,
-      source: result.source,
+      source: current.source,
     })
     if (campaign) addPoints(campaign.bountyPoints)
     demo?.onObservationSaved?.(id)
@@ -210,13 +280,17 @@ export default function IdentifyPage() {
     setShowCampaign(false)
     setToast({
       title: t('result.savedToast'),
-      detail: `${position.lat.toFixed(4)}, ${position.lng.toFixed(4)} · ±${position.accuracyM} ${t('common.m')} · ${t(`timeBands.${timeBandFor(now)}`)}`,
+      detail: `${pos.lat.toFixed(4)}, ${pos.lng.toFixed(4)} · ±${pos.accuracyM} ${t('common.m')} · ${t(`timeBands.${timeBandFor(now)}`)}`,
     })
     setStage('saved')
     if (campaign) setTimeout(() => setShowCampaign(true), 1200)
   }
 
   function reset() {
+    runRef.current++
+    positionRef.current = null
+    setError(null)
+    setDetailsPending(false)
     setStage('idle')
     setPhoto(null)
     setResult(null)
@@ -226,7 +300,9 @@ export default function IdentifyPage() {
   }
 
   const chosen = result?.candidates.find((c) => c.id === chosenId) ?? result?.candidates[0]
-  const info = result && chosen ? usesForCandidate(chosen, result, language) : null
+  // While the top match's uses are still streaming, show placeholders rather than "not recorded".
+  const usesLoading = detailsPending && !!chosen && chosen.id === result?.candidates[0]?.id
+  const info = result && chosen ? (usesLoading ? { uses: NO_USES, description: '', species: null, fromLibrary: false } : usesForCandidate(chosen, result, language)) : null
 
   return (
     <div ref={rootRef}>
@@ -286,8 +362,17 @@ export default function IdentifyPage() {
                         <p className="mt-3 text-sm text-muted">
                           {position ? (position.simulated ? t('identify.locationSimulated') : t('identify.locationAccurate', { m: position.accuracyM })) : t('identify.locating')}
                         </p>
+                        {error && (
+                          <div role="alert" className="banner-safety mt-3 text-sm">
+                            <strong className="block">{t('identify.errorTitle')}</strong>
+                            <p className="mt-1">{t(`identify.errors.${error.code}`, { defaultValue: t('identify.errors.server') })}</p>
+                            {error.message && <p className="mt-1 break-words text-[13px] opacity-80">{error.message}</p>}
+                            <p className="mt-1 text-[13px] opacity-80">{t('identify.errorHelp')}</p>
+                            <button type="button" className="mt-2 font-semibold underline underline-offset-2" onClick={runOffline}>{t('identify.errorOffline')}</button>
+                          </div>
+                        )}
                         <div className="mt-3 flex gap-2">
-                          <button type="button" data-demo="identify" className="btn btn-primary flex-1" onClick={() => runIdentify()}>{t('identify.identifyButton')}</button>
+                          <button type="button" data-demo="identify" className="btn btn-primary flex-1" onClick={() => runIdentify()}>{error ? t('identify.errorRetry') : t('identify.identifyButton')}</button>
                           <button type="button" className="btn btn-secondary" onClick={reset}>{t('identify.retake')}</button>
                         </div>
                       </div>
@@ -350,14 +435,14 @@ export default function IdentifyPage() {
                         ))}
                       </div>
                     </motion.section>
-                    <UsesCard uses={info.uses} description={info.description} score={chosen.confidence} invasive={result.invasiveInRegion} sensitive={result.sensitive || !!info.species?.sensitive} language={language} silent={demo?.silent} delay={0.7} />
+                    <UsesCard uses={info.uses} description={info.description} score={chosen.confidence} invasive={result.invasiveInRegion} sensitive={result.sensitive || !!info.species?.sensitive} language={language} silent={demo?.silent} delay={0.7} loading={usesLoading} />
                     <motion.div {...rise(0.85, reduce)}>
                       <CommunityNotes scientificName={chosen.scientificName} commonName={chosen.commonName} />
                     </motion.div>
                     <motion.section className="card p-5" {...rise(0.9, reduce)}>
                       <label className="text-sm font-semibold" htmlFor="notes">{t('result.habitatNotes')}</label>
                       <textarea id="notes" value={notes} onChange={(e) => setNotes(e.target.value)} placeholder={t('result.habitatPlaceholder')} className="mt-2 w-full rounded-2xl border-2 border-line bg-cream p-3 text-forest placeholder:text-muted" rows={2} />
-                      <button type="button" data-demo="save" className="btn btn-primary mt-3 w-full" onClick={save}>{t('result.saveObservation')}</button>
+                      <button type="button" data-demo="save" className="btn btn-primary mt-3 w-full" onClick={save} disabled={saving} aria-busy={saving}>{saving ? `${t('result.finishing')}…` : t('result.saveObservation')}</button>
                     </motion.section>
                   </motion.div>
                 )}

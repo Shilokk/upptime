@@ -9,57 +9,61 @@ import { SPECIES, findSpeciesByName, speciesText, usesFromSpecies, isInvasiveIn 
 export interface IdentifyInput {
   photo: string
   organ: Organ
-  lat: number
-  lng: number
+  /** Null when the real position is not known yet; the server then says "location unknown" instead of guessing. */
+  lat: number | null
+  lng: number | null
   language: Lang
   region: string
 }
 
 interface ServerState {
+  /** True when Claude answered the last check, false when it did not or there is no key, null until known. */
   live: boolean | null
+  /** The server has no ANTHROPIC_API_KEY, so the bundled demo identifier is the intended behaviour. */
+  keyMissing: boolean
+  problem: { code: string; message: string } | null
   checkedAt: number
   setLive: (live: boolean) => void
+  setStatus: (s: Partial<Pick<ServerState, 'live' | 'keyMissing' | 'problem'>>) => void
 }
 
-/** Whether the Express server has an Anthropic key. `null` until the warm-up answers. */
 export const useServerStatus = create<ServerState>((set) => ({
   live: null,
+  keyMissing: false,
+  problem: null,
   checkedAt: 0,
-  setLive: (live) => set({ live, checkedAt: Date.now() }),
+  setLive: (live) => set({ live, checkedAt: Date.now(), ...(live ? { problem: null, keyMissing: false } : {}) }),
+  setStatus: (s) => set({ ...s, checkedAt: Date.now() }),
 }))
 
-/** Lightweight warm-up so the first on-stage identification is not the slow one. */
-export async function warmUpServer(): Promise<boolean> {
-  try {
-    const ctrl = new AbortController()
-    const t = setTimeout(() => ctrl.abort(), 12_000)
-    const res = await fetch('/api/warmup', { method: 'POST', signal: ctrl.signal })
-    clearTimeout(t)
-    if (!res.ok) throw new Error(String(res.status))
-    const data = (await res.json()) as { live?: boolean }
-    useServerStatus.getState().setLive(!!data.live)
-    return !!data.live
-  } catch {
-    useServerStatus.getState().setLive(false)
-    return false
+/** An identification that failed for a reason worth showing. `code` maps to identify.errors.<code>. */
+export class IdentifyError extends Error {
+  code: string
+  constructor(code: string, message: string) {
+    super(message)
+    this.code = code
   }
 }
 
-async function postJson<T>(url: string, body: unknown, timeoutMs = API_TIMEOUT_MS): Promise<T> {
+/** Warms the server's connection to Claude and learns whether it is answering. Safe to call often. */
+export async function warmUpServer(): Promise<boolean> {
   const ctrl = new AbortController()
-  const t = setTimeout(() => ctrl.abort(), timeoutMs)
+  const t = setTimeout(() => ctrl.abort(), 15_000)
   try {
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: { 'content-type': 'application/json' },
-      body: JSON.stringify(body),
-      signal: ctrl.signal,
+    const res = await fetch('/api/warmup', { method: 'POST', signal: ctrl.signal })
+    if (!res.ok) throw new Error(String(res.status))
+    const data = (await res.json()) as { live?: boolean; keyMissing?: boolean; claudeOk?: boolean | null; problem?: string | null; message?: string | null }
+    const ok = !!data.live && data.claudeOk !== false
+    useServerStatus.getState().setStatus({
+      live: ok,
+      keyMissing: !!data.keyMissing,
+      problem: !ok && data.problem ? { code: data.problem, message: data.message ?? '' } : null,
     })
-    if (!res.ok) {
-      const text = await res.text().catch(() => '')
-      throw new Error(`${res.status} ${text.slice(0, 200)}`)
-    }
-    return (await res.json()) as T
+    return ok
+  } catch {
+    // Server unreachable. Do not decide anything yet: the scan itself will report a clear error.
+    useServerStatus.getState().setStatus({ live: null, problem: { code: 'network', message: 'Could not reach the EcoBuddi server.' } })
+    return false
   } finally {
     clearTimeout(t)
   }
@@ -103,31 +107,101 @@ function coerceIdentification(raw: unknown, language: Lang): Identification | nu
   }
 }
 
-/** Identify via the server (Claude). Falls back to the bundled mock identifier on any failure. */
-export async function identifyPlant(input: IdentifyInput): Promise<Identification> {
-  const status = useServerStatus.getState()
-  if (status.live === false && Date.now() - status.checkedAt < 60_000) {
-    return mockIdentify(input)
-  }
+/**
+ * Identify via the server (Claude), streaming. `onPartial` fires as soon as the names and scores are in,
+ * a few seconds before the uses and description. Only when the server has no API key does this use the
+ * bundled demo identifier; any other failure throws an IdentifyError so the app never shows a made-up answer.
+ */
+export async function identifyPlant(input: IdentifyInput, opts: { onPartial?: (id: Identification) => void } = {}): Promise<Identification> {
+  if (useServerStatus.getState().keyMissing) return mockIdentify(input)
+  const { mediaType, data } = splitDataUrl(input.photo)
+  const ctrl = new AbortController()
+  const timer = setTimeout(() => ctrl.abort(), API_TIMEOUT_MS)
+  // Held in an object so TypeScript sees updates made inside the line handler.
+  const got: { partial: Identification | null } = { partial: null }
   try {
-    const { mediaType, data } = splitDataUrl(input.photo)
-    const res = await postJson<{ result: unknown }>('/api/identify', {
-      image: data,
-      mediaType,
-      organ: input.organ,
-      lat: input.lat,
-      lng: input.lng,
-      language: input.language,
-      region: input.region,
-    })
-    const parsed = coerceIdentification(res.result, input.language)
-    if (!parsed) throw new Error('unparseable identification')
-    useServerStatus.getState().setLive(true)
-    return padCandidates(parsed, input)
-  } catch (err) {
-    console.warn('[identify] falling back to demo identifier:', err)
-    return mockIdentify(input)
+    let res: Response
+    try {
+      res = await fetch('/api/identify?stream=1', {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ image: data, mediaType, organ: input.organ, lat: input.lat, lng: input.lng, language: input.language, region: input.region }),
+        signal: ctrl.signal,
+      })
+    } catch {
+      throw new IdentifyError(ctrl.signal.aborted ? 'timeout' : 'network', 'The phone could not reach the server.')
+    }
+    if (!res.ok) {
+      const body = (await res.json().catch(() => ({}))) as { error?: string; message?: string }
+      if (res.status === 503 && body.error === 'no_api_key') {
+        useServerStatus.getState().setStatus({ live: false, keyMissing: true, problem: null })
+        return mockIdentify(input)
+      }
+      // A tunnel with nothing behind it answers 502/504 with an HTML page, not our JSON.
+      throw new IdentifyError(body.error ?? 'network', body.message ?? `The server answered ${res.status}.`)
+    }
+    const handle = (line: string): Identification | null => {
+      const event = JSON.parse(line) as { type: string; result?: unknown; error?: string; message?: string }
+      if (event.type === 'error') throw new IdentifyError(event.error ?? 'server', event.message ?? 'Identification failed.')
+      if (event.type === 'partial' || event.type === 'final') {
+        const parsed = coerceIdentification(event.result, input.language)
+        if (!parsed) return null
+        const id = padCandidates(parsed, input)
+        if (event.type === 'final') return id
+        got.partial = id
+        opts.onPartial?.(id)
+      }
+      return null
+    }
+    if (!res.body) {
+      // No streaming support: read it all, then take the last complete event.
+      for (const line of (await res.text()).split('\n').filter(Boolean)) {
+        const done = handle(line)
+        if (done) return finish(done)
+      }
+    } else {
+      const reader = res.body.getReader()
+      const decoder = new TextDecoder()
+      let buffer = ''
+      for (;;) {
+        let chunk: ReadableStreamReadResult<Uint8Array>
+        try {
+          chunk = await reader.read()
+        } catch {
+          break
+        }
+        if (chunk.done) break
+        buffer += decoder.decode(chunk.value, { stream: true })
+        let nl: number
+        while ((nl = buffer.indexOf('\n')) >= 0) {
+          const line = buffer.slice(0, nl).trim()
+          buffer = buffer.slice(nl + 1)
+          if (!line) continue
+          const done = handle(line)
+          if (done) return finish(done)
+        }
+      }
+      if (buffer.trim()) {
+        const done = handle(buffer.trim())
+        if (done) return finish(done)
+      }
+    }
+    if (got.partial) return finish(got.partial)
+    throw new IdentifyError(ctrl.signal.aborted ? 'timeout' : 'network', 'The connection closed before Claude finished.')
+  } finally {
+    clearTimeout(timer)
   }
+}
+
+function finish(id: Identification): Identification {
+  useServerStatus.getState().setLive(true)
+  return id
+}
+
+/** Uses to show while Claude is still writing them: the library entry when there is one, otherwise nothing yet. */
+export function usesWhilePending(candidate: Candidate, language: Lang): { uses: PlantUses; description: string; species: Species | null; fromLibrary: boolean } | null {
+  const species = findSpeciesByName(candidate.scientificName)
+  return species ? { uses: usesFromSpecies(species, language), description: speciesText(species, language).description, species, fromLibrary: true } : null
 }
 
 /** Make sure there are always three candidates for the UI. */
