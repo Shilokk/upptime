@@ -47,6 +47,8 @@ function RouterBridge({ navRef }: { navRef: React.MutableRefObject<((to: string)
 export default function DemoPage() {
   const params = useMemo(() => new URLSearchParams(window.location.search), [])
   const clean = params.get('clean') === '1'
+  // ?nolang=1 keeps the walkthrough in the current language and skips the Español step
+  const skipLanguage = params.get('nolang') === '1'
   const screenRef = useRef<HTMLDivElement>(null)
   const scrollerRef = useRef<HTMLDivElement>(null)
   const navRef = useRef<((to: string) => void) | null>(null)
@@ -247,14 +249,16 @@ export default function DemoPage() {
       await tap('identify') // 3. skeleton 1.2 s inside the demo identify hook
       await waitFor('result')
       await sleep(2000) // 4. ring, fade-in, slide-up
-      await tap('lang-pill') // 5. Español, then let every language pass across once
-      await sleep(400)
-      await tap('lang-es')
-      await sleep(1200)
-      await sweepLanguages(4200)
-      await sleep(600)
-      await tap('lang-pill')
-      await sleep(600)
+      if (!skipLanguage) {
+        await tap('lang-pill') // 5. Español, then let every language pass across once
+        await sleep(400)
+        await tap('lang-es')
+        await sleep(1200)
+        await sweepLanguages(4200)
+        await sleep(600)
+        await tap('lang-pill')
+        await sleep(600)
+      }
       await tap('read-aloud') // 6. pressed state only
       await scrollTo('safety-banner', 120)
       await sleep(1500)
@@ -284,7 +288,7 @@ export default function DemoPage() {
     return () => {
       ctl.cancelled = true
     }
-  }, [runId, cleanup])
+  }, [runId, cleanup, skipLanguage])
 
   return (
     <div className="leaf-pattern flex min-h-dvh items-center justify-center overflow-hidden p-3">

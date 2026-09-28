@@ -67,7 +67,7 @@ Every external call has a fallback so the demo never dies on stage:
 
 `http://localhost:5173/demo` renders the real user app inside a phone frame and plays a looping, scripted walkthrough: home, camera and shutter, skeleton, the 92% result, switching to Español, Read aloud and the safety banner, Save with the toast, the campaign card with +25 points, then My Records. A finger indicator moves between tap targets and fires the same handlers a user would. No network calls: the viewfinder photo, the identification, and the campaigns all come from bundled data, and anything it saves is removed at the end of each loop.
 
-Keys: Space pauses, R restarts, F goes full screen with the phone scaled to the viewport. The hint hides after 3 s. `http://localhost:5173/demo?clean=1` hides the hint entirely and scales the phone to the viewport height for screen recording. A pre-rendered `demo/ecobuddi-demo.mp4` (1080x1920) is in the repo.
+Keys: Space pauses, R restarts, F goes full screen with the phone scaled to the viewport. The hint hides after 3 s. `http://localhost:5173/demo?clean=1` hides the hint entirely and scales the phone to the viewport height for screen recording. Add `&nolang=1` to keep the whole walkthrough in one language and skip the Español step. A pre-rendered `demo/ecobuddi-demo.mp4` (1080x1920, English, recorded from `/demo?clean=1&nolang=1`) is in the repo.
 
 ## What is in, what was cut for the 12-minute build
 
