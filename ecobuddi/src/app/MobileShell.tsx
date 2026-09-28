@@ -64,7 +64,7 @@ export default function MobileShell() {
               to={tab.to}
               end
               data-demo={`tab-${tab.key}`}
-              className={({ isActive }) => `tap flex flex-1 flex-col items-center gap-0.5 py-2 text-[12.5px] ${isActive ? 'font-bold text-forest' : 'font-medium text-muted'}`}
+              className={({ isActive }) => `tap flex min-w-0 flex-1 flex-col items-center gap-0.5 px-1 py-2 text-[12px] leading-tight tracking-tight ${isActive ? 'font-bold text-forest' : 'font-medium text-muted'}`}
             >
               {({ isActive }) => (
                 <>
@@ -72,7 +72,7 @@ export default function MobileShell() {
                     {isActive && <path d={tab.icon} stroke="var(--forest)" strokeWidth="4.2" />}
                     <path d={tab.icon} stroke={isActive ? 'var(--brand)' : 'currentColor'} strokeWidth={isActive ? 2.2 : 1.8} />
                   </svg>
-                  {t(`tabs.${tab.key}`)}
+                  <span className="max-w-full truncate">{t(`tabs.${tab.key}`)}</span>
                 </>
               )}
             </NavLink>
