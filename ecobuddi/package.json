@@ -11,6 +11,8 @@
     "build": "tsc -b && vite build",
     "start": "NODE_ENV=production tsx server/index.ts",
     "preview": "vite preview",
+    "phone": "npm run build && npm start",
+    "tunnel": "npx --yes localtunnel --port 8787",
     "typecheck": "tsc -b",
     "lint": "oxlint src server",
     "check": "npm run lint && npm run typecheck",

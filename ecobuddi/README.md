@@ -17,6 +17,33 @@ Other scripts: `npm run build` (typecheck + production bundle), `npm start` (ser
 
 `ANTHROPIC_API_KEY` is read only by `server/index.ts`. It exposes `POST /api/identify`, `POST /api/chat`, `POST /api/warmup`, and `GET /api/health`.
 
+## Presenting on a phone (live scan)
+
+The phone only needs a URL; the API key stays on the laptop. Three ways, most reliable first.
+
+**1. Public tunnel (works on venue Wi-Fi or mobile data).** On the laptop:
+
+```bash
+cd ecobuddi
+cp .env.example .env         # put ANTHROPIC_API_KEY=sk-ant-... in it for live Claude
+npm run phone                # builds the app and serves it with the API on http://localhost:8787
+```
+
+Then in a second terminal, one of:
+
+```bash
+cloudflared tunnel --url http://localhost:8787   # brew install cloudflared; prints an https://....trycloudflare.com URL
+npm run tunnel                                   # or localtunnel: prints an https://....loca.lt URL (first visit asks for the laptop's public IP as a password; get it from https://loca.lt/mytunnelpassword)
+```
+
+Open the printed https URL on the phone. HTTPS is what lets the phone give the app its GPS position; the camera works either way.
+
+**2. Same Wi-Fi, no tunnel.** Run `npm run dev:https` and open `https://<laptop-ip>:5173` on the phone (the laptop's IP is printed as "Network" when Vite starts). The certificate is self-signed, so tap through the browser's warning once. Some venue networks block phone-to-laptop traffic, so test this before the pitch.
+
+**3. Plain http on the LAN.** `npm run dev` and open `http://<laptop-ip>:5173`. The camera still works, but browsers refuse GPS on http, so records land on the demo location.
+
+On the phone: tap **Take a photo** (opens the camera directly), pick the organ, tap **Identify plant**. Leave the app open for a few seconds before the pitch: it warms the server so the first identification is not the slow one. If the key is missing or the network drops, the header shows "Demo mode" and the bundled identifier answers, so the flow never dies on stage.
+
 ## Demo mode
 
 Every external call has a fallback so the demo never dies on stage:

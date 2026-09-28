@@ -20,6 +20,8 @@ export default defineConfig({
   server: {
     host: true,
     port: 5173,
+    // dev server is reachable from phones on the LAN and through tunnels (cloudflared, localtunnel, ngrok)
+    allowedHosts: true,
     proxy: {
       '/api': { target: 'http://localhost:8787', changeOrigin: true },
     },
