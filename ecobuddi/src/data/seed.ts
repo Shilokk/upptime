@@ -52,6 +52,18 @@ function seedCampaigns(offsetLat: number, offsetLng: number, now: number): Campa
       color: '#33d24a',
     },
     {
+      id: 'camp_houseplants',
+      title: 'Houseplant health census',
+      description: 'City Nature Lab survey of common indoor plants: which species people keep, and which show pests or stress.',
+      targetSpecies: ["Aglaonema commutatum 'Silver Bay'", 'Aglaonema commutatum', 'Dieffenbachia seguine', 'Spathiphyllum wallisii'],
+      region: { type: 'radius', center: { lat: DEMO_LOCATION.lat, lng: DEMO_LOCATION.lng }, radiusM: 9000 },
+      startDate: iso(now - 10 * day),
+      endDate: iso(now + 50 * day),
+      bountyPoints: 25,
+      createdBy: 'City Nature Lab',
+      color: '#33d24a',
+    },
+    {
       id: 'camp_oaks',
       title: 'Veteran oaks of Hyde Park',
       description: 'Ancient Tree Inventory: photograph mature oaks and beeches with a bark shot where possible.',
