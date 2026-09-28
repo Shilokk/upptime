@@ -1,4 +1,62 @@
 {
+ "ar": {
+  "commonName": "دائم الخضرة الصيني 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "نبات منزلي مدمج ذو أوراق عريضة لامعة بيضاوية الشكل، مرقّطة باللونين الفضي والأخضر فوق حافة خضراء داكنة، ترتفع على سيقان قصيرة من تاج مركزي. موطنه الأصلي أرضية الغابات المطيرة في الفلبين وسولاويزي.",
+  "reasoning": "الأوراق العريضة البيضاوية ذات البقعة الفضية المركزية والحواف الداكنة تتطابق بشكل كبير مع Aglaonema 'Silver Bay'.",
+  "uses": {
+   "edible": "غير صالحة للأكل. تحتوي كل أجزائها على بلورات أكسالات الكالسيوم التي تحرق الفم والحلق. أبعدها عن متناول الأطفال والقطط والكلاب.",
+   "medicinal": "لا يوجد استخدام تقليدي آمن. تهيّج عصارتها الجلد والعينين، لذا اغسل يديك بعد إعادة زراعتها في أصيص جديد.",
+   "ecologicalRole": "نبات محب للظل ينمو في الطبقة السفلى من غابات جنوب شرق آسيا المطيرة. في الداخل يتحمّل الإضاءة المنخفضة، وغالبًا ما يكون أول نبات منزلي يقتنيه الناس.",
+   "pollinatorValue": "منخفضة. نادرًا ما تُزهر في الداخل، وأغلفتها الزهرية البيضاء الصغيرة تجذب عددًا قليلاً من الحشرات.",
+   "waterNeeds": "معتدلة. اترك سطح التربة يجف بين مرات الري، وحافظ على درجة حرارة أعلى من 15 °C.",
+   "culturalUses": "يُقدَّر في المنازل الصينية ومنازل جنوب شرق آسيا كنبات يجلب الحظ الجيد. 'Silver Bay' صنف حديث استُنبت لأوراقه الفضية العريضة."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "نبات الأخرس",
+    "reasoning": "تنوّع لوني مشابه، لكن أوراق نبات الأخرس أكبر وأكثر استطالة على ساق سميكة تشبه القصبة."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "زنبق السلام",
+    "reasoning": "تشترك في الأوراق الداكنة اللامعة، لكن أوراق زنبق السلام خضراء بالكامل من دون أي بقع فضية."
+   }
+  ]
+ },
+ "bn": {
+  "commonName": "চাইনিজ এভারগ্রিন 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "একটি ছোট আকারের ঘরোয়া গাছ, যার চওড়া, চকচকে, উপবৃত্তাকার পাতায় গাঢ় সবুজ প্রান্তের ওপর রূপালি-সবুজ ছোপ ছোপ দাগ, যা কেন্দ্রীয় মুকুট থেকে ছোট কাণ্ডে ওঠে। ফিলিপাইন ও সুলাওয়েসির রেইনফরেস্ট মেঝের আদি বাসিন্দা।",
+  "reasoning": "রূপালি কেন্দ্রীয় ছোপ ও গাঢ় প্রান্তযুক্ত চওড়া উপবৃত্তাকার পাতা Aglaonema 'Silver Bay'-এর সাথে দৃঢ়ভাবে মেলে।",
+  "uses": {
+   "edible": "ভোজ্য নয়। এর প্রতিটি অংশে ক্যালসিয়াম অক্সালেট স্ফটিক থাকে যা মুখ ও গলা জ্বালাপোড়া করে। শিশু, বিড়াল ও কুকুর থেকে দূরে রাখুন।",
+   "medicinal": "কোনো নিরাপদ ঐতিহ্যগত ব্যবহার নেই। এর রস ত্বক ও চোখে জ্বালা সৃষ্টি করে, তাই টব বদলানোর পর হাত ধুয়ে নিন।",
+   "ecologicalRole": "দক্ষিণ-পূর্ব এশিয়ার রেইনফরেস্টের একটি ছায়াপ্রিয় নিম্নস্তরের উদ্ভিদ। ঘরের ভেতরে এটি কম আলো সহ্য করে এবং সাধারণত প্রথম ঘরোয়া গাছ হিসেবে জনপ্রিয়।",
+   "pollinatorValue": "কম। ঘরের ভেতরে এটি খুব কম ফুল দেয়, আর এর ছোট সাদা স্প্যাথ সামান্যই পোকামাকড় আকর্ষণ করে।",
+   "waterNeeds": "মাঝারি। পানি দেওয়ার মাঝে মাটির উপরিভাগ শুকাতে দিন এবং তাপমাত্রা 15 °C-এর ওপরে রাখুন।",
+   "culturalUses": "সৌভাগ্য বহনকারী হিসেবে চীনা ও দক্ষিণ-পূর্ব এশীয় ঘরে সমাদৃত। 'Silver Bay' এর চওড়া রূপালি পাতার জন্য প্রজনন করা একটি আধুনিক জাত।"
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "ডাম্ব কেন",
+    "reasoning": "একই রকম বর্ণবিন্যাস, তবে ডাম্ব কেনের পাতা বড় ও বেশি দীর্ঘায়ত, পুরু বাঁশ-সদৃশ কাণ্ডে ধরে থাকে।"
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "পিস লিলি",
+    "reasoning": "একই রকম চকচকে গাঢ় পাতা থাকে, তবে পিস লিলির পাতা পুরোপুরি সবুজ, কোনো রূপালি দাগ ছাড়াই।"
+   }
+  ]
+ },
  "en": {
   "commonName": "Chinese evergreen 'Silver Bay'",
   "scientificName": "Aglaonema commutatum 'Silver Bay'",
@@ -25,6 +83,528 @@
     "family": "Araceae",
     "commonName": "Peace lily",
     "reasoning": "Shares the glossy dark leaf, but peace lily leaves are plain green with no silver marking."
+   }
+  ]
+ },
+ "es": {
+  "commonName": "Aglaonema 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Una planta de interior compacta con hojas anchas, brillantes y elípticas, salpicadas de verde plateado sobre un margen verde oscuro, que se alzan sobre tallos cortos desde una corona central. Originaria del sotobosque de la selva tropical de Filipinas y Sulawesi.",
+  "reasoning": "Las hojas anchas y elípticas con una mancha plateada central y márgenes oscuros coinciden estrechamente con Aglaonema 'Silver Bay'.",
+  "uses": {
+   "edible": "No es comestible. Todas sus partes contienen cristales de oxalato de calcio que queman la boca y la garganta. Manténgala fuera del alcance de niños, gatos y perros.",
+   "medicinal": "No tiene un uso tradicional seguro. La savia irrita la piel y los ojos, así que lávate las manos después de trasplantarla.",
+   "ecologicalRole": "Una planta de sotobosque amante de la sombra propia de las selvas tropicales del sudeste asiático. En interiores tolera la poca luz y suele ser la primera planta de interior de muchas personas.",
+   "pollinatorValue": "Bajo. Rara vez florece en interiores, y sus pequeñas espatas blancas atraen a pocos insectos.",
+   "waterNeeds": "Moderado. Deja que la superficie de la tierra se seque entre riegos y mantenla por encima de 15 °C.",
+   "culturalUses": "Apreciada en los hogares chinos y del sudeste asiático como portadora de buena fortuna. 'Silver Bay' es un cultivar moderno criado por sus anchas hojas plateadas."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "Caña muda",
+    "reasoning": "Variegación similar, pero las hojas de la caña muda son más grandes y alargadas sobre un tallo grueso parecido a una caña."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "Lirio de la paz",
+    "reasoning": "Comparte la hoja oscura y brillante, pero las hojas del lirio de la paz son de un verde uniforme, sin marcas plateadas."
+   }
+  ]
+ },
+ "fr": {
+  "commonName": "Aglaonema 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Une plante d'intérieur compacte aux larges feuilles elliptiques et brillantes, marbrées de vert argenté sur une bordure vert foncé, portées par de courtes tiges partant d'une couronne centrale. Originaire du sol de la forêt tropicale des Philippines et de Sulawesi.",
+  "reasoning": "Les larges feuilles elliptiques avec une tache argentée centrale et des bordures sombres correspondent étroitement à l'Aglaonema 'Silver Bay'.",
+  "uses": {
+   "edible": "Non comestible. Toutes les parties contiennent des cristaux d'oxalate de calcium qui brûlent la bouche et la gorge. Tenez-la hors de portée des enfants, des chats et des chiens.",
+   "medicinal": "Aucun usage traditionnel sûr. La sève irrite la peau et les yeux ; lavez-vous les mains après un rempotage.",
+   "ecologicalRole": "Une plante de sous-bois amatrice d'ombre, originaire des forêts tropicales d'Asie du Sud-Est. En intérieur, elle tolère la faible luminosité et constitue souvent la première plante d'intérieur de beaucoup de gens.",
+   "pollinatorValue": "Faible. Elle fleurit rarement en intérieur, et ses petites spathes blanches attirent peu d'insectes.",
+   "waterNeeds": "Modérés. Laissez sécher le dessus du terreau entre les arrosages et maintenez une température supérieure à 15 °C.",
+   "culturalUses": "Appréciée dans les foyers chinois et d'Asie du Sud-Est comme porte-bonheur. 'Silver Bay' est un cultivar moderne sélectionné pour ses larges feuilles argentées."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "Canne des muets",
+    "reasoning": "Bigarrure similaire, mais les feuilles de la canne des muets sont plus grandes et plus oblongues sur une tige épaisse ressemblant à une canne."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "Lys de la paix",
+    "reasoning": "Partage le feuillage sombre et brillant, mais les feuilles du lys de la paix sont d'un vert uni, sans marque argentée."
+   }
+  ]
+ },
+ "hi": {
+  "commonName": "एग्लाओनिमा 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "एक सुगठित गमले वाला पौधा जिसकी चौड़ी, चमकदार, अंडाकार पत्तियों पर गहरे हरे किनारे के भीतर चांदी-हरे रंग के छींटे होते हैं, जो एक केंद्रीय मुकुट से निकलने वाले छोटे तनों पर उगती हैं। यह फ़िलीपींस और सुलावेसी के वर्षावन तल का मूल निवासी है।",
+  "reasoning": "चौड़ी अंडाकार पत्तियाँ, केंद्र में चांदी जैसा छींटा और गहरे किनारे, Aglaonema 'Silver Bay' से क़रीबी मेल खाते हैं।",
+  "uses": {
+   "edible": "खाने योग्य नहीं। इसके हर हिस्से में कैल्शियम ऑक्सालेट के क्रिस्टल होते हैं जो मुँह और गले में जलन पैदा करते हैं। इसे बच्चों, बिल्लियों और कुत्तों की पहुँच से दूर रखें।",
+   "medicinal": "कोई सुरक्षित पारंपरिक उपयोग नहीं है। इसका रस त्वचा और आँखों में जलन पैदा करता है, इसलिए दोबारा गमले में लगाने के बाद हाथ धो लें।",
+   "ecologicalRole": "दक्षिण-पूर्व एशिया के वर्षावनों की छाया-प्रिय भूमिगत परत का पौधा। घर के अंदर यह कम रोशनी सहन करता है और अक्सर लोगों का पहला गमले वाला पौधा होता है।",
+   "pollinatorValue": "कम। यह घर के अंदर शायद ही कभी फूलता है, और इसके छोटे सफ़ेद स्पेथ बहुत कम कीड़ों को आकर्षित करते हैं।",
+   "waterNeeds": "मध्यम। सिंचाई के बीच मिट्टी की ऊपरी सतह को सूखने दें और इसे 15 °C से ऊपर रखें।",
+   "culturalUses": "चीनी और दक्षिण-पूर्व एशियाई घरों में इसे सौभाग्य लाने वाला माना जाता है। 'Silver Bay' एक आधुनिक कल्टीवार है जिसे इसकी चौड़ी चांदी जैसी पत्तियों के लिए विकसित किया गया है।"
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "डम केन",
+    "reasoning": "विविधरंगी बनावट मिलती-जुलती है, लेकिन डम केन की पत्तियाँ बड़ी और अधिक आयताकार होती हैं, और एक मोटे बेंत जैसे तने पर उगती हैं।"
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "पीस लिली",
+    "reasoning": "चमकदार गहरे पत्ते जैसी समानता है, लेकिन पीस लिली की पत्तियाँ सादी हरी होती हैं, जिन पर कोई चांदी जैसा निशान नहीं होता।"
+   }
+  ]
+ },
+ "hr": {
+  "commonName": "Aglaonema 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Kompaktna sobna biljka širokih, sjajnih, eliptičnih listova poprskanih srebrnozelenom bojom preko tamnozelenog ruba, koji rastu na kratkim stapkama iz središnje krune. Izvorno raste na tlu kišnih šuma Filipina i Sulawesija.",
+  "reasoning": "Široki eliptični listovi sa srebrnom mrljom u sredini i tamnim rubovima blisko odgovaraju vrsti Aglaonema 'Silver Bay'.",
+  "uses": {
+   "edible": "Nije jestivo. Svaki dio sadrži kristale kalcijeva oksalata koji peku usta i grlo. Držite je podalje od djece, mačaka i pasa.",
+   "medicinal": "Nema sigurne tradicionalne upotrebe. Sok nadražuje kožu i oči, stoga operite ruke nakon presađivanja.",
+   "ecologicalRole": "Biljka podrasta koja voli sjenu, iz kišnih šuma jugoistočne Azije. U zatvorenom prostoru podnosi slabo svjetlo i čest je izbor za prvu sobnu biljku.",
+   "pollinatorValue": "Niska. Rijetko cvate u zatvorenom prostoru, a njezine sitne bijele cvatne ovojnice privlače malo kukaca.",
+   "waterNeeds": "Umjerene. Pustite da se površina tla osuši između zalijevanja i držite je iznad 15 °C.",
+   "culturalUses": "Cijenjena u kineskim i jugoistočnoazijskim domovima kao donositeljica sreće. 'Silver Bay' moderna je sorta uzgojena zbog svojih širokih srebrnih listova."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "Difenbahija",
+    "reasoning": "Slična šarenost, no listovi difenbahije veći su i izduženiji, na debeloj stabljici nalik trsci."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "Spatifilum",
+    "reasoning": "Dijeli sjajan tamni list, no listovi spatifiluma jednolično su zeleni, bez srebrnog uzorka."
+   }
+  ]
+ },
+ "id": {
+  "commonName": "Sri Rejeki 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Tanaman hias dalam ruangan yang kompak dengan daun elips lebar dan mengilap, bercorak hijau keperakan di atas tepi hijau tua, tumbuh pada tangkai pendek dari mahkota tengah. Berasal dari lantai hutan hujan Filipina dan Sulawesi.",
+  "reasoning": "Daun elips lebar dengan corak perak di tengah dan tepi gelap sangat cocok dengan Aglaonema 'Silver Bay'.",
+  "uses": {
+   "edible": "Tidak dapat dimakan. Setiap bagiannya mengandung kristal kalsium oksalat yang membakar mulut dan tenggorokan. Jauhkan dari jangkauan anak-anak, kucing, dan anjing.",
+   "medicinal": "Tidak ada penggunaan tradisional yang aman. Getahnya mengiritasi kulit dan mata, jadi cucilah tangan Anda setelah memindahkan tanaman ke pot baru.",
+   "ecologicalRole": "Tanaman lapisan bawah yang menyukai naungan di hutan hujan Asia Tenggara. Di dalam ruangan, ia tahan terhadap cahaya rendah dan menjadi tanaman hias pertama yang umum dipilih.",
+   "pollinatorValue": "Rendah. Ia jarang berbunga di dalam ruangan, dan seludang bunga putihnya yang kecil hanya menarik sedikit serangga.",
+   "waterNeeds": "Sedang. Biarkan permukaan tanah mengering di antara penyiraman dan jaga suhu di atas 15 °C.",
+   "culturalUses": "Dihargai di rumah-rumah Tionghoa dan Asia Tenggara sebagai pembawa keberuntungan. 'Silver Bay' adalah kultivar modern yang dikembangbiakkan untuk daun peraknya yang lebar."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "Daun Bahagia",
+    "reasoning": "Corak variegasinya serupa, tetapi daun tanaman Daun Bahagia lebih besar dan lebih lonjong pada batang tebal menyerupai tongkat."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "Lili Perdamaian",
+    "reasoning": "Sama-sama memiliki daun gelap mengilap, tetapi daun Lili Perdamaian berwarna hijau polos tanpa corak perak."
+   }
+  ]
+ },
+ "kk": {
+  "commonName": "Күміс шоғыр аглаонема 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Қою жасыл жиегі бар күміс-жасыл дақты, жалтыр, эллипс тәрізді кең жапырақтары орталық түптен шыққан қысқа сабақтарда көтерілетін ықшам үй өсімдігі. Филиппин мен Сулавеси жаңбырлы орманының табанына тән.",
+  "reasoning": "Күміс орталық дағы мен қою жиегі бар кең эллипс тәрізді жапырақтары Aglaonema 'Silver Bay' түріне жақын сәйкес келеді.",
+  "uses": {
+   "edible": "Жеуге жарамсыз. Әрбір бөлігінде ауыз бен тамақты күйдіретін кальций оксалаты кристалдары бар. Балалардан, мысықтар мен иттерден аулақ ұстаңыз.",
+   "medicinal": "Қауіпсіз дәстүрлі қолданысы жоқ. Шырыны теріні және көзді тітіркендіреді, сондықтан қайта отырғызғаннан кейін қолыңызды жуыңыз.",
+   "ecologicalRole": "Оңтүстік-Шығыс Азия жаңбырлы орманының көлеңкесүйер аскөк қабаты өсімдігі. Үй жағдайында әлсіз жарыққа төзімді және көбіне бірінші үй өсімдігі ретінде өсіріледі.",
+   "pollinatorValue": "Төмен. Үйде сирек гүлдейді, ал кішкентай ақ гүл шоғырлары жәндіктерді аз тартады.",
+   "waterNeeds": "Орташа. Суарулар арасында топырақтың үстіңгі қабатын құрғатып алыңыз және 15 °C-тан жоғары температурада ұстаңыз.",
+   "culturalUses": "Қытай және Оңтүстік-Шығыс Азия үйлерінде байлық пен сәттілік әкеледі деп саналады. 'Silver Bay' — кең күміс жапырақтары үшін өсірілген заманауи сорт."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "Дифенбахия",
+    "reasoning": "Түр-түсі ұқсас, бірақ дифенбахия жапырақтары ірірек және қалың сабан тәрізді сабақта орналасады."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "Спатифиллум",
+    "reasoning": "Жылтыр қою жапырағы ұқсас, бірақ спатифиллум жапырақтары күміс дақсыз, таза жасыл түсті."
+   }
+  ]
+ },
+ "ko": {
+  "commonName": "만년청 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "넓고 윤기 나는 타원형 잎에 은록색 얼룩이 짙은 녹색 테두리 안으로 흩뿌려진, 중심 줄기에서 짧은 잎자루가 올라오는 아담한 실내 화초입니다. 필리핀과 술라웨시의 열대우림 바닥이 원산지입니다.",
+  "reasoning": "은빛 중앙 얼룩과 짙은 테두리를 가진 넓은 타원형 잎이 만년청 'Silver Bay'와 매우 잘 일치합니다.",
+  "uses": {
+   "edible": "식용 불가합니다. 모든 부위에 수산화칼슘 결정이 들어 있어 입과 목에 화끈거리는 자극을 일으킵니다. 어린이, 고양이, 개가 닿지 않게 하세요.",
+   "medicinal": "안전하게 쓸 수 있는 전통적 용도가 없습니다. 수액이 피부와 눈을 자극하므로 분갈이 후에는 손을 씻으세요.",
+   "ecologicalRole": "동남아시아 열대우림의 그늘을 좋아하는 하층 식물입니다. 실내에서는 약한 빛도 잘 견뎌 첫 반려식물로 흔히 키웁니다.",
+   "pollinatorValue": "낮음. 실내에서는 거의 꽃이 피지 않으며, 작은 흰색 불염포에 이끌리는 곤충도 적습니다.",
+   "waterNeeds": "보통. 물을 주기 전에 흙 윗부분이 마르도록 두고 15°C 이상을 유지하세요.",
+   "culturalUses": "중국과 동남아시아 가정에서 행운을 가져다준다 하여 귀하게 여겨집니다. 'Silver Bay'는 넓은 은빛 잎을 위해 개발된 현대 품종입니다."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "디펜바키아",
+    "reasoning": "비슷한 무늬를 가지고 있지만, 디펜바키아의 잎은 더 크고 두꺼운 줄기 같은 대 위에서 더 길쭉한 타원형을 이룹니다."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "스파티필럼",
+    "reasoning": "윤기 나는 짙은 잎은 비슷하지만, 스파티필럼의 잎은 은빛 무늬 없이 순수한 초록색입니다."
+   }
+  ]
+ },
+ "ml": {
+  "commonName": "ചൈനീസ് എവർഗ്രീൻ 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "ഇരുണ്ട പച്ച അരികിനു മുകളിൽ വെള്ളി-പച്ച നിറം തെറിച്ച വീതിയേറിയ, തിളങ്ങുന്ന, ദീർഘവൃത്താകൃതി ഇലകളുള്ള ഒരു ഒതുക്കമുള്ള വീട്ടുചെടി, ഒരു കേന്ദ്ര കിരീടത്തിൽ നിന്ന് ചെറിയ തണ്ടുകളിൽ ഉയരുന്നു. ഫിലിപ്പീൻസിന്റെയും സുലവേസിയുടെയും മഴക്കാടിന്റെ നിലത്തിന് സ്വദേശം.",
+  "reasoning": "വെള്ളി കേന്ദ്ര തെറിപ്പും ഇരുണ്ട അരികുകളുമുള്ള വീതിയേറിയ ദീർഘവൃത്താകൃതി ഇലകൾ Aglaonema 'Silver Bay'-യുമായി അടുത്ത് പൊരുത്തപ്പെടുന്നു.",
+  "uses": {
+   "edible": "ഭക്ഷ്യയോഗ്യമല്ല. ഓരോ ഭാഗത്തും വായയും തൊണ്ടയും പൊള്ളിക്കുന്ന കാൽസ്യം ഓക്സലേറ്റ് പരലുകൾ അടങ്ങിയിട്ടുണ്ട്. കുട്ടികളിൽ നിന്നും പൂച്ചകളിൽ നിന്നും നായ്ക്കളിൽ നിന്നും ഇത് അകറ്റി വയ്ക്കുക.",
+   "medicinal": "സുരക്ഷിതമായ പരമ്പരാഗത ഉപയോഗമില്ല. സ്രവം ത്വക്കിനെയും കണ്ണുകളെയും പ്രകോപിപ്പിക്കുന്നു, അതിനാൽ ചെടി മാറ്റിനടുന്നതിന് ശേഷം കൈകൾ കഴുകുക.",
+   "ecologicalRole": "തെക്കുകിഴക്കൻ ഏഷ്യൻ മഴക്കാടുകളിലെ തണൽ ഇഷ്ടപ്പെടുന്ന അടിക്കാട് സസ്യം. വീടിനകത്ത് ഇത് കുറഞ്ഞ വെളിച്ചം സഹിക്കുകയും സാധാരണയായി ആദ്യത്തെ വീട്ടുചെടിയായി തിരഞ്ഞെടുക്കപ്പെടുകയും ചെയ്യുന്നു.",
+   "pollinatorValue": "കുറവ്. വീടിനകത്ത് ഇത് അപൂർവ്വമായേ പൂക്കൂ, ചെറിയ വെളുത്ത സ്പേതുകൾ വളരെ കുറച്ച് പ്രാണികളെ മാത്രമേ ആകർഷിക്കൂ.",
+   "waterNeeds": "മിതമായത്. നനയ്ക്കുന്നതിനിടയിൽ മണ്ണിന്റെ മുകൾഭാഗം ഉണങ്ങാൻ അനുവദിക്കുക, 15 °C-ന് മുകളിൽ സൂക്ഷിക്കുക.",
+   "culturalUses": "ചൈനീസ്, തെക്കുകിഴക്കൻ ഏഷ്യൻ ഭവനങ്ങളിൽ ഭാഗ്യം കൊണ്ടുവരുന്നതായി വിലമതിക്കപ്പെടുന്നു. വീതിയേറിയ വെള്ളി ഇലകൾക്കായി വളർത്തിയെടുത്ത ഒരു ആധുനിക കൾട്ടിവാർ ആണ് 'Silver Bay'."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "ഡംബ് കെയ്ൻ",
+    "reasoning": "സമാനമായ വർണ്ണവൈവിധ്യം, എന്നാൽ ഡംബ് കെയ്ൻ ഇലകൾ വലുതും കട്ടിയുള്ള കോൽ പോലുള്ള തണ്ടിൽ കൂടുതൽ നീളൻ ആകൃതിയിലുള്ളതുമാണ്."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "പീസ് ലില്ലി",
+    "reasoning": "തിളങ്ങുന്ന ഇരുണ്ട ഇല പങ്കിടുന്നു, എന്നാൽ പീസ് ലില്ലി ഇലകൾ വെള്ളി അടയാളമില്ലാതെ വെറും പച്ചയാണ്."
+   }
+  ]
+ },
+ "ne": {
+  "commonName": "चाइनिज एभरग्रिन 'सिल्भर बे'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "फराकिला, चम्किला, अण्डाकार पातमा गाढा हरियो किनारामाथि चाँदी-हरियो छिट्टा भएको, केन्द्रीय मुकुटबाट छोटो डाँठमा उठ्ने सानो घरेलु बिरुवा। फिलिपिन्स र सुलावेसीको वर्षावन भुइँको स्वदेशी।",
+  "reasoning": "चाँदी रंगको केन्द्रीय छिट्टा र गाढा किनारा भएका फराकिला अण्डाकार पातहरू Aglaonema 'Silver Bay' सँग नजिकबाट मिल्छन्।",
+  "uses": {
+   "edible": "खान मिल्दैन। हरेक भागमा क्याल्सियम अक्सालेट क्रिस्टल हुन्छ जसले मुख र घाँटी पोल्छ। बालबालिका, बिराला, र कुकुरबाट टाढा राख्नुहोस्।",
+   "medicinal": "कुनै सुरक्षित परम्परागत प्रयोग छैन। यसको रसले छाला र आँखामा जलन गर्छ, त्यसैले दोहोर्‍याएर रोपेपछि हात धुनुहोस्।",
+   "ecologicalRole": "दक्षिणपूर्वी एसियाली वर्षावनको छायाप्रिय तल्लो तहको बिरुवा। घरभित्र यसले कम उज्यालो सहन्छ र पहिलो घरेलु बिरुवाका रूपमा सामान्य छ।",
+   "pollinatorValue": "न्यून। घरभित्र यो विरलै फुल्छ, र यसका साना सेता स्प्याथले थोरै मात्र किरा तान्छ।",
+   "waterNeeds": "मध्यम। पानी हाल्नुअघि माटोको माथिल्लो सतह सुक्न दिनुहोस् र १५ °C भन्दा माथि राख्नुहोस्।",
+   "culturalUses": "चिनियाँ र दक्षिणपूर्वी एसियाली घरहरूमा सौभाग्य ल्याउने मानी मूल्यवान मानिन्छ। 'Silver Bay' यसका फराकिला चाँदी पातका लागि विकसित गरिएको आधुनिक किस्म हो।"
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "डम केन",
+    "reasoning": "मिल्दोजुल्दो रंग-बुट्टा, तर डम केनका पात ठूला र बाक्लो उखुजस्तो डाँठमा बढी लम्बेटीघेर हुन्छन्।"
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "पिस लिली",
+    "reasoning": "चम्किलो गाढा पात मिल्दोजुल्दो छ, तर पिस लिलीका पात कुनै चाँदी चिन्हबिना सादा हरियो हुन्छन्।"
+   }
+  ]
+ },
+ "pt": {
+  "commonName": "Aglaonema 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Uma planta de interior compacta, com folhas largas, brilhantes e elípticas, salpicadas de verde-prateado sobre uma margem verde-escura, erguendo-se em hastes curtas a partir de uma coroa central. Nativa do solo da floresta tropical das Filipinas e de Sulawesi.",
+  "reasoning": "Folhas largas e elípticas com uma mancha prateada central e margens escuras correspondem de perto à Aglaonema 'Silver Bay'.",
+  "uses": {
+   "edible": "Não é comestível. Todas as partes contêm cristais de oxalato de cálcio que queimam a boca e a garganta. Mantenha fora do alcance de crianças, gatos e cães.",
+   "medicinal": "Não tem uso tradicional seguro. A seiva irrita a pele e os olhos, então lave as mãos depois de replantar.",
+   "ecologicalRole": "Uma planta de sub-bosque que gosta de sombra, típica das florestas tropicais do Sudeste Asiático. Em ambientes internos tolera pouca luz e costuma ser a primeira planta de interior de muita gente.",
+   "pollinatorValue": "Baixo. Raramente floresce em ambientes internos, e suas pequenas espatas brancas atraem poucos insetos.",
+   "waterNeeds": "Moderada. Deixe a superfície do substrato secar entre as regas e mantenha acima de 15 °C.",
+   "culturalUses": "Apreciada em lares chineses e do Sudeste Asiático como trazedora de boa sorte. 'Silver Bay' é um cultivar moderno desenvolvido por suas largas folhas prateadas."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "Comigo-ninguém-pode",
+    "reasoning": "Variegação semelhante, mas as folhas da comigo-ninguém-pode são maiores e mais alongadas, sobre um caule grosso parecido com uma cana."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "Lírio-da-paz",
+    "reasoning": "Compartilha a folha escura e brilhante, mas as folhas do lírio-da-paz são verdes uniformes, sem marcas prateadas."
+   }
+  ]
+ },
+ "ru": {
+  "commonName": "Аглаонема «Silver Bay»",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Ароидные",
+  "description": "Компактное комнатное растение с широкими блестящими эллиптическими листьями, покрытыми серебристо-зелёными пятнами по тёмно-зелёному краю, поднимающимися на коротких стеблях из центральной розетки. Родом с влажного лесного дна Филиппин и Сулавеси.",
+  "reasoning": "Широкие эллиптические листья с серебристым пятном в центре и тёмной каймой точно соответствуют аглаонеме «Silver Bay».",
+  "uses": {
+   "edible": "Не съедобно. Все части растения содержат кристаллы оксалата кальция, вызывающие жжение во рту и в горле. Держите подальше от детей, кошек и собак.",
+   "medicinal": "Безопасного традиционного применения нет. Сок раздражает кожу и глаза, поэтому мойте руки после пересадки.",
+   "ecologicalRole": "Тенелюбивое растение нижнего яруса тропических лесов Юго-Восточной Азии. В помещении хорошо переносит слабое освещение и часто становится первым комнатным растением новичков.",
+   "pollinatorValue": "Низкое. В помещении цветёт редко, а его мелкие белые покрывала привлекают немного насекомых.",
+   "waterNeeds": "Умеренные. Давайте верхнему слою почвы подсыхать между поливами и держите растение при температуре выше 15 °C.",
+   "culturalUses": "Ценится в китайских и юго-восточноазиатских домах как растение, приносящее удачу. «Silver Bay» — современный сорт, выведенный за широкие серебристые листья."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Ароидные",
+    "commonName": "Диффенбахия",
+    "reasoning": "Похожая пятнистая окраска листьев, но у диффенбахии листья крупнее и более продолговатые, на толстом тростниковидном стебле."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Ароидные",
+    "commonName": "Спатифиллум",
+    "reasoning": "Так же имеет блестящий тёмный лист, но у спатифиллума листья однотонно-зелёные, без серебристого рисунка."
+   }
+  ]
+ },
+ "sw": {
+  "commonName": "Aglaonema ya Fedha 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Mmea mdogo wa ndani wenye majani mapana, yanayong'aa, ya mviringo, yenye rangi ya fedha-kijani iliyomiminwa juu ya ukingo mzito wa kijani, ukiinuka kwenye mashina mafupi kutoka kitovu cha kati. Asili yake ni sakafu ya msitu wa mvua wa Ufilipino na Sulawesi.",
+  "reasoning": "Majani mapana ya mviringo yenye mminyiko wa fedha katikati na kingo nzito zinalingana kwa karibu na Aglaonema 'Silver Bay'.",
+  "uses": {
+   "edible": "Hauliwi. Kila sehemu ina fuwele za calcium oxalate zinazounguza mdomo na koo. Iweke mbali na watoto, paka, na mbwa.",
+   "medicinal": "Hakuna matumizi salama ya kimila. Utomvu wake huwasha ngozi na macho, hivyo nawa mikono baada ya kuupandikiza kwenye chungu kingine.",
+   "ecologicalRole": "Mmea unaopenda kivuli wa chini ya msitu wa mvua wa Kusini-mashariki mwa Asia. Ndani ya nyumba huvumilia mwanga hafifu na ni mmea wa kawaida wa kwanza wa ndani.",
+   "pollinatorValue": "Kidogo. Huchanua mara chache ukiwa ndani ya nyumba, na maua yake madogo meupe (spathe) huvutia wadudu wachache.",
+   "waterNeeds": "Wastani. Acha sehemu ya juu ya udongo ikauke kati ya kumwagilia, na uwe na joto zaidi ya nyuzi 15 °C.",
+   "culturalUses": "Unathaminiwa katika nyumba za Kichina na za Kusini-mashariki mwa Asia kama mleta bahati njema. 'Silver Bay' ni aina ya kisasa iliyofugwa kwa ajili ya majani yake mapana ya fedha."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "Mwanzi Bubu",
+    "reasoning": "Muundo wa rangi unaofanana, lakini majani ya Mwanzi Bubu ni makubwa zaidi na ya mviringo zaidi kwenye shina nene linalofanana na mwanzi."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "Yungiyungi wa Amani",
+    "reasoning": "Ina jani zito linalong'aa kama hilo, lakini majani ya Yungiyungi wa Amani ni kijani tupu bila alama za fedha."
+   }
+  ]
+ },
+ "ta": {
+  "commonName": "சீன நித்திய பசுமை 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "அகன்ற, பளபளப்பான, நீள்வட்ட இலைகளில் வெள்ளி-பச்சை தெறிப்புகளும் கரும் பச்சை விளிம்பும் கொண்ட, மைய கிரீடத்திலிருந்து குறுகிய தண்டுகளில் எழும் ஒரு கச்சிதமான வீட்டுத் தாவரம். பிலிப்பீன்ஸ் மற்றும் சுலாவேசியின் மழைக்காட்டுத் தரையில் இயற்கையாக காணப்படுகிறது.",
+  "reasoning": "வெள்ளி மைய தெறிப்பும் கரும் விளிம்புகளும் கொண்ட அகன்ற நீள்வட்ட இலைகள் Aglaonema 'Silver Bay' உடன் நெருக்கமாகப் பொருந்துகின்றன.",
+  "uses": {
+   "edible": "உண்ண முடியாது. ஒவ்வொரு பகுதியிலும் வாயையும் தொண்டையையும் எரிக்கும் கால்சியம் ஆக்ஸலேட் படிகங்கள் உள்ளன. குழந்தைகள், பூனைகள் மற்றும் நாய்களிடமிருந்து இதைத் தூரமாக வையுங்கள்.",
+   "medicinal": "பாதுகாப்பான பாரம்பரிய பயன்பாடு இல்லை. சாறு தோலையும் கண்களையும் எரிச்சலூட்டும், எனவே மறுநடவு செய்த பிறகு கைகளைக் கழுவவும்.",
+   "ecologicalRole": "தென்கிழக்கு ஆசிய மழைக்காடுகளின் நிழலை விரும்பும் அடிக்காட்டுத் தாவரம். வீட்டிற்குள் குறைந்த வெளிச்சத்தைத் தாங்கும், ஒரு பொதுவான முதல் வீட்டுத் தாவரம்.",
+   "pollinatorValue": "குறைவு. இது வீட்டிற்குள் அரிதாகவே பூக்கும், அதன் சிறிய வெள்ளை ஸ்பேத்துகள் சில பூச்சிகளை மட்டுமே ஈர்க்கின்றன.",
+   "waterNeeds": "மிதமானது. நீர்ப்பாசனங்களுக்கு இடையில் மண்ணின் மேற்பரப்பு உலரட்டும், 15 °C க்கு மேல் வைக்கவும்.",
+   "culturalUses": "நல்ல அதிர்ஷ்டத்தைக் கொண்டுவருவதாக சீன மற்றும் தென்கிழக்கு ஆசிய வீடுகளில் மதிக்கப்படுகிறது. 'Silver Bay' அதன் அகன்ற வெள்ளி இலைகளுக்காக வளர்க்கப்பட்ட ஒரு நவீன வகை."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "டம்ப் கேன்",
+    "reasoning": "ஒத்த வண்ணக் கலவை, ஆனால் டம்ப் கேனின் இலைகள் பெரியவை மற்றும் தடிமனான கரும்பு போன்ற தண்டில் நீள்வட்டமானவை."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "பீஸ் லில்லி",
+    "reasoning": "பளபளப்பான கரும் இலையைப் பகிர்கிறது, ஆனால் பீஸ் லில்லியின் இலைகள் வெள்ளி அடையாளம் இல்லாமல் வெறும் பச்சையாக இருக்கும்."
+   }
+  ]
+ },
+ "th": {
+  "commonName": "ไอยเรศ 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "ไม้กระถางทรงพุ่มกะทัดรัด ใบกว้างเป็นมันรูปวงรี มีลายกระสีเงินแซมอยู่ภายในขอบใบสีเขียวเข้ม ชูขึ้นจากลำต้นสั้น ๆ ที่แตกออกจากยอดกลาง มีถิ่นกำเนิดที่พื้นป่าฝนของฟิลิปปินส์และสุลาเวสี",
+  "reasoning": "ใบกว้างรูปวงรีที่มีลายสีเงินตรงกลางและขอบใบสีเข้มตรงกับลักษณะของ Aglaonema 'Silver Bay' อย่างใกล้เคียง",
+  "uses": {
+   "edible": "กินไม่ได้ ทุกส่วนของต้นมีผลึกแคลเซียมออกซาเลตที่ทำให้ปากและลำคอแสบร้อน ควรเก็บให้พ้นมือเด็ก แมว และสุนัข",
+   "medicinal": "ไม่มีสรรพคุณทางยาแบบดั้งเดิมที่ปลอดภัย ยางของต้นระคายเคืองผิวหนังและดวงตา จึงควรล้างมือให้สะอาดหลังเปลี่ยนกระถาง",
+   "ecologicalRole": "พืชพื้นล่างที่ชอบร่มเงาของป่าฝนในเอเชียตะวันออกเฉียงใต้ เมื่อปลูกในบ้านทนต่อแสงน้อยได้ดี และมักเป็นไม้กระถางต้นแรกของใครหลายคน",
+   "pollinatorValue": "ต่ำ ออกดอกในบ้านได้ยาก และกาบดอกสีขาวขนาดเล็กก็ดึงดูดแมลงได้เพียงเล็กน้อย",
+   "waterNeeds": "ปานกลาง ปล่อยให้หน้าดินแห้งก่อนรดน้ำครั้งต่อไป และรักษาอุณหภูมิให้สูงกว่า 15 °C",
+   "culturalUses": "เป็นที่นิยมในบ้านชาวจีนและเอเชียตะวันออกเฉียงใต้ในฐานะไม้มงคลนำโชคลาภ 'Silver Bay' เป็นพันธุ์ปลูกสมัยใหม่ที่ปรับปรุงพันธุ์ขึ้นเพื่อให้ได้ใบสีเงินกว้างพิเศษ"
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "ต้นใบ้",
+    "reasoning": "มีลายด่างคล้ายกัน แต่ใบของต้นใบ้มีขนาดใหญ่กว่าและรูปทรงรีย้อยกว่า บนลำต้นหนาคล้ายลำอ้อย"
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "ลิลลี่สันติภาพ",
+    "reasoning": "มีใบมันสีเข้มคล้ายกัน แต่ใบของลิลลี่สันติภาพเป็นสีเขียวล้วน ไม่มีลายสีเงิน"
+   }
+  ]
+ },
+ "ur": {
+  "commonName": "چائنیز ایورگرین 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "ایک خوش نما گھریلو پودا جس کے چوڑے، چمکدار، بیضوی پتے چاندی مائل سبز چھینٹوں سے سجے ہیں اور گہرے سبز کنارے رکھتے ہیں، جو ایک مرکزی تاج سے چھوٹے تنوں پر اٹھتے ہیں۔ اصل مسکن فلپائن اور سولاویسی کے بارانی جنگل کی زمین ہے۔",
+  "reasoning": "چاندی مائل مرکزی چھینٹ اور گہرے کناروں والے چوڑے بیضوی پتے Aglaonema 'Silver Bay' سے قریب سے مماثل ہیں۔",
+  "uses": {
+   "edible": "خوردنی نہیں۔ اس کے ہر حصے میں کیلشیم آکسالیٹ کرسٹل ہوتے ہیں جو منہ اور گلے میں جلن پیدا کرتے ہیں۔ اسے بچوں، بلیوں، اور کتوں سے دور رکھیں۔",
+   "medicinal": "کوئی محفوظ روایتی استعمال نہیں۔ اس کا رس جلد اور آنکھوں میں جلن پیدا کرتا ہے، اس لیے دوبارہ گملے میں لگانے کے بعد ہاتھ دھو لیں۔",
+   "ecologicalRole": "جنوب مشرقی ایشیائی بارانی جنگلوں کی سائے پسند زیریں پودا۔ گھر کے اندر یہ کم روشنی برداشت کرتا ہے اور اکثر پہلے گھریلو پودے کے طور پر مقبول ہے۔",
+   "pollinatorValue": "کم۔ یہ گھر کے اندر شاذ و نادر ہی پھول دیتا ہے، اور اس کے چھوٹے سفید پھول بہت کم کیڑوں کو اپنی طرف کھینچتے ہیں۔",
+   "waterNeeds": "درمیانہ۔ پانی دینے کے درمیان مٹی کی اوپری تہہ خشک ہونے دیں اور اسے 15 °C سے اوپر رکھیں۔",
+   "culturalUses": "چینی اور جنوب مشرقی ایشیائی گھروں میں خوش قسمتی لانے والے پودے کے طور پر قیمتی۔ 'Silver Bay' ایک جدید قسم ہے جو اپنے چوڑے چاندی مائل پتوں کے لیے تیار کی گئی۔"
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "ڈمب کین",
+    "reasoning": "ملتی جلتی رنگت، لیکن ڈمب کین کے پتے بڑے اور موٹے چھڑی نما تنے پر زیادہ لمبوترے ہوتے ہیں۔"
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "پیس للی",
+    "reasoning": "چمکدار گہرے پتے ملتے ہیں، لیکن پیس للی کے پتے سادہ سبز ہوتے ہیں اور ان پر کوئی چاندی مائل نشان نہیں ہوتا۔"
+   }
+  ]
+ },
+ "vi": {
+  "commonName": "Vạn niên thanh 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Một loài cây cảnh nhỏ gọn với lá bầu dục rộng, bóng, loang màu bạc xanh trên nền viền xanh đậm, mọc lên từ một chùm trung tâm trên các cuống ngắn. Có nguồn gốc từ sàn rừng nhiệt đới ở Philippines và Sulawesi.",
+  "reasoning": "Lá bầu dục rộng với vệt loang bạc ở giữa và viền xanh đậm khớp gần đúng với Aglaonema 'Silver Bay'.",
+  "uses": {
+   "edible": "Không ăn được. Mọi bộ phận đều chứa tinh thể canxi oxalat gây bỏng rát miệng và họng. Để xa tầm tay trẻ em, mèo và chó.",
+   "medicinal": "Không có công dụng truyền thống an toàn nào. Nhựa cây gây kích ứng da và mắt, nên hãy rửa tay sau khi thay chậu.",
+   "ecologicalRole": "Một loài cây tầng dưới ưa bóng râm của rừng nhiệt đới Đông Nam Á. Khi trồng trong nhà, nó chịu được ánh sáng yếu và là cây cảnh đầu tay phổ biến.",
+   "pollinatorValue": "Thấp. Cây hiếm khi ra hoa khi trồng trong nhà, và những mo hoa trắng nhỏ của nó thu hút rất ít côn trùng.",
+   "waterNeeds": "Vừa phải. Để lớp đất mặt khô giữa các lần tưới và giữ nhiệt độ trên 15°C.",
+   "culturalUses": "Được ưa chuộng trong các gia đình Trung Quốc và Đông Nam Á như một loài cây mang lại may mắn. 'Silver Bay' là giống lai hiện đại được lai tạo để có lá bạc bản rộng."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "Vạn niên thanh câm",
+    "reasoning": "Có hoa văn loang màu tương tự, nhưng lá của vạn niên thanh câm to hơn và thuôn dài hơn trên một thân dạng mía dày."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "Bạch môn",
+    "reasoning": "Cùng có lá xanh đậm bóng, nhưng lá bạch môn xanh trơn hoàn toàn, không có vệt bạc."
+   }
+  ]
+ },
+ "yo": {
+  "commonName": "Aglaonema 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Ohun ọ̀gbìn inú ilé kékeré tí ó ní ewé fífẹ̀, dídán, tí ó rí bí ẹyin, tí àwọ̀ fàdákà àti aláwọ̀ dúdú dàpọ̀ mọ́ ara wọn ní etí, tí ń hù jáde lórí ẹsẹ̀ kúkúrú láti àárín igi rẹ̀. Ó ti ìpilẹ̀ṣẹ̀ láti ilẹ̀ igbó òjò ti Philippines àti Sulawesi.",
+  "reasoning": "Ewé fífẹ̀ tí ó rí bí ẹyin, tí ó ní àwọ̀ fàdákà ní àárín àti etí dúdú, bá Aglaonema 'Silver Bay' mu dáadáa.",
+  "uses": {
+   "edible": "A kò lè jẹ ẹ́. Gbogbo apá rẹ̀ ní àwọn kírísítàlì kálísíọ̀mù okisaléètì tí ń jó ẹnu àti ọ̀fun. Pa á mọ́ kúrò lọ́wọ́ àwọn ọmọdé, ológbò, àti ajá.",
+   "medicinal": "Kò sí lílò ìbílẹ̀ tí ó dáa. Omi rẹ̀ ń mú awọ ara àti ojú bínú, nítorí náà wẹ ọwọ́ rẹ lẹ́yìn tí o bá ti gbìn ín sí ìkòkò míì.",
+   "ecologicalRole": "Ohun ọ̀gbìn tí ó nífẹ̀ẹ́ ibòji, tí ń hù ní ìsàlẹ̀ igbó òjò ní Gúúsù-Ìlà-Oòrùn Éṣíà. Nínú ilé, ó lè fara dà ìmọ́lẹ̀ kékeré, ó sì sábà máa ń jẹ́ ohun ọ̀gbìn ilé àkọ́kọ́ fún ọ̀pọ̀lọpọ̀ ènìyàn.",
+   "pollinatorValue": "Kékeré. Kì í sábà tanná nínú ilé, àwọn ewé òdòdó funfun kékeré rẹ̀ sì kò fa ọ̀pọ̀lọpọ̀ kòkòrò mọ́ra.",
+   "waterNeeds": "Àárín gbùngbùn. Jẹ́ kí orí erùpẹ̀ ilẹ̀ gbẹ kí o tó tún bomi rin ín, kí o sì rí i dájú pé ìwọ̀n ooru wà lókè 15 °C.",
+   "culturalUses": "A ń bọ̀wọ̀ fún un ní ilé àwọn ará Ṣáínà àti Gúúsù-Ìlà-Oòrùn Éṣíà gẹ́gẹ́ bí ohun tí ń mú oríire wá. 'Silver Bay' jẹ́ irú-ọ̀gbìn tuntun tí a ṣe àgbékalẹ̀ rẹ̀ nítorí ewé fàdákà rẹ̀ tí ó fẹ̀ jùlọ."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "Ọ̀gbìn Odi",
+    "reasoning": "Àwọ̀ rẹ̀ jọra, ṣùgbọ́n ewé Ọ̀gbìn Odi tóbi jù, ó sì gùn ju ti Aglaonema lọ, ó sì wà lórí igi tí ó nípọn tí ó dà bí ọ̀pá ìrèké."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "Ìtànná Àlàáfíà",
+    "reasoning": "Wọ́n ní ewé dídán aláwọ̀ dúdú bíi ti ara wọn, ṣùgbọ́n ewé Ìtànná Àlàáfíà jẹ́ aláwọ̀ ewé lásán, láìsí àmì fàdákà kankan."
+   }
+  ]
+ },
+ "zh": {
+  "commonName": "亿年青 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "天南星科",
+  "description": "一种紧凑型室内观叶植物,宽阔有光泽的椭圆形叶片上,银绿色斑纹点缀在深绿色边缘之间,叶片从中央的茎干顶端抽出。原产于菲律宾和苏拉威西岛的雨林地面。",
+  "reasoning": "宽阔的椭圆形叶片,中央带银色斑纹、边缘为深绿色,与亿年青 'Silver Bay' 高度吻合。",
+  "uses": {
+   "edible": "不可食用。全株含有草酸钙结晶,会灼伤口腔和喉咙。请远离儿童、猫和狗。",
+   "medicinal": "没有安全的传统用途。汁液会刺激皮肤和眼睛,换盆后请务必洗手。",
+   "ecologicalRole": "一种喜阴的东南亚雨林林下植物。在室内它能耐受弱光,是常见的入门级室内植物。",
+   "pollinatorValue": "较低。它在室内极少开花,细小的白色佛焰苞也很少吸引昆虫。",
+   "waterNeeds": "适中。待表层土壤变干后再浇水,并保持环境温度在 15°C 以上。",
+   "culturalUses": "在中国和东南亚家庭中被视为带来好运的吉祥植物。'Silver Bay' 是为宽阔银色叶片而培育的现代栽培品种。"
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "天南星科",
+    "commonName": "花叶万年青",
+    "reasoning": "斑纹相似,但花叶万年青的叶片更大更长,长在粗壮如甘蔗的茎干上。"
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "天南星科",
+    "commonName": "白鹤芋",
+    "reasoning": "同样拥有光泽深绿的叶片,但白鹤芋的叶片为纯绿色,没有银色斑纹。"
    }
   ]
  }
