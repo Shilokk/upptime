@@ -50,7 +50,8 @@
     "records": "Meus registros",
     "settings": "Configurações",
     "leaderboard": "Ranking",
-    "community": "Comunidade"
+    "community": "Comunidade",
+    "explore": "Explorar"
   },
   "languages": {
     "en": "English",
@@ -61,7 +62,20 @@
     "pt": "Português",
     "th": "ไทย",
     "yo": "Yorùbá",
-    "ml": "മലയാളം"
+    "ml": "മലയാളം",
+    "zh": "中文",
+    "vi": "Tiếng Việt",
+    "si": "සිංහල",
+    "id": "Bahasa Indonesia",
+    "ne": "नेपाली",
+    "sw": "Kiswahili",
+    "bn": "বাংলা",
+    "ko": "한국어",
+    "hr": "Hrvatski",
+    "ta": "தமிழ்",
+    "kk": "Қазақ тілі",
+    "ru": "Русский",
+    "ur": "اردو"
   },
   "onboarding": {
     "title": "Escolha o seu idioma",
@@ -525,5 +539,58 @@
     "species": "{{count}} espécies",
     "since": "Guardião desde {{date}}",
     "empty": "Escaneie uma planta para ganhar seu primeiro carimbo."
+  },
+  "explore": {
+    "title": "Explore o globo",
+    "subtitle": "Arraste o globo e toque em um país para ver suas plantas comuns e o que os guardiões escanearam ali.",
+    "commonPlants": "Plantas comuns",
+    "scannedHere": "Escaneado aqui",
+    "noScans": "Ainda não há escaneamentos aqui. Seja o primeiro guardião a escanear uma planta neste país.",
+    "stewards": "{{count}} guardiões",
+    "scans": "{{count}} escaneamentos",
+    "autoRotate": "Rotação automática",
+    "topStewards": "Principais guardiões",
+    "countries": "{{count}} países",
+    "tapCountry": "Toque em um ponto de país",
+    "you": "Seus escaneamentos"
+  },
+  "translate": {
+    "library": "Tradução da biblioteca",
+    "live": "Traduzido por Claude",
+    "loading": "Traduzindo"
+  },
+  "countries": {
+    "GB": "Reino Unido",
+    "IE": "Irlanda",
+    "ES": "Espanha",
+    "PT": "Portugal",
+    "FR": "França",
+    "DE": "Alemanha",
+    "NO": "Noruega",
+    "HR": "Croácia",
+    "RU": "Rússia",
+    "KZ": "Cazaquistão",
+    "IN": "Índia",
+    "LK": "Sri Lanka",
+    "NP": "Nepal",
+    "BD": "Bangladesh",
+    "PK": "Paquistão",
+    "TH": "Tailândia",
+    "VN": "Vietnã",
+    "ID": "Indonésia",
+    "CN": "China",
+    "KR": "Coreia do Sul",
+    "JP": "Japão",
+    "KE": "Quênia",
+    "NG": "Nigéria",
+    "ZA": "África do Sul",
+    "EG": "Egito",
+    "US": "Estados Unidos",
+    "CA": "Canadá",
+    "MX": "México",
+    "BR": "Brasil",
+    "AR": "Argentina",
+    "AU": "Austrália",
+    "NZ": "Nova Zelândia"
   }
 }

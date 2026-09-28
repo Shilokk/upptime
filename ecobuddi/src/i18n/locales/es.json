@@ -50,7 +50,8 @@
     "records": "Mis registros",
     "settings": "Ajustes",
     "leaderboard": "Clasificación",
-    "community": "Comunidad"
+    "community": "Comunidad",
+    "explore": "Explorar"
   },
   "languages": {
     "en": "English",
@@ -61,7 +62,20 @@
     "pt": "Português",
     "th": "ไทย",
     "yo": "Yorùbá",
-    "ml": "മലയാളം"
+    "ml": "മലയാളം",
+    "zh": "中文",
+    "vi": "Tiếng Việt",
+    "si": "සිංහල",
+    "id": "Bahasa Indonesia",
+    "ne": "नेपाली",
+    "sw": "Kiswahili",
+    "bn": "বাংলা",
+    "ko": "한국어",
+    "hr": "Hrvatski",
+    "ta": "தமிழ்",
+    "kk": "Қазақ тілі",
+    "ru": "Русский",
+    "ur": "اردو"
   },
   "onboarding": {
     "title": "Elige tu idioma",
@@ -525,5 +539,58 @@
     "species": "{{count}} especies",
     "since": "Guardián desde {{date}}",
     "empty": "Escanea una planta para ganar tu primer sello."
+  },
+  "explore": {
+    "title": "Explora el globo",
+    "subtitle": "Arrastra el globo y toca un país para ver sus plantas comunes y lo que los guardianes escanearon allí.",
+    "commonPlants": "Plantas comunes",
+    "scannedHere": "Escaneado aquí",
+    "noScans": "Aún no hay escaneos aquí. Sé el primer guardián en escanear una planta en este país.",
+    "stewards": "{{count}} guardianes",
+    "scans": "{{count}} escaneos",
+    "autoRotate": "Rotación automática",
+    "topStewards": "Guardianes destacados",
+    "countries": "{{count}} países",
+    "tapCountry": "Toca un punto de país",
+    "you": "Tus escaneos"
+  },
+  "translate": {
+    "library": "Traducción de la biblioteca",
+    "live": "Traducido por Claude",
+    "loading": "Traduciendo"
+  },
+  "countries": {
+    "GB": "Reino Unido",
+    "IE": "Irlanda",
+    "ES": "España",
+    "PT": "Portugal",
+    "FR": "Francia",
+    "DE": "Alemania",
+    "NO": "Noruega",
+    "HR": "Croacia",
+    "RU": "Rusia",
+    "KZ": "Kazajistán",
+    "IN": "India",
+    "LK": "Sri Lanka",
+    "NP": "Nepal",
+    "BD": "Bangladés",
+    "PK": "Pakistán",
+    "TH": "Tailandia",
+    "VN": "Vietnam",
+    "ID": "Indonesia",
+    "CN": "China",
+    "KR": "Corea del Sur",
+    "JP": "Japón",
+    "KE": "Kenia",
+    "NG": "Nigeria",
+    "ZA": "Sudáfrica",
+    "EG": "Egipto",
+    "US": "Estados Unidos",
+    "CA": "Canadá",
+    "MX": "México",
+    "BR": "Brasil",
+    "AR": "Argentina",
+    "AU": "Australia",
+    "NZ": "Nueva Zelanda"
   }
 }

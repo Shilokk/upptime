@@ -1,0 +1,29 @@
+{
+  "commonName": "Aglaonema 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Uma planta de interior compacta, com folhas largas, brilhantes e elípticas, salpicadas de verde-prateado sobre uma margem verde-escura, erguendo-se em hastes curtas a partir de uma coroa central. Nativa do solo da floresta tropical das Filipinas e de Sulawesi.",
+  "reasoning": "Folhas largas e elípticas com uma mancha prateada central e margens escuras correspondem de perto à Aglaonema 'Silver Bay'.",
+  "uses": {
+    "edible": "Não é comestível. Todas as partes contêm cristais de oxalato de cálcio que queimam a boca e a garganta. Mantenha fora do alcance de crianças, gatos e cães.",
+    "medicinal": "Não tem uso tradicional seguro. A seiva irrita a pele e os olhos, então lave as mãos depois de replantar.",
+    "ecologicalRole": "Uma planta de sub-bosque que gosta de sombra, típica das florestas tropicais do Sudeste Asiático. Em ambientes internos tolera pouca luz e costuma ser a primeira planta de interior de muita gente.",
+    "pollinatorValue": "Baixo. Raramente floresce em ambientes internos, e suas pequenas espatas brancas atraem poucos insetos.",
+    "waterNeeds": "Moderada. Deixe a superfície do substrato secar entre as regas e mantenha acima de 15 °C.",
+    "culturalUses": "Apreciada em lares chineses e do Sudeste Asiático como trazedora de boa sorte. 'Silver Bay' é um cultivar moderno desenvolvido por suas largas folhas prateadas."
+  },
+  "alternatives": [
+    {
+      "scientificName": "Dieffenbachia seguine",
+      "family": "Araceae",
+      "commonName": "Comigo-ninguém-pode",
+      "reasoning": "Variegação semelhante, mas as folhas da comigo-ninguém-pode são maiores e mais alongadas, sobre um caule grosso parecido com uma cana."
+    },
+    {
+      "scientificName": "Spathiphyllum wallisii",
+      "family": "Araceae",
+      "commonName": "Lírio-da-paz",
+      "reasoning": "Compartilha a folha escura e brilhante, mas as folhas do lírio-da-paz são verdes uniformes, sem marcas prateadas."
+    }
+  ]
+}

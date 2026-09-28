@@ -50,7 +50,8 @@
     "records": "Mes relevés",
     "settings": "Paramètres",
     "leaderboard": "Classement",
-    "community": "Communauté"
+    "community": "Communauté",
+    "explore": "Explorer"
   },
   "languages": {
     "en": "English",
@@ -61,7 +62,20 @@
     "pt": "Português",
     "th": "ไทย",
     "yo": "Yorùbá",
-    "ml": "മലയാളം"
+    "ml": "മലയാളം",
+    "zh": "中文",
+    "vi": "Tiếng Việt",
+    "si": "සිංහල",
+    "id": "Bahasa Indonesia",
+    "ne": "नेपाली",
+    "sw": "Kiswahili",
+    "bn": "বাংলা",
+    "ko": "한국어",
+    "hr": "Hrvatski",
+    "ta": "தமிழ்",
+    "kk": "Қазақ тілі",
+    "ru": "Русский",
+    "ur": "اردو"
   },
   "onboarding": {
     "title": "Choisissez votre langue",
@@ -525,5 +539,58 @@
     "species": "{{count}} espèces",
     "since": "Gardien depuis {{date}}",
     "empty": "Scannez une plante pour obtenir votre premier tampon."
+  },
+  "explore": {
+    "title": "Explorez le globe",
+    "subtitle": "Faites pivoter le globe et touchez un pays pour voir ses plantes communes et ce que les gardiens y ont scanné.",
+    "commonPlants": "Plantes communes",
+    "scannedHere": "Scanné ici",
+    "noScans": "Aucun scan ici pour l'instant. Soyez le premier gardien à scanner une plante dans ce pays.",
+    "stewards": "{{count}} gardiens",
+    "scans": "{{count}} scans",
+    "autoRotate": "Rotation automatique",
+    "topStewards": "Meilleurs gardiens",
+    "countries": "{{count}} pays",
+    "tapCountry": "Touchez un point de pays",
+    "you": "Vos scans"
+  },
+  "translate": {
+    "library": "Traduction de la bibliothèque",
+    "live": "Traduit par Claude",
+    "loading": "Traduction en cours"
+  },
+  "countries": {
+    "GB": "Royaume-Uni",
+    "IE": "Irlande",
+    "ES": "Espagne",
+    "PT": "Portugal",
+    "FR": "France",
+    "DE": "Allemagne",
+    "NO": "Norvège",
+    "HR": "Croatie",
+    "RU": "Russie",
+    "KZ": "Kazakhstan",
+    "IN": "Inde",
+    "LK": "Sri Lanka",
+    "NP": "Népal",
+    "BD": "Bangladesh",
+    "PK": "Pakistan",
+    "TH": "Thaïlande",
+    "VN": "Viêt Nam",
+    "ID": "Indonésie",
+    "CN": "Chine",
+    "KR": "Corée du Sud",
+    "JP": "Japon",
+    "KE": "Kenya",
+    "NG": "Nigéria",
+    "ZA": "Afrique du Sud",
+    "EG": "Égypte",
+    "US": "États-Unis",
+    "CA": "Canada",
+    "MX": "Mexique",
+    "BR": "Brésil",
+    "AR": "Argentine",
+    "AU": "Australie",
+    "NZ": "Nouvelle-Zélande"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "commonName": "Aglaonema 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Une plante d'intérieur compacte aux larges feuilles elliptiques et brillantes, marbrées de vert argenté sur une bordure vert foncé, portées par de courtes tiges partant d'une couronne centrale. Originaire du sol de la forêt tropicale des Philippines et de Sulawesi.",
+  "reasoning": "Les larges feuilles elliptiques avec une tache argentée centrale et des bordures sombres correspondent étroitement à l'Aglaonema 'Silver Bay'.",
+  "uses": {
+    "edible": "Non comestible. Toutes les parties contiennent des cristaux d'oxalate de calcium qui brûlent la bouche et la gorge. Tenez-la hors de portée des enfants, des chats et des chiens.",
+    "medicinal": "Aucun usage traditionnel sûr. La sève irrite la peau et les yeux ; lavez-vous les mains après un rempotage.",
+    "ecologicalRole": "Une plante de sous-bois amatrice d'ombre, originaire des forêts tropicales d'Asie du Sud-Est. En intérieur, elle tolère la faible luminosité et constitue souvent la première plante d'intérieur de beaucoup de gens.",
+    "pollinatorValue": "Faible. Elle fleurit rarement en intérieur, et ses petites spathes blanches attirent peu d'insectes.",
+    "waterNeeds": "Modérés. Laissez sécher le dessus du terreau entre les arrosages et maintenez une température supérieure à 15 °C.",
+    "culturalUses": "Appréciée dans les foyers chinois et d'Asie du Sud-Est comme porte-bonheur. 'Silver Bay' est un cultivar moderne sélectionné pour ses larges feuilles argentées."
+  },
+  "alternatives": [
+    {
+      "scientificName": "Dieffenbachia seguine",
+      "family": "Araceae",
+      "commonName": "Canne des muets",
+      "reasoning": "Bigarrure similaire, mais les feuilles de la canne des muets sont plus grandes et plus oblongues sur une tige épaisse ressemblant à une canne."
+    },
+    {
+      "scientificName": "Spathiphyllum wallisii",
+      "family": "Araceae",
+      "commonName": "Lys de la paix",
+      "reasoning": "Partage le feuillage sombre et brillant, mais les feuilles du lys de la paix sont d'un vert uni, sans marque argentée."
+    }
+  ]
+}

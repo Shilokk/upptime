@@ -1,0 +1,29 @@
+{
+  "commonName": "Aglaonema 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Una planta de interior compacta con hojas anchas, brillantes y elípticas, salpicadas de verde plateado sobre un margen verde oscuro, que se alzan sobre tallos cortos desde una corona central. Originaria del sotobosque de la selva tropical de Filipinas y Sulawesi.",
+  "reasoning": "Las hojas anchas y elípticas con una mancha plateada central y márgenes oscuros coinciden estrechamente con Aglaonema 'Silver Bay'.",
+  "uses": {
+    "edible": "No es comestible. Todas sus partes contienen cristales de oxalato de calcio que queman la boca y la garganta. Manténgala fuera del alcance de niños, gatos y perros.",
+    "medicinal": "No tiene un uso tradicional seguro. La savia irrita la piel y los ojos, así que lávate las manos después de trasplantarla.",
+    "ecologicalRole": "Una planta de sotobosque amante de la sombra propia de las selvas tropicales del sudeste asiático. En interiores tolera la poca luz y suele ser la primera planta de interior de muchas personas.",
+    "pollinatorValue": "Bajo. Rara vez florece en interiores, y sus pequeñas espatas blancas atraen a pocos insectos.",
+    "waterNeeds": "Moderado. Deja que la superficie de la tierra se seque entre riegos y mantenla por encima de 15 °C.",
+    "culturalUses": "Apreciada en los hogares chinos y del sudeste asiático como portadora de buena fortuna. 'Silver Bay' es un cultivar moderno criado por sus anchas hojas plateadas."
+  },
+  "alternatives": [
+    {
+      "scientificName": "Dieffenbachia seguine",
+      "family": "Araceae",
+      "commonName": "Caña muda",
+      "reasoning": "Variegación similar, pero las hojas de la caña muda son más grandes y alargadas sobre un tallo grueso parecido a una caña."
+    },
+    {
+      "scientificName": "Spathiphyllum wallisii",
+      "family": "Araceae",
+      "commonName": "Lirio de la paz",
+      "reasoning": "Comparte la hoja oscura y brillante, pero las hojas del lirio de la paz son de un verde uniforme, sin marcas plateadas."
+    }
+  ]
+}

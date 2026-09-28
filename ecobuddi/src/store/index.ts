@@ -51,7 +51,7 @@ export const useAppStore = create<AppState>()(
       setLanguage: (language) => set((s) => ({ settings: { ...s.settings, language, onboarded: true } })),
       setSettings: (patch) => set((s) => ({ settings: { ...s.settings, ...patch } })),
       addPoints: (n) => set((s) => ({ settings: { ...s.settings, points: s.settings.points + n } })),
-      setTranslation: (key, lang, card) => set((s) => ({ translations: { ...s.translations, [key]: { ...(s.translations[key] ?? {}), [lang]: card } } })),
+      setTranslation: (key, lang, card) => set((s) => ({ translations: { ...s.translations, [key]: { ...s.translations[key], [lang]: card } } })),
       addPost: (p) => set((s) => ({ posts: [p, ...s.posts] })),
       deletePost: (id) => set((s) => ({ posts: s.posts.filter((p) => p.id !== id) })),
       toggleHelpful: (id) =>
