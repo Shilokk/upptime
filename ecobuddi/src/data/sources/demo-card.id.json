@@ -1,0 +1,29 @@
+{
+  "commonName": "Sri Rejeki 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Tanaman hias dalam ruangan yang kompak dengan daun elips lebar dan mengilap, bercorak hijau keperakan di atas tepi hijau tua, tumbuh pada tangkai pendek dari mahkota tengah. Berasal dari lantai hutan hujan Filipina dan Sulawesi.",
+  "reasoning": "Daun elips lebar dengan corak perak di tengah dan tepi gelap sangat cocok dengan Aglaonema 'Silver Bay'.",
+  "uses": {
+    "edible": "Tidak dapat dimakan. Setiap bagiannya mengandung kristal kalsium oksalat yang membakar mulut dan tenggorokan. Jauhkan dari jangkauan anak-anak, kucing, dan anjing.",
+    "medicinal": "Tidak ada penggunaan tradisional yang aman. Getahnya mengiritasi kulit dan mata, jadi cucilah tangan Anda setelah memindahkan tanaman ke pot baru.",
+    "ecologicalRole": "Tanaman lapisan bawah yang menyukai naungan di hutan hujan Asia Tenggara. Di dalam ruangan, ia tahan terhadap cahaya rendah dan menjadi tanaman hias pertama yang umum dipilih.",
+    "pollinatorValue": "Rendah. Ia jarang berbunga di dalam ruangan, dan seludang bunga putihnya yang kecil hanya menarik sedikit serangga.",
+    "waterNeeds": "Sedang. Biarkan permukaan tanah mengering di antara penyiraman dan jaga suhu di atas 15 °C.",
+    "culturalUses": "Dihargai di rumah-rumah Tionghoa dan Asia Tenggara sebagai pembawa keberuntungan. 'Silver Bay' adalah kultivar modern yang dikembangbiakkan untuk daun peraknya yang lebar."
+  },
+  "alternatives": [
+    {
+      "scientificName": "Dieffenbachia seguine",
+      "family": "Araceae",
+      "commonName": "Daun Bahagia",
+      "reasoning": "Corak variegasinya serupa, tetapi daun tanaman Daun Bahagia lebih besar dan lebih lonjong pada batang tebal menyerupai tongkat."
+    },
+    {
+      "scientificName": "Spathiphyllum wallisii",
+      "family": "Araceae",
+      "commonName": "Lili Perdamaian",
+      "reasoning": "Sama-sama memiliki daun gelap mengilap, tetapi daun Lili Perdamaian berwarna hijau polos tanpa corak perak."
+    }
+  ]
+}

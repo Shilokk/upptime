@@ -1,0 +1,322 @@
+{
+  "quercus-robur": {
+    "commonName": "Mwaloni wa Kiingereza",
+    "edible": "Kongoro (mbegu za mwaloni) huliwa tu baada ya kuoshwa mara kwa mara ili kuondoa tanini chungu; hapo zamani zilisagwa kuwa unga wakati wa njaa.",
+    "medicinal": "Gome lenye tanini nyingi lilitumika kimila kama dawa ya kukaza kwa koo linalouma na matatizo ya ngozi.",
+    "ecologicalRole": "Mti muhimu unaosaidia zaidi ya spishi 2,000 za wadudu, fangasi, ndege, na mamalia; miwaloni ya zamani hubeba mende adimu wa mbao mfu.",
+    "culturalUses": "Mbao za meli, mapipa, na majengo ya fremu za mbao; alama ya kitaifa nchini Uingereza na ishara ya uvumilivu.",
+    "description": "Mti mkubwa wa majani yanayoanguka, wenye maisha marefu, majani yaliyokatwakatwa kwa kina yakiwa na mishikilio mifupi sana, na kongoro zikiwa kwenye mabua marefu. Vigogo huwa vikubwa na kupasuka kwa mipasuko yanapozeeka."
+  },
+  "platanus-hispanica": {
+    "commonName": "Platani ya London",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Huvumilia udongo uliobana na uchafuzi wa hewa, hutoa kivuli mitaani na kupoza hewa ya mjini; gome lake humenyuka kwa vipande vinavyoondoa uchafu.",
+    "culturalUses": "Umepandwa kando ya mitaa na viwanja vya London tangu miaka ya 1700, ndio mti maarufu wa jiji hilo kuu.",
+    "description": "Mti mrefu wa mseto wa mitaani wenye majani makubwa yanayofanana na ya mepo, matunda ya duara yenye miiba yanayoning'inia wakati wote wa baridi, na gome lenye mchoro wa kujificha linalobambuka kwa vipande."
+  },
+  "betula-pendula": {
+    "commonName": "Birchi ya Fedha",
+    "edible": "Utomvu wa majira ya masika unaweza kutolewa kama kinywaji chenye utamu kidogo; majani machanga huongezwa kwenye chai.",
+    "medicinal": "Chai ya majani ilitumika kimila kama dawa laini ya kuongeza mkojo, na mafuta ya gome kwa matatizo ya ngozi.",
+    "ecologicalRole": "Mti wa kwanza kuota haraka kwenye ardhi wazi, hurutubisha udongo duni, hulisha viwavi wengi wa nondo, na huhifadhi uyoga wa fly agaric na fangasi wengine.",
+    "culturalUses": "Gome lilitumika kwa moto wa kuwashia na mitumbwi; matawi kwa ajili ya fagio; ishara ya upya katika hadithi za asili za kaskazini.",
+    "description": "Mti mzuri wenye gome jeupe linalomenyuka lenye alama nyeusi za almasi, matawi yanayoning'inia, na majani madogo ya pembe tatu yenye kingo za meno mara mbili."
+  },
+  "fagus-sylvatica": {
+    "commonName": "Fagasi ya Ulaya",
+    "edible": "Njugu za fagasi huliwa kwa kiasi kidogo zikichomwa; majani machanga ya masika ni laini kwenye saladi.",
+    "medicinal": null,
+    "ecologicalRole": "Hutoa kivuli kizito kinachoathiri jamii nzima ya msitu; miaka mizuri ya njugu hulisha ndege wa jay, panya, na nguruwe-mwitu.",
+    "culturalUses": "Gome laini la kijivu limekuwa likichongwa herufi kwa karne nyingi; mbao zake zinathaminiwa kwa fanicha na kuni.",
+    "description": "Mti mzito na wa hadhi wenye gome laini la kijivu-fedha, majani ya mviringo yenye kingo za mawimbi na nywele laini yakiwa machanga, na maganda yenye miiba yanayopasuka kutoa njugu za pembe tatu."
+  },
+  "aesculus-hippocastanum": {
+    "commonName": "Chestinati ya Farasi",
+    "edible": "Haliwiki. Mbegu zake (conkers) zina kemikali ya aesculin na ni sumu kwa binadamu na mbwa; hazihusiani na chestinati tamu zinazoliwa.",
+    "medicinal": "Dondoo za mbegu zilizosanifiwa hutumika Ulaya kwa mzunguko duni wa damu miguuni, lakini mbegu ghafi ni sumu.",
+    "ecologicalRole": "Vishada vikubwa vya maua vinavyofanana na mishumaa hulisha nyuki mwishoni mwa masika; nondo anayechimba majani sasa hubadilisha rangi ya majani mengi kuwa kahawia kufikia Agosti.",
+    "culturalUses": "Mchezo wa jadi wa watoto wa Uingereza wa conkers hufanyika kila vuli kwa kutumia mbegu hizi.",
+    "description": "Mti mkubwa unaotanda wenye majani yanayofanana na kiganja chenye vipande vitano hadi saba, vishada vya maua meupe mwezi Mei, na mbegu za kahawia zinazong'aa ndani ya maganda ya kijani yenye miiba."
+  },
+  "tilia-europaea": {
+    "commonName": "Lindeni ya Kawaida",
+    "edible": "Majani machanga ni mazuri kwenye saladi; maua makavu hutengeneza chai maarufu ya lindeni.",
+    "medicinal": "Chai ya maua ya lindeni ni dawa ya kimila kwa mafua, wasiwasi, na usingizi usiotulia.",
+    "ecologicalRole": "Maua huvuma kwa nyuki mwezi Julai; vidukari kwenye majani huwalisha kunguni-mwari na kudondosha asali-maji chini kwenye njia za miguu.",
+    "culturalUses": "Mti wa lindeni wa kijijini ulikuwa mahali pa mikutano katika Ulaya ya kati; mbao zake laini zinapendwa na wachongaji.",
+    "description": "Mti mrefu wenye majani ya umbo la moyo yenye meno, machipukizi yanayoota chini ya shina, na maua ya njano hafifu yenye harufu nzuri yanayoning'inia chini ya jani jembamba."
+  },
+  "ilex-aquifolium": {
+    "commonName": "Mti wa Holi",
+    "edible": "Hauliwi. Matunda yake mekundu husababisha kutapika yakiliwa.",
+    "medicinal": null,
+    "ecologicalRole": "Hutoa kimbilio la majani ya kijani mwaka mzima kwa ndege wakati wa baridi; matunda hulisha ndege wa thrush na majani huhifadhi kipepeo wa holly blue.",
+    "culturalUses": "Umekuwa ukikatwa kwa mapambo ya katikati ya baridi na Krismasi kwa karne nyingi; mbao zake hutumika kutengeneza vipande vya chesi na mapambo ya kuingiza.",
+    "description": "Mti au kichaka cha majani ya kijani mwaka mzima, yanayong'aa na yenye miiba, meusi-kijani, yanayokuwa laini zaidi juu; maua madogo meupe, na matunda mekundu angavu kwenye mimea ya kike."
+  },
+  "hedera-helix": {
+    "commonName": "Ivi wa Kawaida",
+    "edible": "Hauliwi. Majani na matunda yana sumu kidogo.",
+    "medicinal": "Dondoo za majani zilizosanifiwa hutumika kwenye dawa za kikohozi; majani ghafi yanaweza kuwasha ngozi.",
+    "ecologicalRole": "Maua ya vuli ni chanzo muhimu cha nekta cha marehemu kwa nyuki na inzi-vinu; matunda hulisha ndege wakati wa baridi na ukuaji mzito huhifadhi popo na ndege wa wren wanaotaga.",
+    "culturalUses": "Ishara ya uaminifu inayosukwa kwenye shada za harusi; mapambo ya kijani mwaka mzima kwenye sherehe za katikati ya baridi.",
+    "description": "Mpanda wa mbao wa kijani mwaka mzima wenye majani machanga yaliyokatwakatwa na majani ya utu uzima yasiyokatwa kwenye machipukizi ya maua; vishada vya duara vya maua ya kijani-njano wakati wa vuli na matunda meusi wakati wa masika."
+  },
+  "crataegus-monogyna": {
+    "commonName": "Hawthorni",
+    "edible": "Majani machanga yaliliwa yakiitwa 'mkate na jibini'; matunda yake (haws) hutengenezwa kuwa jeli na ketchapu.",
+    "medicinal": "Maua, majani, na matunda ni dawa ya kimila ya muda mrefu ya kuimarisha moyo; kwa usimamizi tu.",
+    "ecologicalRole": "Maua hulisha wachavushaji wa masika, ukuaji wenye miiba huhifadhi ndege wanaotaga, na matunda huwapa nguvu ndege wa thrush na waxwing wanaohama.",
+    "culturalUses": "Mti wa Mei katika hadithi za asili za Kiingereza; mmea wa jadi wa ua-hai wa mashamba yaliyozungushiwa.",
+    "description": "Mti mdogo wenye miiba na majani yaliyokatwakatwa kwa kina, maua meupe au ya waridi yanayofanana na povu mwezi Mei, na vishada vya matunda meusi-mekundu kila moja likiwa na kokwa moja."
+  },
+  "sambucus-nigra": {
+    "commonName": "Mti wa Eldari",
+    "edible": "Maua huongeza ladha kwenye vinywaji na maandazi; matunda lazima yapikwe kabla ya kuliwa na hutengenezwa kuwa mvinyo na jamu.",
+    "medicinal": "Maandalizi ya maua na matunda ya eldari ni dawa za kimila za mafua na homa ya mafua; matunda mabichi, majani, na gome vina sumu kidogo.",
+    "ecologicalRole": "Hukua haraka kwenye ardhi iliyovurugika; matunda hulisha ndege wengi na maua huvutia inzi-vinu.",
+    "culturalUses": "Umezungukwa na hadithi za asili kuhusu ulinzi na uchawi; mashina yake matupu yalitengenezwa kuwa firimbi na bunduki za kucheza.",
+    "description": "Kichaka chenye majani ya mfululizo yenye vipande vitano hadi saba, vichwa bapa vya maua ya rangi ya cream mwezi Juni, na vishada vinavyoning'inia vya matunda madogo meusi mwishoni mwa kiangazi."
+  },
+  "rubus-fruticosus": {
+    "commonName": "Mchongoma",
+    "edible": "Matunda meusi ni matamu na salama yakiiva; machipukizi machanga na majani hutengeneza chai.",
+    "medicinal": "Chai ya majani ilikuwa dawa ya kimila ya kuhara na vidonda vya mdomo kutokana na tanini zake.",
+    "ecologicalRole": "Maua hulisha nyuki kwa miezi mingi na vichaka vyake huhifadhi ndege wanaotaga, panya wa dormouse, na hedgehog; ni vamizi mahali linapofunika vichaka vya asili nje ya nchi.",
+    "culturalUses": null,
+    "description": "Kichaka chenye miiba kinachopinda, majani yenye vipande vitatu hadi vitano vyenye meno, maua meupe au ya waridi kiangazi kizima, na matunda yanayoiva kutoka kijani hadi mekundu na hatimaye meusi."
+  },
+  "urtica-dioica": {
+    "commonName": "Mchubwi",
+    "edible": "Ncha changa hupoteza mwasho zikipikwa na hutengeneza supu tamu au mbadala wa mchicha.",
+    "medicinal": "Chai na dondoo za mchubwi ni dawa za kimila za mzio wa msimu, maumivu ya viungo, na kama dawa ya kuimarisha mwili masika.",
+    "ecologicalRole": "Mmea wa chakula cha viwavi vya vipepeo wa peacock, small tortoiseshell, red admiral, na comma; ni ishara ya udongo wenye nitrojeni nyingi.",
+    "culturalUses": "Nyuzi zake zilisokotwa kuwa nguo na kamba; dawa ya kienyeji ilihusisha kuuma kwa makusudi kwa ajili ya baridi yabisi.",
+    "description": "Mmea wa kudumu unaosimama wima wenye majani ya umbo la moyo yanayopingana, yenye meno makali na kufunikwa na nywele zinazouma, pamoja na kamba zinazoning'inia za maua madogo ya kijani."
+  },
+  "taraxacum-officinale": {
+    "commonName": "Ua la Jino la Simba",
+    "edible": "Majani machanga ni mboga chungu ya saladi, mizizi huchomwa kama mbadala wa kahawa, na maua hutengenezwa kuwa mvinyo.",
+    "medicinal": "Majani ni dawa ya kimila ya kuongeza mkojo na mzizi ni kichungu cha kusaidia usagaji chakula.",
+    "ecologicalRole": "Mojawapo ya vyanzo muhimu zaidi vya nekta na chavua vya mwanzoni mwa masika kwa nyuki na inzi-vinu.",
+    "culturalUses": null,
+    "description": "Kundi la majani yenye meno lililopangwa duara, lenye mashina matupu yanayotoa utomvu mweupe kama maziwa, vichwa vya maua ya njano angavu, na tufe maarufu la mbegu zinazoruka kwa parachuti."
+  },
+  "bellis-perennis": {
+    "commonName": "Dezi",
+    "edible": "Majani machanga na chipukizi za maua zinaweza kuongezwa kwenye saladi kwa kiasi kidogo.",
+    "medicinal": "Hapo zamani iliitwa 'bruisewort', ilipakwa kwenye michubuko na majeraha katika dawa za kienyeji.",
+    "ecologicalRole": "Huchanua karibu mwaka mzima kwenye nyasi fupi na hulisha nyuki wadogo na inzi-vinu wakati mimea mingine michache inachanua.",
+    "culturalUses": "Mikufu ya dezi na mchezo wa 'ananipenda, hanipendi' ni michezo ya kitamaduni ya utoto.",
+    "description": "Mmea wa kudumu, mfupi, wenye majani ya umbo la kijiko yaliyopangwa bapa kwa duara, na vichwa moja moja vya maua yenye petali nyeupe zenye ncha za waridi kuzunguka kitovu cha njano, ambavyo hufunga usiku."
+  },
+  "trifolium-pratense": {
+    "commonName": "Klova Nyekundu",
+    "edible": "Vichwa vya maua ni vitamu na vinaweza kuliwa vibichi au kukaushwa kwa chai.",
+    "medicinal": "Ilitumika kimila kwa kikohozi na matatizo ya ngozi; dondoo za isoflavone huuzwa kwa dalili za kukoma hedhi.",
+    "ecologicalRole": "Huweka nitrojeni kwenye udongo na ni mmea bora wa malisho kwa nyuki wakubwa (bumblebee), hasa spishi zenye ulimi mrefu.",
+    "culturalUses": null,
+    "description": "Mmea wa kudumu wa malisho wenye majani matatu ya mviringo, kila moja mara nyingi likiwa na alama hafifu ya mstari, na vichwa vya maua ya duara vya rangi ya waridi-zambarau."
+  },
+  "plantago-major": {
+    "commonName": "Mnyasi wa Njiani",
+    "edible": "Majani machanga sana huliwa yakipikwa; majani makubwa zaidi yana nyuzinyuzi. Mbegu zinaweza kuliwa kama psyllium.",
+    "medicinal": "Majani yaliyopondwa ni dawa ya kienyeji ya jadi kwa mauma, majeraha, na muwasho wa mchubwi.",
+    "ecologicalRole": "Hustawi kwenye ardhi inayokanyagwa na njia; mbegu hulisha ndege wa finch na shomoro.",
+    "culturalUses": "Uliitwa 'nyayo ya mzungu' Amerika Kaskazini kwa sababu ulifuata njia za walowezi wa Ulaya.",
+    "description": "Kundi la majani mapana ya mviringo lililokaa karibu na ardhi, lenye mishipa mikubwa sambamba, likitoa vishada vyembamba vya kijani vya maua vinavyofanana na mikia ya panya."
+  },
+  "achillea-millefolium": {
+    "commonName": "Yaro ya Kawaida",
+    "edible": null,
+    "medicinal": "Imepewa jina kwa heshima ya Achilles, ambaye inasemekana aliitumia kuzuia damu ya majeraha ya askari; bado ni dawa ya kimila kwa majeraha, homa, na mafua.",
+    "ecologicalRole": "Vichwa vyake bapa vya maua ni sehemu za kutua kwa inzi-vinu, mende, na nyigu wapweke; mizizi yake mirefu huhimili ukame.",
+    "culturalUses": "Mashina makavu yalitumika kupiga bao la I Ching nchini Uchina.",
+    "description": "Mmea wa kudumu wenye harufu nzuri, majani laini yanayofanana na manyoya na yaliyogawanyika vizuri, na vishada bapa vya maua madogo meupe au ya waridi."
+  },
+  "digitalis-purpurea": {
+    "commonName": "Glavu ya Mbweha",
+    "edible": "Hauliwi. Kila sehemu yake ina sumu kali na inaweza kusimamisha moyo.",
+    "medicinal": "Chanzo cha digoxin, dawa ya moyo; usijitibu kamwe, tofauti kati ya kipimo sahihi na sumu ni ndogo sana.",
+    "ecologicalRole": "Maua yake ya umbo la bomba yamebuniwa kwa ajili ya nyuki wakubwa (bumblebee), ambao hutambaa ndani wakifuata alama za madoa zinazowaongoza.",
+    "culturalUses": "Umezungukwa na hadithi za mizimu; madoa ndani ya maua yalisemekana kuwa alama za vidole vya mizimu.",
+    "description": "Mmea mrefu wa miaka miwili wenye kundi la majani laini yenye manyoya mwaka wa kwanza, na mnara wa kengele za bomba za rangi ya zambarau-waridi zenye madoa mwaka wa pili."
+  },
+  "allium-ursinum": {
+    "commonName": "Kitunguu Saumu cha Mwituni",
+    "edible": "Majani, maua, na balbu vinaliwa vikiwa na ladha laini ya kitunguu saumu; hutumika sana kwenye pesto na supu. Jihadhari na mimea inayofanana nayo kama lily of the valley.",
+    "medicinal": "Kimila hutumiwa kwa shinikizo la damu na kama usafishaji wa masika, kama kitunguu saumu cha kawaida.",
+    "ecologicalRole": "Hufunika kama zulia misitu ya kale yenye unyevu mwezi Aprili na kulisha inzi-vinu wa mapema; ni kiashiria cha msitu wa zamani.",
+    "culturalUses": "'Kitunguu saumu cha dubu' katika tamaduni za Kijerumani na Kislavi, unasemekana kuliwa na dubu wanapoamka kutoka usingizi mzito wa baridi.",
+    "description": "Balbu ya msituni yenye majani mapana yanayong'aa ya umbo la mviringo yenye harufu kali ya kitunguu saumu yakipondwa, na maua meupe yenye umbo la nyota kwenye kishada cha duara."
+  },
+  "hyacinthoides-non-scripta": {
+    "commonName": "Kengele ya Buluu",
+    "edible": "Hauliwi. Sehemu zote zina glikosidi zenye sumu.",
+    "medicinal": null,
+    "ecologicalRole": "Karibu nusu ya kengele za buluu duniani hukua Uingereza; mazulia yake hulisha nyuki na vipepeo wa mapema na huashiria msitu wa kale.",
+    "culturalUses": "Inalindwa kisheria nchini Uingereza; utomvu wake unaonata hapo zamani ulitumika kubandika manyoya kwenye mishale na kufunga vitabu.",
+    "description": "Balbu ya masika yenye majani membamba yanayofanana na ukanda, na vishada vinavyoning'inia upande mmoja vya kengele za rangi ya zambarau-buluu zenye harufu nzuri, ncha za petali zilizojikunja nyuma, na visehemu vya njano vya cream vya chavua."
+  },
+  "ophrys-apifera": {
+    "commonName": "Orkidi ya Nyuki",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Ua hili hufanana na nyuki jike ili kuvutia madume, ingawa Uingereza mara nyingi hujichavusha lenyewe; ni mtaalamu wa ardhi ya chaki na iliyovurugika yenye chokaa nyingi.",
+    "culturalUses": "Ni ugunduzi wa thamani kwa wataalamu wa mimea na ishara ya urejeshaji wa nyasi za mwituni.",
+    "description": "Orkidi ndogo yenye kundi la majani ya kijivu-kijani na maua machache yenye sepal za waridi na mdomo wa kahawia laini kama pamba, wenye muundo unaofanana na nyuki mkubwa (bumblebee)."
+  },
+  "orchis-mascula": {
+    "commonName": "Orkidi ya Zambarau ya Mapema",
+    "edible": null,
+    "medicinal": "Mizizi yake ya kina (tubers) hapo zamani ilitengenezwa kuwa salep, kinywaji kinene kilichouzwa kabla ya kahawa kufika Ulaya.",
+    "ecologicalRole": "Mojawapo ya orkidi za kwanza kuchanua, haitoi nekta lakini hudanganya nyuki wakubwa (bumblebee) wapya kutoka.",
+    "culturalUses": "'Long purples' za Shakespeare katika Hamlet; imezungukwa na hadithi za dawa za mapenzi.",
+    "description": "Orkidi ya msituni na ya nyasi yenye majani yanayong'aa mara nyingi yaliyodondwadondwa na zambarau, na kishada kizito cha maua ya zambarau chenye harufu hafifu ya paka dume."
+  },
+  "dactylorhiza-fuchsii": {
+    "commonName": "Orkidi ya Madoa ya Kawaida",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Orkidi inayopatikana zaidi Uingereza, ikikalia kingo za barabara na malisho ya zamani; hutembelewa na nyuki na nondo wanaoruka mchana.",
+    "culturalUses": null,
+    "description": "Orkidi yenye majani membamba yenye madoa ya zambarau nyeusi na kishada cha umbo la koni cha maua ya waridi hafifu hadi lilac, kila mdomo ukiwa na alama za mikunjo na madoa na kugawanyika sehemu tatu."
+  },
+  "fritillaria-meleagris": {
+    "commonName": "Fritilaria ya Kichwa cha Nyoka",
+    "edible": "Hauliwi. Balbu na majani vina sumu.",
+    "medicinal": null,
+    "ecologicalRole": "Mtaalamu wa malisho ya mafuriko yaliyosimamiwa kimila, sasa ni nadra; maua huchavushwa na nyuki wakubwa wa mapema.",
+    "culturalUses": "Ua rasmi la kaunti ya Oxfordshire; maonyesho maarufu huvutia wageni kwenye Magdalen Meadow na Cricklade kila Aprili.",
+    "description": "Balbu nyembamba ya masika yenye majani kama nyasi na maua yanayoinama yenye umbo la taa, yaliyopigwa muundo wa mraba wa zambarau na nyeupe, mara chache nyeupe tupu."
+  },
+  "primula-vulgaris": {
+    "commonName": "Primrozi ya Kawaida",
+    "edible": "Maua huliwa na hutumika kupamba keki na saladi; majani yanaweza kupikwa.",
+    "medicinal": "Mzizi na ua vilikuwa dawa za kimila za kikohozi na maumivu ya kichwa.",
+    "ecologicalRole": "Miongoni mwa maua ya kwanza ya mwaka, hulisha nyuki wa mapema, inzi-nyuki, na vipepeo wa brimstone.",
+    "culturalUses": "Siku ya Primrose tarehe 19 Aprili huenzi Disraeli; ni alama inayopendwa ya masika katika mashairi.",
+    "description": "Mmea wa kudumu mfupi wenye kundi la majani yaliyokunjamana yenye umbo la ulimi, na maua ya njano hafifu yenye petali tano na kitovu cha njano iliyokoza, kila moja likiwa na bua lake lenye nywele."
+  },
+  "galanthus-nivalis": {
+    "commonName": "Ua la Theluji",
+    "edible": "Hauliwi. Balbu zina sumu na hukosewa kwa urahisi kuwa vitunguu.",
+    "medicinal": "Chanzo cha galantamine, dawa inayotumika kwa hatua za mwanzo za ugonjwa wa Alzheimer's; usitumie mmea ghafi kamwe.",
+    "ecologicalRole": "Huchanua mwishoni mwa baridi wakati mimea mingine michache inachanua, na hufunguka siku za hali ya hewa ya wastani ili kuwalisha nyuki wanaotafuta chakula.",
+    "culturalUses": "Ishara ya matumaini na sikukuu ya Candlemas; 'wapenzi wa galanthus' hukusanya mamia ya aina zenye majina.",
+    "description": "Balbu ndogo yenye majani mawili ya kijivu-kijani yenye umbo la ukanda, na ua moja jeupe linaloinama lenye petali tatu za nje na kikombe cha ndani chenye alama za kijani."
+  },
+  "reynoutria-japonica": {
+    "commonName": "Mnyasi wa Fundo wa Kijapani",
+    "edible": "Machipukizi machanga ya masika yana ladha kali kama rhubarb na hupikwa nchini Japani; kuvuna kunaweza kusambaza vipande vyake, hivyo kuwa mwangalifu.",
+    "medicinal": "Mzizi wake hutumika katika dawa za kimila za Asia Mashariki na ni chanzo cha kibiashara cha resveratrol.",
+    "ecologicalRole": "Huunda vichaka vizito vinavyozuia mwanga kwa mimea asilia kando ya mito na reli; maua yake ya marehemu huwalisha nyuki.",
+    "culturalUses": null,
+    "description": "Mmea wa kudumu wenye nguvu, mashina matupu yenye madoa mekundu yanayofanana na mianzi, majani ya umbo la ngao yenye msingi bapa, na vishada vya maua ya rangi ya cream mwishoni mwa kiangazi. Huota upya kutoka vipande vidogo vya mzizi."
+  },
+  "impatiens-glandulifera": {
+    "commonName": "Balsamu ya Himalaya",
+    "edible": "Mbegu huliwa na zina ladha ya njugu; majani machanga yanaweza kupikwa. Kuokota mbegu kabla hazijapasuka ni njia moja ya kusaidia kuudhibiti.",
+    "medicinal": null,
+    "ecologicalRole": "Hushinda mimea ya kando ya mto kwa ushindani na kuacha kingo wazi kwa mmomonyoko wakati wa baridi; maua yake yenye nekta nyingi huvuruga nyuki kutoka kwa spishi asilia.",
+    "culturalUses": "Ililetwa kwenye bustani za enzi ya Victoria mwaka 1839 na kupewa jina la utani 'kofia ya polisi' kwa umbo la ua lake.",
+    "description": "Mmea wa mwaka mmoja, mrefu na wenye nyama, wenye mashina matupu ya rangi nyekundu, majani ya umbo la mkuki yenye meno yaliyopangwa kwa mizunguko, maua ya waridi yenye kofia, na maganda ya mbegu yanayolipuka yakiguswa."
+  },
+  "heracleum-mantegazzianum": {
+    "commonName": "Mnyasi Jitu wa Nguruwe",
+    "edible": "Hauliwi. Usiguse: utomvu wake husababisha kuungua vikali na malengelenge ukiwa kwenye jua.",
+    "medicinal": null,
+    "ecologicalRole": "Vishada vyake vikubwa hulisha wadudu, lakini makundi yake husongamanisha mimea ya kando ya mto na kuacha udongo wazi kwa mmomonyoko.",
+    "culturalUses": null,
+    "description": "Mmea mkubwa mno wa familia ya karoti, hadi mita tano kwenda juu, wenye mashina yenye madoa ya zambarau na manyoya magumu, majani yaliyokatwa kwa kina yenye upana wa zaidi ya mita moja, na vichwa vya maua meupe vinavyofanana na mwavuli. Mmea hatari kushika."
+  },
+  "rhododendron-ponticum": {
+    "commonName": "Rhododendroni",
+    "edible": "Hauliwi. Majani na nekta yana grayanotoxini; asali itokanayo nayo inaweza kusababisha sumu ya 'asali wazimu'.",
+    "medicinal": null,
+    "ecologicalRole": "Vichaka vyake vizito vya kijani mwaka mzima hufanya udongo kuwa na tindikali na kuzuia mwanga kwa mimea ya msituni; pia huhifadhi ugonjwa wa mimea wa Phytophthora ramorum.",
+    "culturalUses": "Ulipandwa kwenye mashamba makubwa ya enzi ya Victoria kwa ajili ya kificho cha wanyama wa mawindo na rangi ya masika kabla tabia yake ya kuvamia haijaeleweka.",
+    "description": "Kichaka kikubwa cha kijani mwaka mzima chenye majani mazito meusi na vishada vya kuvutia vya maua ya umbo la faneli ya rangi ya zambarau-waridi mwishoni mwa masika."
+  },
+  "buddleja-davidii": {
+    "commonName": "Kichaka cha Vipepeo",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Maua huvutia makundi ya vipepeo na nondo, lakini miche yake hukalia reli, kuta, na ardhi iliyoachwa na inaweza kutawala vichaka vya asili.",
+    "culturalUses": "Mmea maarufu wa bustani za nyumbani tangu kuletwa kwake kutoka Uchina miaka ya 1890.",
+    "description": "Kichaka kinachokua haraka chenye matawi yaliyopinda, majani ya umbo la mkuki ya kijivu-kijani, na vishada virefu vyenye harufu ya asali vya maua ya rangi ya lilac hadi zambarau wakati wa kiangazi."
+  },
+  "prunus-laurocerasus": {
+    "commonName": "Laureli ya Cheri",
+    "edible": "Hauliwi. Majani na mbegu hutoa sumu ya cyanide; kwa sababu hiyo majani yaliyopondwa hunuka kama mlozi.",
+    "medicinal": null,
+    "ecologicalRole": "Hutoroka kutoka kwenye ua-hai hadi msituni ambako kivuli chake kizito huzuia mimea ya ardhini na ustawishaji wa miti.",
+    "culturalUses": "Ua-hai wa kawaida wa faragha; majani yake hapo zamani yalitumika kwenye mitungi ya kuua na wakusanyaji wa vipepeo.",
+    "description": "Kichaka kizito cha kijani mwaka mzima chenye majani makubwa, yanayong'aa na mazito, vishada vilivyosimama vya maua madogo meupe wakati wa masika, na matunda yanayofanana na cheri yanayoiva na kuwa meusi."
+  },
+  "lythrum-salicaria": {
+    "commonName": "Zambarau wa Vinamasi",
+    "edible": null,
+    "medicinal": "Kimila hutumika kwa kuhara na kama maji ya kuosha majeraha kutokana na tanini zake.",
+    "ecologicalRole": "Mmea tajiri wa nekta wa vinamasi vya Uingereza, lakini ni vamizi mkubwa wa vinamasi vya Amerika Kaskazini ambako huondoa mimea asilia.",
+    "culturalUses": null,
+    "description": "Mmea wa kudumu wa vinamasi wenye mashina ya pembe nne, majani ya umbo la mkuki yanayopingana, na vishada virefu na vizito vya maua ya rangi ya magenta yenye petali sita wakati wa kiangazi."
+  },
+  "jacobaea-vulgaris": {
+    "commonName": "Mnyasi wa Njano wa Kawaida",
+    "edible": "Hauliwi. Una alkaloidi zinazoharibu ini; ni sumu kwa farasi na ng'ombe, hasa yakikaushwa kwenye nyasi za malisho.",
+    "medicinal": null,
+    "ecologicalRole": "Husaidia takribani wadudu 30 wataalamu, akiwemo kiwavi wa nondo wa cinnabar mwenye rangi nyeusi na njano, na ni chanzo tajiri cha nekta.",
+    "culturalUses": "Ulipewa jina la utani 'stinking Willie' nchini Scotland kwa heshima ya Duke wa Cumberland; ni mada ya mijadala ya muda mrefu ya udhibiti wa magugu.",
+    "description": "Mmea wa miaka miwili wenye kundi la majani meusi-kijani yaliyokatwakatwa kwa kina, na vishada bapa vya maua ya njano ya dhahabu yanayofanana na dezi kwenye mashina hadi mita moja kwenda juu."
+  },
+  "chamaenerion-angustifolium": {
+    "commonName": "Waridi la Moto",
+    "edible": "Machipukizi machanga yanaweza kupikwa kama asparagus; majani yaliyochachushwa hutengeneza chai ya Kirusi 'Ivan chai'.",
+    "medicinal": "Chai ya majani ilikuwa dawa ya kienyeji ya matatizo ya usagaji chakula na tezi dume.",
+    "ecologicalRole": "Mmea wa kwanza kuota kwenye ardhi iliyoungua na kusafishwa, ndiyo maana huitwa 'fireweed' (mnyasi wa moto); maua hulisha nyuki na majani huhifadhi nondo wa elephant hawk-moth.",
+    "culturalUses": "Ulipewa jina la utani 'bombweed' baada ya kufunika maeneo yaliyolipuliwa na mabomu London miaka ya 1940.",
+    "description": "Mmea mrefu wa kudumu wenye majani membamba yanayofanana na ya mwewe (willow) yaliyozunguka shina kwa ond, na minara mirefu ya maua ya rangi ya waridi yenye petali nne, ikifuatiwa na mbegu laini kama pamba."
+  },
+  "symphytum-officinale": {
+    "commonName": "Kamfrei ya Kawaida",
+    "edible": "Si kwa kuliwa. Ina alkaloidi za pyrrolizidine zinazoharibu ini.",
+    "medicinal": "Inajulikana kama 'knitbone' (kiunga cha mfupa): dawa za majani hutumika nje ya mwili kwa kuteguka na michubuko, kamwe si ndani ya mwili.",
+    "ecologicalRole": "Ina mizizi mirefu na virutubisho vingi; maua hufanyiwa kazi na nyuki wakubwa (bumblebee), baadhi wakitoboa mashimo kuiba nekta.",
+    "culturalUses": "Wakulima wa bustani huloweka majani kutengeneza mbolea ya majimaji yenye nguvu.",
+    "description": "Mmea imara wa kudumu wenye manyoya magumu, majani makubwa, mabaya, ya umbo la mkuki yanayoshuka kwenye shina, na vishada vilivyojikunja vya maua ya kengele ya rangi ya zambarau, waridi, au cream."
+  },
+  "filipendula-ulmaria": {
+    "commonName": "Utamu wa Malisho",
+    "edible": "Maua yenye harufu nzuri ya utamu huongeza ladha kwenye vinywaji, mvinyo wa asali (mead), na vitindamlo.",
+    "medicinal": "Ina salicylates na ndio mmea ambao aspirini ilipewa jina kutokana nao; ni dawa ya kimila ya homa, maumivu, na kiungulia.",
+    "ecologicalRole": "Mmea wa vinamasi na mitaro ambao maua yake yanayofanana na povu huvutia inzi-vinu na mende.",
+    "culturalUses": "Mmea mtakatifu wa Madruidi na mmea uliosambazwa sakafuni enzi za kati.",
+    "description": "Mmea mrefu wa kudumu wa malisho yenye unyevu, majani ya mfululizo, meupe chini, na vishada vizito vinavyofanana na povu vya maua meupe ya cream yenye harufu ya mlozi na asali."
+  },
+  "mentha-aquatica": {
+    "commonName": "Nanaa ya Maji",
+    "edible": "Majani hutumika kama nanaa ya bustani kwa chai, mchuzi, na vinywaji.",
+    "medicinal": "Dawa ya kimila ya kusaidia usagaji chakula na maumivu ya kichwa, kama nanaa nyingine.",
+    "ecologicalRole": "Mmea wa kando ya madimbwi ambao maua yake huvutia nyuki, inzi-vinu, na vipepeo mwishoni mwa kiangazi.",
+    "culturalUses": null,
+    "description": "Mmea wa kudumu wenye harufu nzuri wa ardhi yenye unyevu, majani ya mviringo yenye nywele na meno, mara nyingi yakiwa na mguso wa zambarau, na vichwa vya duara vya maua ya rangi ya lilac-waridi kwenye ncha za mashina."
+  },
+  "rosa-canina": {
+    "commonName": "Waridi Mwitu",
+    "edible": "Matunda ya waridi (rose hips) yana vitamini C nyingi na hutengenezwa kuwa sharubati, jeli, na chai; ondoa kwanza nywele za mbegu zinazowasha.",
+    "medicinal": "Sharubati ya matunda ya waridi ilipewa watoto Uingereza wakati wa vita dhidi ya ugonjwa wa scurvy na bado hutumika kwa afya ya viungo.",
+    "ecologicalRole": "Maua hulisha nyuki na inzi-vinu; matunda hulisha ndege na mamalia wadogo wakati wote wa baridi; mashina yenye miiba huhifadhi viota.",
+    "culturalUses": "Waridi mwitu wa alama za kifalme na hadithi za asili za Kiingereza.",
+    "description": "Kichaka chenye miiba kinachopinda, majani ya mfululizo yenye vipande vitano hadi saba, maua ya waridi hafifu yenye petali tano mwezi Juni, na matunda mekundu yanayong'aa ya umbo la mviringo wakati wa vuli."
+  },
+  "corylus-avellana": {
+    "commonName": "Mti wa Hazeli",
+    "edible": "Njugu za hazeli huliwa zikiwa mbichi au zilizochomwa na huiva mwezi Septemba, kama kindi wataacha yoyote.",
+    "medicinal": null,
+    "ecologicalRole": "Hazeli inayokatwa mara kwa mara huunda msitu wenye kivuli chenye madoa ambao panya wa dormouse, vipepeo wa fritillary, na maua ya masika hutegemea.",
+    "culturalUses": "Vijiti kwa ua za muda, mbao za kuezekea, na fimbo za kutembelea; matawi yenye mfano wa uma kwa kutafuta maji.",
+    "description": "Kichaka chenye mashina mengi, majani ya mviringo, laini, yenye meno mara mbili, vishada vya njano (catkins) mwezi Februari, na njugu kwenye maganda ya majani."
+  }
+}

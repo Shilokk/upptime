@@ -1,0 +1,322 @@
+{
+  "quercus-robur": {
+    "commonName": "Ek Inggris",
+    "edible": "Buah ek dapat dimakan hanya setelah direndam berulang kali untuk menghilangkan tanin pahit; dahulu digiling menjadi tepung pada masa paceklik.",
+    "medicinal": "Kulit kayu yang kaya tanin secara tradisional digunakan sebagai astringen untuk sakit tenggorokan dan keluhan kulit.",
+    "ecologicalRole": "Pohon kunci yang menopang lebih dari 2.000 spesies serangga, jamur, burung, dan mamalia; pohon ek tua menyimpan kumbang kayu lapuk yang langka.",
+    "culturalUses": "Kayu untuk kapal, tong, dan bangunan berangka kayu; lambang nasional Inggris dan simbol ketahanan.",
+    "description": "Pohon gugur daun yang lebar dan berumur panjang dengan daun berlekuk dalam bertangkai sangat pendek serta buah ek yang tergantung pada tangkai panjang. Batangnya menjadi besar dan beralur seiring bertambahnya usia."
+  },
+  "platanus-hispanica": {
+    "commonName": "Plane London",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Tahan terhadap tanah padat dan polusi, menaungi jalan dan mendinginkan udara kota; kulit kayunya mengelupas berkeping-keping membawa serta kotoran.",
+    "culturalUses": "Ditanam di sepanjang jalan dan alun-alun London sejak tahun 1700-an, menjadikannya pohon khas ibu kota.",
+    "description": "Pohon jalanan hibrida yang tinggi dengan daun besar menyerupai daun maple, buah bulat berduri yang bergantung sepanjang musim dingin, dan kulit kayu bermotif kamuflase yang mengelupas berbercak."
+  },
+  "betula-pendula": {
+    "commonName": "Birch Perak",
+    "edible": "Getah musim semi dapat disadap sebagai minuman yang agak manis; daun mudanya ditambahkan ke dalam teh.",
+    "medicinal": "Teh daunnya secara tradisional digunakan sebagai diuretik ringan, dan minyak kulit kayunya untuk masalah kulit.",
+    "ecologicalRole": "Perintis cepat di lahan terbuka yang menyuburkan tanah miskin, menjadi pakan banyak ulat ngengat, dan menjadi inang jamur Amanita muscaria serta jamur lainnya.",
+    "culturalUses": "Kulit kayunya digunakan sebagai sulutan api dan bahan kano; rantingnya untuk sapu lidi; simbol pembaruan dalam cerita rakyat Nordik.",
+    "description": "Pohon anggun dengan kulit kayu putih mengelupas bertanda belah ketupat hitam, ranting menjuntai, dan daun kecil segitiga bertepi bergerigi ganda."
+  },
+  "fagus-sylvatica": {
+    "commonName": "Beech Eropa",
+    "edible": "Buah beech, atau mast, dapat dimakan dalam jumlah kecil setelah dipanggang; daun muda musim semi terasa ringan dalam salad.",
+    "medicinal": null,
+    "ecologicalRole": "Memberi naungan lebat yang membentuk seluruh komunitas hutan; tahun panen mast yang melimpah memberi pakan bagi burung jay, tikus, dan babi hutan.",
+    "culturalUses": "Kulit kayu abu-abu halusnya telah diukir dengan inisial selama berabad-abad; kayunya dihargai untuk furnitur dan kayu bakar.",
+    "description": "Pohon anggun dengan kulit kayu abu-abu keperakan yang halus, daun oval bertepi bergelombang berbulu halus saat muda, dan cangkang berduri yang pecah melepaskan kacang segitiga."
+  },
+  "aesculus-hippocastanum": {
+    "commonName": "Kastanye Kuda",
+    "edible": "Tidak dapat dimakan. Buah conker mengandung aesculin dan beracun bagi manusia maupun anjing; tidak berkerabat dengan kastanye manis.",
+    "medicinal": "Ekstrak biji terstandardisasi digunakan di Eropa untuk sirkulasi kaki yang buruk, tetapi biji mentahnya beracun.",
+    "ecologicalRole": "Tandan bunga besar berbentuk lilin memberi pakan lebah pada akhir musim semi; ngengat pelubang daun kini membuat sebagian besar daun mencokelat pada bulan Agustus.",
+    "culturalUses": "Conker adalah permainan halaman sekolah klasik khas Inggris setiap musim gugur.",
+    "description": "Pohon besar yang melebar dengan daun berbentuk tangan terdiri dari lima hingga tujuh anak daun, tandan bunga putih pada bulan Mei, dan biji cokelat mengilap di dalam kulit hijau berduri."
+  },
+  "tilia-europaea": {
+    "commonName": "Linden Eropa",
+    "edible": "Daun mudanya enak dimakan dalam salad; bunga keringnya dibuat menjadi teh linden yang klasik.",
+    "medicinal": "Teh bunga linden adalah obat tradisional untuk pilek, kecemasan, dan tidur yang gelisah.",
+    "ecologicalRole": "Bunganya dipenuhi dengungan lebah pada bulan Juli; kutu daun di daunnya memberi pakan kepik dan meneteskan embun madu ke trotoar di bawahnya.",
+    "culturalUses": "Pohon linden desa menjadi tempat berkumpul di seluruh Eropa tengah; kayunya yang lunak disukai oleh para pengukir.",
+    "description": "Pohon tinggi dengan daun berbentuk hati bergerigi, tunas yang tumbuh di sekitar pangkal batang, dan bunga kuning pucat harum yang bergantung di bawah brakte daun sempit."
+  },
+  "ilex-aquifolium": {
+    "commonName": "Holly",
+    "edible": "Tidak dapat dimakan. Buah beri merahnya menyebabkan muntah jika dimakan.",
+    "medicinal": null,
+    "ecologicalRole": "Tempat berlindung yang selalu hijau bagi burung yang berdiam di musim dingin; buah berinya memberi pakan burung anis dan daunnya menjadi inang kupu-kupu holly blue.",
+    "culturalUses": "Dipotong untuk dekorasi pertengahan musim dingin dan Natal selama berabad-abad; kayunya digunakan untuk bidak catur dan seni tatah.",
+    "description": "Pohon atau semak selalu hijau dengan daun hijau tua mengilap dan berduri yang menjadi lebih halus di bagian atas, bunga putih kecil, dan buah beri merah cerah pada tanaman betina."
+  },
+  "hedera-helix": {
+    "commonName": "Ivy",
+    "edible": "Tidak dapat dimakan. Daun dan buah berinya sedikit beracun.",
+    "medicinal": "Ekstrak daun terstandardisasi digunakan dalam sirop obat batuk; daun mentahnya dapat mengiritasi kulit.",
+    "ecologicalRole": "Bunga musim gugurnya menjadi sumber nektar akhir musim yang penting bagi lebah dan lalat terbang; buah berinya memberi pakan burung di musim dingin dan pertumbuhannya yang lebat melindungi kelelawar serta burung wren yang bersarang.",
+    "culturalUses": "Simbol kesetiaan yang dianyam ke dalam karangan bunga pernikahan; dekorasi selalu hijau dalam festival pertengahan musim dingin.",
+    "description": "Tumbuhan merambat berkayu yang selalu hijau dengan daun muda berlekuk dan daun dewasa tidak berlekuk pada pucuk berbunga; kelompok bunga hijau-kuning bulat pada musim gugur dan buah beri hitam pada musim semi."
+  },
+  "crataegus-monogyna": {
+    "commonName": "Hawthorn",
+    "edible": "Daun mudanya dahulu digigit sebagai 'roti dan keju'; buahnya (haw) diolah menjadi selai dan saus.",
+    "medicinal": "Bunga, daun, dan buahnya adalah tonik jantung tradisional yang sudah lama digunakan; hanya di bawah pengawasan.",
+    "ecologicalRole": "Bunganya memberi pakan penyerbuk musim semi, pertumbuhan berdurinya melindungi burung yang bersarang, dan buahnya menjadi bahan bakar burung anis serta burung waxwing yang bermigrasi.",
+    "culturalUses": "Pohon Mei dalam cerita rakyat Inggris; tanaman pagar klasik di lahan pertanian berpagar.",
+    "description": "Pohon kecil berduri dengan daun berlekuk dalam, bunga putih atau merah muda yang berbusa pada bulan Mei, dan tandan buah merah tua yang masing-masing berisi satu biji."
+  },
+  "sambucus-nigra": {
+    "commonName": "Elder",
+    "edible": "Bunganya memberi rasa pada minuman kordial dan panekuk; buahnya harus dimasak dahulu sebelum dimakan dan diolah menjadi anggur serta selai.",
+    "medicinal": "Sediaan bunga dan buah elder adalah obat tradisional untuk pilek dan flu; buah, daun, dan kulit kayu mentahnya sedikit beracun.",
+    "ecologicalRole": "Tumbuh cepat di lahan terganggu; buahnya memberi pakan banyak burung dan bunganya menarik lalat terbang.",
+    "culturalUses": "Diselimuti cerita rakyat tentang perlindungan dan sihir; batangnya yang berongga dibuat menjadi peluit dan penembak kacang polong.",
+    "description": "Semak dengan daun menyirip terdiri dari lima hingga tujuh anak daun, kepala bunga krem datar pada bulan Juni, dan tandan buah hitam kecil yang menggantung pada akhir musim panas."
+  },
+  "rubus-fruticosus": {
+    "commonName": "Semak Blackberry",
+    "edible": "Buah blackberry manis dan aman dimakan saat matang; pucuk dan daun mudanya dibuat menjadi teh.",
+    "medicinal": "Teh daunnya adalah obat tradisional untuk diare dan sariawan berkat kandungan taninnya.",
+    "ecologicalRole": "Bunganya memberi pakan lebah selama berbulan-bulan dan semaknya melindungi burung, tikus kayu, serta landak yang bersarang; invasif di tempat yang membekap semak asli di luar negeri.",
+    "culturalUses": null,
+    "description": "Semak berduri yang melengkung dengan daun terdiri dari tiga hingga lima anak daun bergerigi, bunga putih atau merah muda sepanjang musim panas, dan buah yang matang dari hijau melalui merah hingga hitam."
+  },
+  "urtica-dioica": {
+    "commonName": "Jelatang",
+    "edible": "Pucuk mudanya kehilangan sengatannya setelah dimasak dan menjadi sup yang kaya atau pengganti bayam.",
+    "medicinal": "Teh dan ekstrak jelatang secara tradisional digunakan untuk alergi serbuk sari, nyeri sendi, dan sebagai tonik musim semi.",
+    "ecologicalRole": "Tanaman pakan larva bagi kupu-kupu peacock, tortoiseshell kecil, red admiral, dan comma; tanda tanah yang kaya nitrogen.",
+    "culturalUses": "Seratnya dipintal menjadi kain dan tali; pengobatan rakyat melibatkan sengatan yang disengaja untuk rematik.",
+    "description": "Tumbuhan tahunan tegak dengan daun berhadapan berbentuk hati bergerigi tajam yang tertutup rambut penyengat dan untaian bunga hijau kecil yang menggantung."
+  },
+  "taraxacum-officinale": {
+    "commonName": "Dandelion",
+    "edible": "Daun mudanya adalah sayuran salad yang pahit, akarnya dipanggang sebagai pengganti kopi, dan bunganya dibuat menjadi anggur.",
+    "medicinal": "Daunnya adalah diuretik tradisional dan akarnya adalah pahitan pencernaan.",
+    "ecologicalRole": "Salah satu sumber nektar dan serbuk sari awal musim semi yang paling penting bagi lebah dan lalat terbang.",
+    "culturalUses": null,
+    "description": "Roset daun bergerigi dengan batang berongga yang mengeluarkan getah putih susu, kepala bunga kuning cerah, dan bola benih berpayung yang terkenal."
+  },
+  "bellis-perennis": {
+    "commonName": "Bunga Daisy",
+    "edible": "Daun muda dan kuncup bunganya dapat ditambahkan ke salad dalam jumlah kecil.",
+    "medicinal": "Dahulu dikenal sebagai bruisewort, dioleskan pada memar dan luka dalam pengobatan rakyat.",
+    "ecologicalRole": "Berbunga hampir sepanjang tahun di rumput pendek dan memberi pakan lebah kecil serta lalat terbang saat sedikit tanaman lain berbunga.",
+    "culturalUses": "Rangkaian bunga daisy dan permainan 'sayang, tak sayang' adalah permainan klasik masa kecil.",
+    "description": "Tumbuhan tahunan rendah dengan daun berbentuk sendok dalam roset datar dan kepala bunga tunggal berkelopak putih berujung merah muda mengelilingi pusat kuning yang menutup pada malam hari."
+  },
+  "trifolium-pratense": {
+    "commonName": "Semanggi Merah",
+    "edible": "Kepala bunganya manis dan dapat dimakan mentah atau dikeringkan untuk teh.",
+    "medicinal": "Secara tradisional digunakan untuk batuk dan keluhan kulit; ekstrak isoflavonnya dijual untuk gejala menopause.",
+    "ecologicalRole": "Mengikat nitrogen ke dalam tanah dan menjadi tanaman pakan utama bagi lebah bumble, terutama spesies berlidah panjang.",
+    "culturalUses": null,
+    "description": "Tumbuhan tahunan padang rumput dengan tiga anak daun oval, masing-masing sering bertanda pola V pucat, dan kepala bunga bulat merah muda keunguan."
+  },
+  "plantago-major": {
+    "commonName": "Daun Sendok",
+    "edible": "Daun yang sangat muda dapat dimakan setelah dimasak; daun yang lebih tua berserat. Bijinya dapat dimakan seperti psyllium.",
+    "medicinal": "Daun yang dihaluskan adalah tapal rakyat klasik untuk sengatan, luka, dan ruam jelatang.",
+    "ecologicalRole": "Tumbuh subur di tanah yang terinjak-injak dan jalan setapak; bijinya memberi pakan burung kutilang dan burung gereja.",
+    "culturalUses": "Disebut 'jejak kaki orang kulit putih' di Amerika Utara karena mengikuti jalur para pemukim Eropa.",
+    "description": "Roset daun oval lebar yang merayap di tanah dengan urat sejajar yang kuat, mengirim tangkai bunga hijau ramping seperti ekor tikus."
+  },
+  "achillea-millefolium": {
+    "commonName": "Seribu Daun",
+    "edible": null,
+    "medicinal": "Dinamai dari Achilles, yang konon menggunakannya untuk menghentikan pendarahan luka prajurit; masih menjadi obat tradisional untuk luka, demam, dan pilek.",
+    "ecologicalRole": "Kepala bunganya yang datar menjadi landasan bagi lalat terbang, kumbang, dan tawon penyendiri; akarnya yang dalam tahan kekeringan.",
+    "culturalUses": "Batang keringnya digunakan untuk melempar I Ching di Tiongkok.",
+    "description": "Tumbuhan tahunan beraroma dengan daun lembut, berbulu halus, dan terbagi rapat, serta tandan bunga putih atau merah muda kecil berbentuk datar di puncaknya."
+  },
+  "digitalis-purpurea": {
+    "commonName": "Digitalis Ungu",
+    "edible": "Tidak dapat dimakan. Setiap bagiannya sangat beracun dan dapat menghentikan jantung.",
+    "medicinal": "Sumber digoksin, obat jantung; jangan pernah menggunakannya sendiri, batas antara dosis dan racun sangatlah tipis.",
+    "ecologicalRole": "Bunga tabungnya dirancang khusus untuk lebah bumble, yang merangkak masuk mengikuti tanda bintik penuntun.",
+    "culturalUses": "Diselimuti cerita rakyat peri; bintik-bintik di dalam bunganya konon adalah jejak jari peri.",
+    "description": "Tumbuhan dua tahunan yang tinggi dengan roset daun lembut berbulu halus pada tahun pertama dan menara lonceng tabung ungu-merah muda berbintik pada tahun kedua."
+  },
+  "allium-ursinum": {
+    "commonName": "Bawang Liar",
+    "edible": "Daun, bunga, dan umbinya dapat dimakan dengan rasa bawang putih ringan; klasik dalam pesto dan sup. Waspadai tanaman serupa seperti bunga lili lembah.",
+    "medicinal": "Secara tradisional dikonsumsi untuk tekanan darah dan sebagai pembersih musim semi, sama seperti bawang putih budidaya.",
+    "ecologicalRole": "Menutupi hutan lembap kuno seperti karpet pada bulan April dan memberi pakan lalat terbang awal; indikator hutan tua.",
+    "culturalUses": "Disebut bawang putih beruang dalam tradisi Jerman dan Slavia, konon dimakan oleh beruang yang bangun dari hibernasi.",
+    "description": "Umbi hutan dengan daun elips lebar dan mengilap yang berbau bawang putih kuat ketika diremas, serta bunga putih berbintang dalam payung membulat."
+  },
+  "hyacinthoides-non-scripta": {
+    "commonName": "Bunga Lonceng Biru",
+    "edible": "Tidak dapat dimakan. Semua bagiannya mengandung glikosida beracun.",
+    "medicinal": null,
+    "ecologicalRole": "Sekitar setengah bluebell dunia tumbuh di Inggris; hamparannya memberi pakan lebah dan kupu-kupu awal serta menjadi indikator hutan kuno.",
+    "culturalUses": "Dilindungi oleh hukum di Inggris; getahnya yang lengket dahulu digunakan untuk merekatkan bulu ke anak panah dan menjilid buku.",
+    "description": "Umbi musim semi dengan daun sempit menyerupai tali dan tandan bunga lonceng ungu-biru harum yang menjuntai sebelah dengan ujung kelopak menggulung ke belakang serta benang sari krem."
+  },
+  "ophrys-apifera": {
+    "commonName": "Anggrek Lebah",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Bunganya meniru lebah betina untuk memikat lebah jantan, meski di Inggris ia kebanyakan menyerbuki sendiri; spesialis tanah kapur dan tanah berkapur yang terganggu.",
+    "culturalUses": "Temuan yang dihargai oleh para botanis dan simbol pemulihan padang rumput liar.",
+    "description": "Anggrek kecil dengan roset daun hijau keabu-abuan dan beberapa bunga berkelopak merah muda serta bibir cokelat berbulu halus bermotif seperti lebah bumble."
+  },
+  "orchis-mascula": {
+    "commonName": "Anggrek Ungu Awal",
+    "edible": null,
+    "medicinal": "Umbinya dahulu diolah menjadi salep, minuman kental yang dijual sebelum kopi tiba di Eropa.",
+    "ecologicalRole": "Salah satu anggrek pertama yang berbunga, tidak menawarkan nektar tetapi menipu lebah bumble yang baru muncul.",
+    "culturalUses": "'Long purples' milik Shakespeare dalam Hamlet; diselimuti cerita rakyat ramuan cinta.",
+    "description": "Anggrek hutan dan padang rumput dengan daun mengilap yang biasanya bernoda ungu dan tandan bunga ungu padat yang berbau samar seperti kucing jantan."
+  },
+  "dactylorhiza-fuchsii": {
+    "commonName": "Anggrek Bertotol Umum",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Anggrek Inggris yang paling sering ditemui, menjajah tepi jalan dan padang rumput tua; dikunjungi lebah dan ngengat yang terbang siang hari.",
+    "culturalUses": null,
+    "description": "Anggrek dengan daun sempit bertotol ungu tua dan tandan kerucut bunga merah muda pucat hingga lila, tiap bibirnya bertanda lingkaran dan titik serta terbagi tiga cuping."
+  },
+  "fritillaria-meleagris": {
+    "commonName": "Fritilaria Kepala Ular",
+    "edible": "Tidak dapat dimakan. Umbi dan daunnya beracun.",
+    "medicinal": null,
+    "ecologicalRole": "Spesialis padang rumput banjir yang dikelola secara tradisional, kini langka; bunganya diserbuki oleh lebah bumble awal.",
+    "culturalUses": "Bunga khas wilayah Oxfordshire; tampilannya yang terkenal menarik pengunjung ke Magdalen Meadow dan Cricklade setiap bulan April.",
+    "description": "Umbi musim semi yang ramping dengan daun seperti rumput dan bunga menunduk berbentuk lentera bermotif kotak-kotak ungu dan putih, kadang putih polos."
+  },
+  "primula-vulgaris": {
+    "commonName": "Bunga Primrose",
+    "edible": "Bunganya dapat dimakan dan digunakan untuk menghias kue serta salad; daunnya dapat dimasak.",
+    "medicinal": "Akar dan bunganya adalah obat tradisional untuk batuk dan sakit kepala.",
+    "ecologicalRole": "Salah satu bunga pertama tahun ini, memberi pakan lebah awal, lalat lebah, dan kupu-kupu brimstone.",
+    "culturalUses": "Hari Primrose pada 19 April memperingati Disraeli; lambang musim semi yang dicintai dalam puisi.",
+    "description": "Tumbuhan tahunan rendah dengan roset daun keriput berbentuk lidah dan bunga kuning pucat berkelopak lima dengan mata kuning lebih tua, masing-masing pada tangkai berbulunya sendiri."
+  },
+  "galanthus-nivalis": {
+    "commonName": "Tetesan Salju",
+    "edible": "Tidak dapat dimakan. Umbinya beracun dan mudah keliru dengan bawang.",
+    "medicinal": "Sumber galantamin, obat untuk penyakit Alzheimer tahap awal; jangan pernah gunakan tanaman mentahnya.",
+    "ecologicalRole": "Berbunga di akhir musim dingin saat hampir tidak ada tanaman lain berbunga, dan mekar pada hari-hari hangat untuk memberi imbalan kepada lebah pencari makan.",
+    "culturalUses": "Simbol harapan dan Candlemas; para 'galanthophile' mengoleksi ratusan varietas bernama.",
+    "description": "Umbi kecil dengan dua daun berbentuk tali hijau keabu-abuan dan satu bunga putih menunduk dengan tiga kelopak luar serta cangkir dalam bertanda hijau."
+  },
+  "reynoutria-japonica": {
+    "commonName": "Rumput Simpul Jepang",
+    "edible": "Pucuk musim semi mudanya berasa seperti rhubarb yang tajam dan dimasak di Jepang; memanennya dapat menyebarkan pecahan tanaman, jadi harus berhati-hati.",
+    "medicinal": "Akarnya digunakan dalam pengobatan tradisional Asia Timur dan menjadi sumber komersial resveratrol.",
+    "ecologicalRole": "Membentuk rumpun padat yang menaungi tanaman asli di sepanjang sungai dan rel kereta; bunganya yang mekar belakangan tetap memberi pakan lebah.",
+    "culturalUses": null,
+    "description": "Tumbuhan tahunan yang kuat dengan batang berongga mirip bambu berbintik merah, daun berbentuk perisai dengan pangkal rata, dan tandan bunga krem pada akhir musim panas. Tumbuh kembali dari pecahan akar yang sangat kecil."
+  },
+  "impatiens-glandulifera": {
+    "commonName": "Pacar Air Himalaya",
+    "edible": "Bijinya dapat dimakan dan berasa seperti kacang; daun mudanya dapat dimasak. Memetik biji sebelum meletus adalah salah satu cara membantu mengendalikannya.",
+    "medicinal": null,
+    "ecologicalRole": "Mengalahkan tanaman tepi sungai dalam persaingan dan membuat tepian gundul rentan erosi di musim dingin; bunganya yang kaya nektar mengalihkan lebah dari spesies asli.",
+    "culturalUses": "Diperkenalkan ke taman era Victoria pada tahun 1839 dan dijuluki 'helm polisi' karena bentuk bunganya.",
+    "description": "Tumbuhan semusim yang tinggi dan berdaging dengan batang berongga kemerahan, daun bergerigi berbentuk tombak dalam lingkaran, bunga merah muda berkerudung, dan polong biji yang meledak saat disentuh."
+  },
+  "heracleum-mantegazzianum": {
+    "commonName": "Peterseli Raksasa",
+    "edible": "Tidak dapat dimakan. Jangan sentuh: getahnya menyebabkan luka bakar dan lepuh parah bila terkena sinar matahari.",
+    "medicinal": null,
+    "ecologicalRole": "Payung bunganya yang besar memberi pakan serangga, tetapi rumpunnya menyingkirkan tanaman tepi sungai dan membuat tanah rentan erosi.",
+    "culturalUses": null,
+    "description": "Tumbuhan berbunga payung raksasa hingga lima meter tingginya dengan batang berbintik ungu yang berbulu kasar, daun berlekuk dalam lebih dari satu meter lebarnya, dan kepala bunga putih seperti payung. Tanaman berbahaya untuk dipegang."
+  },
+  "rhododendron-ponticum": {
+    "commonName": "Rododendron",
+    "edible": "Tidak dapat dimakan. Daun dan nektarnya mengandung grayanotoksin; madu darinya dapat menyebabkan keracunan 'madu gila'.",
+    "medicinal": null,
+    "ecologicalRole": "Rumpun selalu hijau yang lebat mengasamkan tanah dan menaungi flora hutan; juga menjadi inang penyakit tanaman Phytophthora ramorum.",
+    "culturalUses": "Ditanam di perkebunan era Victoria untuk perlindungan hewan buruan dan warna musim semi sebelum sifat invasifnya dipahami.",
+    "description": "Semak selalu hijau berukuran besar dengan daun gelap berkulit dan tandan bunga berbentuk corong ungu-merah muda yang mencolok pada akhir musim semi."
+  },
+  "buddleja-davidii": {
+    "commonName": "Semak Kupu-kupu",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Bunganya menarik gerombolan kupu-kupu dan ngengat, tetapi semainya menjajah rel kereta, tembok, dan lahan bekas industri serta dapat mendominasi semak asli.",
+    "culturalUses": "Tanaman andalan taman pedesaan sejak diperkenalkan dari Tiongkok pada tahun 1890-an.",
+    "description": "Semak yang tumbuh cepat dengan cabang melengkung, daun berbentuk tombak hijau keabu-abuan, dan kerucut panjang beraroma madu berwarna lila hingga ungu pada musim panas."
+  },
+  "prunus-laurocerasus": {
+    "commonName": "Laurel Ceri",
+    "edible": "Tidak dapat dimakan. Daun dan bijinya melepaskan sianida; itulah sebabnya daun yang diremas berbau seperti badam.",
+    "medicinal": null,
+    "ecologicalRole": "Lolos dari pagar tanaman ke hutan, tempat naungannya yang tebal menekan flora dasar dan regenerasi pohon.",
+    "culturalUses": "Pagar privasi yang umum; daunnya dahulu digunakan dalam toples pembunuh oleh kolektor kupu-kupu.",
+    "description": "Semak selalu hijau yang lebat dengan daun besar, mengilap, dan berkulit, tandan tegak bunga putih kecil pada musim semi, serta buah menyerupai ceri yang matang menjadi hitam."
+  },
+  "lythrum-salicaria": {
+    "commonName": "Lythrum Ungu",
+    "edible": null,
+    "medicinal": "Secara tradisional digunakan untuk diare dan sebagai pencuci luka berkat kandungan taninnya.",
+    "ecologicalRole": "Tanaman nektar yang kaya di lahan basah Inggris, tetapi penyerbu serius di rawa Amerika Utara tempat ia menggantikan tanaman asli.",
+    "culturalUses": null,
+    "description": "Tumbuhan tahunan lahan basah dengan batang persegi, daun berhadapan berbentuk tombak, dan tandan padat tinggi berisi bunga magenta berkelopak enam pada musim panas."
+  },
+  "jacobaea-vulgaris": {
+    "commonName": "Ragwort Umum",
+    "edible": "Tidak dapat dimakan. Mengandung alkaloid yang merusak hati; beracun bagi kuda dan sapi, terutama saat dikeringkan dalam jerami.",
+    "medicinal": null,
+    "ecologicalRole": "Menopang sekitar 30 serangga spesialis, termasuk ulat ngengat cinnabar berwarna hitam-kuning, dan menjadi sumber nektar yang kaya.",
+    "culturalUses": "Dijuluki 'stinking Willie' di Skotlandia menurut nama Duke of Cumberland; menjadi topik perdebatan pengendalian gulma yang panjang.",
+    "description": "Tumbuhan dua tahunan dengan roset daun hijau tua berlekuk dalam dan tandan datar bunga kuning keemasan menyerupai bunga aster pada batang setinggi hingga satu meter."
+  },
+  "chamaenerion-angustifolium": {
+    "commonName": "Bunga Api",
+    "edible": "Pucuk mudanya dapat dimasak seperti asparagus; daun yang difermentasi menjadi teh Rusia 'Ivan chai'.",
+    "medicinal": "Teh daunnya adalah obat rakyat untuk keluhan pencernaan dan prostat.",
+    "ecologicalRole": "Perintis tanah yang terbakar dan dibersihkan, karenanya disebut 'fireweed'; bunganya memberi pakan lebah dan daunnya menjadi inang ngengat elang gajah.",
+    "culturalUses": "Dijuluki 'bombweed' setelah menutupi lokasi bom London pada tahun 1940-an.",
+    "description": "Tumbuhan tahunan tinggi dengan daun sempit menyerupai daun willow yang melingkar naik di sepanjang batang serta menara panjang bunga merah muda berkelopak empat yang diikuti biji berbulu halus."
+  },
+  "symphytum-officinale": {
+    "commonName": "Komprei",
+    "edible": "Tidak untuk dimakan. Mengandung alkaloid pirolizidin yang merusak hati.",
+    "medicinal": "Dikenal sebagai 'penyambung tulang': tapal daunnya digunakan secara eksternal untuk keseleo dan memar, tidak pernah diminum.",
+    "ecologicalRole": "Berakar dalam dan kaya nutrisi; bunganya dikerjakan oleh lebah bumble, beberapa di antaranya menggigit lubang untuk mencuri nektar.",
+    "culturalUses": "Para tukang kebun merendam daunnya untuk membuat pupuk cair yang kuat.",
+    "description": "Tumbuhan tahunan yang kokoh dan berbulu kasar dengan daun besar, kasar, berbentuk tombak yang menyambung ke batang, serta tandan bunga lonceng ungu, merah muda, atau krem yang menggulung."
+  },
+  "filipendula-ulmaria": {
+    "commonName": "Ratu Padang",
+    "edible": "Bunganya yang harum memberi rasa pada minuman kordial, mead, dan hidangan penutup.",
+    "medicinal": "Mengandung salisilat dan menjadi tanaman asal nama aspirin; obat tradisional untuk demam, nyeri, dan sakit maag.",
+    "ecologicalRole": "Tanaman lahan basah dan parit yang bunganya berbusa menarik lalat terbang dan kumbang.",
+    "culturalUses": "Tanaman suci kaum Druid dan tanaman penghampar lantai pada abad pertengahan.",
+    "description": "Tumbuhan tahunan padang rumput lembap yang tinggi dengan daun menyirip, putih di bagian bawah, serta tandan padat berbusa bunga putih krem yang berbau badam dan madu."
+  },
+  "mentha-aquatica": {
+    "commonName": "Mint Air",
+    "edible": "Daunnya digunakan seperti mint kebun untuk teh, saus, dan minuman.",
+    "medicinal": "Obat pencernaan tradisional dan penawar sakit kepala, seperti mint lainnya.",
+    "ecologicalRole": "Tanaman tepi kolam yang bunganya menarik lebah, lalat terbang, dan kupu-kupu pada akhir musim panas.",
+    "culturalUses": null,
+    "description": "Tumbuhan tahunan beraroma di tanah basah dengan daun oval berbulu dan bergerigi, sering bernuansa ungu, serta kepala bunga lila-merah muda yang membulat di ujung batang."
+  },
+  "rosa-canina": {
+    "commonName": "Mawar Anjing",
+    "edible": "Buah rosehip kaya vitamin C dan diolah menjadi sirop, selai, dan teh; buang dahulu rambut biji yang mengiritasi.",
+    "medicinal": "Sirop rosehip diberikan kepada anak-anak pada masa perang di Inggris untuk mencegah skorbut dan masih digunakan untuk kesehatan sendi.",
+    "ecologicalRole": "Bunganya memberi pakan lebah dan lalat terbang; buahnya memberi pakan burung dan mamalia kecil sepanjang musim dingin; batang berdurinya melindungi sarang.",
+    "culturalUses": "Mawar liar dalam heraldik dan cerita rakyat Inggris.",
+    "description": "Semak berduri yang melengkung dengan daun menyirip terdiri dari lima hingga tujuh anak daun, bunga merah muda pucat berkelopak lima pada bulan Juni, dan buah rosehip oval merah mengilap pada musim gugur."
+  },
+  "corylus-avellana": {
+    "commonName": "Hazel",
+    "edible": "Kacang hazel dapat dimakan mentah atau dipanggang dan matang pada bulan September, jika tupai tidak menghabiskannya.",
+    "medicinal": null,
+    "ecologicalRole": "Hazel yang dipangkas menciptakan hutan berbintik cahaya yang menjadi andalan tikus kayu, kupu-kupu fritillary, dan bunga musim semi.",
+    "culturalUses": "Batang untuk pagar anyaman, penjepit atap jerami, dan tongkat jalan; ranting bercabang untuk mencari sumber air.",
+    "description": "Semak berbatang banyak dengan daun bulat, lembut, bergerigi ganda, bunga jantan berwarna kuning pada bulan Februari, dan kacang dalam kulit berdaun."
+  }
+}

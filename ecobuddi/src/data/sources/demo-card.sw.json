@@ -1,0 +1,29 @@
+{
+  "commonName": "Aglaonema ya Fedha 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Mmea mdogo wa ndani wenye majani mapana, yanayong'aa, ya mviringo, yenye rangi ya fedha-kijani iliyomiminwa juu ya ukingo mzito wa kijani, ukiinuka kwenye mashina mafupi kutoka kitovu cha kati. Asili yake ni sakafu ya msitu wa mvua wa Ufilipino na Sulawesi.",
+  "reasoning": "Majani mapana ya mviringo yenye mminyiko wa fedha katikati na kingo nzito zinalingana kwa karibu na Aglaonema 'Silver Bay'.",
+  "uses": {
+    "edible": "Hauliwi. Kila sehemu ina fuwele za calcium oxalate zinazounguza mdomo na koo. Iweke mbali na watoto, paka, na mbwa.",
+    "medicinal": "Hakuna matumizi salama ya kimila. Utomvu wake huwasha ngozi na macho, hivyo nawa mikono baada ya kuupandikiza kwenye chungu kingine.",
+    "ecologicalRole": "Mmea unaopenda kivuli wa chini ya msitu wa mvua wa Kusini-mashariki mwa Asia. Ndani ya nyumba huvumilia mwanga hafifu na ni mmea wa kawaida wa kwanza wa ndani.",
+    "pollinatorValue": "Kidogo. Huchanua mara chache ukiwa ndani ya nyumba, na maua yake madogo meupe (spathe) huvutia wadudu wachache.",
+    "waterNeeds": "Wastani. Acha sehemu ya juu ya udongo ikauke kati ya kumwagilia, na uwe na joto zaidi ya nyuzi 15 °C.",
+    "culturalUses": "Unathaminiwa katika nyumba za Kichina na za Kusini-mashariki mwa Asia kama mleta bahati njema. 'Silver Bay' ni aina ya kisasa iliyofugwa kwa ajili ya majani yake mapana ya fedha."
+  },
+  "alternatives": [
+    {
+      "scientificName": "Dieffenbachia seguine",
+      "family": "Araceae",
+      "commonName": "Mwanzi Bubu",
+      "reasoning": "Muundo wa rangi unaofanana, lakini majani ya Mwanzi Bubu ni makubwa zaidi na ya mviringo zaidi kwenye shina nene linalofanana na mwanzi."
+    },
+    {
+      "scientificName": "Spathiphyllum wallisii",
+      "family": "Araceae",
+      "commonName": "Yungiyungi wa Amani",
+      "reasoning": "Ina jani zito linalong'aa kama hilo, lakini majani ya Yungiyungi wa Amani ni kijani tupu bila alama za fedha."
+    }
+  ]
+}
