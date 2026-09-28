@@ -1,0 +1,29 @@
+{
+  "commonName": "Aglaonema 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Kompaktna sobna biljka širokih, sjajnih, eliptičnih listova poprskanih srebrnozelenom bojom preko tamnozelenog ruba, koji rastu na kratkim stapkama iz središnje krune. Izvorno raste na tlu kišnih šuma Filipina i Sulawesija.",
+  "reasoning": "Široki eliptični listovi sa srebrnom mrljom u sredini i tamnim rubovima blisko odgovaraju vrsti Aglaonema 'Silver Bay'.",
+  "uses": {
+    "edible": "Nije jestivo. Svaki dio sadrži kristale kalcijeva oksalata koji peku usta i grlo. Držite je podalje od djece, mačaka i pasa.",
+    "medicinal": "Nema sigurne tradicionalne upotrebe. Sok nadražuje kožu i oči, stoga operite ruke nakon presađivanja.",
+    "ecologicalRole": "Biljka podrasta koja voli sjenu, iz kišnih šuma jugoistočne Azije. U zatvorenom prostoru podnosi slabo svjetlo i čest je izbor za prvu sobnu biljku.",
+    "pollinatorValue": "Niska. Rijetko cvate u zatvorenom prostoru, a njezine sitne bijele cvatne ovojnice privlače malo kukaca.",
+    "waterNeeds": "Umjerene. Pustite da se površina tla osuši između zalijevanja i držite je iznad 15 °C.",
+    "culturalUses": "Cijenjena u kineskim i jugoistočnoazijskim domovima kao donositeljica sreće. 'Silver Bay' moderna je sorta uzgojena zbog svojih širokih srebrnih listova."
+  },
+  "alternatives": [
+    {
+      "scientificName": "Dieffenbachia seguine",
+      "family": "Araceae",
+      "commonName": "Difenbahija",
+      "reasoning": "Slična šarenost, no listovi difenbahije veći su i izduženiji, na debeloj stabljici nalik trsci."
+    },
+    {
+      "scientificName": "Spathiphyllum wallisii",
+      "family": "Araceae",
+      "commonName": "Spatifilum",
+      "reasoning": "Dijeli sjajan tamni list, no listovi spatifiluma jednolično su zeleni, bez srebrnog uzorka."
+    }
+  ]
+}
