@@ -8,6 +8,7 @@ export default function MobileShell() {
   const tabs = [
     { to: '/', label: t('tabs.identify'), icon: 'M4 7h3l2-3h6l2 3h3v12H4z M12 17a4 4 0 100-8 4 4 0 000 8z' },
     { to: '/records', label: t('tabs.records'), icon: 'M5 4h14v16H5z M8 8h8 M8 12h8 M8 16h5' },
+    { to: '/leaderboard', label: t('tabs.leaderboard'), icon: 'M8 21h8 M12 17v4 M7 4h10v5a5 5 0 01-10 0z M7 6H4v2a3 3 0 003 3 M17 6h3v2a3 3 0 01-3 3' },
     { to: '/settings', label: t('tabs.settings'), icon: 'M12 8a4 4 0 100 8 4 4 0 000-8z M4 12h2 M18 12h2 M12 4v2 M12 18v2 M6.3 6.3l1.4 1.4 M16.3 16.3l1.4 1.4 M6.3 17.7l1.4-1.4 M16.3 7.7l1.4-1.4' },
   ]
   return (

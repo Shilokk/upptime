@@ -14,7 +14,7 @@ const here = path.dirname(fileURLToPath(import.meta.url))
 const app = express()
 app.use(express.json({ limit: '15mb' }))
 
-const LANG_NAMES: Record<string, string> = { en: 'English', es: 'Spanish', hi: 'Hindi', ar: 'Arabic', fr: 'French', pt: 'Portuguese' }
+const LANG_NAMES: Record<string, string> = { en: 'English', es: 'Spanish', pt: 'Portuguese', th: 'Thai', yo: 'Yoruba', ml: 'Malayalam', fr: 'French', hi: 'Hindi', ar: 'Arabic' }
 
 const IdentifySchema = z.object({
   candidates: z.array(z.object({

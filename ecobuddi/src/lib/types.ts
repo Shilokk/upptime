@@ -1,4 +1,4 @@
-export type Lang = 'en' | 'es' | 'hi' | 'ar' | 'fr' | 'pt'
+export type Lang = 'en' | 'es' | 'pt' | 'th' | 'yo' | 'ml' | 'fr' | 'hi' | 'ar'
 export type Organ = 'leaf' | 'flower' | 'fruit' | 'bark'
 export type ConfidenceBand = 'high' | 'likely' | 'uncertain'
 export type TimeBand = 'dawn' | 'morning' | 'midday' | 'afternoon' | 'dusk' | 'night'

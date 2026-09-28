@@ -6,6 +6,7 @@ import { warmUpServer } from '@/lib/identify'
 import MobileShell from '@/app/MobileShell'
 import IdentifyPage from '@/app/pages/IdentifyPage'
 import RecordsPage from '@/app/pages/RecordsPage'
+import LeaderboardPage from '@/app/pages/LeaderboardPage'
 import SettingsPage from '@/app/pages/SettingsPage'
 import AgencyPage from '@/agency/AgencyPage'
 
@@ -26,6 +27,7 @@ export default function App() {
       <Route element={<MobileShell />}>
         <Route index element={<IdentifyPage />} />
         <Route path="records" element={<RecordsPage />} />
+        <Route path="leaderboard" element={<LeaderboardPage />} />
         <Route path="settings" element={<SettingsPage />} />
       </Route>
     </Routes>

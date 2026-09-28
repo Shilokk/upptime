@@ -6,7 +6,7 @@ import { fileURLToPath } from 'node:url'
 
 const here = dirname(fileURLToPath(import.meta.url))
 const src = resolve(here, '../src/data/sources')
-const LANGS = ['en', 'es', 'hi', 'ar', 'fr', 'pt']
+const LANGS = ['en', 'es', 'pt', 'th', 'yo', 'ml', 'fr', 'hi', 'ar']
 const base = JSON.parse(readFileSync(resolve(src, 'species.base.json'), 'utf8'))
 const texts = {}
 for (const lang of LANGS) {

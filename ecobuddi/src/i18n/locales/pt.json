@@ -48,7 +48,8 @@
     "identify": "Identificar",
     "nearby": "Por perto",
     "records": "Meus registros",
-    "settings": "Configurações"
+    "settings": "Configurações",
+    "leaderboard": "Ranking"
   },
   "languages": {
     "en": "English",
@@ -56,7 +57,10 @@
     "hi": "हिन्दी",
     "ar": "العربية",
     "fr": "Français",
-    "pt": "Português"
+    "pt": "Português",
+    "th": "ไทย",
+    "yo": "Yorùbá",
+    "ml": "മലയാളം"
   },
   "onboarding": {
     "title": "Escolha o seu idioma",
@@ -471,5 +475,15 @@
     "cameraUnavailable": "Câmera não disponível. Escolha uma foto da sua galeria.",
     "generic": "Algo deu errado.",
     "storage": "Não foi possível salvar neste dispositivo."
+  },
+  "leaderboard": {
+    "title": "Ranking",
+    "subtitle": "Ordenado pelo número de espécies diferentes fotografadas",
+    "species": "{{count}} espécies",
+    "uploads": "{{count}} envios",
+    "you": "Você",
+    "yourRank": "Sua posição: nº {{rank}}",
+    "empty": "Ainda não há observações. Fotografe uma planta para entrar no ranking.",
+    "rank": "Posição"
   }
 }

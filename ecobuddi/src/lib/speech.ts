@@ -1,6 +1,6 @@
 import type { Lang } from './types'
 
-const BCP47: Record<Lang, string> = { en: 'en-GB', es: 'es-ES', hi: 'hi-IN', ar: 'ar-SA', fr: 'fr-FR', pt: 'pt-BR' }
+const BCP47: Record<Lang, string> = { en: 'en-GB', es: 'es-ES', pt: 'pt-BR', th: 'th-TH', yo: 'yo-NG', ml: 'ml-IN', fr: 'fr-FR', hi: 'hi-IN', ar: 'ar-SA' }
 
 export function bcp47(lang: Lang): string {
   return BCP47[lang] ?? 'en-GB'

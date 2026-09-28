@@ -48,7 +48,8 @@
     "identify": "تعرّف",
     "nearby": "حولك",
     "records": "سجلاتي",
-    "settings": "الإعدادات"
+    "settings": "الإعدادات",
+    "leaderboard": "لوحة المتصدرين"
   },
   "languages": {
     "en": "English",
@@ -56,7 +57,10 @@
     "hi": "हिन्दी",
     "ar": "العربية",
     "fr": "Français",
-    "pt": "Português"
+    "pt": "Português",
+    "th": "ไทย",
+    "yo": "Yorùbá",
+    "ml": "മലയാളം"
   },
   "onboarding": {
     "title": "اختر لغتك",
@@ -471,5 +475,15 @@
     "cameraUnavailable": "الكاميرا غير متاحة. اختر صورة من معرضك.",
     "generic": "حدث خطأ ما.",
     "storage": "تعذّر الحفظ على هذا الجهاز."
+  },
+  "leaderboard": {
+    "title": "لوحة المتصدرين",
+    "subtitle": "مرتّبة حسب عدد الأنواع المختلفة التي تم تصويرها",
+    "species": "{{count}} نوعًا",
+    "uploads": "{{count}} صورة",
+    "you": "أنت",
+    "yourRank": "ترتيبك: #{{rank}}",
+    "empty": "لا توجد مشاهدات بعد. صوّر نبتة للدخول إلى اللوحة.",
+    "rank": "الترتيب"
   }
 }

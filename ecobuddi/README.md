@@ -30,15 +30,16 @@ Every external call has a fallback so the demo never dies on stage:
 1. Open `http://localhost:5173`. The header pill shows Live AI or Demo mode.
 2. Identify tab: Take a photo (or Choose from gallery), pick the organ (Leaf/Flower/Fruit/Bark), tap Identify plant. Skeleton loader, then the confidence ring animates, the best match fades in, and two tap-to-choose alternatives appear with reasoning.
 3. Scroll to "What this plant does": description and uses. Edible and medicinal notes are locked below 85% confidence and carry a fixed disclaimer when shown. Invasive species get a terracotta banner.
-4. Settings tab: switch to Español. Go back: the whole UI and the uses card re-render in Spanish.
+4. Settings tab: switch to Español or Português (main languages), or Thai, Yoruba, Malayalam, French, Hindi, Arabic. Go back: the whole UI and the uses card re-render in that language.
 5. Add a habitat note, tap Save observation, then View record: it appears in My Records with confidence, time of day, coordinates, and GPS accuracy.
-6. Tap `/agency` in the header: a Leaflet map of the 60 seeded observations coloured by confidence band (green High, amber Likely, grey Uncertain) plus your new one. Click a point for the photo and details. Download CSV or GeoJSON. Toggle "Verified buyer view" to export exact coordinates for sensitive species (rounded to 2 decimals otherwise).
+6. Leaderboard tab: observers ranked by how many different species they have photographed, uploads as tiebreaker, with your own rank pinned at the top.
+7. Tap `/agency` in the header: a Leaflet map of the 60 seeded observations coloured by confidence band (green High, amber Likely, grey Uncertain) plus your new one. Click a point for the photo and details. Download CSV or GeoJSON. Toggle "Verified buyer view" to export exact coordinates for sensitive species (rounded to 2 decimals otherwise).
 
 ## What is in, what was cut for the 12-minute build
 
-Built and working: Claude identification with strict-JSON prompt, fence stripping and one retry; mock fallback; animated confidence ring with bands; uses card with High-only edible/medicinal gate and disclaimer; invasive and sensitive handling; photo compression to 800 px and Laplacian/histogram quality score (stored, not surfaced); geolocation with demo-location fallback; observation records with time band, device, language; IndexedDB persistence; 60 seeded observations around central London (`src/config.ts`); agency map with stats header and CSV/GeoJSON export with sensitive-coordinate rounding; English and Spanish UI and species notes.
+Built and working: Claude identification with strict-JSON prompt, fence stripping and one retry; mock fallback; animated confidence ring with bands; uses card with High-only edible/medicinal gate and disclaimer; invasive and sensitive handling; photo compression to 800 px and Laplacian/histogram quality score (stored, not surfaced); geolocation with demo-location fallback; observation records with time band, device, language; IndexedDB persistence; 60 seeded observations around central London (`src/config.ts`); agency map with stats header and CSV/GeoJSON export with sensitive-coordinate rounding; nine languages for UI strings and species notes: English, Spanish, Portuguese as the main three, plus Thai, Yoruba, Malayalam, French, Hindi, Arabic (`npm run i18n:check` verifies key parity); a Leaderboard tab ranking observers by distinct species photographed.
 
-Cut or stubbed, in order of the priority list: map clustering, dashboard filters, verification queue, campaign manager and nearby-campaign matching (store has the `campaigns` slot, seeded empty); chat and voice (the client and server endpoints exist in `src/lib/chat.ts` and `/api/chat`, no UI yet); PWA install (plugin removed from `vite.config.ts` until icons are generated); Hindi, Arabic, French, Portuguese are wired into i18n and fall back to English where a locale file is still a stub (`npm run i18n:check` reports parity); seed photos are procedural botanical illustrations (`src/lib/illustration.ts`) because the build box had no image network access.
+Cut or stubbed, in order of the priority list: map clustering, dashboard filters, verification queue, campaign manager and nearby-campaign matching (store has the `campaigns` slot, seeded empty); chat and voice (the client and server endpoints exist in `src/lib/chat.ts` and `/api/chat`, no UI yet); PWA install (plugin removed from `vite.config.ts` until icons are generated); seed photos are procedural botanical illustrations (`src/lib/illustration.ts`) because the build box had no image network access.
 
 ## Layout
 
@@ -46,10 +47,10 @@ Cut or stubbed, in order of the priority list: map clustering, dashboard filters
 server/index.ts          Express API: /api/identify, /api/chat, /api/warmup, /api/health
 src/config.ts            demo location, thresholds
 src/lib/                 identify (Claude client + mock), geo, image quality, export, species, speech, chat
-src/data/species.json    40 species, 6 languages (built from src/data/sources by scripts/build-species.mjs)
+src/data/species.json    40 species, 9 languages (built from src/data/sources by scripts/build-species.mjs)
 src/data/seed.ts         60 seeded observations
 src/i18n/locales/*.json  UI strings per language
 src/store/index.ts       Zustand + IndexedDB persistence
-src/app/                 mobile shell and pages (Identify, My Records, Settings)
+src/app/                 mobile shell and pages (Identify, My Records, Leaderboard, Settings)
 src/agency/              agency map + export
 ```

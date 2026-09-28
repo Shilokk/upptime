@@ -48,7 +48,8 @@
     "identify": "Identify",
     "nearby": "Nearby",
     "records": "My Records",
-    "settings": "Settings"
+    "settings": "Settings",
+    "leaderboard": "Leaderboard"
   },
   "languages": {
     "en": "English",
@@ -56,7 +57,10 @@
     "hi": "हिन्दी",
     "ar": "العربية",
     "fr": "Français",
-    "pt": "Português"
+    "pt": "Português",
+    "th": "ไทย",
+    "yo": "Yorùbá",
+    "ml": "മലയാളം"
   },
   "onboarding": {
     "title": "Choose your language",
@@ -471,5 +475,15 @@
     "cameraUnavailable": "Camera not available. Choose a photo from your gallery.",
     "generic": "Something went wrong.",
     "storage": "Could not save to this device."
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "subtitle": "Ranked by the number of different species photographed",
+    "species": "{{count}} species",
+    "uploads": "{{count}} uploads",
+    "you": "You",
+    "yourRank": "Your rank: #{{rank}}",
+    "empty": "No observations yet. Photograph a plant to get on the board.",
+    "rank": "Rank"
   }
 }

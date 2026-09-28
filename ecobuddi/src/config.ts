@@ -22,4 +22,5 @@ export const CONFIDENCE_BANDS = {
   likely: 60,
 } as const
 
-export const SUPPORTED_LANGUAGES = ['en', 'es', 'hi', 'ar', 'fr', 'pt'] as const
+// Main languages first (English is the default), then the rest.
+export const SUPPORTED_LANGUAGES = ['en', 'es', 'pt', 'th', 'yo', 'ml', 'fr', 'hi', 'ar'] as const

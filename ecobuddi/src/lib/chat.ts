@@ -45,13 +45,13 @@ export async function askAboutPlant(input: ChatInput): Promise<{ reply: string; 
 }
 
 const KW = {
-  pets: /pet|dog|cat\b|kids|child|mascota|perro|gato|niñ|chien|chat\b|enfant|cão|cachorro|gato|criança|कुत्त|बिल्ल|पालतू|बच्च|كلب|قط|أطفال|حيوان/i,
-  safety: /safe|toxic|poison|danger|seguro|tóxic|venen|peligro|sûr|toxique|sécur|dangere|perigo|ज़हर|जहर|सुरक्षित|ख़तर|سام|آمن|خطر|سم/i,
-  edible: /edible|eat|forage|cook|tea|comer|comestib|manger|mange|cozinh|खा|खाद्य|चाय|أكل|صالح|طعام/i,
-  flower: /flower|bloom|blossom|when|season|floreC|florez|flor\b|fleur|quand|saison|quando|estação|फूल|कब|मौसम|زهر|يزهر|متى|موسم/i,
-  lookalike: /look-?alike|similar|confus|mistake|differ|tell.*from|parecid|confund|distingu|ressembl|semelhan|समान|मिलत|अंतर|فرق|يشبه|شبيه/i,
-  invasive: /invasiv|invasor|envahiss|invasora|आक्रामक|غاز/i,
-  medicinal: /medic|remed|herbal|heal|medicin|remède|remédio|औषध|दवा|دواء|علاج|طبي/i,
+  pets: /pet|dog|cat\b|kids|child|mascota|perro|gato|niñ|chien|chat\b|enfant|cão|cachorro|gato|criança|कुत्त|बिल्ल|पालतू|बच्च|كلب|قط|أطفال|حيوان|สัตว์เลี้ยง|หมา|แมว|เด็ก|ajá|ológbò|ọmọ|ẹran|വളർത്തുമൃഗ|നായ|പൂച്ച|കുട്ടി/i,
+  safety: /safe|toxic|poison|danger|seguro|tóxic|venen|peligro|sûr|toxique|sécur|dangere|perigo|ज़हर|जहर|सुरक्षित|ख़तर|سام|آمن|خطر|سم|ปลอดภัย|พิษ|อันตราย|májèlé|ewu|ààbò|വിഷ|സുരക്ഷ|അപകട/i,
+  edible: /edible|eat|forage|cook|tea|comer|comestib|manger|mange|cozinh|खा|खाद्य|चाय|أكل|صالح|طعام|กิน|jẹ|ഭക്ഷ|കഴിക്ക/i,
+  flower: /flower|bloom|blossom|when|season|floreC|florez|flor\b|fleur|quand|saison|quando|estação|फूल|कब|मौसम|زهر|يزهر|متى|موسم|ดอก|เมื่อไร|òdòdó|ìgbà|പൂ|എപ്പോ/i,
+  lookalike: /look-?alike|similar|confus|mistake|differ|tell.*from|parecid|confund|distingu|ressembl|semelhan|समान|मिलत|अंतर|فرق|يشبه|شبيه|คล้าย|แยก|jọ|ìyàtọ̀|സാമ്യ|വേർതിരി/i,
+  invasive: /invasiv|invasor|envahiss|invasora|आक्रामक|غاز|รุกราน|gbógun|അധിനിവേശ/i,
+  medicinal: /medic|remed|herbal|heal|medicin|remède|remédio|औषध|दवा|دواء|علاج|طبي|ยา|สมุนไพร|oògùn|ഔഷധ|മരുന്ന്/i,
 }
 
 const T: Record<Lang, Record<string, string>> = {
@@ -126,6 +126,42 @@ const T: Record<Lang, Record<string, string>> = {
     invasiveNo: 'Não está listada como invasora na sua região, embora esteja em outros lugares: {{where}}.',
     invasiveNone: 'Não consta como invasora em nenhum lugar na biblioteca do EcoBuddi.',
     unknownSpecies: 'Essa espécie não está na biblioteca offline, então só posso descrever o que a identificação retornou: {{reason}}',
+  },
+  th: {
+    intro: 'จากผลการจับคู่ที่เลือก {{name}} ({{sci}}):',
+    toxic: 'พืชชนิดนี้มีบันทึกว่ามีพิษ ควรกันสัตว์เลี้ยงและเด็กไม่ให้เคี้ยว และล้างมือหลังสัมผัส',
+    notToxic: 'ไม่ได้ระบุว่ามีพิษในคลังข้อมูลของ EcoBuddi แต่พืชทุกชนิดอาจทำให้ท้องเสียได้หากกินเข้าไป จึงควรกันสัตว์เลี้ยงไม่ให้กิน',
+    noNotes: 'คลังข้อมูลชนิดพันธุ์ยังไม่มีบันทึกเรื่องนี้ ลองถามเกี่ยวกับนิเวศวิทยา ช่วงออกดอก หรือชนิดที่คล้ายกัน',
+    uncertain: 'โปรดทราบว่าการระบุนี้ไม่ได้อยู่ในระดับความมั่นใจสูง จึงควรใช้ข้อมูลการใช้ประโยชน์อย่างระมัดระวัง',
+    lookalike: 'เพื่อแยกจากชนิดที่คล้ายกัน ให้เปรียบเทียบลักษณะเหล่านี้: {{desc}} ถ่ายภาพใบเดี่ยวและดอกหรือผลเพื่อการระบุที่แม่นยำขึ้น',
+    invasiveYes: 'พืชชนิดนี้ถูกจัดเป็นชนิดพันธุ์รุกรานในภูมิภาคของคุณ หลีกเลี่ยงการแพร่กระจายชิ้นส่วนหรือเมล็ด และพิจารณารายงานการพบเห็นต่อโครงการในท้องถิ่น',
+    invasiveNo: 'ไม่ได้จัดเป็นชนิดพันธุ์รุกรานในภูมิภาคของคุณ แต่เป็นในที่อื่น: {{where}}',
+    invasiveNone: 'ไม่มีบันทึกว่าเป็นชนิดพันธุ์รุกรานที่ใดในคลังข้อมูลของ EcoBuddi',
+    unknownSpecies: 'ชนิดพันธุ์นี้ไม่อยู่ในคลังข้อมูลออฟไลน์ จึงบอกได้เพียงสิ่งที่การระบุส่งกลับมา: {{reason}}',
+  },
+  yo: {
+    intro: 'Gẹ́gẹ́ bí ìbámu tí a yàn, {{name}} ({{sci}}):',
+    toxic: 'A kọ ọ̀gbìn yìí sílẹ̀ pé ó ní májèlé, nítorí náà má jẹ́ kí ẹran ọ̀sìn àti àwọn ọmọdé jẹ ẹ́, kí o sì fọ ọwọ́ lẹ́yìn tí o bá fọwọ́ kàn án.',
+    notToxic: 'Kò sí nínú àkọsílẹ̀ EcoBuddi pé ó ní májèlé, ṣùgbọ́n ọ̀gbìn èyíkéyìí lè da inú rú tí a bá jẹ ẹ́, nítorí náà má jẹ́ kí ẹran ọ̀sìn jẹ ẹ́.',
+    noNotes: 'Àkọsílẹ̀ àwọn irú ọ̀gbìn kò tíì ní àlàyé lórí ìyẹn. Gbìyànjú láti béèrè nípa àyíká rẹ̀, ìgbà tí ó ń yọ òdòdó, tàbí àwọn tí ó jọ ọ́.',
+    uncertain: 'Ṣe àkíyèsí pé ìdámọ̀ yìí kò ní ìgbọ́kànlé Gíga, nítorí náà fi ìṣọ́ra lo àwọn àlàyé nípa ìlò rẹ̀.',
+    lookalike: 'Láti mọ ìyàtọ̀ rẹ̀ láàrín àwọn tí ó jọ ọ́, fi àwọn àmì wọ̀nyí wéra: {{desc}} Ya fọ́tò ewé kan ṣoṣo àti òdòdó tàbí èso fún ìdámọ̀ tí ó dájú jù.',
+    invasiveYes: 'A kọ ọ́ sílẹ̀ gẹ́gẹ́ bí ọ̀gbìn tí ń gbógun ti àyíká ní agbègbè rẹ. Yẹra fún títan àwọn ẹ̀ka tàbí irúgbìn rẹ̀ ká, kí o sì ronú láti jábọ̀ rẹ̀ fún ètò agbègbè rẹ.',
+    invasiveNo: 'A kò kọ ọ́ sílẹ̀ gẹ́gẹ́ bí ọ̀gbìn tí ń gbógun ti àyíká ní agbègbè rẹ, ṣùgbọ́n ó rí bẹ́ẹ̀ níbòmíràn: {{where}}.',
+    invasiveNone: 'Kò sí ibì kankan nínú àkọsílẹ̀ EcoBuddi tí a kọ ọ́ sí gẹ́gẹ́ bí ọ̀gbìn tí ń gbógun ti àyíká.',
+    unknownSpecies: 'Irú ọ̀gbìn yìí kò sí nínú àkọsílẹ̀ tí kò nílò ìntánẹ́ẹ̀tì, nítorí náà ohun tí ìdámọ̀ náà dá padà nìkan ni mo lè ṣàlàyé: {{reason}}',
+  },
+  ml: {
+    intro: 'തിരഞ്ഞെടുത്ത പൊരുത്തം അനുസരിച്ച്, {{name}} ({{sci}}):',
+    toxic: 'ഈ ചെടി വിഷമുള്ളതായി രേഖപ്പെടുത്തിയിട്ടുണ്ട്; വളർത്തുമൃഗങ്ങളും കുട്ടികളും ഇത് ചവയ്ക്കാതെ നോക്കുക, തൊട്ടശേഷം കൈ കഴുകുക.',
+    notToxic: 'EcoBuddi ലൈബ്രറിയിൽ ഇത് വിഷമുള്ളതായി രേഖപ്പെടുത്തിയിട്ടില്ല, എന്നാൽ ഏതു ചെടിയും കഴിച്ചാൽ വയറിന് അസ്വസ്ഥത ഉണ്ടാക്കാം; അതിനാൽ വളർത്തുമൃഗങ്ങൾ ഇത് തിന്നാതെ നോക്കുക.',
+    noNotes: 'സ്പീഷീസ് ലൈബ്രറിയിൽ അതിനെക്കുറിച്ച് ഇതുവരെ കുറിപ്പുകളില്ല. ഇതിന്റെ പരിസ്ഥിതി, പൂവിടൽ, അല്ലെങ്കിൽ സാമ്യമുള്ള ചെടികളെക്കുറിച്ച് ചോദിച്ചുനോക്കൂ.',
+    uncertain: 'ഈ തിരിച്ചറിയൽ ഉയർന്ന വിശ്വാസ്യതയിലല്ല എന്നത് ശ്രദ്ധിക്കുക; അതിനാൽ ഉപയോഗ കുറിപ്പുകൾ ജാഗ്രതയോടെ കാണുക.',
+    lookalike: 'സാമ്യമുള്ളവയിൽ നിന്ന് വേർതിരിക്കാൻ ഈ സവിശേഷതകൾ താരതമ്യം ചെയ്യുക: {{desc}} കൂടുതൽ ഉറപ്പുള്ള തിരിച്ചറിയലിന് ഒരു ഇലയും ഒരു പൂവോ കായോ ഫോട്ടോ എടുക്കുക.',
+    invasiveYes: 'ഇത് നിങ്ങളുടെ പ്രദേശത്ത് അധിനിവേശ സസ്യമായി പട്ടികപ്പെടുത്തിയിട്ടുണ്ട്. ഇതിന്റെ ഭാഗങ്ങളോ വിത്തുകളോ പരത്താതിരിക്കുക, കണ്ടെത്തൽ പ്രാദേശിക പരിപാടിക്ക് റിപ്പോർട്ട് ചെയ്യുന്നത് പരിഗണിക്കുക.',
+    invasiveNo: 'ഇത് നിങ്ങളുടെ പ്രദേശത്ത് അധിനിവേശ സസ്യമായി പട്ടികപ്പെടുത്തിയിട്ടില്ല, എന്നാൽ മറ്റിടങ്ങളിൽ അങ്ങനെയാണ്: {{where}}.',
+    invasiveNone: 'EcoBuddi ലൈബ്രറിയിൽ ഇത് എവിടെയും അധിനിവേശ സസ്യമായി രേഖപ്പെടുത്തിയിട്ടില്ല.',
+    unknownSpecies: 'ഈ സ്പീഷീസ് ഓഫ്‌ലൈൻ ലൈബ്രറിയിൽ ഇല്ല, അതിനാൽ തിരിച്ചറിയൽ നൽകിയത് മാത്രമേ എനിക്ക് വിവരിക്കാനാകൂ: {{reason}}',
   },
 }
 

@@ -171,6 +171,21 @@ const REASONS: Record<Lang, [string, string, string]> = {
     'A cor e a textura são compatíveis com {{name}}, mas o enquadramento limita os detalhes.',
     'Alguns traços lembram {{name}}; uma foto mais próxima ajudaria.',
   ],
+  th: [
+    'รูปทรงโดยรวม สี และพื้นผิวตรงกับ {{name}} อย่างมาก',
+    'สีและพื้นผิวสอดคล้องกับ {{name}} แต่การจัดองค์ประกอบภาพจำกัดรายละเอียด',
+    'ลักษณะบางอย่างคล้ายกับ {{name}} ภาพที่ใกล้กว่านี้จะช่วยได้',
+  ],
+  yo: [
+    'Ìrísí gbogbogbò, àwọ̀ àti ojú ewé bá {{name}} mu dáadáa.',
+    'Àwọ̀ àti ìrísí ojú rẹ̀ bá {{name}} mu, ṣùgbọ́n bí a ṣe ya fọ́tò náà kò fi àlàyé púpọ̀ hàn.',
+    'Àwọn àmì díẹ̀ jọ {{name}}; fọ́tò tí ó sún mọ́ ọn yóò ràn wá lọ́wọ́.',
+  ],
+  ml: [
+    'മൊത്തത്തിലുള്ള ആകൃതിയും നിറവും ഉപരിതല ഘടനയും {{name}} മായി അടുത്ത് യോജിക്കുന്നു.',
+    'നിറവും ഘടനയും {{name}} മായി യോജിക്കുന്നു, എന്നാൽ ഫ്രെയിമിംഗ് വിശദാംശങ്ങൾ പരിമിതപ്പെടുത്തുന്നു.',
+    'ചില സവിശേഷതകൾ {{name}} മായി സാമ്യമുണ്ട്; കൂടുതൽ അടുത്തുനിന്നുള്ള ഫോട്ടോ സഹായകമാകും.',
+  ],
 }
 
 function pickSpeciesForOrgan(organ: Organ, region: string, rnd: () => number, exclude: Set<string>): Species {

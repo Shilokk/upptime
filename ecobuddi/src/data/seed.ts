@@ -18,7 +18,7 @@ const SPOTS = [
   { name: 'St James', lat: 51.5025, lng: -0.1347 },
 ]
 
-const LANGS: Lang[] = ['en', 'en', 'en', 'es', 'es', 'fr', 'pt', 'hi', 'ar']
+const LANGS: Lang[] = ['en', 'en', 'en', 'es', 'es', 'pt', 'pt', 'th', 'yo', 'ml', 'fr', 'hi', 'ar']
 const NAMES = ['Amara', 'Tomás', 'Priya', 'Léa', 'Youssef', 'Beatriz', 'Oscar', 'Mei', 'Zainab', 'Felix']
 
 export function generateSeed(): { observations: Observation[]; campaigns: Campaign[] } {
