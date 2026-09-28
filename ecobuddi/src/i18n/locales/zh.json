@@ -42,7 +42,8 @@
     "notAvailable": "暂不可用",
     "confidenceScore": "置信度 {{score}}%",
     "photo": "照片",
-    "unlisted": "未收录物种"
+    "unlisted": "未收录物种",
+    "aiOffline": "AI 离线"
   },
   "tabs": {
     "identify": "识别",
@@ -170,7 +171,22 @@
     "preparing": "正在处理照片",
     "photoTooLarge": "无法读取这张图片,请换一张照片。",
     "greeting": "{{band}}好",
-    "heroKicker": "今天发现了什么?"
+    "heroKicker": "今天发现了什么?",
+    "errorTitle": "Claude 无法识别这张照片",
+    "errorRetry": "重试",
+    "errorOffline": "使用离线识别",
+    "errorHelp": "完整错误信息请查看笔记本电脑的终端。",
+    "errors": {
+      "bad_key": "笔记本电脑上的 API 密钥被拒绝。",
+      "no_credit": "Anthropic 账户余额不足。",
+      "model": "此 API 密钥无法使用该 AI 模型。",
+      "rate_limit": "请求过多，请稍等几秒再试。",
+      "overloaded": "Claude 现在很忙，请稍后再试。",
+      "network": "手机无法连接到笔记本电脑，请检查隧道是否仍在运行。",
+      "timeout": "Claude 响应时间过长。",
+      "unparseable": "Claude 的回答格式不符合预期。",
+      "server": "笔记本电脑上出现了问题。"
+    }
   },
   "result": {
     "bestMatch": "最佳匹配",
@@ -210,7 +226,8 @@
     "readMore": "展开",
     "readLess": "收起",
     "savedToast": "已保存至调查",
-    "shutter": "拍照"
+    "shutter": "拍照",
+    "finishing": "正在完成详细信息"
   },
   "uses": {
     "title": "这种植物的用途",
@@ -232,7 +249,8 @@
     "toxic": "有毒",
     "sourceClaude": "由 Claude 针对此照片生成的说明",
     "sourceLibrary": "来自 EcoBuddi 物种库的说明",
-    "loading": "正在整理说明"
+    "loading": "正在整理说明",
+    "loadingDetails": "正在加载用途和安全提示"
   },
   "chat": {
     "title": "咨询这种植物",
@@ -330,7 +348,8 @@
     "observer": "观测者名称",
     "observerHelp": "会显示给研究人员,与你的记录一并展示。",
     "version": "EcoBuddi {{version}}",
-    "storage": "本地已存储 {{count}} 条观测记录"
+    "storage": "本地已存储 {{count}} 条观测记录",
+    "aiError": "已设置 API 密钥，但 Claude 没有响应。扫描时会显示原因。"
   },
   "report": {
     "title": "上报入侵物种",

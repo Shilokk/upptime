@@ -8,7 +8,7 @@ import { z } from 'zod'
 const PORT = Number(process.env.PORT ?? 8787)
 const DEFAULT_MODEL = 'claude-sonnet-4-6'
 // ANTHROPIC_MODEL overrides the default. If a model is not available to the key (404), the next one is tried.
-const MODELS = [...new Set([process.env.ANTHROPIC_MODEL?.trim() || DEFAULT_MODEL, DEFAULT_MODEL, 'claude-sonnet-4-5'])]
+const MODELS = [...new Set([process.env.ANTHROPIC_MODEL?.trim() || DEFAULT_MODEL, DEFAULT_MODEL, 'claude-sonnet-5'])]
 let MODEL = MODELS[0]
 // Tolerate a key pasted with quotes or stray spaces in .env.
 const apiKey = process.env.ANTHROPIC_API_KEY?.trim().replace(/^['"]|['"]$/g, '').trim() || undefined
@@ -82,6 +82,7 @@ const IDENTIFY_SYSTEM = `You are EcoBuddi's plant identifier for a citizen-scien
 Respond with STRICT JSON only. No prose, no markdown fences, no comments. Exactly this shape:
 {"candidates":[{"scientificName":string,"commonName":string,"family":string,"confidence":number,"reasoning":string}],"sensitive":boolean,"invasiveInRegion":boolean,"uses":{"edible":string|null,"medicinal":string|null,"ecologicalRole":string|null,"pollinatorValue":string|null,"waterNeeds":string|null,"culturalUses":string|null},"description":string}
 Rules:
+- Identify what is actually in the photo. Consider house plants, garden ornamentals, crops and weeds as well as local wild plants; the location is only a hint and must not override what you see. If the photo is unclear, lower the confidence rather than guessing boldly.
 - Output the keys in exactly this order. Be brief: people are waiting on the answer.
 - candidates has exactly three entries, best first. confidence is an integer 0-100 calibrated to how sure you are; spread the three scores so they are never identical. reasoning is one short sentence, at most 18 words, naming the visible features that support the match.
 - sensitive is true when the best candidate is a protected, rare, or collectable species whose exact location should not be published (orchids, rare bulbs, etc.).

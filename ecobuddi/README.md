@@ -27,6 +27,14 @@ The phone only needs a URL; the API key stays on the laptop. Three ways, most re
 npm run share
 ```
 
+When the server starts it makes one tiny test call to Claude. Look for this line in the terminal before you present:
+
+```
+[api] Claude check OK: claude-sonnet-4-6 answered in 640 ms. Live identification is on.
+```
+
+If it says `Claude check FAILED`, the rest of the line names the cause, such as a rejected key or an account with no credit. Scans then show that reason on the phone instead of a made-up answer. The header pill reads "Live AI" when Claude is answering, "AI offline" when the key is set but Claude is not answering, and "Demo mode" when there is no key.
+
 It builds the app, starts the server, opens an HTTPS tunnel, checks that the tunnel reaches the app, and prints the address to open on the phone in a box. Leave that terminal open; Ctrl+C stops everything. If the tunnel drops, it reopens it and prints the address again.
 
 It uses cloudflared when it is installed and localtunnel otherwise. Cloudflared is steadier. Install it once with this command on its own line:

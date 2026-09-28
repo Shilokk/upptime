@@ -11,7 +11,7 @@ export const DEMO_LOCATION = {
 
 export const SEED_VERSION = 6
 export const OBSERVATION_COUNT = 60
-export const PHOTO_MAX_PX = 800
+export const PHOTO_MAX_PX = 1200
 export const GPS_ACCURACY_WARN_M = 50
 export const SENSITIVE_DECIMALS = 2
 export const COVERAGE_CELL_M = 250

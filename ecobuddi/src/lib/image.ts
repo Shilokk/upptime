@@ -34,7 +34,7 @@ async function decode(file: Blob): Promise<ImageBitmap | HTMLImageElement> {
 }
 
 /** Downscale to `maxPx` on the longest side and return a JPEG data URL. */
-export async function compressImage(file: Blob, maxPx = PHOTO_MAX_PX, quality = 0.84): Promise<{ dataUrl: string; width: number; height: number }> {
+export async function compressImage(file: Blob, maxPx = PHOTO_MAX_PX, quality = 0.85): Promise<{ dataUrl: string; width: number; height: number }> {
   const src = await decode(file)
   const sw = src.width
   const sh = src.height
