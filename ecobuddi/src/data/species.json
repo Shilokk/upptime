@@ -94,12 +94,12 @@
     "description": "Một loài cây rụng lá to lớn, sống lâu năm, có lá xẻ thùy sâu trên cuống rất ngắn và quả sồi mọc trên cuống dài. Thân cây trở nên đồ sộ và nứt nẻ theo tuổi."
    },
    "si": {
-    "commonName": "English oak",
-    "edible": "Acorns are edible only after repeated leaching to remove bitter tannins; historically ground into flour in lean years.",
-    "medicinal": "Bark rich in tannins was used traditionally as an astringent for sore throats and skin complaints.",
-    "ecologicalRole": "A keystone tree supporting over 2,000 species of insects, fungi, birds, and mammals; veteran oaks hold rare deadwood beetles.",
-    "culturalUses": "Timber for ships, barrels, and timber-framed buildings; a national emblem in England and a symbol of endurance.",
-    "description": "A broad, long-lived deciduous tree with deeply lobed leaves on very short stalks and acorns carried on long stems. Trunks become massive and fissured with age."
+    "commonName": "එංගලන්ත ඕක්",
+    "edible": "අකෝන් (ගෙඩි) එහි තිත්ත ටැනින් ඉවත් කිරීමට නැවත නැවත ජලයේ පොඟවා ගැනීමෙන් පසුව පමණක් ආහාරයට ගත හැක; සාගින්නෙන් යුත් වසරවල පිටි කිරීමට එය අඹරන ලදී.",
+    "medicinal": "ටැනින් බහුල පොත්ත සාම්ප්‍රදායිකව උගුරේ අමාරුවට හා සම රෝගවලට ආස්ත්‍රින්ජන්ට් එකක් ලෙස භාවිත කෙරිණි.",
+    "ecologicalRole": "කෘමීන්, දිලීර, පක්ෂීන් සහ ක්ෂීරපායීන් විශේෂ 2,000ට වඩා රැකබලා ගන්නා මූලික ගසකි; වයස්ගත ඕක් ගස් දුර්ලභ මළ-ලීයේ බීටල් වර්ග රඳවා ගනී.",
+    "culturalUses": "නැව්, බැරල් සහ ලී-රාමු ගොඩනැගිලි සඳහා ලීයයි; එංගලන්තයේ ජාතික සංකේතයක් සහ දරාගැනීමේ සංකේතයකි.",
+    "description": "ඉතා කෙටි කඳන් මත ගැඹුරින් අංශයුත් පත්‍ර සහ දිගු කඳන් මත එල්ලෙන අකෝන් සහිත, පුළුල් හා දිගු කාලයක් ජීවත් වන පත්‍රශීරණ ගසකි. කඳන් වයස ගතවත්ම විශාල හා පැළුම් සහිත වේ."
    },
    "id": {
     "commonName": "Ek Inggris",
@@ -298,12 +298,12 @@
     "description": "Một loài cây lai cao lớn trồng ven đường, có lá to giống lá phong, quả tròn gai nhọn treo suốt mùa đông, và vỏ cây có hoa văn loang lổ như ngụy trang, bong ra từng mảng."
    },
    "si": {
-    "commonName": "London plane",
+    "commonName": "ලන්ඩන් ප්ලේන්",
     "edible": null,
     "medicinal": null,
-    "ecologicalRole": "Tolerates compacted soil and pollution, shading streets and cooling city air; its bark sheds in plates that discard grime.",
-    "culturalUses": "Planted along London's streets and squares since the 1700s, it is the capital's signature tree.",
-    "description": "A tall hybrid street tree with large maple-like leaves, spiky round fruit balls that hang through winter, and camouflage-patterned bark that flakes in patches."
+    "ecologicalRole": "පීඩිත පස සහ දූෂණය ඉවසන අතර, වීදි සෙවණ දී නගර වාතය සිසිල් කරයි; එහි පොත්ත තට්ටු වශයෙන් සමනය වී අපිරිසිදුකම ඉවත් කරයි.",
+    "culturalUses": "1700 දශකයේ සිට ලන්ඩනයේ වීදි හා චතුරශ්‍රවල සිටුවා ඇති අතර, එය අගනුවරේ සලකුණු ගසයි.",
+    "description": "විශාල මේපල් වැනි පත්‍ර, ශීත සමයේ එල්ලී තිබෙන කටුකාර වටකුරු පළතුරු බෝල, සහ පැච් වශයෙන් සමනය වන කැමූෆ්ලාජ් රටාවේ පොත්ත සහිත උස දෙමුහුන් වීදි ගසකි."
    },
    "id": {
     "commonName": "Plane London",
@@ -505,12 +505,12 @@
     "description": "Một loài cây thanh mảnh có vỏ trắng bong tróc điểm những hình thoi đen, cành rủ xuống và lá nhỏ hình tam giác với mép răng cưa kép."
    },
    "si": {
-    "commonName": "Silver birch",
-    "edible": "Spring sap can be tapped as a lightly sweet drink; young leaves are added to teas.",
-    "medicinal": "Leaf tea was used traditionally as a mild diuretic and bark oil for skin conditions.",
-    "ecologicalRole": "A fast pioneer of open ground that enriches poor soils, feeds many moth caterpillars, and hosts fly agaric and other fungi.",
-    "culturalUses": "Bark used for tinder and canoes; twigs for besom brooms; a symbol of renewal in northern folklore.",
-    "description": "A graceful tree with peeling white bark marked by black diamonds, drooping twigs, and small triangular leaves with double-toothed edges."
+    "commonName": "රිදී බර්ච්",
+    "edible": "වසන්ත සමයේ ඉස්සු ලිහිල් රසැති පානයක් ලෙස ලබාගත හැක; තරුණ පත්‍ර තේවලට එකතු කෙරේ.",
+    "medicinal": "පත්‍ර තේ සාම්ප්‍රදායිකව මෘදු මුත්‍රාවර්ධක ලෙසත්, පොත්ත තෙල් සම රෝගවලටත් භාවිත කෙරිණි.",
+    "ecologicalRole": "දුර්වල පස පොහොසත් කරන, විවෘත භූමියේ වේගවත් පුරෝගාමියෙකි; සළබ දළඹුවන් රැසකට ආහාර සපයයි, ෆ්ලයි අගාරික් වැනි දිලීරවලට ද වාසස්ථානයයි.",
+    "culturalUses": "ගිනි දැල්වීමට හා තොනියට පොත්ත; අතු කසල පිදුරු ඉවතලීමට; උතුරු ජනකතාවේ නැවුම්භාවයේ සංකේතයකි.",
+    "description": "කළු දියමන්ති සලකුණු සහිත ලා පැහැති පොත්තකින් සමනය වන, එල්ලෙන අතු, සහ ද්විත්ව දාරයුත් සිහින් ත්‍රිකෝණාකාර පත්‍ර සහිත මනරම් ගසකි."
    },
    "id": {
     "commonName": "Birch Perak",
@@ -710,12 +710,12 @@
     "description": "Một loài cây uy nghi với vỏ xám bạc mịn màng, lá hình bầu dục mép gợn sóng có lông tơ mượt khi còn non, và vỏ quả đầy gai tách ra để lộ hạt hình tam giác."
    },
    "si": {
-    "commonName": "European beech",
-    "edible": "Beech nuts, or mast, are edible in small quantities when roasted; young spring leaves are mild in salads.",
+    "commonName": "යුරෝපීය බීච්",
+    "edible": "බීච් ගෙඩි, හෝ 'මාස්ට්', බැදගත් විට සුළු ප්‍රමාණයෙන් ආහාරයට ගත හැක; තරුණ වසන්ත පත්‍ර සලාදවලට මෘදු රසැතියි.",
     "medicinal": null,
-    "ecologicalRole": "Casts deep shade that shapes whole woodland communities; mast years feed jays, mice, and wild boar.",
-    "culturalUses": "Smooth grey bark has been carved with initials for centuries; wood is prized for furniture and firewood.",
-    "description": "A stately tree with smooth silver-grey bark, oval leaves with wavy edges and silky hairs when young, and prickly husks that split to release triangular nuts."
+    "ecologicalRole": "සම්පූර්ණ වනාන්තර ප්‍රජාවන් හැඩගස්වන ගැඹුරු සෙවණක් දමයි; බහුල ගෙඩි වසර ජේ පක්ෂීන්ට, මීයන්ට, හා වල් ඌරන්ට ආහාර සපයයි.",
+    "culturalUses": "සියවස් ගණනාවක් තිස්සේ ලා අළු පැහැති සුමට පොත්තෙහි මුල්අකුරු කැටයම් කරන ලදී; ලීය ගෘහ භාණ්ඩ හා දර සඳහා අගය කෙරේ.",
+    "description": "සුමට රිදී අළු පැහැති පොත්ත, තරංගාකාර දාරයුත් හා තරුණ අවධියේ සිල්කි රෝම සහිත ඕවලාකාර පත්‍ර, සහ ත්‍රිකෝණාකාර ගෙඩි මුදාහරින කටුකාර කවච සහිත ගාම්භීර ගසකි."
    },
    "id": {
     "commonName": "Beech Eropa",
@@ -917,12 +917,12 @@
     "description": "Một loài cây to, tán rộng với lá hình bàn tay gồm năm đến bảy lá chét, chùm hoa trắng vào tháng Năm, và hạt nâu bóng nằm trong vỏ xanh đầy gai."
    },
    "si": {
-    "commonName": "Horse chestnut",
-    "edible": "Not edible. Conkers contain aesculin and are toxic to people and dogs; they are unrelated to sweet chestnuts.",
-    "medicinal": "Standardised seed extracts are used in Europe for poor leg circulation, but the raw seeds are poisonous.",
-    "ecologicalRole": "Large candle-like flower spikes feed bees in late spring; the leaf-mining moth now browns most leaves by August.",
-    "culturalUses": "Conkers are the classic British playground game every autumn.",
-    "description": "A big spreading tree with hand-shaped leaves of five to seven leaflets, white flower spikes in May, and glossy brown seeds inside spiny green cases."
+    "commonName": "අශ්ව චෙස්නට්",
+    "edible": "ආහාරයට ගත නොහැක. කොන්කර්ස්වල ඇස්කියුලින් අඩංගු වන අතර මිනිසුන්ට හා බල්ලන්ට විෂ සහිතයි; ඒවා මිහිරි චෙස්නට් වර්ග නොවේ.",
+    "medicinal": "සම්මතකළ බීජ නිස්සාරක යුරෝපයේ දුර්වල කකුල් රුධිර සංසරණයට භාවිත කෙරෙන නමුත් අමු බීජ විෂ සහිතයි.",
+    "ecologicalRole": "විශාල ඉටිපන්දම් හැඩැති මල් පොකුරු වසන්තයේ අගභාගයේ මීමැස්සන්ට ආහාර සපයයි; පත්‍ර මධ්‍යනිකා පළඟැටියා දැන් අගෝස්තු වන විට බොහෝ පත්‍ර දුඹුරු කරයි.",
+    "culturalUses": "සෑම සරත් සෘතුවකම බ්‍රිතාන්‍ය ළමා ක්‍රීඩා පිටියේ සම්භාව්‍ය 'කොන්කර්ස්' ක්‍රීඩාවයි.",
+    "description": "පත් පහක සිට හතක් දක්වා දෑත් හැඩැති පත්‍ර, මැයි මාසයේ සුදු මල් ගෙන්නා, කටුකාර කොළ පැහැති කවච තුළ දිලිසෙන දුඹුරු බීජ සහිත විශාල ව්‍යාප්ත ගසකි."
    },
    "id": {
     "commonName": "Kastanye Kuda",
@@ -1124,12 +1124,12 @@
     "description": "Một loài cây cao với lá hình tim có răng cưa, chồi non mọc quanh gốc thân, và hoa vàng nhạt thơm ngát rủ xuống dưới một lá bắc hẹp."
    },
    "si": {
-    "commonName": "Common lime",
-    "edible": "Young leaves are pleasant in salads; dried flowers make the classic linden tea.",
-    "medicinal": "Linden flower tea is a traditional remedy for colds, anxiety, and restless sleep.",
-    "ecologicalRole": "Flowers hum with bees in July; aphids on the leaves feed ladybirds and drip honeydew onto pavements below.",
-    "culturalUses": "The village lime was a meeting place across central Europe; the soft wood is favoured by carvers.",
-    "description": "A tall tree with heart-shaped, toothed leaves, sprouting shoots around the trunk base, and fragrant pale yellow flowers hanging beneath a narrow leafy bract."
+    "commonName": "පොදු ලයිම්",
+    "edible": "තරුණ පත්‍ර සලාදවලට රසැතියි; වියළි මල් සම්භාව්‍ය ලින්ඩන් තේ සාදයි.",
+    "medicinal": "ලින්ඩන් මල් තේ සෙම්ප්‍රතිශ්‍යාව, කනස්සල්ල, හා නිද්‍රා අවුලට සාම්ප්‍රදායික ප්‍රතිකාරයකි.",
+    "ecologicalRole": "ජූලි මාසයේ මල් මීමැස්සන්ගෙන් ගුමු ගුමු හඬ නගයි; පත්‍රවල ඇෆිඩ් වර්ග ලේඩිබර්ඩ්වලට ආහාර සපයන අතර පහළ පදික මාර්ග වෙත මී පිණි වගුරුවයි.",
+    "culturalUses": "ගම් ලයිම් ගස මධ්‍යම යුරෝපය පුරා හමුවීමේ ස්ථානයක් විය; මෘදු ලීය කැටයම්කරුවන් අතර ප්‍රියතමයි.",
+    "description": "හෘද හැඩැති, දාරදාරයුත් පත්‍ර, කඳේ පාමුල මතුවන අංකුර, සහ පටු පත්‍රමය දඬු යටින් එල්ලෙන සුවඳැති ලා කහ මල් සහිත උස ගසකි."
    },
    "id": {
     "commonName": "Linden Eropa",
@@ -1335,12 +1335,12 @@
     "description": "Một loài cây hoặc bụi thường xanh có lá xanh đậm bóng, đầy gai, trở nên trơn nhẵn hơn ở phần cao của cây, hoa trắng nhỏ, và quả đỏ tươi trên những cây cái."
    },
    "si": {
-    "commonName": "Holly",
-    "edible": "Not edible. The red berries cause vomiting if eaten.",
+    "commonName": "හොලී",
+    "edible": "ආහාරයට ගත නොහැක. රතු බෙරි ආහාරයට ගතහොත් වමනය ඇති කරයි.",
     "medicinal": null,
-    "ecologicalRole": "Evergreen shelter for wintering birds; berries feed thrushes and the leaves host the holly blue butterfly.",
-    "culturalUses": "Cut for midwinter and Christmas decorations for centuries; wood used for chess pieces and inlay.",
-    "description": "An evergreen tree or shrub with glossy, spiny, dark green leaves that become smoother higher up, small white flowers, and bright red berries on female plants."
+    "ecologicalRole": "ශීත සමයේ පිටත්ව යන පක්ෂීන්ට තද කොළ පැහැති සදාහරිත ආරක්ෂාවකි; බෙරි ත්‍රෂ් පක්ෂීන්ට ආහාර සපයන අතර පත්‍ර හොලී බ්ලූ සමනලයාට වාසස්ථානයයි.",
+    "culturalUses": "සියවස් ගණනාවක් තිස්සේ ශීත ඍතුවේ මැද හා නත්තල් අලංකරණ සඳහා කපන ලදී; ලීය චෙස් කූඩු හා අන්තර්ගත කැටයම් සඳහා භාවිත වේ.",
+    "description": "ඉහළින් සුමට වන දිලිසෙන, කටුකාර, තද කොළ පැහැති පත්‍ර, කුඩා සුදු මල්, සහ ගැහැණු ශාකවල දීප්තිමත් රතු බෙරි සහිත සදාහරිත ගසක් හෝ පඳුරකි."
    },
    "id": {
     "commonName": "Holly",
@@ -1547,12 +1547,12 @@
     "description": "Một loài dây leo thân gỗ thường xanh có lá non xẻ thùy và lá trưởng thành nguyên mép trên các cành ra hoa; hoa vàng lục kết thành chùm tròn vào mùa thu và quả đen vào mùa xuân."
    },
    "si": {
-    "commonName": "Common ivy",
-    "edible": "Not edible. Leaves and berries are mildly toxic.",
-    "medicinal": "Standardised leaf extracts are used in cough syrups; raw leaves can irritate skin.",
-    "ecologicalRole": "Autumn flowers are a vital late nectar source for bees and hoverflies; berries feed birds in winter and dense growth shelters bats and nesting wrens.",
-    "culturalUses": "A symbol of fidelity woven into wedding garlands; evergreen decoration in midwinter festivals.",
-    "description": "A woody evergreen climber with lobed juvenile leaves and unlobed adult leaves on flowering shoots; globular clusters of green-yellow flowers in autumn and black berries in spring."
+    "commonName": "පොදු අයිවි",
+    "edible": "ආහාරයට ගත නොහැක. පත්‍ර හා බෙරි මෘදු ලෙස විෂ සහිතයි.",
+    "medicinal": "සම්මතකළ පත්‍ර නිස්සාරක කැස්ස සිරප්වල භාවිත වේ; අමු පත්‍ර සමට කරදර කළ හැක.",
+    "ecologicalRole": "සරත් සෘතුවේ මල් මීමැස්සන්ට හා හෝවර්ෆ්ලයිවලට ප්‍රාණවත් ප්‍රමාද මී පිණි ප්‍රභවයකි; බෙරි ශීත සමයේ පක්ෂීන්ට ආහාර සපයන අතර ඝන වර්ධනය වවුලන්ට හා කැදලි කරන රෙන්වරුන්ට ආරක්ෂාවයි.",
+    "culturalUses": "විවාහ මාලාවලට ගෙතූ විශ්වාසවන්තභාවයේ සංකේතයකි; ශීත ඍතුවේ මැද උත්සවවල සදාහරිත අලංකරණයකි.",
+    "description": "මල් හටගන්නා දඬු මත ලෝබ් රහිත වැඩිහිටි පත්‍ර හා ලෝබ් සහිත තරුණ පත්‍ර ඇති දැව ස්වභාවයේ සදාහරිත ආරෝහකයකි; සරත් සෘතුවේ කොළ-කහ මල්වල ගෝලාකාර පොකුරු සහ වසන්තයේ කළු බෙරි."
    },
    "id": {
     "commonName": "Ivy",
@@ -1762,12 +1762,12 @@
     "description": "Một loài cây nhỏ đầy gai với lá xẻ thùy sâu, hoa trắng hoặc hồng nở bồng bềnh vào tháng Năm, và từng chùm quả đỏ sẫm, mỗi quả chứa một hạt cứng."
    },
    "si": {
-    "commonName": "Hawthorn",
-    "edible": "Young leaves were nibbled as 'bread and cheese'; haws are made into jelly and ketchup.",
-    "medicinal": "Flowers, leaves, and berries are a long-standing traditional heart tonic; only under supervision.",
-    "ecologicalRole": "Blossom feeds spring pollinators, thorny growth shelters nesting birds, and haws fuel migrating thrushes and waxwings.",
-    "culturalUses": "The May tree of English folklore; the classic hedgerow plant of enclosed farmland.",
-    "description": "A thorny small tree with deeply lobed leaves, frothy white or pink blossom in May, and clusters of dark red berries each holding a single stone."
+    "commonName": "හෝතෝන්",
+    "edible": "තරුණ පත්‍ර 'පාන් හා චීස්' ලෙස කුහුරන ලදී; හෝස් ජෙලි හා කෙච්අප් සෑදීමට යොදාගනී.",
+    "medicinal": "මල්, පත්‍ර, හා බෙරි දිගු කලක් තිස්සේ සාම්ප්‍රදායික හෘද ටොනික් එකකි; අධීක්ෂණය යටතේ පමණක් භාවිත කළ යුතුය.",
+    "ecologicalRole": "මල් වසන්ත පරාගණවන්ට ආහාර සපයයි, කටුකාර වර්ධනය කැදලි කරන පක්ෂීන්ට ආරක්ෂාවකි, හෝස් සංක්‍රමණික ත්‍රෂ් හා වැක්ස්වින් පක්ෂීන්ට ඉන්ධන සපයයි.",
+    "culturalUses": "එංගලන්ත ජනකතාවේ 'මැයි ගස'; වට කරන ලද ගොවි බිමේ සම්භාව්‍ය කුඹුරු වැටි ශාකය.",
+    "description": "ගැඹුරින් අංශයුත් පත්‍ර, මැයි මාසයේ ෆෙන ගැසෙන සුදු හෝ රෝස මල්, සහ එකිනෙක ඇට ගසක් රඳවන තද රතු බෙරි පොකුරු සහිත කටුකාර කුඩා ගසකි."
    },
    "id": {
     "commonName": "Hawthorn",
@@ -1970,12 +1970,12 @@
     "description": "Một loài cây bụi có lá kép lông chim gồm năm đến bảy lá chét, cụm hoa trắng kem dẹt vào tháng Sáu, và chùm quả đen nhỏ rủ xuống vào cuối mùa hè."
    },
    "si": {
-    "commonName": "Elder",
-    "edible": "Flowers flavour cordials and fritters; berries must be cooked before eating and are made into wine and jam.",
-    "medicinal": "Elderflower and elderberry preparations are traditional remedies for colds and flu; raw berries, leaves, and bark are mildly toxic.",
-    "ecologicalRole": "Fast-growing on disturbed ground; berries feed many birds and the flowers attract hoverflies.",
-    "culturalUses": "Surrounded by folklore about protection and witchcraft; hollow stems were made into whistles and pea-shooters.",
-    "description": "A shrub with pinnate leaves of five to seven leaflets, flat creamy flower heads in June, and drooping clusters of tiny black berries in late summer."
+    "commonName": "එල්ඩර්",
+    "edible": "මල් කෝඩියල් හා ෆ්‍රිටර්වලට රසැති බවක් එකතු කරයි; බෙරි ආහාරයට ගැනීමට පෙර පිසිය යුතුව, වයින් හා ජෑම් සෑදීමට යොදාගනී.",
+    "medicinal": "එල්ඩර්ෆ්ලවර් හා එල්ඩර්බෙරි සකසන ලද ද්‍රව්‍ය සෙම්ප්‍රතිශ්‍යාවට හා උණට සාම්ප්‍රදායික ප්‍රතිකාරයකි; අමු බෙරි, පත්‍ර, හා පොත්ත මෘදු ලෙස විෂ සහිතයි.",
+    "ecologicalRole": "කැළඹුණු බිම්වල වේගයෙන් වර්ධනය වේ; බෙරි බොහෝ පක්ෂීන්ට ආහාර සපයන අතර මල් හෝවර්ෆ්ලයි ආකර්ෂණය කරයි.",
+    "culturalUses": "ආරක්ෂාව හා මායාකාරි විද්‍යාව පිළිබඳ ජනකතාවලින් වට වී ඇත; හිස් දඬු විසිල් හා පීෂූටර් සෑදීමට යොදාගන්නා ලදී.",
+    "description": "පත් පහක සිට හතක් දක්වා පිනේට් පත්‍ර, ජූනි මාසයේ පැතලි ක්‍රීම් පැහැති මල් හිස්, සහ ග්‍රීෂ්ම කාලයේ අගභාගයේ එල්ලෙන කුඩා කළු බෙරි පොකුරු සහිත පඳුරකි."
    },
    "id": {
     "commonName": "Elder",
@@ -2182,12 +2182,12 @@
     "description": "Một loài cây bụi cong vòm, đầy gai với lá kép gồm ba đến năm lá chét có răng cưa, hoa trắng hoặc hồng nở suốt mùa hè, và quả chín dần từ xanh sang đỏ rồi đen."
    },
    "si": {
-    "commonName": "Bramble",
-    "edible": "Blackberries are sweet and safe when ripe; young shoots and leaves make tea.",
-    "medicinal": "Leaf tea was a traditional treatment for diarrhoea and mouth ulcers thanks to its tannins.",
-    "ecologicalRole": "Flowers feed bees for months and thickets shelter nesting birds, dormice, and hedgehogs; invasive where it smothers native scrub abroad.",
+    "commonName": "බ්‍රැම්බල්",
+    "edible": "ඉදුණු විට බ්ලැක්බෙරි මිහිරි හා ආරක්ෂිතයි; තරුණ අංකුර හා පත්‍ර තේ සෑදීමට යොදාගනී.",
+    "medicinal": "එහි ටැනින් නිසා පත්‍ර තේ පාචනයට හා මුඛ ඝාවයට සාම්ප්‍රදායික ප්‍රතිකාරයක් විය.",
+    "ecologicalRole": "මාස ගණනාවක් තිස්සේ මල් මීමැස්සන්ට ආහාර සපයන අතර ඝන ගොහොරු කැදලි කරන පක්ෂීන්ට, ඩෝර්මවුස් සතුන්ට, හා තලගොයන්ට ආරක්ෂාවකි; විදේශයන්හි ආවේණික පඳුරු මතුරන තැන්වල ආක්‍රමණශීලීයි.",
     "culturalUses": null,
-    "description": "An arching, prickly shrub with leaves of three to five toothed leaflets, white or pink flowers all summer, and fruits ripening from green through red to black."
+    "description": "පත් තුනක සිට පහක් දක්වා දාරදාරයුත් පත්‍ර, ග්‍රීෂ්ම කාලය පුරා සුදු හෝ රෝස මල්, සහ කොළ සිට රතු හරහා කළු දක්වා ඉදෙන පලතුරු සහිත වක්‍රාකාර, කටුකාර පඳුරකි."
    },
    "id": {
     "commonName": "Semak Blackberry",
@@ -2389,12 +2389,12 @@
     "description": "Một loài cây lâu năm mọc thẳng với lá mọc đối, hình tim, răng cưa sắc, phủ đầy lông gây ngứa, cùng những chuỗi hoa xanh lục nhỏ rủ xuống."
    },
    "si": {
-    "commonName": "Stinging nettle",
-    "edible": "Young tops lose their sting when cooked and make a rich soup or a spinach substitute.",
-    "medicinal": "Nettle tea and extracts are traditional for hay fever, joint pain, and as a spring tonic.",
-    "ecologicalRole": "Larval food plant for peacock, small tortoiseshell, red admiral, and comma butterflies; a sign of nitrogen-rich soil.",
-    "culturalUses": "Fibres were spun into cloth and rope; a folk remedy involved deliberate stinging for rheumatism.",
-    "description": "An upright perennial with opposite, heart-shaped, sharply toothed leaves covered in stinging hairs and dangling strings of tiny green flowers."
+    "commonName": "බුරුල් කැඳ ගස",
+    "edible": "පිසූ විට තරුණ අග්‍ර දෂ්ට ගුණය නැති කර පොහොසත් සුප් එකක් හෝ නිවිති ආදේශකයක් සාදයි.",
+    "medicinal": "බුරුල් කැඳ තේ හා නිස්සාරක උණ අසාත්මිකතාව, සන්ධි වේදනාව, හා වසන්ත ටොනික් එකක් ලෙස සාම්ප්‍රදායිකව භාවිත වේ.",
+    "ecologicalRole": "පීකොක්, ස්මෝල් ටෝටෝයිස්ෂෙල්, රෙඩ් ඇඩ්මිරල්, හා කෝමා සමනලුන්ගේ ලාවා ආහාර ශාකයයි; නයිට්‍රජන් බහුල පසෙහි ලකුණකි.",
+    "culturalUses": "තන්තු රෙදි හා කඹ නූල් අඹරන ලදී; වේදනා නාශනයට හිතාමතාම දෂ්ට කරවීමේ ජනකතාවක් තිබුණි.",
+    "description": "දෂ්ට රෝම වලින් වැසුණු, විරුද්ධ, හෘද හැඩැති, තියුණු දාරදාරයුත් පත්‍ර සහ එල්ලෙන කුඩා කොළ පැහැති මල් නූල් සහිත ඍජු බහුවාර්ෂික ශාකයකි."
    },
    "id": {
     "commonName": "Jelatang",
@@ -2595,12 +2595,12 @@
     "description": "Một chùm lá hình hoa thị có răng cưa, mọc trên thân rỗng chảy nhựa trắng như sữa, cụm hoa vàng tươi, và quả cầu hạt có dù bay nổi tiếng."
    },
    "si": {
-    "commonName": "Dandelion",
-    "edible": "Young leaves are bitter salad greens, roots are roasted as a coffee substitute, and flowers are made into wine.",
-    "medicinal": "Leaves are a traditional diuretic and the root a digestive bitter.",
-    "ecologicalRole": "One of the most important early spring nectar and pollen sources for bees and hoverflies.",
+    "commonName": "ඩැන්ඩලියන්",
+    "edible": "තරුණ පත්‍ර තිත්ත සලාද කොළයි, මුල් බැදගෙන කෝපි ආදේශකයක් ලෙසත්, මල් වයින් සෑදීමටත් යොදාගනී.",
+    "medicinal": "පත්‍ර සාම්ප්‍රදායික මුත්‍රාවර්ධකයක් වන අතර මුල ආමාශයට තිත්ත ඖෂධයකි.",
+    "ecologicalRole": "වසන්තයේ මුල් අවධියේ මීමැස්සන්ට හා හෝවර්ෆ්ලයිවලට ඇති වඩාත්ම වැදගත් මී පිණි හා පරාග ප්‍රභවයන්ගෙන් එකකි.",
     "culturalUses": null,
-    "description": "A rosette of toothed leaves with hollow stems that bleed milky sap, bright yellow flower heads, and the famous globe of parachuted seeds."
+    "description": "කිරිසර දියරය ගලා යන හිස් දඬු සහිත දාරදාරයුත් පත්‍ර රෝසෙටයක්, දීප්තිමත් කහ මල් හිස්, සහ ප්‍රසිද්ධ පැරෂූට් බීජ ගෝලයයි."
    },
    "id": {
     "commonName": "Dandelion",
@@ -2802,12 +2802,12 @@
     "description": "Một loài cây lâu năm thấp với lá hình thìa xếp thành chùm dẹt và từng bông hoa đơn với cánh trắng đầu phớt hồng quanh nhụy vàng, khép lại vào ban đêm."
    },
    "si": {
-    "commonName": "Daisy",
-    "edible": "Young leaves and flower buds can be added to salads in small amounts.",
-    "medicinal": "Once known as bruisewort, it was applied to bruises and wounds in folk medicine.",
-    "ecologicalRole": "Flowers nearly all year in short turf and feed small bees and hoverflies when little else is out.",
-    "culturalUses": "Daisy chains and the 'loves me, loves me not' game are childhood classics.",
-    "description": "A low perennial with spoon-shaped leaves in a flat rosette and single flower heads of white, pink-tipped petals around a yellow centre that close at night."
+    "commonName": "ඩේසි",
+    "edible": "තරුණ පත්‍ර හා මල් අංකුර සුළු ප්‍රමාණයෙන් සලාදවලට එකතු කළ හැක.",
+    "medicinal": "එක් කලෙක 'බෘස්වර්ට්' ලෙස හැඳින්වූ මෙය ජනවෛද්‍යයේ තැලීම් හා තුවාලවලට යොදන ලදී.",
+    "ecologicalRole": "කෙටි තණකොළේ අවුරුද්ද පුරාම පාහේ මල් පිපී, වෙනත් දෙයක් ලබා ගැනීමට අපහසු කාලවලදී කුඩා මීමැස්සන්ට හා හෝවර්ෆ්ලයිවලට ආහාර සපයයි.",
+    "culturalUses": "ඩේසි දාම හා 'ආදරේ, ආදරේ නෑ' ක්‍රීඩාව ළමා කාලයේ සම්භාව්‍ය දෑය.",
+    "description": "පැතලි රෝසෙටයක හැඳි හැඩැති පත්‍ර සහ රාත්‍රියේ වැසෙන කහ මධ්‍යයක් වටා සුදු, රෝස-තුඩු පෙති සහිත තනි මල් හිස් ඇති පහත් බහුවාර්ෂික ශාකයකි."
    },
    "id": {
     "commonName": "Bunga Daisy",
@@ -3009,12 +3009,12 @@
     "description": "Một loài cây đồng cỏ lâu năm với ba lá chét hình bầu dục, mỗi lá thường có vệt hình chữ V nhạt màu, và cụm hoa tròn màu hồng tím."
    },
    "si": {
-    "commonName": "Red clover",
-    "edible": "Flower heads are sweet and can be eaten raw or dried for tea.",
-    "medicinal": "Used traditionally for coughs and skin complaints; isoflavone extracts are sold for menopausal symptoms.",
-    "ecologicalRole": "Fixes nitrogen into the soil and is a top forage plant for bumblebees, especially long-tongued species.",
+    "commonName": "රතු ක්ලෝවර්",
+    "edible": "මල් හිස් මිහිරි වන අතර අමුවෙන් හෝ තේ සඳහා වියලා ආහාරයට ගත හැක.",
+    "medicinal": "සාම්ප්‍රදායිකව කැස්ස හා සම රෝගවලට භාවිත වූ අතර ඉසෝෆ්ලේවෝන් නිස්සාරක ආර්තවහරණ ලක්ෂණවලට විකුණනු ලැබේ.",
+    "ecologicalRole": "පසට නයිට්‍රජන් සවි කරන අතර, විශේෂයෙන් දිගු දිව ඇති බම්බල් මීමැස්සන් සඳහා ප්‍රමුඛ ආහාර ශාකයකි.",
     "culturalUses": null,
-    "description": "A meadow perennial with three oval leaflets, each often marked with a pale chevron, and round pink-purple flower heads."
+    "description": "බොහෝ විට ලා පැහැති chevron සලකුණකින් යුත් ඕවලාකාර පත් තුනකින් හා වටකුරු රෝස-දම් පැහැති මල් හිස්වලින් යුත් තණබිම් බහුවාර්ෂික ශාකයකි."
    },
    "id": {
     "commonName": "Semanggi Merah",
@@ -3215,12 +3215,12 @@
     "description": "Một chùm lá bám sát mặt đất, hình bầu dục rộng với các gân song song rõ nét, vươn lên những bông hoa dạng gié xanh mảnh như đuôi chuột."
    },
    "si": {
-    "commonName": "Greater plantain",
-    "edible": "Very young leaves are edible cooked; older leaves are stringy. Seeds can be eaten like psyllium.",
-    "medicinal": "Crushed leaves are a classic folk poultice for stings, cuts, and nettle rash.",
-    "ecologicalRole": "Thrives in trampled ground and paths; seeds feed finches and sparrows.",
-    "culturalUses": "Called 'white man's footprint' in North America because it followed European settlers' paths.",
-    "description": "A ground-hugging rosette of broad oval leaves with strong parallel veins, sending up slender green flower spikes like rat tails."
+    "commonName": "මහා ප්ලාන්ටේන්",
+    "edible": "ඉතා තරුණ පත්‍ර පිසූ විට ආහාරයට ගත හැක; වයස්ගත පත්‍ර තන්තුමයයි. බීජ psyllium මෙන් ආහාරයට ගත හැක.",
+    "medicinal": "පොඩිකළ පත්‍ර දෂ්ට කිරීම්, කැපුම්, හා බුරුල් කැඳ ගැසුම්වලට සම්භාව්‍ය ජනවෛද්‍ය පොෆිසයකි.",
+    "ecologicalRole": "පාමුල පස හා මාර්ගවල හොඳින් වර්ධනය වේ; බීජ ෆින්ච් හා ගිරාවන්ට ආහාර සපයයි.",
+    "culturalUses": "යුරෝපීය පදිංචිකරුවන්ගේ මාර්ග අනුගමනය කළ බැවින් උතුරු ඇමරිකාවේ 'සුදු මිනිසාගේ පා සලකුණ' ලෙස හැඳින්විණි.",
+    "description": "බලවත් සමාන්තර නහර සහිත පුළුල් ඕවලාකාර පත්‍ර බිම බැඳුණු රෝසෙටයක්, මීයන්ගේ වලිගය වැනි සිහින් කොළ පැහැති මල් දඬු ඉහළට යවයි."
    },
    "id": {
     "commonName": "Daun Sendok",
@@ -3422,12 +3422,12 @@
     "description": "Một loài cây lâu năm có mùi thơm với lá mềm, xẻ nhỏ như lông chim, và cụm hoa trắng hoặc hồng nhỏ li ti xếp phẳng trên đỉnh."
    },
    "si": {
-    "commonName": "Yarrow",
+    "commonName": "යැරෝ",
     "edible": null,
-    "medicinal": "Named for Achilles, who reputedly used it to staunch soldiers' wounds; still a traditional remedy for cuts, fever, and colds.",
-    "ecologicalRole": "Its flat flower heads are landing platforms for hoverflies, beetles, and solitary wasps; deep roots resist drought.",
-    "culturalUses": "Dried stalks were used for casting the I Ching in China.",
-    "description": "An aromatic perennial with soft, feathery, finely divided leaves and flat-topped clusters of tiny white or pink flowers."
+    "medicinal": "සොල්දාදුවන්ගේ තුවාල නවත්වන්නට භාවිත කළ බව කියන ඇකිලීස්ගේ නමින් නම් කර ඇත; තවමත් කැපුම්, උණ, හා සෙම්ප්‍රතිශ්‍යාවට සාම්ප්‍රදායික ප්‍රතිකාරයකි.",
+    "ecologicalRole": "එහි පැතලි මල් හිස් හෝවර්ෆ්ලයි, බීටල්, හා තනි වෙසෙන බඹරුන්ට බැසීමේ තට්ටු වේ; ගැඹුරු මූල පද්ධතිය නියඟයට ඔරොත්තු දෙයි.",
+    "culturalUses": "චීනයේ I Ching සලකුණු ලෑමට වියළි දඬු භාවිත කරන ලදී.",
+    "description": "මෘදු, පිහාටු වැනි, සියුම් ලෙස අංශයුත් පත්‍ර සහ පැතලි මුදුනක කුඩා සුදු හෝ රෝස මල් පොකුරු සහිත සුවඳැති බහුවාර්ෂික ශාකයකි."
    },
    "id": {
     "commonName": "Seribu Daun",
@@ -3631,12 +3631,12 @@
     "description": "Một loài cây hai năm cao lớn, năm đầu tiên chỉ có chùm lá mềm phủ lông tơ, sang năm thứ hai vươn lên một chùm hoa hình chuông ống màu hồng tím có đốm."
    },
    "si": {
-    "commonName": "Foxglove",
-    "edible": "Not edible. Every part is highly poisonous and can stop the heart.",
-    "medicinal": "The source of digoxin, a heart medicine; never self-administer, the margin between dose and poison is tiny.",
-    "ecologicalRole": "Tubular flowers are tailored to bumblebees, which crawl inside following spotted guide marks.",
-    "culturalUses": "Fairy folklore surrounds it; the spots inside the flowers were said to be fairy fingerprints.",
-    "description": "A tall biennial with a rosette of soft, downy leaves in its first year and a spire of purple-pink, spotted tubular bells in its second."
+    "commonName": "ෆොක්ස්ග්ලව්",
+    "edible": "ආහාරයට ගත නොහැක. සෑම කොටසක්ම දැඩි ලෙස විෂ සහිත වන අතර හදවත නවත්විය හැක.",
+    "medicinal": "හෘද ඖෂධයක් වන digoxin හි ප්‍රභවයයි; කිසි විටෙකත් තනිව භාවිත නොකරන්න, මාත්‍රාව හා විෂය අතර පරතරය ඉතා කුඩාය.",
+    "ecologicalRole": "නලාකාර මල් ලප සලකුණු අනුගමනය කරමින් ඇතුළට රිංගන බම්බල් මීමැස්සන් සඳහාම සකසා ඇත.",
+    "culturalUses": "පරී ජනකතාවෙන් වට වී ඇත; මල් තුළ ඇති ලප පරීන්ගේ ඇඟිලි සලකුණු බව කියති.",
+    "description": "පළමු වසරේ මෘදු, රෝම සහිත පත්‍ර රෝසෙටයක් සහ දෙවන වසරේ දම්-රෝස, ලප සහිත නලාකාර සීනුවක් වැනි ගොනුවක් ඇති උස ද්විවාර්ෂික ශාකයකි."
    },
    "id": {
     "commonName": "Digitalis Ungu",
@@ -3838,12 +3838,12 @@
     "description": "Một loài cây có củ mọc trong rừng với lá bầu dục rộng, bóng, tỏa mùi tỏi nồng khi vò nát, và hoa trắng hình sao xếp thành tán tròn."
    },
    "si": {
-    "commonName": "Wild garlic",
-    "edible": "Leaves, flowers, and bulbs are edible with a mild garlic flavour; classic in pesto and soups. Beware of look-alikes like lily of the valley.",
-    "medicinal": "Traditionally taken for blood pressure and as a spring cleanse, much like cultivated garlic.",
-    "ecologicalRole": "Carpets ancient damp woodland in April and feeds early hoverflies; an indicator of old woodland.",
-    "culturalUses": "Bear garlic in German and Slavic traditions, said to be eaten by bears waking from hibernation.",
-    "description": "A woodland bulb with broad, glossy, elliptical leaves that smell strongly of garlic when crushed and starry white flowers in a rounded umbel."
+    "commonName": "වන සුදුළූණු",
+    "edible": "පත්‍ර, මල්, හා බල්බ මෘදු සුදුළූණු රසැතියි, ආහාරයට ගත හැක; pesto හා සුප්වල සම්භාව්‍යයි. lily of the valley වැනි සමාන ශාකවලට ප්‍රවේශම් වන්න.",
+    "medicinal": "වගා කළ සුදුළූණු මෙන් රුධිර පීඩනයට හා වසන්ත පිරිසිදු කිරීමක් ලෙස සාම්ප්‍රදායිකව ගැනීම කරන ලදී.",
+    "ecologicalRole": "අප්‍රේල් මාසයේ පැරණි තෙත් වනාන්තර වැසෙන අතර මුල් හෝවර්ෆ්ලයිවලට ආහාර සපයයි; පැරණි වනාන්තරයේ ලකුණකි.",
+    "culturalUses": "ජර්මන් හා ස්ලාවික් සම්ප්‍රදායන්හි 'වලසුන්ගේ සුදුළූණු' ලෙස හැඳින්වේ, ශීත නිද්‍රාවෙන් අවදි වන වලසුන් අනුභව කරන බව කියති.",
+    "description": "පොඩිකළ විට තදින් සුදුළූණු සුවඳ දෙන පුළුල්, දිලිසෙන, දිගටි ඕවලාකාර පත්‍ර සහ වටකුරු umbel එකක තරු වැනි සුදු මල් සහිත වන බල්බයකි."
    },
    "id": {
     "commonName": "Bawang Liar",
@@ -4043,12 +4043,12 @@
     "description": "Một loài cây có củ nở vào mùa xuân với lá hẹp như dải băng, cùng chùm hoa chuông tím xanh thơm ngát rủ về một phía, đầu cánh cong ngược ra sau và nhị hoa màu kem."
    },
    "si": {
-    "commonName": "Bluebell",
-    "edible": "Not edible. All parts contain toxic glycosides.",
+    "commonName": "බ්ලූබෙල්",
+    "edible": "ආහාරයට ගත නොහැක. සියලුම කොටස්වල විෂ සහිත ග්ලයිකෝසයිඩ් අඩංගුයි.",
     "medicinal": null,
-    "ecologicalRole": "About half the world's bluebells grow in Britain; carpets of them feed early bees and butterflies and indicate ancient woodland.",
-    "culturalUses": "Protected by law in the UK; the sticky sap once glued feathers to arrows and bound books.",
-    "description": "A spring bulb with narrow, strap-like leaves and one-sided, drooping spikes of fragrant violet-blue bells with curled-back petal tips and cream anthers."
+    "ecologicalRole": "ලෝකයේ බ්ලූබෙල් වලින් අඩක් පමණ බ්‍රිතාන්‍යයේ වැඩෙයි; ඒවායේ පැදුරු මුල් අවධියේ මීමැස්සන්ට හා සමනලුන්ට ආහාර සපයන අතර පැරණි වනාන්තරයේ ලකුණකි.",
+    "culturalUses": "UK තුළ නීතියෙන් ආරක්ෂිතයි; ඇලෙන දියරය එක් කලෙක පිහාටු ඊතලවලට ඇලවීමට හා පොත් බැඳීමට යොදාගන්නා ලදී.",
+    "description": "පටු, තීරු වැනි පත්‍ර සහ එක් පැත්තකින් එල්ලෙන, පෙති තුඩු වක්‍ර වූ, ක්‍රීම් පැහැති අන්තර්ග සහිත සුවඳැති දම්-නිල් සීනු පොකුරු සහිත වසන්ත බල්බයකි."
    },
    "id": {
     "commonName": "Bunga Lonceng Biru",
@@ -4249,12 +4249,12 @@
     "description": "Một loài lan nhỏ với chùm lá xanh xám và vài bông hoa có đài hoa màu hồng cùng cánh môi nhung nâu có hoa văn giống hệt một con ong nghệ."
    },
    "si": {
-    "commonName": "Bee orchid",
+    "commonName": "බී ඕකිඩ්",
     "edible": null,
     "medicinal": null,
-    "ecologicalRole": "The flower mimics a female bee to lure males, though in Britain it mostly self-pollinates; a specialist of chalk and disturbed lime-rich ground.",
-    "culturalUses": "A prized find for botanists and a symbol of wild grassland restoration.",
-    "description": "A small orchid with a rosette of grey-green leaves and a few flowers with pink sepals and a velvety brown lip patterned like a bumblebee."
+    "ecologicalRole": "පිරිමි මීමැස්සන් ආකර්ෂණය කිරීමට ගැහැණු මීමැස්සෙකු අනුකරණය කරයි, එහෙත් බ්‍රිතාන්‍යයේ බොහෝ විට ස්වයං-පරාගණය වේ; හුණු හා කැළඹුණු හුණු බහුල භූමියේ විශේෂඥයකි.",
+    "culturalUses": "ශාක විද්‍යාඥයන් අගය කරන සොයාගැනීමක් සහ වල් තණබිම් ප්‍රතිසාධනයේ සංකේතයකි.",
+    "description": "අළු-කොළ පැහැති පත්‍ර රෝසෙටයක් සහ රෝස sepals හා බම්බල් මීමැස්සෙකු මෙන් රටා ගැසුණු චිකන් දුඹුරු තුඩුවක් සහිත මල් කිහිපයක් ඇති කුඩා ඕකිඩ් ශාකයකි."
    },
    "id": {
     "commonName": "Anggrek Lebah",
@@ -4455,12 +4455,12 @@
     "description": "Một loài lan mọc ở rừng và đồng cỏ với lá bóng thường có đốm tím và một chùm hoa tím dày đặc, thoang thoảng mùi khai như mèo đực."
    },
    "si": {
-    "commonName": "Early purple orchid",
+    "commonName": "මුල් දම් ඕකිඩ්",
     "edible": null,
-    "medicinal": "Tubers were once made into salep, a thick drink sold before coffee arrived in Europe.",
-    "ecologicalRole": "One of the first orchids to flower, offering no nectar but deceiving newly emerged bumblebees.",
-    "culturalUses": "Shakespeare's 'long purples' in Hamlet; surrounded by love-potion folklore.",
-    "description": "A woodland and grassland orchid with glossy leaves usually blotched with purple and a dense spike of purple flowers that smell faintly of tomcat."
+    "medicinal": "බුබුළු එක් කලෙක යුරෝපයට කෝපි පැමිණීමට පෙර විකුණන ලද thick බීම වර්ගයක් වන salep සෑදීමට යොදාගන්නා ලදී.",
+    "ecologicalRole": "මී පිණි නොදෙන නමුත් අලුතින් මතුවන බම්බල් මීමැස්සන් රැවටෙන පළමු ඕකිඩ් වර්ග අතරින් එකකි.",
+    "culturalUses": "Hamlet නාට්‍යයේ ෂේක්ස්පියර්ගේ 'long purples'; ආදර-ඖෂධ ජනකතාවලින් වට වී ඇත.",
+    "description": "සාමාන්‍යයෙන් දම් පැහැයෙන් තිතුබැඳුණු දිලිසෙන පත්‍ර සහ පූසෙකුගේ සුවඳ මඳක් දෙන දම් මල් ඝන ගොනුවක් සහිත වනාන්තර හා තණබිම් ඕකිඩ් ශාකයකි."
    },
    "id": {
     "commonName": "Anggrek Ungu Awal",
@@ -4659,12 +4659,12 @@
     "description": "Một loài lan với lá hẹp có đốm tím sẫm và một chùm hoa hình nón màu hồng nhạt đến tím nhạt, mỗi cánh môi có hoa văn vòng và chấm, chia thành ba thùy."
    },
    "si": {
-    "commonName": "Common spotted orchid",
+    "commonName": "පොදු තිත් ඕකිඩ්",
     "edible": null,
     "medicinal": null,
-    "ecologicalRole": "The most frequent British orchid, colonising verges and old meadows; visited by bees and day-flying moths.",
+    "ecologicalRole": "වඩාත් සුලභ බ්‍රිතාන්‍ය ඕකිඩ් වර්ගය, මාර්ග දාරයන් හා පැරණි තණබිම් ජනාවාස කරයි; මීමැස්සන් හා දිවා-පියාසර සළබයන් එළඹෙයි.",
     "culturalUses": null,
-    "description": "An orchid with narrow leaves spotted with dark purple and a conical spike of pale pink to lilac flowers, each lip marked with loops and dots and divided into three lobes."
+    "description": "තද දම් තිත් සහිත පටු පත්‍ර සහ ලූප් හා ලප වලින් සලකුණු වී පත් තුනකට බෙදුණු ලා රෝස සිට lilac දක්වා මල් සහිත කේතුාකාර ගොනුවක් ඇති ඕකිඩ් ශාකයකි."
    },
    "id": {
     "commonName": "Anggrek Bertotol Umum",
@@ -4863,12 +4863,12 @@
     "description": "Một loài cây có củ mảnh mai nở vào mùa xuân với lá như cỏ và hoa hình lồng đèn cúi xuống, có hoa văn ca-rô tím trắng, đôi khi toàn trắng."
    },
    "si": {
-    "commonName": "Snake's head fritillary",
-    "edible": "Not edible. The bulbs and leaves are poisonous.",
+    "commonName": "සර්ප හිස ෆ්‍රිටිලරි",
+    "edible": "ආහාරයට ගත නොහැක. බල්බ හා පත්‍ර විෂ සහිතයි.",
     "medicinal": null,
-    "ecologicalRole": "A specialist of traditionally managed flood meadows, now rare; flowers are pollinated by early bumblebees.",
-    "culturalUses": "The county flower of Oxfordshire; famous displays draw visitors to Magdalen Meadow and Cricklade every April.",
-    "description": "A slender spring bulb with grassy leaves and nodding, lantern-shaped flowers chequered in purple and white, occasionally pure white."
+    "ecologicalRole": "සාම්ප්‍රදායිකව කළමනාකරණය කළ ගංවතුර තණබිම්වල විශේෂඥයෙකි, දැන් දුර්ලභයි; මුල් බම්බල් මීමැස්සන් විසින් පරාගණය කෙරේ.",
+    "culturalUses": "ඔක්ස්ෆර්ඩ්ෂයර්ගේ ප්‍රාන්ත මලයි; සෑම අප්‍රේල් මාසයකම Magdalen Meadow හා Cricklade වෙත සංචාරකයන් ආකර්ෂණය කරන ප්‍රසිද්ධ දර්ශන ඇත.",
+    "description": "තණ වැනි පත්‍ර සහ දම් හා සුදු පැහැයෙන් checkered, සමහර විට පිරිසිදු සුදු, බඳුනක් වැනි එල්ලෙන මල් සහිත සිහින් වසන්ත බල්බයකි."
    },
    "id": {
     "commonName": "Fritilaria Kepala Ular",
@@ -5071,12 +5071,12 @@
     "description": "Một loài cây lâu năm thấp với chùm lá nhăn hình lưỡi và hoa vàng nhạt năm cánh có tâm vàng đậm hơn, mỗi bông trên một cuống riêng phủ lông tơ."
    },
    "si": {
-    "commonName": "Primrose",
-    "edible": "Flowers are edible and used to decorate cakes and salads; leaves can be cooked.",
-    "medicinal": "Root and flower were traditional remedies for coughs and headaches.",
-    "ecologicalRole": "Among the first flowers of the year, feeding early bees, bee-flies, and brimstone butterflies.",
-    "culturalUses": "Primrose Day on 19 April commemorates Disraeli; a beloved emblem of spring in poetry.",
-    "description": "A low perennial with a rosette of crinkled, tongue-shaped leaves and pale yellow, five-petalled flowers with a deeper yellow eye, each on its own hairy stalk."
+    "commonName": "ප්‍රිම්රෝස්",
+    "edible": "මල් ආහාරයට ගත හැකි අතර කේක් හා සලාද අලංකාරය සඳහා යොදාගනී; පත්‍ර පිසිය හැක.",
+    "medicinal": "මුල හා මල් කැස්ස හා හිසේ රුදාවට සාම්ප්‍රදායික ප්‍රතිකාරයන් විය.",
+    "ecologicalRole": "වසරේ පළමු මල් අතරින්, මුල් මීමැස්සන්ට, බී-ෆ්ලයිවලට, හා බ්‍රිම්ස්ටෝන් සමනලුන්ට ආහාර සපයයි.",
+    "culturalUses": "අප්‍රේල් 19 වන ප්‍රිම්රෝස් දිනය Disraeli මතක් කරයි; කවියේ වසන්තයේ ආදරණීය සංකේතයකි.",
+    "description": "රැළි වැටුණු, දිව හැඩැති පත්‍ර රෝසෙටයක් සහ ගැඹුරු කහ ඇසක් සහිත ලා කහ, පෙති පහක් ඇති මල් ඇති, එකිනෙක රෝම සහිත තනි දඬු මත ඇති පහත් බහුවාර්ෂික ශාකයකි."
    },
    "id": {
     "commonName": "Bunga Primrose",
@@ -5276,12 +5276,12 @@
     "description": "Một loài cây có củ nhỏ với hai chiếc lá xám xanh hình dải và một bông hoa trắng đơn độc cúi xuống, có ba cánh ngoài và một cốc hoa bên trong điểm xanh."
    },
    "si": {
-    "commonName": "Snowdrop",
-    "edible": "Not edible. The bulbs are toxic and easily mistaken for onions.",
-    "medicinal": "The source of galantamine, a drug used for early Alzheimer's disease; never use the raw plant.",
-    "ecologicalRole": "Flowers in late winter when little else does, and opens on mild days to reward foraging bees.",
-    "culturalUses": "A symbol of hope and Candlemas; 'galanthophiles' collect hundreds of named varieties.",
-    "description": "A small bulb with two grey-green strap leaves and a single nodding white flower with three outer petals and a green-marked inner cup."
+    "commonName": "ස්නෝඩ්‍රොප්",
+    "edible": "ආහාරයට ගත නොහැක. බල්බ විෂ සහිත වන අතර ලූනු ලෙස වරදවා වටහාගැනීම පහසුය.",
+    "medicinal": "මුල් අවධියේ ඇල්සයිමර් රෝගයට භාවිත කරන galantamine ඖෂධයේ ප්‍රභවයයි; අමු ශාකය කිසි විටෙකත් භාවිත නොකරන්න.",
+    "ecologicalRole": "වෙනත් දෙයක් නොමැති ශීත ඍතුවේ අග භාගයේ මල් පිපී, මෘදු දිනවල විවෘත වී ආහාර සොයන මීමැස්සන්ට ත්‍යාගයක් වේ.",
+    "culturalUses": "බලාපොරොත්තුවේ හා Candlemas හි සංකේතයකි; 'galanthophiles' නම් කරන ලද වර්ග සිය ගණනක් රැස් කරති.",
+    "description": "අළු-කොළ පැහැති තීරු පත්‍ර දෙකක් සහ බාහිර පෙති තුනක් හා කොළ සලකුණු සහිත අභ්‍යන්තර කුසලානයක් ඇති, එල්ලෙන තනි සුදු මලක් සහිත කුඩා බල්බයකි."
    },
    "id": {
     "commonName": "Tetesan Salju",
@@ -5495,12 +5495,12 @@
     "description": "Một loài cây lâu năm phát triển mạnh mẽ với thân rỗng như tre, lốm đốm đỏ, lá hình khiên có đáy phẳng, và chùm hoa màu kem vào cuối mùa hè. Có thể mọc lại chỉ từ những mảnh rễ rất nhỏ."
    },
    "si": {
-    "commonName": "Japanese knotweed",
-    "edible": "Young spring shoots taste like sharp rhubarb and are cooked in Japan; harvesting it can spread fragments, so take care.",
-    "medicinal": "The root is used in traditional East Asian medicine and is a commercial source of resveratrol.",
-    "ecologicalRole": "Forms dense stands that shade out native plants along rivers and railways; its late flowers do feed bees.",
+    "commonName": "ජපන් නටුව",
+    "edible": "වසන්ත තරුණ අංකුරවල තියුණු රුබාර්බ් රසයක් ඇති අතර ජපානයේ පිසිනු ලැබේ; එය අස්වනු නෙළීමෙන් කැබලි පැතිරිය හැකි නිසා ප්‍රවේශම් වන්න.",
+    "medicinal": "මුල නැගෙනහිර ආසියානු සාම්ප්‍රදායික වෛද්‍ය විද්‍යාවේ භාවිත වන අතර resveratrol හි වාණිජ ප්‍රභවයකි.",
+    "ecologicalRole": "ගංගා හා දුම්රිය මාර්ග දිගේ ආවේණික ශාක සෙවණ ගසන ඝන පොකුරු සාදයි; එහි ප්‍රමාද මල් මීමැස්සන්ට ආහාර සපයයි.",
     "culturalUses": null,
-    "description": "A vigorous perennial with hollow, red-speckled bamboo-like stems, shield-shaped leaves with a flat base, and sprays of creamy flowers in late summer. Regrows from tiny root fragments."
+    "description": "රතු-තිත් සහිත බම්බූ වැනි හිස් දඬු, පැතලි පාදකයක් ඇති පලිහ හැඩැති පත්‍ර, සහ ග්‍රීෂ්ම කාලයේ අගභාගයේ ක්‍රීම් පැහැති මල් පොකුරු සහිත ප්‍රබල බහුවාර්ෂික ශාකයකි. කුඩා මූල කැබලිවලින්ම යළි වැඩේ."
    },
    "id": {
     "commonName": "Rumput Simpul Jepang",
@@ -5709,12 +5709,12 @@
     "description": "Một loài cây hằng niên cao, mọng nước với thân rỗng hơi đỏ, lá hình mác có răng cưa mọc vòng, hoa hồng dạng mũ trùm, và quả nang bung nổ chỉ với một cái chạm nhẹ."
    },
    "si": {
-    "commonName": "Himalayan balsam",
-    "edible": "Seeds are edible and nutty; young leaves can be cooked. Picking seeds before they pop is one way to help control it.",
+    "commonName": "හිමාලයන් බාල්සම්",
+    "edible": "බීජ ආහාරයට ගත හැකි හා walnut රසැතියි; තරුණ පත්‍ර පිසිය හැක. පිපිරීමට පෙර බීජ නෙළීම එය පාලනය කිරීමට උපකාරී වන එක් ක්‍රමයකි.",
     "medicinal": null,
-    "ecologicalRole": "Outcompetes riverbank plants and leaves banks bare to erosion in winter; its nectar-rich flowers distract bees from native species.",
-    "culturalUses": "Introduced to Victorian gardens in 1839 and nicknamed 'policeman's helmet' for its flower shape.",
-    "description": "A tall, fleshy annual with reddish hollow stems, lance-shaped toothed leaves in whorls, hooded pink flowers, and seed pods that explode at a touch."
+    "ecologicalRole": "ගංගා ඉවුරු ශාක අභිබවා යන අතර ශීත ඍතුවේ ඉවුරු ඛාදනයට නිරාවරණය කරයි; මී පිණි බහුල මල් ආවේණික විශේෂවලින් මීමැස්සන් අවධානය වෙනතකට යොමු කරයි.",
+    "culturalUses": "1839 දී වික්ටෝරියානු උද්‍යානවලට හඳුන්වා දුන් අතර එහි මල් හැඩය නිසා 'පොලිස්කාරයාගේ තොප්පිය' ලෙස අන්වර්ථ නම් කරන ලදී.",
+    "description": "රතු පැහැති හිස් දඬු, කරල් වශයෙන් සකසුණු අන්ධාකාර දාරදාරයුත් හෙල හැඩැති පත්‍ර, හුඩ් සහිත රෝස මල්, සහ ස්පර්ශයෙන් පුපුරන බීජ කරල් සහිත උස, මාංසමය වාර්ෂික ශාකයකි."
    },
    "id": {
     "commonName": "Pacar Air Himalaya",
@@ -5920,12 +5920,12 @@
     "description": "Một loài cây họ Hoa tán khổng lồ cao tới năm mét với thân đầy lông cứng, lốm đốm tím, lá xẻ sâu rộng hơn một mét, và cụm hoa trắng hình chiếc ô. Một loài cây nguy hiểm khi tiếp xúc."
    },
    "si": {
-    "commonName": "Giant hogweed",
-    "edible": "Not edible. Do not touch: the sap causes severe burns and blistering in sunlight.",
+    "commonName": "දැවැන්ත හොග්වීඩ්",
+    "edible": "ආහාරයට ගත නොහැක. ස්පර්ශ නොකරන්න: හිරු එළියේ එහි යුෂ දරුණු පිළිස්සීම් හා බුබුළු ඇති කරයි.",
     "medicinal": null,
-    "ecologicalRole": "Huge umbels feed insects, but colonies crowd out riverside plants and expose soil to erosion.",
+    "ecologicalRole": "විශාල umbel මල් කෘමීන්ට ආහාර සපයන නමුත් එහි ජනාවාස ගංගා ඉවුරු ශාක තෙරපා දමා පස ඛාදනයට නිරාවරණය කරයි.",
     "culturalUses": null,
-    "description": "A colossal umbellifer up to five metres tall with purple-blotched, bristly stems, deeply cut leaves over a metre wide, and umbrella-like white flower heads. A dangerous plant to handle."
+    "description": "දම්-ලප සහිත, බ්‍රිස්ල් සහිත දඬු, මීටරයකට වඩා පළල් ගැඹුරින් කැපුණු පත්‍ර, සහ කුඩාරමක් වැනි සුදු මල් හිස් සහිත මීටර් පහක් උසැති දැවැන්ත umbellifer ශාකයකි. හැසිරවීමට භයානක ශාකයකි."
    },
    "id": {
     "commonName": "Peterseli Raksasa",
@@ -6132,12 +6132,12 @@
     "description": "Một loài cây bụi thường xanh lớn với lá dày như da màu sẫm và những chùm hoa hình phễu màu hồng tím rực rỡ vào cuối mùa xuân."
    },
    "si": {
-    "commonName": "Rhododendron",
-    "edible": "Not edible. Leaves and nectar contain grayanotoxins; honey from it can cause 'mad honey' poisoning.",
+    "commonName": "රොඩෝඩෙන්ඩ්‍රොන්",
+    "edible": "ආහාරයට ගත නොහැක. පත්‍ර හා මී පිණි grayanotoxins අඩංගු කරයි; ඉන් සාදන පැණි 'මුරණ්ඩු පැණි' විෂවීමට හේතු විය හැක.",
     "medicinal": null,
-    "ecologicalRole": "Dense evergreen thickets acidify soil and shade out woodland flora; it also hosts the plant disease Phytophthora ramorum.",
-    "culturalUses": "Planted on Victorian estates for game cover and spring colour before its invasive nature was understood.",
-    "description": "A large evergreen shrub with leathery dark leaves and showy trusses of purple-pink funnel-shaped flowers in late spring."
+    "ecologicalRole": "ඝන සදාහරිත පොකුරු පස ආම්ලික කර වන ශාක සෙවණ ගසයි; Phytophthora ramorum ශාක රෝගයටද වාසස්ථානයයි.",
+    "culturalUses": "එහි ආක්‍රමණශීලී ස්වභාවය තේරුම් ගැනීමට පෙර ක්‍රීඩා ආවරණය හා වසන්ත වර්ණය සඳහා වික්ටෝරියානු වතුවල සිටුවන ලදී.",
+    "description": "ලෙදර් වැනි තද පත්‍ර සහ ග්‍රීෂ්ම කාලයේ අගභාගයේ දම්-රෝස ෆනල් හැඩැති මල් ගොනු ප්‍රදර්ශනය කරන විශාල සදාහරිත පඳුරකි."
    },
    "id": {
     "commonName": "Rododendron",
@@ -6343,12 +6343,12 @@
     "description": "Một loài cây bụi mọc nhanh với cành cong vòm, lá hình mác màu xanh xám, và những chùm hoa hình nón dài, thơm mùi mật ong, màu tím nhạt đến tím đậm vào mùa hè."
    },
    "si": {
-    "commonName": "Butterfly bush",
+    "commonName": "සමනළ පඳුර",
     "edible": null,
     "medicinal": null,
-    "ecologicalRole": "Flowers attract clouds of butterflies and moths, but seedlings colonise railways, walls, and brownfield land and can dominate native scrub.",
-    "culturalUses": "A cottage-garden staple since its introduction from China in the 1890s.",
-    "description": "A fast-growing shrub with arching branches, grey-green lance-shaped leaves, and long, honey-scented cones of lilac to purple flowers in summer."
+    "ecologicalRole": "මල් සමනලුන් හා සළබයන් වළාකුළු ලෙස ආකර්ෂණය කරයි, එහෙත් පැළ දුම්රිය මාර්ග, තාප්ප, හා පොදු බිම් ජනාවාස කර ආවේණික පඳුරු මතුරා දැමිය හැක.",
+    "culturalUses": "1890 දශකයේ චීනයෙන් හඳුන්වා දුන් දා සිට udyana කුටියේ ප්‍රධාන ශාකයකි.",
+    "description": "වක්‍ර අතු, අළු-කොළ පැහැති හෙල හැඩැති පත්‍ර, සහ ග්‍රීෂ්ම කාලයේ lilac සිට දම් දක්වා මී සුවඳැති දිගු මල් කේතු සහිත වේගවත් වර්ධනය වන පඳුරකි."
    },
    "id": {
     "commonName": "Semak Kupu-kupu",
@@ -6554,12 +6554,12 @@
     "description": "Một loài cây bụi thường xanh rậm rạp với lá to, bóng, dày như da, chùm hoa trắng nhỏ mọc thẳng vào mùa xuân, và quả giống quả anh đào chín thành màu đen."
    },
    "si": {
-    "commonName": "Cherry laurel",
-    "edible": "Not edible. Leaves and seeds release cyanide; crushed leaves smell of almonds for that reason.",
+    "commonName": "චෙරි ලෝරල්",
+    "edible": "ආහාරයට ගත නොහැක. පත්‍ර හා බීජ සයනයිඩ් මුදාහරියි; ඒ නිසාම පොඩිකළ පත්‍ර ආමන්ඩ් සුවඳ දෙයි.",
     "medicinal": null,
-    "ecologicalRole": "Escapes from hedges into woodland where its heavy shade suppresses ground flora and tree regeneration.",
-    "culturalUses": "A common privacy hedge; the leaves were once used in killing jars by butterfly collectors.",
-    "description": "A dense evergreen shrub with large, glossy, leathery leaves, upright spikes of small white flowers in spring, and cherry-like fruits that ripen black."
+    "ecologicalRole": "වැටවලින් වනාන්තරයට පිටවී එහි බර සෙවණ බිම් ශාක හා ගස් යළිවර්ධනය මර්දනය කරයි.",
+    "culturalUses": "පොදු පෞද්ගලිකත්ව වැටකි; සමනලුන් රැස් කරන්නන් විසින් එක් කලෙක මරණ භාජනවල පත්‍ර භාවිත කරන ලදී.",
+    "description": "විශාල, දිලිසෙන, ලෙදර් වැනි පත්‍ර, වසන්තයේ කුඩා සුදු මල් ඍජු ගොනු, සහ කළු පැහැයට ඉදෙන චෙරි වැනි පලතුරු සහිත ඝන සදාහරිත පඳුරකි."
    },
    "id": {
     "commonName": "Laurel Ceri",
@@ -6765,12 +6765,12 @@
     "description": "Một loài cây lâu năm sống ở đất ngập nước với thân vuông, lá hình mác mọc đối, và những chùm hoa cao, dày đặc, sáu cánh màu đỏ tươi vào mùa hè."
    },
    "si": {
-    "commonName": "Purple loosestrife",
+    "commonName": "දම් ලූස්ස්ට්‍රයිෆ්",
     "edible": null,
-    "medicinal": "Traditionally used for diarrhoea and as a wound wash thanks to its tannins.",
-    "ecologicalRole": "A rich nectar plant of British wetlands, but a serious invader of North American marshes where it displaces native plants.",
+    "medicinal": "එහි ටැනින් නිසා පාචනයට හා තුවාල සේදීමට සාම්ප්‍රදායිකව භාවිත වේ.",
+    "ecologicalRole": "බ්‍රිතාන්‍ය තෙත්බිම්වල පොහොසත් මී පිණි ශාකයකි, එහෙත් උතුරු ඇමරිකානු වගුරු බිම්වල ආවේණික ශාක ඉවත් කරන බරපතල ආක්‍රමණශීලී ශාකයකි.",
     "culturalUses": null,
-    "description": "A wetland perennial with square stems, opposite lance-shaped leaves, and tall dense spikes of magenta six-petalled flowers in summer."
+    "description": "හතරැස් දඬු, විරුද්ධ හෙල හැඩැති පත්‍ර, සහ ග්‍රීෂ්ම කාලයේ magenta පෙති හයක් සහිත මල් වල උස ඝන ගොනු සහිත තෙත්බිම් බහුවාර්ෂික ශාකයකි."
    },
    "id": {
     "commonName": "Lythrum Ungu",
@@ -6975,12 +6975,12 @@
     "description": "Một loài cây hai năm với chùm lá xanh đậm xẻ thùy sâu và cụm hoa vàng óng giống hoa cúc, xếp phẳng trên thân cao tới một mét."
    },
    "si": {
-    "commonName": "Common ragwort",
-    "edible": "Not edible. Contains liver-damaging alkaloids; toxic to horses and cattle, especially when dried in hay.",
+    "commonName": "පොදු රැග්වර්ට්",
+    "edible": "ආහාරයට ගත නොහැක. අක්මාව හානි කරන ඇල්කලොයිඩ් අඩංගු වේ; අශ්වයන්ට හා ගවයන්ට විෂ සහිතයි, විශේෂයෙන් පිදුරු ලෙස වියළූ විට.",
     "medicinal": null,
-    "ecologicalRole": "Supports around 30 specialist insects, including the black-and-yellow cinnabar moth caterpillar, and is a rich nectar source.",
-    "culturalUses": "Nicknamed 'stinking Willie' in Scotland after the Duke of Cumberland; the subject of long-running weed control debates.",
-    "description": "A biennial with a rosette of deeply lobed, dark green leaves and flat clusters of golden yellow daisy-like flowers on stems up to a metre tall."
+    "ecologicalRole": "කළු-කහ cinnabar සළබ දළඹුවා ඇතුළු විශේෂඥ කෘමීන් 30ක් පමණ රැකබලා ගන්නා අතර, පොහොසත් මී පිණි ප්‍රභවයකි.",
+    "culturalUses": "Duke of Cumberland ට පසුව ස්කොට්ලන්තයේ 'stinking Willie' ලෙස අන්වර්ථ නම් කරන ලදී; දිගු කලක් තිස්සේ පවතින වල් ශාක පාලන විවාදවල කර්තෘ විෂය.",
+    "description": "ගැඹුරින් අංශයුත් තද කොළ පැහැති පත්‍ර රෝසෙටයක් සහ මීටරයක් උසැති දඬු මත රන්වන් කහ ඩේසි වැනි මල් පැතලි පොකුරු සහිත ද්විවාර්ෂික ශාකයකි."
    },
    "id": {
     "commonName": "Ragwort Umum",
@@ -7183,12 +7183,12 @@
     "description": "Một loài cây lâu năm cao với lá hẹp giống lá liễu mọc xoắn quanh thân, cùng những chùm hoa hồng bốn cánh cao vút, sau đó là những hạt có lông tơ bồng bềnh."
    },
    "si": {
-    "commonName": "Rosebay willowherb",
-    "edible": "Young shoots can be cooked like asparagus; fermented leaves make the Russian tea 'Ivan chai'.",
-    "medicinal": "Leaf tea was a folk remedy for digestive and prostate complaints.",
-    "ecologicalRole": "A pioneer of burnt and cleared ground, hence 'fireweed'; flowers feed bees and the leaves host the elephant hawk-moth.",
-    "culturalUses": "Nicknamed 'bombweed' after it covered London's bomb sites in the 1940s.",
-    "description": "A tall perennial with narrow, willow-like leaves spiralling up the stem and long spires of rose-pink four-petalled flowers followed by fluffy seeds."
+    "commonName": "රෝස්බේ විලොහර්බ්",
+    "edible": "තරුණ අංකුර ඇස්පැරගස් මෙන් පිසිය හැක; පැසුණු පත්‍රවලින් රුසියානු 'ඉවාන් චායි' තේ සාදයි.",
+    "medicinal": "ආහාර ජීර්ණ හා ප්‍රොස්ටේට් අවුලට පත්‍ර තේ ජනවෛද්‍ය ප්‍රතිකාරයක් විය.",
+    "ecologicalRole": "ගිනි ගත් හා පවිත්‍ර කළ බිම්වල පුරෝගාමියෙක්, එබැවින් 'fireweed'; මල් මීමැස්සන්ට ආහාර සපයන අතර පත්‍ර elephant hawk-moth සළබයාට වාසස්ථානයයි.",
+    "culturalUses": "1940 දශකයේ ලන්ඩනයේ බෝම්බ ස්ථාන ආවරණය කිරීමෙන් පසු 'bombweed' ලෙස අන්වර්ථ නම් කරන ලදී.",
+    "description": "දඬු වටා සර්පිලාකාරව නැඟෙන පටු, විලෝ වැනි පත්‍ර සහ එහි පසුව රෝම සහිත බීජ ලබා දෙන පෙති හතරක් සහිත රෝස-රතු මල් දිගු ගොනු සහිත උස බහුවාර්ෂික ශාකයකි."
    },
    "id": {
     "commonName": "Bunga Api",
@@ -7389,12 +7389,12 @@
     "description": "Một loài cây lâu năm to khỏe, đầy lông cứng với lá lớn, nhám, hình mác chạy dọc xuống thân, và những chùm hoa chuông cong xoắn màu tím, hồng hoặc kem."
    },
    "si": {
-    "commonName": "Comfrey",
-    "edible": "Not for eating. Contains pyrrolizidine alkaloids that damage the liver.",
-    "medicinal": "Known as knitbone: leaf poultices are used externally for sprains and bruises, never internally.",
-    "ecologicalRole": "Deep-rooted and rich in nutrients; flowers are worked by bumblebees, some of which bite holes to rob the nectar.",
-    "culturalUses": "Gardeners steep leaves for a potent liquid fertiliser.",
-    "description": "A robust, bristly perennial with large, rough, lance-shaped leaves running down the stem and curled clusters of purple, pink, or cream bell flowers."
+    "commonName": "කම්ෆ්‍රි",
+    "edible": "ආහාරයට නොගන්න. අක්මාවට හානි කරන pyrrolizidine ඇල්කලොයිඩ් අඩංගු වේ.",
+    "medicinal": "'knitbone' ලෙස හැඳින්වේ: පත්‍ර පොෆිස මුඹුරු හා තැලීම්වලට බාහිරව භාවිත වේ, කිසි විටෙකත් අභ්‍යන්තරව නොවේ.",
+    "ecologicalRole": "ගැඹුරු මූල හා පෝෂක බහුලයි; බම්බල් මීමැස්සන් මල්වල වැඩ කරයි, සමහරු මී පිණි සොරකම් කිරීමට සිදුරු කන්නා.",
+    "culturalUses": "උද්‍යාන වගාකරුවෝ ප්‍රබල දියර පොහොර සෑදීමට පත්‍ර පොඟවති.",
+    "description": "දඬුව දිගේ ගලා යන විශාල, දරදඬු, හෙල හැඩැති පත්‍ර සහ දම්, රෝස, හෝ ක්‍රීම් සීනු මල් රැලි ගැසුණු පොකුරු සහිත ශක්තිමත්, බ්‍රිස්ල් සහිත බහුවාර්ෂික ශාකයකි."
    },
    "id": {
     "commonName": "Komprei",
@@ -7599,12 +7599,12 @@
     "description": "Một loài cây lâu năm cao mọc ở đồng cỏ ẩm ướt với lá kép lông chim, mặt dưới trắng, và những cụm hoa trắng kem dày đặc, bồng bềnh, thơm mùi hạnh nhân và mật ong."
    },
    "si": {
-    "commonName": "Meadowsweet",
-    "edible": "Sweet-scented flowers flavour cordials, mead, and desserts.",
-    "medicinal": "Contains salicylates and was the plant from which aspirin was named; a traditional remedy for fever, pain, and heartburn.",
-    "ecologicalRole": "A wetland and ditch plant whose frothy flowers attract hoverflies and beetles.",
-    "culturalUses": "A sacred herb of the Druids and a medieval strewing herb for floors.",
-    "description": "A tall damp-meadow perennial with pinnate leaves, white underneath, and dense frothy clusters of creamy white flowers that smell of almonds and honey."
+    "commonName": "මෙඩෝස්වීට්",
+    "edible": "සුවඳැති මල් කෝඩියල්, mead, හා අතුරුපසවලට රසැතියි.",
+    "medicinal": "සැලිසිලේට් අඩංගු වන අතර aspirin නම එයින්ම ලැබුණි; උණට, වේදනාවට, හා පිත උරලට සාම්ප්‍රදායික ප්‍රතිකාරයකි.",
+    "ecologicalRole": "එහි ෆෙන ගැසෙන මල් හෝවර්ෆ්ලයි හා බීටල් ආකර්ෂණය කරන තෙත්බිම් හා අගල් ශාකයකි.",
+    "culturalUses": "ඩෘයිඩ්වරුන්ගේ පූජනීය ශාකයක් සහ මධ්‍යකාලීන බිම් ඉස්මට යොදන ශාකයකි.",
+    "description": "පිනේට් පත්‍ර, යටින් සුදු පැහැයි, සහ ආමන්ඩ් හා මී පිණි සුවඳ දෙන ක්‍රීම් සුදු මල් ෆෙන ගැසුණු ඝන පොකුරු සහිත උස තෙත්-තණබිම් බහුවාර්ෂික ශාකයකි."
    },
    "id": {
     "commonName": "Ratu Padang",
@@ -7806,12 +7806,12 @@
     "description": "Một loài cây lâu năm có mùi thơm, mọc ở đất ẩm, với lá bầu dục có lông và răng cưa, thường ánh tím, cùng cụm hoa tròn màu tím hồng ở đầu thân."
    },
    "si": {
-    "commonName": "Water mint",
-    "edible": "Leaves are used like garden mint for teas, sauces, and drinks.",
-    "medicinal": "A traditional digestive and remedy for headaches, like other mints.",
-    "ecologicalRole": "A pondside plant whose flowers attract bees, hoverflies, and butterflies in late summer.",
+    "commonName": "ජල මින්ට්",
+    "edible": "පත්‍ර උද්‍යාන මින්ට් මෙන් තේ, සෝස්, හා පානවලට යොදාගනී.",
+    "medicinal": "අනෙකුත් මින්ට් ශාක මෙන් ආහාර ජීර්ණයට හා හිසේ රුදාවට සාම්ප්‍රදායික ප්‍රතිකාරයකි.",
+    "ecologicalRole": "ග්‍රීෂ්ම කාලයේ අගභාගයේ මීමැස්සන්, හෝවර්ෆ්ලයි, හා සමනලුන් ආකර්ෂණය කරන පොකුණු අද්දර ශාකයකි.",
     "culturalUses": null,
-    "description": "An aromatic perennial of wet ground with hairy, toothed oval leaves, often purple-tinged, and rounded heads of lilac-pink flowers at the stem tips."
+    "description": "බොහෝ විට දම් පැහැයට හැරෙන රෝම සහිත, දාරදාරයුත් ඕවලාකාර පත්‍ර සහ දඬු අග්‍රයේ වටකුරු lilac-රෝස මල් ගොනු සහිත තෙත් බිමේ සුවඳැති බහුවාර්ෂික ශාකයකි."
    },
    "id": {
     "commonName": "Mint Air",
@@ -8018,12 +8018,12 @@
     "description": "Một loài cây bụi cong vòm, đầy gai với lá kép lông chim gồm năm đến bảy lá chét, hoa hồng nhạt năm cánh vào tháng Sáu, và quả bầu dục đỏ bóng vào mùa thu."
    },
    "si": {
-    "commonName": "Dog rose",
-    "edible": "Rose hips are rich in vitamin C and are made into syrup, jelly, and tea; remove the irritant seed hairs first.",
-    "medicinal": "Rosehip syrup was given to children in wartime Britain against scurvy and is still used for joint health.",
-    "ecologicalRole": "Flowers feed bees and hoverflies; hips feed birds and small mammals through winter; thorny stems shelter nests.",
-    "culturalUses": "The wild rose of English heraldry and folklore.",
-    "description": "An arching, thorny shrub with pinnate leaves of five to seven leaflets, pale pink five-petalled flowers in June, and glossy red oval hips in autumn."
+    "commonName": "වල් රෝස",
+    "edible": "රෝස කුඩන් විටමින් C බහුලයි, සිරප්, ජෙලි, හා තේ සෑදීමට යොදාගනී; කරදර කරන බීජ රෝම මුලින්ම ඉවත් කරන්න.",
+    "medicinal": "බ්‍රිතාන්‍යයේ යුද කාලයේ ළමයින්ට scurvy වළක්වා ගැනීමට රෝස කුඩන් සිරප් දෙනු ලැබූ අතර සන්ධි සෞඛ්‍යයට තවමත් භාවිත වේ.",
+    "ecologicalRole": "මල් මීමැස්සන් හා හෝවර්ෆ්ලයිවලට ආහාර සපයයි; කුඩන් ශීත ඍතුව පුරා පක්ෂීන්ට හා කුඩා ක්ෂීරපායීන්ට ආහාර සපයන අතර කටුකාර දඬු කැදලිවලට ආරක්ෂාවයි.",
+    "culturalUses": "එංගලන්ත heraldry හා ජනකතාවේ වල් රෝසයයි.",
+    "description": "පත් පහක සිට හතක් දක්වා පිනේට් පත්‍ර, ජූනි මාසයේ ලා රෝස පෙති පහක් සහිත මල්, සහ සරත් සෘතුවේ දිලිසෙන රතු ඕවලාකාර කුඩන් සහිත වක්‍රාකාර, කටුකාර පඳුරකි."
    },
    "id": {
     "commonName": "Mawar Anjing",
@@ -8224,12 +8224,12 @@
     "description": "Một loài cây bụi nhiều thân với lá tròn, mềm, răng cưa kép, hoa đuôi sóc màu vàng vào tháng Hai, và hạt nằm trong vỏ có lá bao quanh."
    },
    "si": {
-    "commonName": "Hazel",
-    "edible": "Hazelnuts are edible raw or roasted and ripen in September, if squirrels leave any.",
+    "commonName": "හේසල්",
+    "edible": "වට් ගොයම් ඉතිරි කළහොත් හේසල්නට් අමුවෙන් හෝ බැදගෙන අගෝස්තු මාසයේ ඉදුණු විට ආහාරයට ගත හැක.",
     "medicinal": null,
-    "ecologicalRole": "Coppiced hazel creates the dappled woodland that dormice, fritillary butterflies, and spring flowers depend on.",
-    "culturalUses": "Rods for hurdles, thatching spars, and walking sticks; forked twigs for water divining.",
-    "description": "A multi-stemmed shrub with rounded, soft, double-toothed leaves, yellow catkins in February, and nuts in leafy husks."
+    "ecologicalRole": "කොපිස් කළ හේසල් ඩෝර්මවුස්, fritillary සමනලුන්, හා වසන්ත මල් රඳා පවතින සෙවණැලි වනාන්තරය නිර්මාණය කරයි.",
+    "culturalUses": "hurdles, තැච්සිං ස්පාර්ස්, හා ඇවිදින සැරයටි සඳහා දඬු; ජලය සෙවීමට ද්විශාඛ අතු.",
+    "description": "වටකුරු, මෘදු, ද්විත්ව දාරදාරයුත් පත්‍ර, පෙබරවාරි මාසයේ කහ catkins, සහ කොළ පැහැති කවච තුළ ගෙඩි සහිත බහු-කඳු පඳුරකි."
    },
    "id": {
     "commonName": "Hazel",
