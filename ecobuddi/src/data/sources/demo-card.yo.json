@@ -1,0 +1,29 @@
+{
+  "commonName": "Aglaonema 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Ohun ọ̀gbìn inú ilé kékeré tí ó ní ewé fífẹ̀, dídán, tí ó rí bí ẹyin, tí àwọ̀ fàdákà àti aláwọ̀ dúdú dàpọ̀ mọ́ ara wọn ní etí, tí ń hù jáde lórí ẹsẹ̀ kúkúrú láti àárín igi rẹ̀. Ó ti ìpilẹ̀ṣẹ̀ láti ilẹ̀ igbó òjò ti Philippines àti Sulawesi.",
+  "reasoning": "Ewé fífẹ̀ tí ó rí bí ẹyin, tí ó ní àwọ̀ fàdákà ní àárín àti etí dúdú, bá Aglaonema 'Silver Bay' mu dáadáa.",
+  "uses": {
+    "edible": "A kò lè jẹ ẹ́. Gbogbo apá rẹ̀ ní àwọn kírísítàlì kálísíọ̀mù okisaléètì tí ń jó ẹnu àti ọ̀fun. Pa á mọ́ kúrò lọ́wọ́ àwọn ọmọdé, ológbò, àti ajá.",
+    "medicinal": "Kò sí lílò ìbílẹ̀ tí ó dáa. Omi rẹ̀ ń mú awọ ara àti ojú bínú, nítorí náà wẹ ọwọ́ rẹ lẹ́yìn tí o bá ti gbìn ín sí ìkòkò míì.",
+    "ecologicalRole": "Ohun ọ̀gbìn tí ó nífẹ̀ẹ́ ibòji, tí ń hù ní ìsàlẹ̀ igbó òjò ní Gúúsù-Ìlà-Oòrùn Éṣíà. Nínú ilé, ó lè fara dà ìmọ́lẹ̀ kékeré, ó sì sábà máa ń jẹ́ ohun ọ̀gbìn ilé àkọ́kọ́ fún ọ̀pọ̀lọpọ̀ ènìyàn.",
+    "pollinatorValue": "Kékeré. Kì í sábà tanná nínú ilé, àwọn ewé òdòdó funfun kékeré rẹ̀ sì kò fa ọ̀pọ̀lọpọ̀ kòkòrò mọ́ra.",
+    "waterNeeds": "Àárín gbùngbùn. Jẹ́ kí orí erùpẹ̀ ilẹ̀ gbẹ kí o tó tún bomi rin ín, kí o sì rí i dájú pé ìwọ̀n ooru wà lókè 15 °C.",
+    "culturalUses": "A ń bọ̀wọ̀ fún un ní ilé àwọn ará Ṣáínà àti Gúúsù-Ìlà-Oòrùn Éṣíà gẹ́gẹ́ bí ohun tí ń mú oríire wá. 'Silver Bay' jẹ́ irú-ọ̀gbìn tuntun tí a ṣe àgbékalẹ̀ rẹ̀ nítorí ewé fàdákà rẹ̀ tí ó fẹ̀ jùlọ."
+  },
+  "alternatives": [
+    {
+      "scientificName": "Dieffenbachia seguine",
+      "family": "Araceae",
+      "commonName": "Ọ̀gbìn Odi",
+      "reasoning": "Àwọ̀ rẹ̀ jọra, ṣùgbọ́n ewé Ọ̀gbìn Odi tóbi jù, ó sì gùn ju ti Aglaonema lọ, ó sì wà lórí igi tí ó nípọn tí ó dà bí ọ̀pá ìrèké."
+    },
+    {
+      "scientificName": "Spathiphyllum wallisii",
+      "family": "Araceae",
+      "commonName": "Ìtànná Àlàáfíà",
+      "reasoning": "Wọ́n ní ewé dídán aláwọ̀ dúdú bíi ti ara wọn, ṣùgbọ́n ewé Ìtànná Àlàáfíà jẹ́ aláwọ̀ ewé lásán, láìsí àmì fàdákà kankan."
+    }
+  ]
+}

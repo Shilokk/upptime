@@ -1,0 +1,29 @@
+{
+  "commonName": "Vạn niên thanh 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "Một loài cây cảnh nhỏ gọn với lá bầu dục rộng, bóng, loang màu bạc xanh trên nền viền xanh đậm, mọc lên từ một chùm trung tâm trên các cuống ngắn. Có nguồn gốc từ sàn rừng nhiệt đới ở Philippines và Sulawesi.",
+  "reasoning": "Lá bầu dục rộng với vệt loang bạc ở giữa và viền xanh đậm khớp gần đúng với Aglaonema 'Silver Bay'.",
+  "uses": {
+    "edible": "Không ăn được. Mọi bộ phận đều chứa tinh thể canxi oxalat gây bỏng rát miệng và họng. Để xa tầm tay trẻ em, mèo và chó.",
+    "medicinal": "Không có công dụng truyền thống an toàn nào. Nhựa cây gây kích ứng da và mắt, nên hãy rửa tay sau khi thay chậu.",
+    "ecologicalRole": "Một loài cây tầng dưới ưa bóng râm của rừng nhiệt đới Đông Nam Á. Khi trồng trong nhà, nó chịu được ánh sáng yếu và là cây cảnh đầu tay phổ biến.",
+    "pollinatorValue": "Thấp. Cây hiếm khi ra hoa khi trồng trong nhà, và những mo hoa trắng nhỏ của nó thu hút rất ít côn trùng.",
+    "waterNeeds": "Vừa phải. Để lớp đất mặt khô giữa các lần tưới và giữ nhiệt độ trên 15°C.",
+    "culturalUses": "Được ưa chuộng trong các gia đình Trung Quốc và Đông Nam Á như một loài cây mang lại may mắn. 'Silver Bay' là giống lai hiện đại được lai tạo để có lá bạc bản rộng."
+  },
+  "alternatives": [
+    {
+      "scientificName": "Dieffenbachia seguine",
+      "family": "Araceae",
+      "commonName": "Vạn niên thanh câm",
+      "reasoning": "Có hoa văn loang màu tương tự, nhưng lá của vạn niên thanh câm to hơn và thuôn dài hơn trên một thân dạng mía dày."
+    },
+    {
+      "scientificName": "Spathiphyllum wallisii",
+      "family": "Araceae",
+      "commonName": "Bạch môn",
+      "reasoning": "Cùng có lá xanh đậm bóng, nhưng lá bạch môn xanh trơn hoàn toàn, không có vệt bạc."
+    }
+  ]
+}

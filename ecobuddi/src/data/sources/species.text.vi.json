@@ -1,0 +1,322 @@
+{
+  "quercus-robur": {
+    "commonName": "Sồi Anh",
+    "edible": "Quả sồi chỉ ăn được sau khi ngâm rửa nhiều lần để loại bỏ vị chát của tannin; ngày xưa được nghiền thành bột trong những năm mất mùa.",
+    "medicinal": "Vỏ cây giàu tannin từng được dùng theo cách truyền thống như một chất làm se để trị đau họng và các vấn đề về da.",
+    "ecologicalRole": "Một loài cây trụ cột nuôi dưỡng hơn 2.000 loài côn trùng, nấm, chim và thú; những cây sồi cổ thụ còn là nơi trú ngụ của các loài bọ cánh cứng gỗ mục quý hiếm.",
+    "culturalUses": "Gỗ dùng đóng tàu, làm thùng rượu và khung nhà gỗ; là biểu tượng quốc gia của nước Anh và biểu trưng cho sự bền bỉ.",
+    "description": "Một loài cây rụng lá to lớn, sống lâu năm, có lá xẻ thùy sâu trên cuống rất ngắn và quả sồi mọc trên cuống dài. Thân cây trở nên đồ sộ và nứt nẻ theo tuổi."
+  },
+  "platanus-hispanica": {
+    "commonName": "Tiêu huyền Luân Đôn",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Chịu được đất nén chặt và ô nhiễm, tỏa bóng mát cho đường phố và làm dịu không khí đô thị; vỏ cây bong thành từng mảng để loại bỏ bụi bẩn.",
+    "culturalUses": "Được trồng dọc các con phố và quảng trường London từ thế kỷ 18, đây là loài cây biểu tượng của thủ đô nước Anh.",
+    "description": "Một loài cây lai cao lớn trồng ven đường, có lá to giống lá phong, quả tròn gai nhọn treo suốt mùa đông, và vỏ cây có hoa văn loang lổ như ngụy trang, bong ra từng mảng."
+  },
+  "betula-pendula": {
+    "commonName": "Bạch dương bạc",
+    "edible": "Nhựa cây vào mùa xuân có thể khai thác làm thức uống hơi ngọt; lá non được cho vào trà.",
+    "medicinal": "Trà lá cây từng được dùng theo cách truyền thống như một chất lợi tiểu nhẹ, còn dầu từ vỏ cây dùng cho các vấn đề về da.",
+    "ecologicalRole": "Loài cây tiên phong mọc nhanh trên đất trống, giúp cải tạo đất nghèo dinh dưỡng, là thức ăn cho nhiều loài sâu bướm đêm và là nơi cộng sinh của nấm mặt trời đỏ cùng nhiều loài nấm khác.",
+    "culturalUses": "Vỏ cây dùng làm mồi lửa và đóng xuồng; cành nhỏ dùng làm chổi; là biểu tượng của sự tái sinh trong văn hóa dân gian phương Bắc.",
+    "description": "Một loài cây thanh mảnh có vỏ trắng bong tróc điểm những hình thoi đen, cành rủ xuống và lá nhỏ hình tam giác với mép răng cưa kép."
+  },
+  "fagus-sylvatica": {
+    "commonName": "Dẻ gai châu Âu",
+    "edible": "Hạt dẻ gai ăn được với lượng nhỏ khi đã rang chín; lá non mùa xuân có vị nhẹ, dùng được trong salad.",
+    "medicinal": null,
+    "ecologicalRole": "Tỏa bóng rợp dày đặc, định hình cả một quần xã rừng; những năm được mùa hạt nuôi sống chim giẻ cùi, chuột và lợn rừng.",
+    "culturalUses": "Vỏ cây xám mịn đã được khắc tên qua nhiều thế kỷ; gỗ được ưa chuộng để làm đồ nội thất và củi đốt.",
+    "description": "Một loài cây uy nghi với vỏ xám bạc mịn màng, lá hình bầu dục mép gợn sóng có lông tơ mượt khi còn non, và vỏ quả đầy gai tách ra để lộ hạt hình tam giác."
+  },
+  "aesculus-hippocastanum": {
+    "commonName": "Dẻ ngựa",
+    "edible": "Không ăn được. Hạt dẻ ngựa chứa aesculin và độc với người cũng như chó; chúng không có họ hàng với hạt dẻ ngọt.",
+    "medicinal": "Chiết xuất hạt đã chuẩn hóa được dùng ở châu Âu để hỗ trợ tuần hoàn máu ở chân, nhưng hạt sống có độc.",
+    "ecologicalRole": "Những chùm hoa lớn hình nến nuôi ong vào cuối xuân; loài sâu đục lá hiện khiến hầu hết lá ngả nâu vào tháng Tám.",
+    "culturalUses": "Hạt dẻ ngựa là trò chơi sân trường kinh điển của trẻ em Anh mỗi mùa thu.",
+    "description": "Một loài cây to, tán rộng với lá hình bàn tay gồm năm đến bảy lá chét, chùm hoa trắng vào tháng Năm, và hạt nâu bóng nằm trong vỏ xanh đầy gai."
+  },
+  "tilia-europaea": {
+    "commonName": "Đoạn châu Âu",
+    "edible": "Lá non có vị dễ chịu khi dùng trong salad; hoa phơi khô dùng pha loại trà đoạn (linden) cổ điển.",
+    "medicinal": "Trà hoa đoạn là bài thuốc dân gian truyền thống trị cảm lạnh, lo âu và mất ngủ.",
+    "ecologicalRole": "Hoa rộn tiếng ong vào tháng Bảy; rệp vừng trên lá nuôi sống bọ rùa và nhỏ mật ngọt xuống vỉa hè bên dưới.",
+    "culturalUses": "Cây đoạn làng là nơi hội họp khắp vùng Trung Âu; gỗ mềm được các nghệ nhân chạm khắc ưa chuộng.",
+    "description": "Một loài cây cao với lá hình tim có răng cưa, chồi non mọc quanh gốc thân, và hoa vàng nhạt thơm ngát rủ xuống dưới một lá bắc hẹp."
+  },
+  "ilex-aquifolium": {
+    "commonName": "Nhựa ruồi lá gai",
+    "edible": "Không ăn được. Quả đỏ gây nôn mửa nếu ăn phải.",
+    "medicinal": null,
+    "ecologicalRole": "Lá thường xanh làm nơi trú ẩn cho chim trú đông; quả nuôi sống chim hét và lá là nơi trú ngụ của bướm xanh nhựa ruồi.",
+    "culturalUses": "Được cắt để trang trí giữa mùa đông và lễ Giáng sinh qua nhiều thế kỷ; gỗ dùng làm quân cờ và khảm trai.",
+    "description": "Một loài cây hoặc bụi thường xanh có lá xanh đậm bóng, đầy gai, trở nên trơn nhẵn hơn ở phần cao của cây, hoa trắng nhỏ, và quả đỏ tươi trên những cây cái."
+  },
+  "hedera-helix": {
+    "commonName": "Thường xuân",
+    "edible": "Không ăn được. Lá và quả có độc tính nhẹ.",
+    "medicinal": "Chiết xuất lá đã chuẩn hóa được dùng trong siro trị ho; lá tươi có thể gây kích ứng da.",
+    "ecologicalRole": "Hoa nở vào mùa thu là nguồn mật hoa muộn quan trọng cho ong và ruồi hoa; quả nuôi chim vào mùa đông và tán lá rậm rạp là nơi trú ẩn cho dơi và chim hồng tước làm tổ.",
+    "culturalUses": "Biểu tượng của lòng chung thủy, được kết vào vòng hoa cưới; là vật trang trí thường xanh trong các lễ hội giữa mùa đông.",
+    "description": "Một loài dây leo thân gỗ thường xanh có lá non xẻ thùy và lá trưởng thành nguyên mép trên các cành ra hoa; hoa vàng lục kết thành chùm tròn vào mùa thu và quả đen vào mùa xuân."
+  },
+  "crataegus-monogyna": {
+    "commonName": "Táo gai",
+    "edible": "Lá non từng được nhấm nháp như món 'bánh mì và phô mai' dân dã; quả táo gai được chế biến thành mứt đông và tương sốt.",
+    "medicinal": "Hoa, lá và quả từ lâu là vị thuốc bổ tim truyền thống; chỉ nên dùng dưới sự giám sát.",
+    "ecologicalRole": "Hoa nuôi các loài thụ phấn vào mùa xuân, cành đầy gai che chở cho chim làm tổ, và quả táo gai tiếp sức cho chim hét cùng chim hồng yến di cư.",
+    "culturalUses": "Cây tháng Năm trong văn hóa dân gian Anh; là loài cây hàng rào kinh điển của vùng đất nông trại có hàng giậu bao quanh.",
+    "description": "Một loài cây nhỏ đầy gai với lá xẻ thùy sâu, hoa trắng hoặc hồng nở bồng bềnh vào tháng Năm, và từng chùm quả đỏ sẫm, mỗi quả chứa một hạt cứng."
+  },
+  "sambucus-nigra": {
+    "commonName": "Cơm cháy châu Âu",
+    "edible": "Hoa dùng tạo hương cho nước xi-rô và bánh chiên; quả phải nấu chín trước khi ăn và được chế biến thành rượu vang cùng mứt.",
+    "medicinal": "Các chế phẩm từ hoa và quả cơm cháy là bài thuốc dân gian truyền thống trị cảm lạnh và cúm; quả, lá và vỏ cây tươi có độc tính nhẹ.",
+    "ecologicalRole": "Mọc nhanh trên đất bị xáo trộn; quả nuôi nhiều loài chim và hoa thu hút ruồi hoa.",
+    "culturalUses": "Bao quanh bởi nhiều truyền thuyết dân gian về sự bảo hộ và phù thủy; thân rỗng từng được làm còi và ống thổi đậu.",
+    "description": "Một loài cây bụi có lá kép lông chim gồm năm đến bảy lá chét, cụm hoa trắng kem dẹt vào tháng Sáu, và chùm quả đen nhỏ rủ xuống vào cuối mùa hè."
+  },
+  "rubus-fruticosus": {
+    "commonName": "Mâm xôi gai",
+    "edible": "Quả mâm xôi đen ngọt và an toàn khi chín; chồi non và lá dùng pha trà.",
+    "medicinal": "Trà lá từng là bài thuốc dân gian trị tiêu chảy và loét miệng nhờ hàm lượng tannin.",
+    "ecologicalRole": "Hoa nuôi ong trong nhiều tháng và bụi rậm che chở cho chim làm tổ, chuột sóc ngủ đông và nhím; trở thành loài xâm lấn ở nơi khác khi nó bóp nghẹt các bụi cây bản địa.",
+    "culturalUses": null,
+    "description": "Một loài cây bụi cong vòm, đầy gai với lá kép gồm ba đến năm lá chét có răng cưa, hoa trắng hoặc hồng nở suốt mùa hè, và quả chín dần từ xanh sang đỏ rồi đen."
+  },
+  "urtica-dioica": {
+    "commonName": "Tầm ma",
+    "edible": "Ngọn non mất khả năng gây ngứa khi nấu chín và có thể chế biến thành món súp đậm đà hoặc dùng thay rau bina.",
+    "medicinal": "Trà và chiết xuất tầm ma là bài thuốc dân gian trị dị ứng phấn hoa, đau khớp và dùng làm thuốc bổ mùa xuân.",
+    "ecologicalRole": "Là cây thức ăn cho ấu trùng của các loài bướm mắt công, đồi mồi nhỏ, đô đốc đỏ và bướm dấu phẩy; báo hiệu đất giàu nitơ.",
+    "culturalUses": "Sợi từ cây từng được kéo thành vải và dây thừng; một bài thuốc dân gian cố tình dùng gai cây để châm chích chữa thấp khớp.",
+    "description": "Một loài cây lâu năm mọc thẳng với lá mọc đối, hình tim, răng cưa sắc, phủ đầy lông gây ngứa, cùng những chuỗi hoa xanh lục nhỏ rủ xuống."
+  },
+  "taraxacum-officinale": {
+    "commonName": "Bồ công anh",
+    "edible": "Lá non có vị đắng dùng làm rau salad, rễ rang lên dùng thay cà phê, và hoa được chế biến thành rượu vang.",
+    "medicinal": "Lá là vị thuốc lợi tiểu truyền thống, còn rễ có vị đắng giúp hỗ trợ tiêu hóa.",
+    "ecologicalRole": "Một trong những nguồn mật hoa và phấn hoa quan trọng nhất đầu mùa xuân cho ong và ruồi hoa.",
+    "culturalUses": null,
+    "description": "Một chùm lá hình hoa thị có răng cưa, mọc trên thân rỗng chảy nhựa trắng như sữa, cụm hoa vàng tươi, và quả cầu hạt có dù bay nổi tiếng."
+  },
+  "bellis-perennis": {
+    "commonName": "Cúc dại",
+    "edible": "Lá non và nụ hoa có thể cho vào salad với lượng nhỏ.",
+    "medicinal": "Từng được gọi là 'cỏ trị bầm', cây được đắp lên vết bầm và vết thương trong y học dân gian.",
+    "ecologicalRole": "Nở hoa gần như quanh năm trên thảm cỏ thấp, nuôi sống ong nhỏ và ruồi hoa vào những thời điểm ít loài hoa khác nở.",
+    "culturalUses": "Vòng hoa cúc kết chuỗi và trò chơi 'yêu tôi, không yêu tôi' là những trò chơi tuổi thơ kinh điển.",
+    "description": "Một loài cây lâu năm thấp với lá hình thìa xếp thành chùm dẹt và từng bông hoa đơn với cánh trắng đầu phớt hồng quanh nhụy vàng, khép lại vào ban đêm."
+  },
+  "trifolium-pratense": {
+    "commonName": "Cỏ ba lá đỏ",
+    "edible": "Cụm hoa có vị ngọt, có thể ăn sống hoặc phơi khô để pha trà.",
+    "medicinal": "Được dùng theo cách truyền thống để trị ho và các vấn đề về da; chiết xuất isoflavone được bán để hỗ trợ triệu chứng mãn kinh.",
+    "ecologicalRole": "Cố định đạm vào đất và là nguồn thức ăn hàng đầu cho ong nghệ, đặc biệt là các loài có vòi dài.",
+    "culturalUses": null,
+    "description": "Một loài cây đồng cỏ lâu năm với ba lá chét hình bầu dục, mỗi lá thường có vệt hình chữ V nhạt màu, và cụm hoa tròn màu hồng tím."
+  },
+  "plantago-major": {
+    "commonName": "Mã đề lớn",
+    "edible": "Lá rất non ăn được khi nấu chín; lá già trở nên dai xơ. Hạt có thể ăn tương tự hạt mã đề (psyllium).",
+    "medicinal": "Lá giã nát là bài thuốc đắp dân gian kinh điển trị vết đốt, vết cắt và mẩn ngứa do tầm ma.",
+    "ecologicalRole": "Phát triển mạnh trên đất bị giẫm đạp và lối đi; hạt nuôi sống chim sẻ và chim di.",
+    "culturalUses": "Được gọi là 'dấu chân người da trắng' ở Bắc Mỹ vì nó mọc theo dấu chân của những người định cư châu Âu.",
+    "description": "Một chùm lá bám sát mặt đất, hình bầu dục rộng với các gân song song rõ nét, vươn lên những bông hoa dạng gié xanh mảnh như đuôi chuột."
+  },
+  "achillea-millefolium": {
+    "commonName": "Cỏ thi",
+    "edible": null,
+    "medicinal": "Được đặt tên theo Achilles, người tương truyền đã dùng cây này để cầm máu vết thương cho binh sĩ; vẫn là bài thuốc dân gian trị vết cắt, sốt và cảm lạnh.",
+    "ecologicalRole": "Cụm hoa dẹt của nó là bãi đáp cho ruồi hoa, bọ cánh cứng và ong đơn độc; rễ ăn sâu giúp chống chịu hạn hán.",
+    "culturalUses": "Cành khô từng được dùng để gieo quẻ Kinh Dịch ở Trung Quốc.",
+    "description": "Một loài cây lâu năm có mùi thơm với lá mềm, xẻ nhỏ như lông chim, và cụm hoa trắng hoặc hồng nhỏ li ti xếp phẳng trên đỉnh."
+  },
+  "digitalis-purpurea": {
+    "commonName": "Mao địa hoàng",
+    "edible": "Không ăn được. Mọi bộ phận đều rất độc và có thể khiến tim ngừng đập.",
+    "medicinal": "Là nguồn chiết xuất digoxin, một loại thuốc tim; tuyệt đối không tự ý sử dụng, ranh giới giữa liều điều trị và liều độc rất mong manh.",
+    "ecologicalRole": "Hoa hình ống được 'thiết kế' riêng cho ong nghệ, chúng bò vào trong theo những đốm dẫn đường trên cánh hoa.",
+    "culturalUses": "Được bao quanh bởi truyền thuyết về tiên nữ; những đốm bên trong hoa được cho là dấu vân tay của các nàng tiên.",
+    "description": "Một loài cây hai năm cao lớn, năm đầu tiên chỉ có chùm lá mềm phủ lông tơ, sang năm thứ hai vươn lên một chùm hoa hình chuông ống màu hồng tím có đốm."
+  },
+  "allium-ursinum": {
+    "commonName": "Tỏi hoang",
+    "edible": "Lá, hoa và củ đều ăn được, có vị tỏi nhẹ; là nguyên liệu kinh điển trong sốt pesto và súp. Cẩn thận với các loài dễ nhầm lẫn như hoa linh lan.",
+    "medicinal": "Theo truyền thống được dùng để hỗ trợ huyết áp và thanh lọc cơ thể vào mùa xuân, giống như tỏi trồng thông thường.",
+    "ecologicalRole": "Phủ kín như tấm thảm trong các khu rừng ẩm lâu đời vào tháng Tư và nuôi sống ruồi hoa đến sớm; là dấu hiệu của rừng cổ.",
+    "culturalUses": "Được gọi là 'tỏi gấu' trong văn hóa Đức và Slav, tương truyền được loài gấu ăn khi vừa tỉnh giấc ngủ đông.",
+    "description": "Một loài cây có củ mọc trong rừng với lá bầu dục rộng, bóng, tỏa mùi tỏi nồng khi vò nát, và hoa trắng hình sao xếp thành tán tròn."
+  },
+  "hyacinthoides-non-scripta": {
+    "commonName": "Chuông xanh",
+    "edible": "Không ăn được. Mọi bộ phận đều chứa glycoside độc.",
+    "medicinal": null,
+    "ecologicalRole": "Khoảng một nửa số hoa chuông xanh trên thế giới mọc ở Anh; những thảm hoa dày đặc nuôi sống ong và bướm đến sớm, đồng thời là dấu hiệu của rừng cổ.",
+    "culturalUses": "Được pháp luật bảo vệ tại Anh; nhựa cây dính từng được dùng để gắn lông vũ vào mũi tên và đóng sách.",
+    "description": "Một loài cây có củ nở vào mùa xuân với lá hẹp như dải băng, cùng chùm hoa chuông tím xanh thơm ngát rủ về một phía, đầu cánh cong ngược ra sau và nhị hoa màu kem."
+  },
+  "ophrys-apifera": {
+    "commonName": "Lan ong",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Hoa bắt chước hình dáng ong cái để dụ ong đực, dù ở Anh loài này chủ yếu tự thụ phấn; là loài chuyên sống trên nền đất phấn và đất giàu vôi bị xáo trộn.",
+    "culturalUses": "Là phát hiện quý giá đối với các nhà thực vật học và là biểu tượng của việc phục hồi đồng cỏ hoang dã.",
+    "description": "Một loài lan nhỏ với chùm lá xanh xám và vài bông hoa có đài hoa màu hồng cùng cánh môi nhung nâu có hoa văn giống hệt một con ong nghệ."
+  },
+  "orchis-mascula": {
+    "commonName": "Lan tím sớm",
+    "edible": null,
+    "medicinal": "Củ từng được chế biến thành salep, một loại thức uống sánh đặc được bán trước khi cà phê du nhập vào châu Âu.",
+    "ecologicalRole": "Một trong những loài lan nở hoa sớm nhất, không có mật hoa nhưng đánh lừa những con ong nghệ vừa xuất hiện.",
+    "culturalUses": "Là 'long purples' trong vở Hamlet của Shakespeare; gắn liền với truyền thuyết dân gian về thuốc mê tình.",
+    "description": "Một loài lan mọc ở rừng và đồng cỏ với lá bóng thường có đốm tím và một chùm hoa tím dày đặc, thoang thoảng mùi khai như mèo đực."
+  },
+  "dactylorhiza-fuchsii": {
+    "commonName": "Lan đốm",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Loài lan phổ biến nhất ở Anh, mọc lan trên các dải cỏ ven đường và đồng cỏ lâu năm; được ong và bướm đêm bay ngày ghé thăm.",
+    "culturalUses": null,
+    "description": "Một loài lan với lá hẹp có đốm tím sẫm và một chùm hoa hình nón màu hồng nhạt đến tím nhạt, mỗi cánh môi có hoa văn vòng và chấm, chia thành ba thùy."
+  },
+  "fritillaria-meleagris": {
+    "commonName": "Hoa chuông rắn",
+    "edible": "Không ăn được. Củ và lá đều có độc.",
+    "medicinal": null,
+    "ecologicalRole": "Loài chuyên sống ở các đồng cỏ ngập nước được canh tác truyền thống, nay đã trở nên hiếm gặp; hoa được thụ phấn nhờ ong nghệ đến sớm.",
+    "culturalUses": "Là loài hoa biểu tượng của hạt Oxfordshire; những vạt hoa nổi tiếng thu hút du khách đến đồng cỏ Magdalen và Cricklade mỗi tháng Tư.",
+    "description": "Một loài cây có củ mảnh mai nở vào mùa xuân với lá như cỏ và hoa hình lồng đèn cúi xuống, có hoa văn ca-rô tím trắng, đôi khi toàn trắng."
+  },
+  "primula-vulgaris": {
+    "commonName": "Anh thảo",
+    "edible": "Hoa ăn được và dùng để trang trí bánh ngọt cùng salad; lá có thể đem nấu chín.",
+    "medicinal": "Rễ và hoa từng là bài thuốc dân gian trị ho và đau đầu.",
+    "ecologicalRole": "Là một trong những loài hoa nở sớm nhất trong năm, nuôi sống ong, ruồi giả ong và bướm vàng chanh đến sớm.",
+    "culturalUses": "Ngày Hoa Anh Thảo 19 tháng Tư để tưởng niệm Disraeli; là biểu tượng được yêu mến của mùa xuân trong thơ ca.",
+    "description": "Một loài cây lâu năm thấp với chùm lá nhăn hình lưỡi và hoa vàng nhạt năm cánh có tâm vàng đậm hơn, mỗi bông trên một cuống riêng phủ lông tơ."
+  },
+  "galanthus-nivalis": {
+    "commonName": "Giọt tuyết",
+    "edible": "Không ăn được. Củ có độc và rất dễ nhầm với hành củ.",
+    "medicinal": "Là nguồn chiết xuất galantamine, một loại thuốc dùng cho bệnh Alzheimer giai đoạn sớm; tuyệt đối không dùng cây ở dạng thô.",
+    "ecologicalRole": "Nở hoa vào cuối mùa đông khi rất ít loài khác nở, và mở cánh vào những ngày ấm áp để chào đón ong đi kiếm ăn.",
+    "culturalUses": "Biểu tượng của hy vọng và lễ Candlemas; những người say mê hoa giọt tuyết sưu tầm hàng trăm giống có tên riêng.",
+    "description": "Một loài cây có củ nhỏ với hai chiếc lá xám xanh hình dải và một bông hoa trắng đơn độc cúi xuống, có ba cánh ngoài và một cốc hoa bên trong điểm xanh."
+  },
+  "reynoutria-japonica": {
+    "commonName": "Hổ trượng Nhật Bản",
+    "edible": "Chồi non mùa xuân có vị chua gắt như đại hoàng và được nấu ăn ở Nhật Bản; việc thu hái có thể làm phát tán các mảnh rễ, nên cần cẩn thận.",
+    "medicinal": "Rễ được dùng trong y học cổ truyền Đông Á và là nguồn khai thác thương mại chất resveratrol.",
+    "ecologicalRole": "Tạo thành những đám dày đặc che khuất ánh sáng của các loài cây bản địa dọc sông ngòi và đường ray; hoa nở muộn của nó vẫn nuôi sống ong.",
+    "culturalUses": null,
+    "description": "Một loài cây lâu năm phát triển mạnh mẽ với thân rỗng như tre, lốm đốm đỏ, lá hình khiên có đáy phẳng, và chùm hoa màu kem vào cuối mùa hè. Có thể mọc lại chỉ từ những mảnh rễ rất nhỏ."
+  },
+  "impatiens-glandulifera": {
+    "commonName": "Bóng nước Himalaya",
+    "edible": "Hạt ăn được và có vị béo bùi; lá non có thể đem nấu. Hái hạt trước khi chúng bung ra là một cách giúp kiểm soát loài cây này.",
+    "medicinal": null,
+    "ecologicalRole": "Lấn át các loài cây ven sông, khiến bờ sông trơ trọi và dễ xói mòn vào mùa đông; hoa giàu mật của nó thu hút ong khỏi các loài bản địa.",
+    "culturalUses": "Được đưa vào các khu vườn thời Victoria năm 1839 và được đặt biệt danh 'mũ cảnh sát' vì hình dáng hoa.",
+    "description": "Một loài cây hằng niên cao, mọng nước với thân rỗng hơi đỏ, lá hình mác có răng cưa mọc vòng, hoa hồng dạng mũ trùm, và quả nang bung nổ chỉ với một cái chạm nhẹ."
+  },
+  "heracleum-mantegazzianum": {
+    "commonName": "Cần khổng lồ",
+    "edible": "Không ăn được. Không được chạm vào: nhựa cây gây bỏng nặng và phồng rộp da khi tiếp xúc với ánh nắng.",
+    "medicinal": null,
+    "ecologicalRole": "Những tán hoa khổng lồ nuôi sống côn trùng, nhưng các quần thể của nó lấn át cây cối ven sông và khiến đất trơ ra trước xói mòn.",
+    "culturalUses": null,
+    "description": "Một loài cây họ Hoa tán khổng lồ cao tới năm mét với thân đầy lông cứng, lốm đốm tím, lá xẻ sâu rộng hơn một mét, và cụm hoa trắng hình chiếc ô. Một loài cây nguy hiểm khi tiếp xúc."
+  },
+  "rhododendron-ponticum": {
+    "commonName": "Đỗ quyên",
+    "edible": "Không ăn được. Lá và mật hoa chứa grayanotoxin; mật ong lấy từ hoa này có thể gây ngộ độc 'mật ong điên'.",
+    "medicinal": null,
+    "ecologicalRole": "Những bụi rậm thường xanh dày đặc làm đất chua hóa và che khuất ánh sáng của thảm thực vật rừng; nó cũng là vật chủ của bệnh nấm Phytophthora ramorum.",
+    "culturalUses": "Được trồng trong các điền trang thời Victoria để làm nơi ẩn náu cho thú săn và tô điểm sắc màu mùa xuân, trước khi bản chất xâm lấn của nó được nhận ra.",
+    "description": "Một loài cây bụi thường xanh lớn với lá dày như da màu sẫm và những chùm hoa hình phễu màu hồng tím rực rỡ vào cuối mùa xuân."
+  },
+  "buddleja-davidii": {
+    "commonName": "Cây bụi bướm",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Hoa thu hút từng đàn bướm ngày và bướm đêm, nhưng cây con lại xâm chiếm đường ray, tường và đất hoang công nghiệp, có thể lấn át cả bụi cây bản địa.",
+    "culturalUses": "Là loài cây quen thuộc trong vườn nhà kể từ khi được du nhập từ Trung Quốc vào thập niên 1890.",
+    "description": "Một loài cây bụi mọc nhanh với cành cong vòm, lá hình mác màu xanh xám, và những chùm hoa hình nón dài, thơm mùi mật ong, màu tím nhạt đến tím đậm vào mùa hè."
+  },
+  "prunus-laurocerasus": {
+    "commonName": "Anh đào nguyệt quế",
+    "edible": "Không ăn được. Lá và hạt giải phóng xyanua; đó là lý do vì sao lá khi vò nát có mùi hạnh nhân.",
+    "medicinal": null,
+    "ecologicalRole": "Thoát khỏi hàng rào để lan vào rừng, nơi bóng rợp dày đặc của nó ức chế thảm thực vật mặt đất và sự tái sinh của cây rừng.",
+    "culturalUses": "Là loài cây hàng rào che chắn riêng tư phổ biến; lá cây từng được dùng trong các lọ giết mẫu vật của những người sưu tầm bướm.",
+    "description": "Một loài cây bụi thường xanh rậm rạp với lá to, bóng, dày như da, chùm hoa trắng nhỏ mọc thẳng vào mùa xuân, và quả giống quả anh đào chín thành màu đen."
+  },
+  "lythrum-salicaria": {
+    "commonName": "Cỏ tím đầm lầy",
+    "edible": null,
+    "medicinal": "Được dùng theo cách truyền thống để trị tiêu chảy và rửa vết thương nhờ hàm lượng tannin.",
+    "ecologicalRole": "Là cây mật hoa dồi dào của các vùng đất ngập nước ở Anh, nhưng lại là loài xâm lấn nghiêm trọng ở các đầm lầy Bắc Mỹ, nơi nó thay thế các loài bản địa.",
+    "culturalUses": null,
+    "description": "Một loài cây lâu năm sống ở đất ngập nước với thân vuông, lá hình mác mọc đối, và những chùm hoa cao, dày đặc, sáu cánh màu đỏ tươi vào mùa hè."
+  },
+  "jacobaea-vulgaris": {
+    "commonName": "Cúc vàng độc",
+    "edible": "Không ăn được. Chứa các alkaloid gây tổn thương gan; độc với ngựa và gia súc, đặc biệt khi bị phơi khô lẫn trong cỏ khô.",
+    "medicinal": null,
+    "ecologicalRole": "Nuôi dưỡng khoảng 30 loài côn trùng chuyên biệt, trong đó có sâu bướm đêm chu sa đen vàng, và là nguồn mật hoa dồi dào.",
+    "culturalUses": "Được đặt biệt danh 'Willie hôi' ở Scotland, đặt theo tên Công tước xứ Cumberland; là chủ đề của những tranh luận kéo dài về kiểm soát cỏ dại.",
+    "description": "Một loài cây hai năm với chùm lá xanh đậm xẻ thùy sâu và cụm hoa vàng óng giống hoa cúc, xếp phẳng trên thân cao tới một mét."
+  },
+  "chamaenerion-angustifolium": {
+    "commonName": "Cỏ lửa",
+    "edible": "Chồi non có thể nấu chín như măng tây; lá lên men dùng pha loại trà Nga 'Ivan chai'.",
+    "medicinal": "Trà lá là bài thuốc dân gian trị các vấn đề tiêu hóa và tuyến tiền liệt.",
+    "ecologicalRole": "Loài cây tiên phong mọc trên đất cháy và đất mới phát quang, do đó có tên 'cỏ lửa'; hoa nuôi sống ong và lá là nơi trú ngụ của bướm đêm đầu voi.",
+    "culturalUses": "Được đặt biệt danh 'cỏ bom' sau khi phủ kín các khu vực bị bom tàn phá ở London vào thập niên 1940.",
+    "description": "Một loài cây lâu năm cao với lá hẹp giống lá liễu mọc xoắn quanh thân, cùng những chùm hoa hồng bốn cánh cao vút, sau đó là những hạt có lông tơ bồng bềnh."
+  },
+  "symphytum-officinale": {
+    "commonName": "Cây nối xương",
+    "edible": "Không dùng để ăn. Chứa các alkaloid pyrrolizidine gây tổn thương gan.",
+    "medicinal": "Được gọi là 'cây nối xương': lá giã đắp dùng ngoài da để trị bong gân và bầm tím, tuyệt đối không dùng đường uống.",
+    "ecologicalRole": "Rễ ăn sâu và giàu dưỡng chất; hoa được ong nghệ ghé thăm, một số con còn cắn thủng hoa để trộm mật.",
+    "culturalUses": "Người làm vườn ngâm lá để tạo ra loại phân bón lỏng đậm đặc.",
+    "description": "Một loài cây lâu năm to khỏe, đầy lông cứng với lá lớn, nhám, hình mác chạy dọc xuống thân, và những chùm hoa chuông cong xoắn màu tím, hồng hoặc kem."
+  },
+  "filipendula-ulmaria": {
+    "commonName": "Hoa đồng ngọt",
+    "edible": "Hoa có hương thơm ngọt ngào dùng tạo hương cho nước xi-rô, rượu mật ong và các món tráng miệng.",
+    "medicinal": "Chứa salicylate và chính là loài cây mà tên gọi aspirin được đặt theo; là bài thuốc dân gian trị sốt, đau và ợ nóng.",
+    "ecologicalRole": "Một loài cây sống ở vùng đất ngập nước và mương rãnh, hoa nở bồng bềnh thu hút ruồi hoa và bọ cánh cứng.",
+    "culturalUses": "Là loại thảo mộc linh thiêng của các thầy tu Druid và từng được rải trên sàn nhà thời Trung cổ.",
+    "description": "Một loài cây lâu năm cao mọc ở đồng cỏ ẩm ướt với lá kép lông chim, mặt dưới trắng, và những cụm hoa trắng kem dày đặc, bồng bềnh, thơm mùi hạnh nhân và mật ong."
+  },
+  "mentha-aquatica": {
+    "commonName": "Bạc hà nước",
+    "edible": "Lá được dùng như bạc hà vườn để pha trà, làm sốt và pha chế đồ uống.",
+    "medicinal": "Là vị thuốc dân gian hỗ trợ tiêu hóa và trị đau đầu, giống như các loại bạc hà khác.",
+    "ecologicalRole": "Một loài cây mọc ven ao hồ, hoa thu hút ong, ruồi hoa và bướm vào cuối mùa hè.",
+    "culturalUses": null,
+    "description": "Một loài cây lâu năm có mùi thơm, mọc ở đất ẩm, với lá bầu dục có lông và răng cưa, thường ánh tím, cùng cụm hoa tròn màu tím hồng ở đầu thân."
+  },
+  "rosa-canina": {
+    "commonName": "Tầm xuân",
+    "edible": "Quả tầm xuân giàu vitamin C, được chế biến thành xi-rô, mứt đông và trà; cần loại bỏ lớp lông hạt gây kích ứng trước khi dùng.",
+    "medicinal": "Xi-rô quả tầm xuân từng được cho trẻ em uống ở Anh thời chiến để phòng bệnh scorbut (thiếu vitamin C), và ngày nay vẫn được dùng để hỗ trợ sức khỏe khớp.",
+    "ecologicalRole": "Hoa nuôi sống ong và ruồi hoa; quả nuôi chim và các loài thú nhỏ suốt mùa đông; thân đầy gai che chở cho tổ chim.",
+    "culturalUses": "Là loài hoa hồng dại trong huy hiệu và văn hóa dân gian Anh.",
+    "description": "Một loài cây bụi cong vòm, đầy gai với lá kép lông chim gồm năm đến bảy lá chét, hoa hồng nhạt năm cánh vào tháng Sáu, và quả bầu dục đỏ bóng vào mùa thu."
+  },
+  "corylus-avellana": {
+    "commonName": "Phỉ",
+    "edible": "Hạt phỉ ăn được khi sống hoặc rang chín, chín vào tháng Chín, nếu sóc còn để lại chút nào.",
+    "medicinal": null,
+    "ecologicalRole": "Cây phỉ được chặt tỉa theo chu kỳ tạo nên khu rừng thưa lốm đốm ánh sáng mà chuột sóc ngủ đông, bướm fritillary và các loài hoa xuân phụ thuộc vào.",
+    "culturalUses": "Cành dùng làm rào chắn, thanh lợp mái tranh và gậy chống; cành chạc ba dùng để dò tìm mạch nước ngầm.",
+    "description": "Một loài cây bụi nhiều thân với lá tròn, mềm, răng cưa kép, hoa đuôi sóc màu vàng vào tháng Hai, và hạt nằm trong vỏ có lá bao quanh."
+  }
+}
