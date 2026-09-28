@@ -32,8 +32,15 @@ Every external call has a fallback so the demo never dies on stage:
 3. Scroll to "What this plant does": description and uses. Edible and medicinal notes are locked below 85% confidence and carry a fixed disclaimer when shown. Invasive species get a terracotta banner.
 4. Settings tab: switch to Español or Português (main languages), or Thai, Yoruba, Malayalam, French, Hindi, Arabic. Go back: the whole UI and the uses card re-render in that language.
 5. Add a habitat note, tap Save observation, then View record: it appears in My Records with confidence, time of day, coordinates, and GPS accuracy.
-6. Leaderboard tab: observers ranked by how many different species they have photographed, uploads as tiebreaker, with your own rank pinned at the top.
-7. Tap `/agency` in the header: a Leaflet map of the 60 seeded observations coloured by confidence band (green High, amber Likely, grey Uncertain) plus your new one. Click a point for the photo and details. Download CSV or GeoJSON. Toggle "Verified buyer view" to export exact coordinates for sensitive species (rounded to 2 decimals otherwise).
+6. Community notes sit under the uses card: people add their own uses (edible, medicinal, ecology, cultural, craft) when the AI notes miss something, mark others' notes as helpful, and the Community tab shows the feed across species. Notes carry their own disclaimer. The Explore tab has a draggable globe (pure SVG, offline): tap a country dot to see the plants commonly found there and what stewards scanned, followed by a world map of nature stewards: each dot is a person's plant photo where they scanned it, with your own latest scan ringed in orange, and a passport card that stamps every place you have scanned.
+7. Leaderboard tab: observers ranked by how many different species they have photographed, uploads as tiebreaker, with your own rank pinned at the top.
+8. Tap `/agency` in the header: a Leaflet map of the 60 seeded observations coloured by confidence band (green High, amber Likely, grey Uncertain) plus your new one. Click a point for the photo and details. Download CSV or GeoJSON. Toggle "Verified buyer view" to export exact coordinates for sensitive species (rounded to 2 decimals otherwise).
+
+## Scripted demo at /demo
+
+`http://localhost:5173/demo` renders the real user app inside a phone frame and plays a looping, scripted walkthrough: home, camera and shutter, skeleton, the 92% result, switching to Español, Read aloud and the safety banner, Save with the toast, the campaign card with +25 points, then My Records. A finger indicator moves between tap targets and fires the same handlers a user would. No network calls: the viewfinder photo, the identification, and the campaigns all come from bundled data, and anything it saves is removed at the end of each loop.
+
+Keys: Space pauses, R restarts, F goes full screen with the phone scaled to the viewport. The hint hides after 3 s. `http://localhost:5173/demo?clean=1` hides the hint entirely and scales the phone to the viewport height for screen recording. A pre-rendered `demo/ecobuddi-demo.mp4` (1080x1920) is in the repo.
 
 ## What is in, what was cut for the 12-minute build
 
@@ -51,6 +58,6 @@ src/data/species.json    40 species, 9 languages (built from src/data/sources by
 src/data/seed.ts         60 seeded observations
 src/i18n/locales/*.json  UI strings per language
 src/store/index.ts       Zustand + IndexedDB persistence
-src/app/                 mobile shell and pages (Identify, My Records, Leaderboard, Settings)
+src/app/                 mobile shell and pages (Identify, Explore, Community, My Records, Settings)
 src/agency/              agency map + export
 ```

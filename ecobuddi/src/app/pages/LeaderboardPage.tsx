@@ -32,7 +32,7 @@ export default function LeaderboardPage() {
 
   return (
     <div className="grid gap-3">
-      <h2 className="text-2xl">{t('leaderboard.title')}</h2>
+      <h3 className="text-xl">{t('leaderboard.title')}</h3>
       <p className="text-muted">{t('leaderboard.subtitle')}</p>
       {myRank > 0 && (
         <div className="panel-lime flex items-center justify-between gap-3 p-4">

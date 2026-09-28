@@ -4,7 +4,8 @@ import { matchCampaign } from '@/lib/campaigns'
 import { mulberry32, speciesIllustration } from '@/lib/illustration'
 import { SPECIES, speciesText, usesFromSpecies, isInvasiveIn } from '@/lib/species'
 import { timeBandFor } from '@/lib/time'
-import type { Campaign, Lang, Observation, Verification } from '@/lib/types'
+import type { Campaign, CommunityPost, Lang, Observation, Verification } from '@/lib/types'
+import { normalizeName } from '@/lib/species'
 
 const SPOTS = [
   { name: 'Hyde Park', lat: 51.5073, lng: -0.1657 },
@@ -73,7 +74,41 @@ function seedCampaigns(offsetLat: number, offsetLng: number, now: number): Campa
   ]
 }
 
-export function generateSeed(): { observations: Observation[]; campaigns: Campaign[] } {
+const SEED_POSTS: { species: string; category: CommunityPost['category']; author: string; language: Lang; body: string; daysAgo: number; helpful: number }[] = [
+  { species: 'urtica-dioica', category: 'edible', author: 'Amara', language: 'en', body: 'Pick only the top four leaves in April and blanch for thirty seconds. The sting is gone and it tastes like spinach with a mineral edge. Great in a Cornish nettle soup.', daysAgo: 2, helpful: 14 },
+  { species: 'urtica-dioica', category: 'craft', author: 'Felix', language: 'en', body: 'Retted stems give a strong fibre. I twisted a short cord for a garden trellis and it lasted the whole summer.', daysAgo: 9, helpful: 6 },
+  { species: 'sambucus-nigra', category: 'edible', author: 'Beatriz', language: 'pt', body: 'Aqui em casa fazemos xarope com as flores e um pouco de limão. Só as flores abertas e sempre bem lavadas; as bagas cruas não se comem.', daysAgo: 4, helpful: 11 },
+  { species: 'taraxacum-officinale', category: 'edible', author: 'Tomás', language: 'es', body: 'Las hojas más jóvenes, antes de que florezca, van muy bien en ensalada con naranja. Después se ponen demasiado amargas.', daysAgo: 6, helpful: 9 },
+  { species: 'plantago-major', category: 'medicinal', author: 'Priya', language: 'en', body: 'My grandmother crushed a leaf onto nettle stings and bee stings. It calms the itch within a few minutes. Learning note only, not medical advice.', daysAgo: 12, helpful: 21 },
+  { species: 'reynoutria-japonica', category: 'other', author: 'Oscar', language: 'en', body: 'Do not compost it. A stem the size of a thumbnail regrew in my bin. Bag it and take it to the council site instead.', daysAgo: 1, helpful: 17 },
+  { species: 'impatiens-glandulifera', category: 'ecological', author: 'Léa', language: 'fr', body: 'Le long du canal, les balsams tirent toutes les abeilles vers eux en août. Les arracher avant la formation des graines est très efficace : la racine vient facilement.', daysAgo: 3, helpful: 8 },
+  { species: 'rosa-canina', category: 'edible', author: 'Zainab', language: 'en', body: 'Hips are sweetest after the first frost. Halve them, scrape out the hairy seeds, then simmer for a syrup. The seed hairs really do itch, so wear gloves.', daysAgo: 15, helpful: 13 },
+  { species: 'corylus-avellana', category: 'craft', author: 'Mei', language: 'en', body: 'Coppiced rods bend without cracking when green. I wove a low hurdle for the veg bed with two-year rods.', daysAgo: 20, helpful: 5 },
+  { species: 'achillea-millefolium', category: 'cultural', author: 'Youssef', language: 'ar', body: 'في قريتنا كان يُجفَّف ويُغلى كشاي في الشتاء. رائحته قوية ويُستعمل بحذر.', daysAgo: 8, helpful: 4 },
+  { species: 'mentha-aquatica', category: 'edible', author: 'Priya', language: 'hi', body: 'तालाब के किनारे का यह पुदीना चाय में बहुत अच्छा लगता है, पर सामान्य पुदीने से ज़्यादा तेज़ है, इसलिए कम पत्तियाँ डालें।', daysAgo: 5, helpful: 7 },
+  { species: 'crataegus-monogyna', category: 'edible', author: 'Amara', language: 'en', body: 'Haw ketchup: simmer the berries with cider vinegar and a little sugar, then sieve. Tastes like a fruity brown sauce.', daysAgo: 18, helpful: 10 },
+]
+
+function seedPosts(now: number, rnd: () => number): CommunityPost[] {
+  return SEED_POSTS.map((p, i) => {
+    const sp = SPECIES.find((s) => s.id === p.species)!
+    return {
+      id: `post_seed_${i}`,
+      speciesKey: normalizeName(sp.scientificName),
+      scientificName: sp.scientificName,
+      commonName: speciesText(sp, p.language).commonName,
+      category: p.category,
+      body: p.body,
+      author: p.author,
+      language: p.language,
+      createdAt: new Date(now - p.daysAgo * 86_400_000 - rnd() * 3_600_000 * 8).toISOString(),
+      helpful: p.helpful,
+      helpfulByMe: false,
+    }
+  }).toSorted((a, b) => b.createdAt.localeCompare(a.createdAt))
+}
+
+export function generateSeed(): { observations: Observation[]; campaigns: Campaign[]; posts: CommunityPost[] } {
   const rnd = mulberry32(20260928)
   const offsetLat = DEMO_LOCATION.lat - 51.5074
   const offsetLng = DEMO_LOCATION.lng + 0.1278
@@ -141,5 +176,5 @@ export function generateSeed(): { observations: Observation[]; campaigns: Campai
     }
   }
   observations.sort((a, b) => b.timestamp.localeCompare(a.timestamp))
-  return { observations, campaigns }
+  return { observations, campaigns, posts: seedPosts(now, rnd) }
 }

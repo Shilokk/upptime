@@ -10,7 +10,7 @@ export function timeBandFor(date: Date): TimeBand {
   return 'night'
 }
 
-const LOCALE: Record<Lang, string> = { en: 'en-GB', es: 'es-ES', pt: 'pt-BR', th: 'th-TH', yo: 'yo-NG', ml: 'ml-IN', fr: 'fr-FR', hi: 'hi-IN', ar: 'ar-EG' }
+const LOCALE: Record<Lang, string> = { en: 'en-GB', es: 'es-ES', pt: 'pt-BR', th: 'th-TH', yo: 'yo-NG', ml: 'ml-IN', zh: 'zh-CN', vi: 'vi-VN', si: 'si-LK', id: 'id-ID', ne: 'ne-NP', sw: 'sw-KE', bn: 'bn-BD', ko: 'ko-KR', hr: 'hr-HR', ta: 'ta-IN', kk: 'kk-KZ', ru: 'ru-RU', ur: 'ur-PK', fr: 'fr-FR', hi: 'hi-IN', ar: 'ar-EG' }
 
 export function localeFor(lang: Lang): string {
   return LOCALE[lang] ?? 'en-GB'

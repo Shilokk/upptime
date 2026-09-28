@@ -1,0 +1,31 @@
+{
+ "en": {
+  "commonName": "Chinese evergreen 'Silver Bay'",
+  "scientificName": "Aglaonema commutatum 'Silver Bay'",
+  "family": "Araceae",
+  "description": "A compact houseplant with broad, glossy, elliptical leaves splashed silver-green over a dark green margin, rising on short stems from a central crown. Native to the rainforest floor of the Philippines and Sulawesi.",
+  "reasoning": "Broad elliptical leaves with a silver central splash and dark margins match Aglaonema 'Silver Bay' closely.",
+  "uses": {
+   "edible": "Not edible. Every part contains calcium oxalate crystals that burn the mouth and throat. Keep it away from children, cats, and dogs.",
+   "medicinal": "No safe traditional use. The sap irritates skin and eyes, so wash your hands after repotting.",
+   "ecologicalRole": "A shade-loving understory plant of Southeast Asian rainforests. Indoors it tolerates low light and is a common first houseplant.",
+   "pollinatorValue": "Low. It rarely flowers indoors, and its small white spathes attract few insects.",
+   "waterNeeds": "Moderate. Let the top of the soil dry between waterings and keep it above 15 °C.",
+   "culturalUses": "Prized in Chinese and Southeast Asian homes as a bringer of good fortune. 'Silver Bay' is a modern cultivar bred for its wide silver leaves."
+  },
+  "alternatives": [
+   {
+    "scientificName": "Dieffenbachia seguine",
+    "family": "Araceae",
+    "commonName": "Dumb cane",
+    "reasoning": "Similar variegation, but dumb cane leaves are larger and more oblong on a thick cane-like stem."
+   },
+   {
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "commonName": "Peace lily",
+    "reasoning": "Shares the glossy dark leaf, but peace lily leaves are plain green with no silver marking."
+   }
+  ]
+ }
+}

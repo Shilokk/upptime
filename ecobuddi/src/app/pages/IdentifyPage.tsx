@@ -4,9 +4,11 @@ import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
 import ConfidenceRing from '@/components/ConfidenceRing'
 import UsesCard from '@/components/UsesCard'
+import CommunityNotes from '@/components/CommunityNotes'
 import { compressImage, assessQuality } from '@/lib/image'
 import { getPosition, regionCodeForCoords, type Position } from '@/lib/geo'
 import { identifyPlant, usesForCandidate } from '@/lib/identify'
+import { translateIdentification } from '@/lib/translate'
 import { bandFor } from '@/lib/confidence'
 import { deviceType, newId } from '@/lib/device'
 import { timeBandFor } from '@/lib/time'
@@ -39,6 +41,29 @@ export default function IdentifyPage() {
   const [toast, setToast] = useState<string | null>(null)
   const [matched, setMatched] = useState<Campaign | null>(null)
   const [showCampaign, setShowCampaign] = useState(false)
+  const [translating, setTranslating] = useState(false)
+  const [translationSource, setTranslationSource] = useState<'original' | 'claude' | 'library'>('original')
+
+  // When the language changes after a result exists, re-render the result in that language.
+  useEffect(() => {
+    if (!result || result.language === language) return
+    let alive = true
+    if (demo) {
+      demo.identify({ instant: true }).then((r) => alive && setResult(r))
+      return
+    }
+    setTranslating(true)
+    translateIdentification(result, language).then(({ identification, fallback }) => {
+      if (!alive) return
+      setResult(identification)
+      setTranslationSource(fallback ? 'library' : 'claude')
+      setTranslating(false)
+    })
+    return () => {
+      alive = false
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [language])
 
   useEffect(() => {
     if (!toast) return
@@ -84,7 +109,8 @@ export default function IdentifyPage() {
     const pos = position ?? (demo ? demo.position : await getPosition())
     setPosition(pos)
     const id = demo ? await demo.identify() : await identifyPlant({ photo, organ, lat: pos.lat, lng: pos.lng, language, region: regionCodeForCoords(pos.lat, pos.lng) })
-    setResult(id)
+    setResult({ ...id, photoRef: photo })
+    setTranslationSource('original')
     setChosenId(id.candidates[0].id)
     setStage('result')
   }
@@ -218,9 +244,14 @@ export default function IdentifyPage() {
       {stage === 'result' && result && chosen && info && (
         <>
           <section className="card p-5" data-demo="result">
-            <div className="flex items-center justify-between text-sm text-muted">
+            <div className="flex items-center justify-between gap-2 text-sm text-muted">
               <span>{t('result.bestMatch')}</span>
-              <span>{result.source === 'claude' ? t('result.identifiedByClaude') : t('result.identifiedByMock')}</span>
+              <span className="text-end">
+                {result.source === 'claude' ? t('result.identifiedByClaude') : t('result.identifiedByMock')}
+                {translating && <span className="block">{t('translate.loading')}…</span>}
+                {!translating && translationSource === 'claude' && <span className="block">{t('translate.live')}</span>}
+                {!translating && translationSource === 'library' && <span className="block">{t('translate.library')}</span>}
+              </span>
             </div>
             <div className="mt-3 flex items-center gap-4">
               <ConfidenceRing score={chosen.confidence} />
@@ -247,6 +278,7 @@ export default function IdentifyPage() {
             </div>
           </section>
           <UsesCard uses={info.uses} description={info.description} score={chosen.confidence} invasive={result.invasiveInRegion} sensitive={result.sensitive || !!info.species?.sensitive} language={language} silent={demo?.silent} />
+          <CommunityNotes scientificName={chosen.scientificName} commonName={chosen.commonName} />
           <section className="card p-5">
             <label className="text-sm font-semibold" htmlFor="notes">{t('result.habitatNotes')}</label>
             <textarea id="notes" value={notes} onChange={(e) => setNotes(e.target.value)} placeholder={t('result.habitatPlaceholder')} className="mt-2 w-full rounded-2xl border-2 border-line bg-cream p-3 text-forest placeholder:text-muted" rows={2} />

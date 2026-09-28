@@ -48,7 +48,9 @@
     "identify": "Ìdámọ̀",
     "nearby": "Nítòsí",
     "records": "Àkọsílẹ̀ Mi",
-    "settings": "Ètò"
+    "settings": "Ètò",
+    "leaderboard": "Àtẹ ipò",
+    "community": "Àwùjọ"
   },
   "languages": {
     "en": "English",
@@ -56,7 +58,10 @@
     "hi": "हिन्दी",
     "ar": "العربية",
     "fr": "Français",
-    "pt": "Português"
+    "pt": "Português",
+    "th": "ไทย",
+    "yo": "Yorùbá",
+    "ml": "മലയാളം"
   },
   "onboarding": {
     "title": "Yàn èdè rẹ",
@@ -189,7 +194,9 @@
     "qualityStored": "Dídára {{score}}/100",
     "candidateAria": "Yàn {{name}}, ìgbẹ́kẹ̀lé {{score}} nínú ọgọ́rùn-ún",
     "readMore": "Kà síi",
-    "readLess": "Kà díẹ̀"
+    "readLess": "Kà díẹ̀",
+    "savedToast": "A ti fi pamọ́ sínú ìwádìí",
+    "shutter": "Ya fọ́tò"
   },
   "uses": {
     "title": "Ohun tí ohun ọ̀gbìn yìí ń ṣe",
@@ -471,5 +478,52 @@
     "cameraUnavailable": "Kámẹ́rà kò sí. Yàn fọ́tò láti inú gálárì rẹ.",
     "generic": "Nǹkan kan kò lọ dáadáa.",
     "storage": "A kò lè fi pamọ́ sórí ẹ̀rọ yìí."
+  },
+  "leaderboard": {
+    "title": "Àtẹ ipò",
+    "subtitle": "A tò ó ní ipò nípa iye ẹ̀yà ọ̀tọ̀ọ̀tọ̀ tí a ya fọ́tò wọn",
+    "species": "Ẹ̀yà {{count}}",
+    "uploads": "Ìgbésókè {{count}}",
+    "you": "Ìwọ",
+    "yourRank": "Ipò rẹ: #{{rank}}",
+    "empty": "Kò tíì sí àkíyèsí. Ya fọ́tò ohun ọ̀gbìn kan láti wọ àtẹ náà.",
+    "rank": "Ipò"
+  },
+  "community": {
+    "title": "Àwùjọ",
+    "subtitle": "Àwọn ìlò àti ìmọ̀ tí àwọn ènìyàn pín, kì í ṣe AI",
+    "forSpecies": "Àwọn àkọsílẹ̀ àwùjọ nípa {{name}}",
+    "notInAi": "AI kò sọ nípa rẹ̀? Fi ohun tí o mọ̀ kún un.",
+    "empty": "Kò tíì sí àkọsílẹ̀ àwùjọ. Jẹ́ ẹni àkọ́kọ́ láti pín ìlò kan.",
+    "share": "Pín ìlò kan",
+    "placeholder": "Báwo ni àwọn ènìyàn ṣe ń lo ọ̀gbìn yìí níbi tí o ń gbé?",
+    "post": "Fi ránṣẹ́",
+    "category": "Ẹ̀ka",
+    "categories": {
+      "edible": "Ṣeé jẹ",
+      "medicinal": "Oògùn",
+      "ecological": "Àyíká",
+      "cultural": "Àṣà",
+      "craft": "Iṣẹ́ ọwọ́",
+      "other": "Òmíràn"
+    },
+    "helpful": "Ó wúlò",
+    "by": "láti ọwọ́ {{name}}",
+    "pickSpecies": "Wá irú ọ̀gbìn",
+    "yourName": "Orúkọ rẹ",
+    "disclaimer": "Àwọn àkọsílẹ̀ àwùjọ jẹ́ ìrírí ara ẹni, kì í ṣe ìmọ̀ràn tí a ti fẹ̀rí rẹ̀. Má jẹ tàbí lo ọ̀gbìn kankan nítorí wọn."
+  },
+  "world": {
+    "title": "Àwọn olùtọ́jú ìṣẹ̀dá kárí ayé",
+    "subtitle": "Àmì kọ̀ọ̀kan jẹ́ ẹni tí ó ya fọ́tò ọ̀gbìn níbẹ̀. Tẹ ọ̀kan láti rí ohun tí ó rí.",
+    "scannedHere": "ya fọ́tò {{species}} níbí"
+  },
+  "passport": {
+    "title": "Ìwé ìrìnnà olùtọ́jú rẹ",
+    "scans": "fọ́tò {{count}}",
+    "places": "ibi {{count}}",
+    "species": "irú ọ̀gbìn {{count}}",
+    "since": "Olùtọ́jú láti {{date}}",
+    "empty": "Ya fọ́tò ọ̀gbìn kan láti gba àmì àkọ́kọ́ rẹ."
   }
 }

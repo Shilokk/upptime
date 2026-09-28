@@ -49,7 +49,9 @@
     "nearby": "Nearby",
     "records": "My Records",
     "settings": "Settings",
-    "leaderboard": "Leaderboard"
+    "leaderboard": "Leaderboard",
+    "community": "Community",
+    "explore": "Explore"
   },
   "languages": {
     "en": "English",
@@ -60,7 +62,20 @@
     "pt": "Português",
     "th": "ไทย",
     "yo": "Yorùbá",
-    "ml": "മലയാളം"
+    "ml": "മലയാളം",
+    "zh": "中文",
+    "vi": "Tiếng Việt",
+    "si": "සිංහල",
+    "id": "Bahasa Indonesia",
+    "ne": "नेपाली",
+    "sw": "Kiswahili",
+    "bn": "বাংলা",
+    "ko": "한국어",
+    "hr": "Hrvatski",
+    "ta": "தமிழ்",
+    "kk": "Қазақ тілі",
+    "ru": "Русский",
+    "ur": "اردو"
   },
   "onboarding": {
     "title": "Choose your language",
@@ -487,5 +502,95 @@
     "yourRank": "Your rank: #{{rank}}",
     "empty": "No observations yet. Photograph a plant to get on the board.",
     "rank": "Rank"
+  },
+  "community": {
+    "title": "Community",
+    "subtitle": "Uses and know-how shared by people, not the AI",
+    "forSpecies": "Community notes for {{name}}",
+    "notInAi": "Not covered by the AI notes? Add what you know.",
+    "empty": "No community notes yet. Be the first to share a use.",
+    "share": "Share a use",
+    "placeholder": "How do people use this plant where you live?",
+    "post": "Post",
+    "category": "Category",
+    "categories": {
+      "edible": "Edible",
+      "medicinal": "Medicinal",
+      "ecological": "Ecology",
+      "cultural": "Cultural",
+      "craft": "Craft",
+      "other": "Other"
+    },
+    "helpful": "Helpful",
+    "by": "by {{name}}",
+    "pickSpecies": "Find a species",
+    "yourName": "Your name",
+    "disclaimer": "Community notes are personal experiences, not verified advice. Never eat or use a plant based on them."
+  },
+  "world": {
+    "title": "Nature stewards around the world",
+    "subtitle": "Every dot is a person who scanned a plant there. Tap one to see what they found.",
+    "scannedHere": "scanned {{species}} here"
+  },
+  "passport": {
+    "title": "Your steward passport",
+    "scans": "{{count}} scans",
+    "places": "{{count}} places",
+    "species": "{{count}} species",
+    "since": "Steward since {{date}}",
+    "empty": "Scan a plant to earn your first stamp."
+  },
+  "explore": {
+    "title": "Explore the globe",
+    "subtitle": "Drag the globe and tap a country to see its common plants and what stewards scanned there.",
+    "commonPlants": "Common plants",
+    "scannedHere": "Scanned here",
+    "noScans": "No scans here yet. Be the first steward to scan a plant in this country.",
+    "stewards": "{{count}} stewards",
+    "scans": "{{count}} scans",
+    "autoRotate": "Auto-rotate",
+    "topStewards": "Top stewards",
+    "countries": "{{count}} countries",
+    "tapCountry": "Tap a country dot",
+    "you": "Your scans"
+  },
+  "translate": {
+    "library": "Library translation",
+    "live": "Translated by Claude",
+    "loading": "Translating"
+  },
+  "countries": {
+    "GB": "United Kingdom",
+    "IE": "Ireland",
+    "ES": "Spain",
+    "PT": "Portugal",
+    "FR": "France",
+    "DE": "Germany",
+    "NO": "Norway",
+    "HR": "Croatia",
+    "RU": "Russia",
+    "KZ": "Kazakhstan",
+    "IN": "India",
+    "LK": "Sri Lanka",
+    "NP": "Nepal",
+    "BD": "Bangladesh",
+    "PK": "Pakistan",
+    "TH": "Thailand",
+    "VN": "Vietnam",
+    "ID": "Indonesia",
+    "CN": "China",
+    "KR": "South Korea",
+    "JP": "Japan",
+    "KE": "Kenya",
+    "NG": "Nigeria",
+    "ZA": "South Africa",
+    "EG": "Egypt",
+    "US": "United States",
+    "CA": "Canada",
+    "MX": "Mexico",
+    "BR": "Brazil",
+    "AR": "Argentina",
+    "AU": "Australia",
+    "NZ": "New Zealand"
   }
 }

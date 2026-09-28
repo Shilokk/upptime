@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url'
 
 const here = dirname(fileURLToPath(import.meta.url))
 const dir = resolve(here, '../src/i18n/locales')
-const LANGS = ['es', 'pt', 'th', 'yo', 'ml', 'fr', 'hi', 'ar']
+const LANGS = ['es', 'pt', 'th', 'yo', 'ml', 'zh', 'vi', 'si', 'id', 'ne', 'sw', 'bn', 'ko', 'hr', 'ta', 'kk', 'ru', 'ur', 'fr', 'hi', 'ar']
 const flatten = (obj, prefix = '', out = {}) => {
   for (const [k, v] of Object.entries(obj)) {
     const key = prefix ? `${prefix}.${k}` : k

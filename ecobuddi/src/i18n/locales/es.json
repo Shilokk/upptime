@@ -49,7 +49,8 @@
     "nearby": "Cerca",
     "records": "Mis registros",
     "settings": "Ajustes",
-    "leaderboard": "Clasificación"
+    "leaderboard": "Clasificación",
+    "community": "Comunidad"
   },
   "languages": {
     "en": "English",
@@ -487,5 +488,42 @@
     "yourRank": "Tu puesto: n.º {{rank}}",
     "empty": "Aún no hay observaciones. Fotografía una planta para entrar en la tabla.",
     "rank": "Puesto"
+  },
+  "community": {
+    "title": "Comunidad",
+    "subtitle": "Usos y saberes compartidos por personas, no por la IA",
+    "forSpecies": "Notas de la comunidad sobre {{name}}",
+    "notInAi": "¿La IA no lo menciona? Añade lo que sabes.",
+    "empty": "Aún no hay notas de la comunidad. Comparte el primer uso.",
+    "share": "Compartir un uso",
+    "placeholder": "¿Cómo usa la gente esta planta donde vives?",
+    "post": "Publicar",
+    "category": "Categoría",
+    "categories": {
+      "edible": "Comestible",
+      "medicinal": "Medicinal",
+      "ecological": "Ecología",
+      "cultural": "Cultural",
+      "craft": "Artesanía",
+      "other": "Otro"
+    },
+    "helpful": "Útil",
+    "by": "por {{name}}",
+    "pickSpecies": "Buscar una especie",
+    "yourName": "Tu nombre",
+    "disclaimer": "Las notas de la comunidad son experiencias personales, no consejos verificados. Nunca comas ni uses una planta basándote en ellas."
+  },
+  "world": {
+    "title": "Guardianes de la naturaleza en el mundo",
+    "subtitle": "Cada punto es una persona que escaneó una planta allí. Toca uno para ver qué encontró.",
+    "scannedHere": "escaneó {{species}} aquí"
+  },
+  "passport": {
+    "title": "Tu pasaporte de guardián",
+    "scans": "{{count}} escaneos",
+    "places": "{{count}} lugares",
+    "species": "{{count}} especies",
+    "since": "Guardián desde {{date}}",
+    "empty": "Escanea una planta para ganar tu primer sello."
   }
 }

@@ -9,7 +9,7 @@ export const DEMO_LOCATION = {
   lng: -0.1278,
 }
 
-export const SEED_VERSION = 4
+export const SEED_VERSION = 5
 export const OBSERVATION_COUNT = 60
 export const PHOTO_MAX_PX = 800
 export const GPS_ACCURACY_WARN_M = 50
@@ -23,4 +23,5 @@ export const CONFIDENCE_BANDS = {
 } as const
 
 // Main languages first (English is the default), then the rest.
-export const SUPPORTED_LANGUAGES = ['en', 'es', 'pt', 'th', 'yo', 'ml', 'fr', 'hi', 'ar'] as const
+export const SUPPORTED_LANGUAGES = ['en', 'es', 'pt', 'th', 'yo', 'ml', 'zh', 'vi', 'si', 'id', 'ne', 'sw', 'bn', 'ko', 'hr', 'ta', 'kk', 'ru', 'ur', 'fr', 'hi', 'ar'] as const
+export const RTL_LANGUAGES = ['ar', 'ur'] as const

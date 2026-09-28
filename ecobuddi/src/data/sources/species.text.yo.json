@@ -1,0 +1,322 @@
+{
+  "quercus-robur": {
+    "commonName": "Igi óákù ilẹ̀ Gẹ̀ẹ́sì",
+    "edible": "A lè jẹ èso ákọ́ọ̀nù rẹ̀ nìkan lẹ́yìn tí a bá ti fi omi sín ín léraléra láti mú tánínì kíkorò kúrò; nígbà àtijọ́ a máa ń lọ̀ ọ́ di ìyẹ̀fun ní àwọn ọdún ìyàn.",
+    "medicinal": "Èèpo rẹ̀ tó kún fún tánínì ni a máa ń lò ní ìbílẹ̀ gẹ́gẹ́ bí oògùn afún-ara (astringent) fún ọ̀fun dídùn àti àwọn àrùn ara.",
+    "ecologicalRole": "Igi pàtàkì tó ń gbé ju ẹ̀yà kòkòrò, olú, ẹyẹ, àti ẹranko 2,000 lọ ró; àwọn óákù àgbà ń gbé àwọn kòkòrò igi gbígbẹ tó ṣọ̀wọ́n.",
+    "culturalUses": "Igi fún ọkọ̀ ojú omi, àgbá, àti ilé onígi; àmì orílẹ̀-èdè ní England àti àmì ìfaradà.",
+    "description": "Igi gbígbòòrò tó ń pẹ́ láyé, tó máa ń rẹ̀wé, pẹ̀lú ewé tó ní ìpín jíjìn lórí ọ̀pá kúkúrú gan-an, àti ákọ́ọ̀nù tó wà lórí ọ̀pá gígùn. Ara igi rẹ̀ máa ń tóbi gan-an, ó sì máa ń ya-ya bí ó ti ń dàgbà."
+  },
+  "platanus-hispanica": {
+    "commonName": "Igi pléènì ti Lọ́ńdọ̀n",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Ó fara da ilẹ̀ tó le àti ìbàjẹ́ afẹ́fẹ́, ó ń bo òpópónà pẹ̀lú òjìji, ó sì ń tu afẹ́fẹ́ ìlú; èèpo rẹ̀ máa ń bó bí àwo tó ń kó èérí lọ.",
+    "culturalUses": "A ti ń gbìn ín ní àwọn òpópónà àti ojúde Lọ́ńdọ̀n láti àwọn ọdún 1700, òun ni igi àmì olú ìlú náà.",
+    "description": "Igi òpópónà àdàpọ̀ gíga tó ní ewé ńlá bí ti mápù, èso yíká elégùn-ún tó ń rọ̀ jálẹ̀ ìgbà òtútù, àti èèpo aláwọ̀-àmì tó ń bó ní ìpín-ìpín."
+  },
+  "betula-pendula": {
+    "commonName": "Igi bẹ́ẹ̀ṣì fàdákà",
+    "edible": "A lè fa omi rẹ̀ ní ìgbà ìrúwé gẹ́gẹ́ bí ohun mímu tó dùn díẹ̀; a máa ń fi ewé tuntun rẹ̀ kún tíì.",
+    "medicinal": "Tíì ewé rẹ̀ ni a máa ń lò ní ìbílẹ̀ gẹ́gẹ́ bí ohun tó ń mú kí ìtọ̀ pọ̀ díẹ̀, òróró èèpo rẹ̀ sì wúlò fún àrùn ara.",
+    "ecologicalRole": "Igi aṣáájú tó ń yára hù lórí ilẹ̀ ṣíṣí, tó ń mú ilẹ̀ tí kò lọ́ràá dára, tó ń bọ́ ọ̀pọ̀ ìdin labalábá òru, tó sì ń gba olú fly agaric àti àwọn olú mìíràn.",
+    "culturalUses": "Èèpo rẹ̀ wúlò fún dídáná àti ọkọ̀ kékeré; ẹ̀ka rẹ̀ fún ìgbálẹ̀; àmì ìsọdọ̀tun nínú ìtàn àtẹnudẹ́nu àríwá.",
+    "description": "Igi ẹlẹ́wà tó ní èèpo funfun tó ń bó, tó ní àmì dúdú bí dáyámọ́ńdì, ẹ̀ka tó ń rọ̀ sílẹ̀, àti ewé kékeré onígun mẹ́ta tó ní eyín méjì-méjì ní etí."
+  },
+  "fagus-sylvatica": {
+    "commonName": "Igi bíìṣì ti Yúróòpù",
+    "edible": "Èso bíìṣì, tàbí mast, ṣeé jẹ ní ìwọ̀nba nígbà tí a bá yan án; ewé tuntun ìgbà ìrúwé rẹ̀ rọ̀ nínú sáláàdì.",
+    "medicinal": null,
+    "ecologicalRole": "Ó ń da òjìji tó jinlẹ̀ tó ń pinnu gbogbo àwùjọ igbó; àwọn ọdún tí èso pọ̀ ń bọ́ ẹyẹ jay, eku, àti ìmàdò.",
+    "culturalUses": "A ti ń gbẹ́ orúkọ sára èèpo rẹ̀ tó dán, tó ní àwọ̀ eérú, fún ọ̀pọ̀ ọ̀rúndún; igi rẹ̀ ṣeyebíye fún ohun èlò ilé àti igi ìdáná.",
+    "description": "Igi ọlọ́lá tó ní èèpo eérú-fàdákà tó dán, ewé yíká-gígùn tó ní etí wíwọ́ àti irun bí síìlíkì nígbà tí ó wà ní tuntun, àti ìkarahun elégùn-ún tó ń la láti tú èso onígun mẹ́ta jáde."
+  },
+  "aesculus-hippocastanum": {
+    "commonName": "Igi ṣẹ́sínọ́ọ̀tì ẹṣin",
+    "edible": "Kò ṣeé jẹ. Àwọn èso kọ́ńkà rẹ̀ ní aesculin nínú, wọ́n sì ní májèlé fún ènìyàn àti ajá; wọn kò ní ìbátan kankan pẹ̀lú ṣẹ́sínọ́ọ̀tì dídùn.",
+    "medicinal": "A ń lo ohun tí a fà jáde látinú èso rẹ̀ tí a ti wọ̀n dáadáa ní Yúróòpù fún ìṣàn ẹ̀jẹ̀ ẹsẹ̀ tí kò dára, ṣùgbọ́n èso tútù rẹ̀ ní májèlé.",
+    "ecologicalRole": "Àwọn ìdì òdòdó ńlá bí àbẹ́là rẹ̀ ń bọ́ oyin ní ìparí ìgbà ìrúwé; labalábá òru tó ń wọ ewé ti ń sọ ọ̀pọ̀ ewé rẹ̀ di búráwùn kí oṣù August tó pé.",
+    "culturalUses": "Eré kọ́ńkà ni eré ọmọdé ilẹ̀ Brítéènì tó gbajúmọ̀ jù ní gbogbo ìgbà ìwọ́wé.",
+    "description": "Igi ńlá tó ń tàn káàkiri, tó ní ewé bí ọwọ́ pẹ̀lú ewé kékeré márùn-ún sí méje, ìdì òdòdó funfun ní oṣù May, àti èso búráwùn tó dán nínú ìkarahun aláwọ̀ ewé elégùn-ún."
+  },
+  "tilia-europaea": {
+    "commonName": "Igi líìndèn",
+    "edible": "Ewé tuntun rẹ̀ dùn nínú sáláàdì; òdòdó gbígbẹ rẹ̀ ni a fi ń ṣe tíì líìndèn tó gbajúmọ̀.",
+    "medicinal": "Tíì òdòdó líìndèn jẹ́ oògùn ìbílẹ̀ fún òtútù, àníyàn, àti oorun tí kò balẹ̀.",
+    "ecologicalRole": "Òdòdó rẹ̀ kún fún oyin tó ń dún ní oṣù July; àwọn kòkòrò aphid lórí ewé rẹ̀ ń bọ́ kòkòrò ladybird, wọ́n sì ń kán oyin-ìrì sí ojú ọ̀nà nísàlẹ̀.",
+    "culturalUses": "Igi líìndèn abúlé jẹ́ ibi ìpàdé jákèjádò àárín gbùngbùn Yúróòpù; igi rẹ̀ tó rọ̀ wu àwọn agbẹ́gilére.",
+    "description": "Igi gíga tó ní ewé oníhà ọkàn, eléyín, ẹ̀ka tuntun tó ń hù yí ìdí ara igi ká, àti òdòdó ofeefee fẹ́rẹ́ olóòórùn tó ń rọ̀ lábẹ́ ewé tín-ín-rín kan."
+  },
+  "ilex-aquifolium": {
+    "commonName": "Igi hólì",
+    "edible": "Kò ṣeé jẹ. Èso pupa rẹ̀ máa ń fa èébì tí a bá jẹ ẹ́.",
+    "medicinal": null,
+    "ecologicalRole": "Ibi ààbò tí kì í rẹ̀wé fún àwọn ẹyẹ ní ìgbà òtútù; èso rẹ̀ ń bọ́ ẹyẹ thrush, ewé rẹ̀ sì ń gba labalábá holly blue.",
+    "culturalUses": "A ti ń gé e fún ọ̀ṣọ́ àárín ìgbà òtútù àti Kérésìmesì fún ọ̀pọ̀ ọ̀rúndún; a ń fi igi rẹ̀ ṣe ohun ìṣeré chess àti ọ̀ṣọ́ inú igi.",
+    "description": "Igi tàbí igi ìgbẹ́ tí kì í rẹ̀wé, tó ní ewé aláwọ̀ ewé dúdú tó dán, tó ní ẹ̀gún, tó sì ń rọ̀ síi ní òkè, òdòdó funfun kékeré, àti èso pupa yòyò lórí àwọn igi abo."
+  },
+  "hedera-helix": {
+    "commonName": "Ìtàkùn àìfì",
+    "edible": "Kò ṣeé jẹ. Ewé àti èso rẹ̀ ní májèlé díẹ̀.",
+    "medicinal": "A ń lo ohun tí a fà jáde látinú ewé rẹ̀ tí a ti wọ̀n dáadáa nínú oògùn ikọ́; ewé tútù rẹ̀ lè bí ara nínú.",
+    "ecologicalRole": "Òdòdó ìgbà ìwọ́wé rẹ̀ jẹ́ orísun oje òdòdó pàtàkì tó pẹ́ fún oyin àti eṣinṣin hoverfly; èso rẹ̀ ń bọ́ ẹyẹ ní ìgbà òtútù, ìhù rẹ̀ tó kí sì ń gba àdán àti ẹyẹ wren tó ń kọ́ ìtẹ́.",
+    "culturalUses": "Àmì ìṣòtítọ́ tí a ń hun sínú ọ̀já ìgbéyàwó; ọ̀ṣọ́ aláwọ̀ ewé nínú àwọn àjọ̀dún àárín ìgbà òtútù.",
+    "description": "Ìtàkùn onígi tí kì í rẹ̀wé, tó ní ewé oníhà nígbà ọmọdé àti ewé aláìníhà lórí ẹ̀ka tó ń yọ òdòdó; ìdì òdòdó yíká aláwọ̀ ewé-ofeefee ní ìgbà ìwọ́wé àti èso dúdú ní ìgbà ìrúwé."
+  },
+  "crataegus-monogyna": {
+    "commonName": "Igi hátọ́ọ̀nù",
+    "edible": "A máa ń ṣán ewé tuntun rẹ̀ bí 'búrẹ́dì àti wàràkàṣì'; a ń fi èso haw rẹ̀ ṣe jẹ́lì àti kẹ́tíṣọ́ọ̀pù.",
+    "medicinal": "Òdòdó, ewé, àti èso rẹ̀ jẹ́ oògùn ìbílẹ̀ fún ọkàn láti ìgbà pípẹ́; lábẹ́ àbójútó nìkan.",
+    "ecologicalRole": "Òdòdó rẹ̀ ń bọ́ oyin àti kòkòrò ìgbà ìrúwé, ẹ̀gún rẹ̀ ń dáàbò bo ẹyẹ tó ń kọ́ ìtẹ́, èso haw rẹ̀ sì ń fún ẹyẹ thrush àti waxwing tó ń ṣí kiri lókun.",
+    "culturalUses": "Igi May nínú ìtàn àtẹnudẹ́nu Gẹ̀ẹ́sì; ewéko ọgbà ewéko tó gbajúmọ̀ jù ní ilẹ̀ oko tí a ti fi odi yí ká.",
+    "description": "Igi kékeré elégùn-ún tó ní ewé tó ní ìpín jíjìn, òdòdó funfun tàbí pínkì tó pọ̀ bí ìfófó ní oṣù May, àti ìdì èso pupa dúdú tí ọ̀kọ̀ọ̀kan ní kóró kan ṣoṣo nínú."
+  },
+  "sambucus-nigra": {
+    "commonName": "Igi ẹ́ldà",
+    "edible": "Òdòdó rẹ̀ ń fún ohun mímu àti àkàrà dídín ní adùn; a gbọ́dọ̀ se èso rẹ̀ kí a tó jẹ ẹ́, a sì ń fi ṣe wáìnì àti jáàmù.",
+    "medicinal": "Àwọn oògùn tí a fi òdòdó àti èso ẹ́ldà ṣe jẹ́ oògùn ìbílẹ̀ fún òtútù àti àìsàn flu; èso tútù, ewé, àti èèpo rẹ̀ ní májèlé díẹ̀.",
+    "ecologicalRole": "Ó ń yára hù lórí ilẹ̀ tí a ti dà rú; èso rẹ̀ ń bọ́ ọ̀pọ̀ ẹyẹ, òdòdó rẹ̀ sì ń fa eṣinṣin hoverfly.",
+    "culturalUses": "Ìtàn àtẹnudẹ́nu nípa ààbò àti àjẹ́ yí i ká; a máa ń fi ẹ̀ka rẹ̀ tó ṣófo nínú ṣe fèrè àti ìbọn ẹ̀wà ọmọdé.",
+    "description": "Igi ìgbẹ́ tó ní ewé pinnate ti ewé kékeré márùn-ún sí méje, orí òdòdó pẹrẹsẹ aláwọ̀ ọ̀rá ní oṣù June, àti ìdì èso dúdú kékeré tó ń rọ̀ ní ìparí ìgbà ooru."
+  },
+  "rubus-fruticosus": {
+    "commonName": "Ìgbẹ́ bíláàkíbérì",
+    "edible": "Èso bíláàkíbérì dùn, ó sì ní ààbò nígbà tó bá pọ́n; a ń fi ẹ̀ka tuntun àti ewé rẹ̀ ṣe tíì.",
+    "medicinal": "Tíì ewé rẹ̀ jẹ́ ìtọ́jú ìbílẹ̀ fún ìgbẹ́ gbuuru àti egbò ẹnu nítorí tánínì inú rẹ̀.",
+    "ecologicalRole": "Òdòdó rẹ̀ ń bọ́ oyin fún ọ̀pọ̀ oṣù, ìgbẹ́ rẹ̀ sì ń dáàbò bo ẹyẹ tó ń kọ́ ìtẹ́, eku dormouse, àti ẹranko hedgehog; ó jẹ́ akógunjà níbi tó ti ń bo ìgbẹ́ ìbílẹ̀ mọ́lẹ̀ ní ilẹ̀ òkèèrè.",
+    "culturalUses": null,
+    "description": "Igi ìgbẹ́ elégùn-ún tó ń tẹ̀ bí ọrun, tó ní ewé eléyín kékeré mẹ́ta sí márùn-ún, òdòdó funfun tàbí pínkì ní gbogbo ìgbà ooru, àti èso tó ń pọ́n láti aláwọ̀ ewé sí pupa sí dúdú."
+  },
+  "urtica-dioica": {
+    "commonName": "Ẹ̀sìsì",
+    "edible": "Ẹ̀ka orí tuntun rẹ̀ kì í ta mọ́ nígbà tí a bá se é, ó sì ń ṣe ọbẹ̀ tó lọ́ràá tàbí rọ́pò ewé spinach.",
+    "medicinal": "Tíì àti ohun tí a fà jáde látinú ẹ̀sìsì jẹ́ oògùn ìbílẹ̀ fún hay fever, ìrora oríkèé, àti gẹ́gẹ́ bí oògùn ìmúlágbára ìgbà ìrúwé.",
+    "ecologicalRole": "Ewéko oúnjẹ fún ìdin labalábá peacock, small tortoiseshell, red admiral, àti comma; àmì ilẹ̀ tó kún fún nitrogen.",
+    "culturalUses": "A ń fi okùn rẹ̀ hun aṣọ àti okùn; oògùn ìbílẹ̀ kan ni pé kí a mọ̀ọ́mọ̀ jẹ́ kó ta ni fún àrùn làkúrègbé.",
+    "description": "Ewéko ọlọ́pọ̀-ọdún tó dúró ṣánṣán, tó ní ewé oníhà ọkàn tó dojú kọ ara wọn, eléyín mímú, tí irun tó ń ta bò, àti òwú òdòdó aláwọ̀ ewé kékeré tó ń rọ̀ sílẹ̀."
+  },
+  "taraxacum-officinale": {
+    "commonName": "Dándélíónì",
+    "edible": "Ewé tuntun rẹ̀ jẹ́ ewé sáláàdì kíkorò, a ń yan gbòǹgbò rẹ̀ láti rọ́pò kọfí, a sì ń fi òdòdó rẹ̀ ṣe wáìnì.",
+    "medicinal": "Ewé rẹ̀ jẹ́ oògùn ìbílẹ̀ tó ń mú kí ìtọ̀ pọ̀, gbòǹgbò rẹ̀ sì jẹ́ oògùn kíkorò fún ìjẹunrun.",
+    "ecologicalRole": "Ọ̀kan lára orísun oje òdòdó àti ìyẹ̀fun òdòdó pàtàkì jù ní ìbẹ̀rẹ̀ ìgbà ìrúwé fún oyin àti eṣinṣin hoverfly.",
+    "culturalUses": null,
+    "description": "Àkójọpọ̀ ewé eléyín yíká pẹ̀lú ọ̀pá tó ṣófo nínú tó ń yọ oje bí wàrà, orí òdòdó ofeefee yòyò, àti bọ́ọ̀lù irúgbìn tó gbajúmọ̀ tó ń fò bí paraṣúùtù."
+  },
+  "bellis-perennis": {
+    "commonName": "Déésì",
+    "edible": "A lè fi ewé tuntun àti ìṣú òdòdó rẹ̀ kún sáláàdì ní ìwọ̀nba.",
+    "medicinal": "Nígbà kan a mọ̀ ọ́n sí bruisewort, a máa ń fi í sára ìfọ́ àti ọgbẹ́ nínú ìṣègùn ìbílẹ̀.",
+    "ecologicalRole": "Ó ń yọ òdòdó fẹ́rẹ́ ní gbogbo ọdún nínú koríko kúkúrú, ó sì ń bọ́ oyin kékeré àti eṣinṣin hoverfly nígbà tí kò sí òdòdó púpọ̀ mìíràn.",
+    "culturalUses": "Ẹ̀wọ̀n déésì àti eré 'ó fẹ́ràn mi, kò fẹ́ràn mi' jẹ́ eré ọmọdé tó gbajúmọ̀.",
+    "description": "Ewéko kúkúrú ọlọ́pọ̀-ọdún tó ní ewé bí ṣíbí nínú àkójọpọ̀ pẹrẹsẹ, àti orí òdòdó kan ṣoṣo ti ewé òdòdó funfun tó ní ìpẹ́ pínkì yí àárín ofeefee ká, tó máa ń pa dé ní alẹ́."
+  },
+  "trifolium-pratense": {
+    "commonName": "Kílófà pupa",
+    "edible": "Orí òdòdó rẹ̀ dùn, a lè jẹ ẹ́ ní tútù tàbí kí a gbẹ ẹ́ fún tíì.",
+    "medicinal": "A ń lò ó ní ìbílẹ̀ fún ikọ́ àti àrùn ara; a ń ta ohun tí a fà jáde nínú rẹ̀ (isoflavone) fún àwọn àmì ìdáwọ́dúró nǹkan oṣù.",
+    "ecologicalRole": "Ó ń fi nitrogen sínú ilẹ̀, ó sì jẹ́ ewéko oúnjẹ pàtàkì fún oyin bumblebee, pàápàá àwọn ẹ̀yà tó ní ahọ́n gígùn.",
+    "culturalUses": null,
+    "description": "Ewéko pápá ọlọ́pọ̀-ọdún tó ní ewé kékeré yíká-gígùn mẹ́ta, tí ọ̀kọ̀ọ̀kan sábà máa ń ní àmì fẹ́rẹ́ bí igun, àti orí òdòdó yíká aláwọ̀ pínkì-àlùkò."
+  },
+  "plantago-major": {
+    "commonName": "Ewé pílántéènì ńlá",
+    "edible": "Ewé tuntun gan-an ṣeé jẹ nígbà tí a bá se é; ewé àgbà rẹ̀ ní okùn-okùn. A lè jẹ irúgbìn rẹ̀ bí psyllium.",
+    "medicinal": "Ewé rẹ̀ tí a fọ́ jẹ́ oògùn ìbílẹ̀ tó gbajúmọ̀ fún ta kòkòrò, ọgbẹ́, àti ìbínú ara láti ọ̀dọ̀ ẹ̀sìsì.",
+    "ecologicalRole": "Ó ń gbilẹ̀ lórí ilẹ̀ tí a ń tẹ̀ mọ́lẹ̀ àti ojú ọ̀nà; irúgbìn rẹ̀ ń bọ́ ẹyẹ finch àti ológoṣẹ́.",
+    "culturalUses": "A ń pè é ní 'ojú ẹsẹ̀ ẹni funfun' ní Àríwá Amẹ́ríkà nítorí pé ó tẹ̀lé ọ̀nà àwọn atipo láti Yúróòpù.",
+    "description": "Àkójọpọ̀ ewé tó fara mọ́ ilẹ̀, tó ní ewé yíká gbígbòòrò pẹ̀lú iṣan tó dọ́gba tó lágbára, tó ń yọ ìdì òdòdó aláwọ̀ ewé tín-ín-rín bí ìrù eku sókè."
+  },
+  "achillea-millefolium": {
+    "commonName": "Yárò",
+    "edible": null,
+    "medicinal": "A sọ ọ́ ní orúkọ Achilles, ẹni tí wọ́n sọ pé ó fi í dá ẹ̀jẹ̀ ọgbẹ́ àwọn ọmọ ogun dúró; ó ṣì jẹ́ oògùn ìbílẹ̀ fún ọgbẹ́, ibà, àti òtútù.",
+    "ecologicalRole": "Orí òdòdó pẹrẹsẹ rẹ̀ jẹ́ ibi ìbalẹ̀ fún eṣinṣin hoverfly, kòkòrò oníkarahun, àti agbọ́n adáwà; gbòǹgbò rẹ̀ jíjìn ń fara da ọ̀dá.",
+    "culturalUses": "A máa ń lo ọ̀pá gbígbẹ rẹ̀ fún dídá I Ching ní Ṣáínà.",
+    "description": "Ewéko olóòórùn ọlọ́pọ̀-ọdún tó ní ewé rírọ̀ bí ìyẹ́, tí a pín sí wẹ́wẹ́, àti ìdì òdòdó funfun tàbí pínkì kékeré tó ní orí pẹrẹsẹ."
+  },
+  "digitalis-purpurea": {
+    "commonName": "Fọ́ọ̀sìgílóòfù",
+    "edible": "Kò ṣeé jẹ. Gbogbo apá rẹ̀ ní májèlé gidigidi, ó sì lè dá ọkàn dúró.",
+    "medicinal": "Orísun digoxin, oògùn ọkàn; má ṣe lò ó fúnra rẹ láé, ààlà láàárín ìwọ̀n oògùn àti májèlé kéré gan-an.",
+    "ecologicalRole": "Òdòdó rẹ̀ bí ìfun ni a ṣe fún oyin bumblebee, tó ń ra wọ inú rẹ̀ nípa títẹ̀lé àwọn àmì-àmì ìtọ́sọ́nà.",
+    "culturalUses": "Ìtàn àtẹnudẹ́nu nípa àwọn iwin yí i ká; wọ́n sọ pé àwọn àmì-àmì inú òdòdó rẹ̀ ni ìtẹ̀ ìka iwin.",
+    "description": "Ewéko gíga ọlọ́dún-méjì tó ní àkójọpọ̀ ewé rírọ̀ onírun ní ọdún àkọ́kọ́ rẹ̀, àti ìdì gíga ti òdòdó agogo àlùkò-pínkì alámì-àmì ní ọdún kejì."
+  },
+  "allium-ursinum": {
+    "commonName": "Àyù igbó",
+    "edible": "Ewé, òdòdó, àti ìṣu rẹ̀ ṣeé jẹ pẹ̀lú adùn àyù tó rọ̀; ó gbajúmọ̀ nínú pesto àti ọbẹ̀. Ṣọ́ra fún àwọn tó jọ ọ́ bíi lily of the valley.",
+    "medicinal": "A ń mu ún ní ìbílẹ̀ fún ẹ̀jẹ̀ ríru àti gẹ́gẹ́ bí ìwẹ̀nùmọ́ ìgbà ìrúwé, gẹ́gẹ́ bí àyù tí a ń gbìn.",
+    "ecologicalRole": "Ó ń bo igbó tútù àtijọ́ bí àkéte ní oṣù April, ó sì ń bọ́ eṣinṣin hoverfly àkọ́kọ́; àmì igbó àtijọ́.",
+    "culturalUses": "Àyù béárì nínú àṣà Jámánì àti Slavic, wọ́n sọ pé àwọn béárì tó ń jí látinú oorun òtútù máa ń jẹ ẹ́.",
+    "description": "Ìṣu inú igbó tó ní ewé gbígbòòrò tó dán, tó gùn yíká, tó ń rùn bí àyù gidigidi nígbà tí a bá fọ́ ọ, àti òdòdó funfun bí ìràwọ̀ nínú ìdì yíká."
+  },
+  "hyacinthoides-non-scripta": {
+    "commonName": "Búlúbẹ́ẹ̀lì",
+    "edible": "Kò ṣeé jẹ. Gbogbo apá rẹ̀ ní glycoside olóró nínú.",
+    "medicinal": null,
+    "ecologicalRole": "Nǹkan bí ìdajì gbogbo búlúbẹ́ẹ̀lì àgbáyé ń hù ní Brítéènì; àkéte wọn ń bọ́ oyin àti labalábá àkọ́kọ́, wọ́n sì ń fi igbó àtijọ́ hàn.",
+    "culturalUses": "Òfin dáàbò bò ó ní UK; oje rẹ̀ alálẹ̀mọ́ ni a fi ń lẹ ìyẹ́ mọ́ ọfà tẹ́lẹ̀, tí a sì fi ń dì ìwé.",
+    "description": "Ìṣu ìgbà ìrúwé tó ní ewé tín-ín-rín bí ọ̀já, àti ìdì òdòdó agogo búlúù-àlùkò olóòórùn tó ń rọ̀ sí ẹ̀gbẹ́ kan, tó ní ìpẹ́ ewé òdòdó tó ká sẹ́yìn àti anther aláwọ̀ ọ̀rá."
+  },
+  "ophrys-apifera": {
+    "commonName": "Ọ́kíìdì oyin",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Òdòdó rẹ̀ ń fara wé oyin abo láti tan àwọn akọ, bí ó tilẹ̀ jẹ́ pé ní Brítéènì ó sábà máa ń fún ara rẹ̀ ní ìyẹ̀fun òdòdó; ó gbajúmọ̀ lórí ilẹ̀ ẹfun àti ilẹ̀ tó kún fún lime tí a ti dà rú.",
+    "culturalUses": "Ìrí ṣíṣeyebíye fún àwọn onímọ̀ ewéko àti àmì ìmúpadàbọ̀sípò pápá koríko igbó.",
+    "description": "Ọ́kíìdì kékeré tó ní àkójọpọ̀ ewé aláwọ̀ eérú-ewé àti òdòdó díẹ̀ tó ní sepal pínkì àti ètè búráwùn bí felifeti tó ní àmì bí oyin bumblebee."
+  },
+  "orchis-mascula": {
+    "commonName": "Ọ́kíìdì àlùkò àtètèyọ",
+    "edible": null,
+    "medicinal": "Nígbà kan a máa ń fi ìṣu rẹ̀ ṣe salep, ohun mímu kíkì tí a ń tà kí kọfí tó dé Yúróòpù.",
+    "ecologicalRole": "Ọ̀kan lára àwọn ọ́kíìdì àkọ́kọ́ tó ń yọ òdòdó, kò fúnni ní oje òdòdó ṣùgbọ́n ó ń tan àwọn oyin bumblebee tó ṣẹ̀ṣẹ̀ jáde.",
+    "culturalUses": "'Long purples' ti Shakespeare nínú Hamlet; ìtàn àtẹnudẹ́nu nípa oògùn ìfẹ́ yí i ká.",
+    "description": "Ọ́kíìdì igbó àti pápá tó ní ewé dídán tó sábà máa ń ní àbàwọ́n àlùkò, àti ìdì òdòdó àlùkò tó kún tó ń rùn díẹ̀ bí akọ ológbò."
+  },
+  "dactylorhiza-fuchsii": {
+    "commonName": "Ọ́kíìdì alámì-àmì",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Ọ́kíìdì tó wọ́pọ̀ jù ní Brítéènì, tó ń gba ẹ̀bá ọ̀nà àti pápá àtijọ́; oyin àti labalábá òru tó ń fò lọ́sàn-án ń bẹ̀ ẹ́ wò.",
+    "culturalUses": null,
+    "description": "Ọ́kíìdì tó ní ewé tín-ín-rín pẹ̀lú àmì-àmì àlùkò dúdú, àti ìdì òdòdó bí kóní láti pínkì fẹ́rẹ́ sí àwọ̀ lilac, tí ètè kọ̀ọ̀kan ní àmì yíká àti àmì kékeré, tí a sì pín sí ìhà mẹ́ta."
+  },
+  "fritillaria-meleagris": {
+    "commonName": "Fírítíláárì orí ejò",
+    "edible": "Kò ṣeé jẹ. Ìṣu àti ewé rẹ̀ ní májèlé.",
+    "medicinal": null,
+    "ecologicalRole": "Ó gbajúmọ̀ ní pápá tí omi ń kún tí a ń tọ́jú ní ọ̀nà ìbílẹ̀, ó ti ṣọ̀wọ́n báyìí; oyin bumblebee àkọ́kọ́ ni ó ń fún òdòdó rẹ̀ ní ìyẹ̀fun òdòdó.",
+    "culturalUses": "Òdòdó ìlú Oxfordshire; ìfihàn rẹ̀ tó gbajúmọ̀ ń fa àlejò lọ sí Magdalen Meadow àti Cricklade ní gbogbo oṣù April.",
+    "description": "Ìṣu ìgbà ìrúwé tín-ín-rín tó ní ewé bí koríko àti òdòdó bí àtùpà tó ń tẹrí ba, tó ní àmì ṣẹ́kì àlùkò àti funfun, tó sì máa ń jẹ́ funfun pátápátá lẹ́ẹ̀kọ̀ọ̀kan."
+  },
+  "primula-vulgaris": {
+    "commonName": "Púrímùróòsì",
+    "edible": "Òdòdó rẹ̀ ṣeé jẹ, a sì ń fi ṣe ọ̀ṣọ́ kéèkì àti sáláàdì; a lè se ewé rẹ̀.",
+    "medicinal": "Gbòǹgbò àti òdòdó rẹ̀ jẹ́ oògùn ìbílẹ̀ fún ikọ́ àti orí fífọ́.",
+    "ecologicalRole": "Ọ̀kan lára òdòdó àkọ́kọ́ ọdún, tó ń bọ́ oyin àkọ́kọ́, eṣinṣin bee-fly, àti labalábá brimstone.",
+    "culturalUses": "Ọjọ́ Primrose ní 19 April ń ṣèrántí Disraeli; àmì ìgbà ìrúwé tí a nífẹ̀ẹ́ sí nínú ewì.",
+    "description": "Ewéko kúkúrú ọlọ́pọ̀-ọdún tó ní àkójọpọ̀ ewé rírun bí ahọ́n, àti òdòdó ofeefee fẹ́rẹ́ tó ní ewé òdòdó márùn-ún àti ojú ofeefee tó jinlẹ̀ síi, tí ọ̀kọ̀ọ̀kan wà lórí ọ̀pá onírun tirẹ̀."
+  },
+  "galanthus-nivalis": {
+    "commonName": "Sínóòdíróòpù",
+    "edible": "Kò ṣeé jẹ. Ìṣu rẹ̀ ní májèlé, ó sì rọrùn láti ṣì í mọ̀ sí àlùbọ́sà.",
+    "medicinal": "Orísun galantamine, oògùn fún àrùn Alzheimer ní ìbẹ̀rẹ̀; má ṣe lo ewéko tútù náà láé.",
+    "ecologicalRole": "Ó ń yọ òdòdó ní ìparí ìgbà òtútù nígbà tí àwọn mìíràn kò yọ, ó sì ń ṣí ní ọjọ́ tó gbóná díẹ̀ láti san oyin tó ń wá oúnjẹ lẹ́san.",
+    "culturalUses": "Àmì ìrètí àti àjọ̀dún Candlemas; àwọn 'galanthophile' ń kó ọgọ́rọ̀ọ̀rún onírúurú rẹ̀ tí a sọ lórúkọ jọ.",
+    "description": "Ìṣu kékeré tó ní ewé bí ọ̀já méjì aláwọ̀ eérú-ewé àti òdòdó funfun kan ṣoṣo tó ń tẹrí ba, tó ní ewé òdòdó mẹ́ta níta àti ago inú tó ní àmì aláwọ̀ ewé."
+  },
+  "reynoutria-japonica": {
+    "commonName": "Nọ́tíwíìdì ti Japan",
+    "edible": "Ẹ̀ka tuntun ìgbà ìrúwé rẹ̀ dùn bí rhubarb kíkan, a sì ń se é ní Japan; kíkó rẹ̀ lè tan àwọn ẹ̀ka kéékèèké ká, nítorí náà ṣọ́ra.",
+    "medicinal": "A ń lo gbòǹgbò rẹ̀ nínú ìṣègùn ìbílẹ̀ Ìlà oòrùn Éṣíà, ó sì jẹ́ orísun resveratrol fún òwò.",
+    "ecologicalRole": "Ó ń dá igbó kíkì tó ń bo ewéko ìbílẹ̀ mọ́lẹ̀ lẹ́bàá odò àti ojú irin; òdòdó rẹ̀ tó pẹ́ yọ ń bọ́ oyin.",
+    "culturalUses": null,
+    "description": "Ewéko alágbára ọlọ́pọ̀-ọdún tó ní ọ̀pá ṣíṣófo bí àparun tó ní àmì pupa, ewé bí àpáta pẹ̀lú ìdí pẹrẹsẹ, àti ìdì òdòdó aláwọ̀ ọ̀rá ní ìparí ìgbà ooru. Ó ń tún hù látinú ẹ̀ka gbòǹgbò kékeré."
+  },
+  "impatiens-glandulifera": {
+    "commonName": "Bálísámù Himalaya",
+    "edible": "Irúgbìn rẹ̀ ṣeé jẹ, ó sì dùn bí èso; a lè se ewé tuntun rẹ̀. Kíkó irúgbìn kí ó tó bú jẹ́ ọ̀nà kan láti ṣàkóso rẹ̀.",
+    "medicinal": null,
+    "ecologicalRole": "Ó ń borí ewéko ẹ̀bá odò, ó sì ń fi ẹ̀bá odò sílẹ̀ ní ìhòhò fún ìbàjẹ́ ilẹ̀ ní ìgbà òtútù; òdòdó rẹ̀ tó kún fún oje ń fa oyin kúrò lọ́dọ̀ ẹ̀yà ìbílẹ̀.",
+    "culturalUses": "A mú un wá sí àwọn ọgbà ìgbà Victoria ní 1839, a sì pè é ní 'àṣíborí ọlọ́pàá' nítorí ìrísí òdòdó rẹ̀.",
+    "description": "Ewéko gíga ọlọ́dún-kan tó rọ̀, tó ní ọ̀pá ṣíṣófo aláwọ̀ pupa díẹ̀, ewé eléyín bí ọ̀kọ̀ ní ìdì yíká, òdòdó pínkì olóríbọ̀rí, àti àpò irúgbìn tó ń bú nígbà tí a bá fọwọ́ kàn án."
+  },
+  "heracleum-mantegazzianum": {
+    "commonName": "Hógíwíìdì ńlá",
+    "edible": "Kò ṣeé jẹ. Má fọwọ́ kàn án: oje rẹ̀ máa ń fa ìjóná àti ìfọ́ ara líle nínú ìmọ́lẹ̀ oòrùn.",
+    "medicinal": null,
+    "ecologicalRole": "Ìdì òdòdó ńlá rẹ̀ ń bọ́ kòkòrò, ṣùgbọ́n àwọn ẹgbẹ́ rẹ̀ ń lé ewéko ẹ̀bá odò kúrò, wọ́n sì ń fi ilẹ̀ sílẹ̀ fún ìbàjẹ́.",
+    "culturalUses": null,
+    "description": "Ewéko ìdílé umbellifer tó tóbi gan-an tó lè ga tó mítà márùn-ún, tó ní ọ̀pá onírun tó ní àbàwọ́n àlùkò, ewé tí a gé jinlẹ̀ tó lè fẹ̀ ju mítà kan lọ, àti orí òdòdó funfun bí agboorùn. Ewéko tó léwu láti fọwọ́ kàn."
+  },
+  "rhododendron-ponticum": {
+    "commonName": "Ródódẹ́ńdírọ̀n",
+    "edible": "Kò ṣeé jẹ. Ewé àti oje òdòdó rẹ̀ ní grayanotoxin nínú; oyin láti ara rẹ̀ lè fa májèlé 'oyin wèrè'.",
+    "medicinal": null,
+    "ecologicalRole": "Ìgbẹ́ kíkì rẹ̀ tí kì í rẹ̀wé ń sọ ilẹ̀ di kíkan, ó sì ń bo ewéko igbó mọ́lẹ̀; ó tún ń gba àrùn ewéko Phytophthora ramorum.",
+    "culturalUses": "A gbìn ín sórí ilẹ̀ àwọn ọlọ́rọ̀ ìgbà Victoria fún ibi ìpamọ́ ẹran ọdẹ àti àwọ̀ ìgbà ìrúwé kí a tó mọ̀ pé ó jẹ́ akógunjà.",
+    "description": "Igi ìgbẹ́ ńlá tí kì í rẹ̀wé tó ní ewé dúdú bí awọ àti ìdì òdòdó àlùkò-pínkì bí ìfun tó lẹ́wà ní ìparí ìgbà ìrúwé."
+  },
+  "buddleja-davidii": {
+    "commonName": "Igi labalábá",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Òdòdó rẹ̀ ń fa ọ̀pọ̀ labalábá àti labalábá òru, ṣùgbọ́n àwọn ọmọ rẹ̀ ń gba ojú irin, ògiri, àti ilẹ̀ tí a ti kọ̀ sílẹ̀, wọ́n sì lè borí ìgbẹ́ ìbílẹ̀.",
+    "culturalUses": "Ewéko ọgbà ilé tó gbajúmọ̀ láti ìgbà tí a mú un wá láti Ṣáínà ní àwọn ọdún 1890.",
+    "description": "Igi ìgbẹ́ tó ń yára hù, tó ní ẹ̀ka tó tẹ̀ bí ọrun, ewé bí ọ̀kọ̀ aláwọ̀ eérú-ewé, àti ìdì òdòdó gígùn bí kóní olóòórùn oyin láti lilac sí àlùkò ní ìgbà ooru."
+  },
+  "prunus-laurocerasus": {
+    "commonName": "Lọ́rẹ́lì ṣẹ́rì",
+    "edible": "Kò ṣeé jẹ. Ewé àti kóró rẹ̀ ń tú cyanide jáde; ìdí nìyí tí ewé tí a fọ́ fi ń rùn bí álímọ́ńdì.",
+    "medicinal": null,
+    "ecologicalRole": "Ó ń sá kúrò nínú ọgbà ewéko lọ sínú igbó níbi tí òjìji kíkì rẹ̀ ti ń dín ewéko ilẹ̀ àti ìhù igi tuntun kù.",
+    "culturalUses": "Ọgbà ewéko tó wọ́pọ̀ fún ìpamọ́ra; nígbà kan àwọn akójọ labalábá máa ń lo ewé rẹ̀ nínú ìgò pípa kòkòrò.",
+    "description": "Igi ìgbẹ́ kíkì tí kì í rẹ̀wé, tó ní ewé ńlá tó dán bí awọ, ìdì òdòdó funfun kékeré tó dúró ṣánṣán ní ìgbà ìrúwé, àti èso bí ṣẹ́rì tó ń pọ́n di dúdú."
+  },
+  "lythrum-salicaria": {
+    "commonName": "Lúùsísítíráìfù àlùkò",
+    "edible": null,
+    "medicinal": "A ń lò ó ní ìbílẹ̀ fún ìgbẹ́ gbuuru àti gẹ́gẹ́ bí omi ìfọ ọgbẹ́ nítorí tánínì inú rẹ̀.",
+    "ecologicalRole": "Ewéko oje òdòdó tó lọ́ràá ní ilẹ̀ tútù Brítéènì, ṣùgbọ́n akógunjà tó burú ní àwọn ẹrẹ̀ Àríwá Amẹ́ríkà níbi tó ti ń lé ewéko ìbílẹ̀ kúrò.",
+    "culturalUses": null,
+    "description": "Ewéko ilẹ̀ tútù ọlọ́pọ̀-ọdún tó ní ọ̀pá onígun mẹ́rin, ewé bí ọ̀kọ̀ tó dojú kọ ara wọn, àti ìdì òdòdó gíga tó kún ti òdòdó magenta tó ní ewé òdòdó mẹ́fà ní ìgbà ooru."
+  },
+  "jacobaea-vulgaris": {
+    "commonName": "Rágíwọ́ọ̀tì",
+    "edible": "Kò ṣeé jẹ. Ó ní alkaloid tó ń ba ẹ̀dọ̀ jẹ́; ó ní májèlé fún ẹṣin àti màlúù, pàápàá nígbà tí a bá gbẹ ẹ́ nínú koríko gbígbẹ.",
+    "medicinal": null,
+    "ecologicalRole": "Ó ń gbé nǹkan bí kòkòrò àkànṣe 30 ró, títí kan ìdin labalábá òru cinnabar aláwọ̀ dúdú-àti-ofeefee, ó sì jẹ́ orísun oje òdòdó tó lọ́ràá.",
+    "culturalUses": "A pè é ní 'Willie olóòórùn burúkú' ní Scotland lẹ́yìn Duke of Cumberland; kókó àríyànjiyàn ìṣàkóso èpò tó ti pẹ́.",
+    "description": "Ewéko ọlọ́dún-méjì tó ní àkójọpọ̀ ewé aláwọ̀ ewé dúdú tó ní ìpín jíjìn, àti ìdì pẹrẹsẹ ti òdòdó ofeefee wúrà bí déésì lórí ọ̀pá tó lè ga tó mítà kan."
+  },
+  "chamaenerion-angustifolium": {
+    "commonName": "Ewéko iná",
+    "edible": "A lè se ẹ̀ka tuntun rẹ̀ bí asparagus; ewé rẹ̀ tí a ti fi kan ni a fi ń ṣe tíì Rọ́ṣíà 'Ivan chai'.",
+    "medicinal": "Tíì ewé rẹ̀ jẹ́ oògùn ìbílẹ̀ fún àìsàn ìjẹunrun àti ti prostate.",
+    "ecologicalRole": "Aṣáájú ilẹ̀ tí iná jó àti tí a ti pa mọ́, ìdí nìyí fún orúkọ 'fireweed'; òdòdó rẹ̀ ń bọ́ oyin, ewé rẹ̀ sì ń gba labalábá òru elephant hawk-moth.",
+    "culturalUses": "A pè é ní 'ewéko bọ́ǹbù' lẹ́yìn tí ó bo àwọn ibi tí bọ́ǹbù ba jẹ́ ní Lọ́ńdọ̀n ní àwọn ọdún 1940.",
+    "description": "Ewéko gíga ọlọ́pọ̀-ọdún tó ní ewé tín-ín-rín bí ti willow tó ń yí ọ̀pá ká sókè, àti ìdì gígùn ti òdòdó pínkì-róòsì tó ní ewé òdòdó mẹ́rin, tí irúgbìn bí òwú ń tẹ̀lé."
+  },
+  "symphytum-officinale": {
+    "commonName": "Kọ́ńfíréè",
+    "edible": "Kò ṣeé jẹ. Ó ní pyrrolizidine alkaloid tó ń ba ẹ̀dọ̀ jẹ́.",
+    "medicinal": "A mọ̀ ọ́n sí knitbone: a ń lo ewé rẹ̀ tí a fọ́ lórí ara níta fún ìfọ́ eegun àti ọgbẹ́, kì í ṣe fún mímu láé.",
+    "ecologicalRole": "Gbòǹgbò rẹ̀ jinlẹ̀, ó sì kún fún oúnjẹ; oyin bumblebee ń bẹ òdòdó rẹ̀ wò, àwọn kan sì máa ń bu ihò láti jí oje òdòdó.",
+    "culturalUses": "Àwọn àgbẹ̀ ọgbà máa ń rẹ ewé rẹ̀ sínú omi fún ajílẹ̀ olómi tó lágbára.",
+    "description": "Ewéko líle ọlọ́pọ̀-ọdún tó ní irun líle, ewé ńlá tó ṣe kùrùkùrù bí ọ̀kọ̀ tó ń sáré sísàlẹ̀ ọ̀pá rẹ̀, àti ìdì òdòdó agogo àlùkò, pínkì, tàbí aláwọ̀ ọ̀rá tó ká."
+  },
+  "filipendula-ulmaria": {
+    "commonName": "Mẹ́dòsíwíìtì",
+    "edible": "Òdòdó rẹ̀ olóòórùn dídùn ń fún ohun mímu, mead, àti oúnjẹ dídùn ní adùn.",
+    "medicinal": "Ó ní salicylate nínú, òun sì ni ewéko tí a sọ aspirin lórúkọ látara rẹ̀; oògùn ìbílẹ̀ fún ibà, ìrora, àti inú rírun.",
+    "ecologicalRole": "Ewéko ilẹ̀ tútù àti kòtò tí òdòdó rẹ̀ bí ìfófó ń fa eṣinṣin hoverfly àti kòkòrò oníkarahun.",
+    "culturalUses": "Ewé mímọ́ àwọn Druid àti ewé tí a ń fọ́n sí ilẹ̀ ilé ní ìgbà àárín-ọ̀rúndún.",
+    "description": "Ewéko gíga ọlọ́pọ̀-ọdún ti pápá tútù, tó ní ewé pinnate tó funfun nísàlẹ̀, àti ìdì òdòdó funfun aláwọ̀ ọ̀rá tó kún bí ìfófó tó ń rùn bí álímọ́ńdì àti oyin."
+  },
+  "mentha-aquatica": {
+    "commonName": "Míǹtì omi",
+    "edible": "A ń lo ewé rẹ̀ bí míǹtì ọgbà fún tíì, ọbẹ̀, àti ohun mímu.",
+    "medicinal": "Oògùn ìbílẹ̀ fún ìjẹunrun àti orí fífọ́, bíi àwọn míǹtì mìíràn.",
+    "ecologicalRole": "Ewéko ẹ̀bá adágún tí òdòdó rẹ̀ ń fa oyin, eṣinṣin hoverfly, àti labalábá ní ìparí ìgbà ooru.",
+    "culturalUses": null,
+    "description": "Ewéko olóòórùn ọlọ́pọ̀-ọdún ti ilẹ̀ tútù tó ní ewé yíká-gígùn onírun, eléyín, tó sábà ní àwọ̀ àlùkò díẹ̀, àti orí òdòdó yíká aláwọ̀ lilac-pínkì ní orí ọ̀pá."
+  },
+  "rosa-canina": {
+    "commonName": "Róòsì igbó",
+    "edible": "Èso róòsì rẹ̀ kún fún fítámínì C, a sì ń fi ṣe omi dídùn, jẹ́lì, àti tíì; kọ́kọ́ mú irun irúgbìn tó ń bí ara nínú kúrò.",
+    "medicinal": "A fún àwọn ọmọdé ní omi dídùn èso róòsì ní Brítéènì ní ìgbà ogun lòdì sí àrùn scurvy, a sì ṣì ń lò ó fún ìlera oríkèé.",
+    "ecologicalRole": "Òdòdó rẹ̀ ń bọ́ oyin àti eṣinṣin hoverfly; èso rẹ̀ ń bọ́ ẹyẹ àti ẹranko kékeré jálẹ̀ ìgbà òtútù; ẹ̀ka elégùn-ún rẹ̀ ń dáàbò bo ìtẹ́.",
+    "culturalUses": "Róòsì igbó ti àmì ìdílé ọba àti ìtàn àtẹnudẹ́nu Gẹ̀ẹ́sì.",
+    "description": "Igi ìgbẹ́ elégùn-ún tó tẹ̀ bí ọrun, tó ní ewé pinnate ti ewé kékeré márùn-ún sí méje, òdòdó pínkì fẹ́rẹ́ tó ní ewé òdòdó márùn-ún ní oṣù June, àti èso pupa yíká-gígùn tó dán ní ìgbà ìwọ́wé."
+  },
+  "corylus-avellana": {
+    "commonName": "Igi hésẹ́ẹ̀lì",
+    "edible": "Èso hésẹ́ẹ̀lì ṣeé jẹ ní tútù tàbí yíyan, ó sì máa ń pọ́n ní oṣù September, tí àwọn ọ̀kẹ́rẹ́ bá fi kankan sílẹ̀.",
+    "medicinal": null,
+    "ecologicalRole": "Hésẹ́ẹ̀lì tí a gé fún ìtúnhù ń dá igbó tó ní ìmọ́lẹ̀ àti òjìji tí eku dormouse, labalábá fritillary, àti òdòdó ìgbà ìrúwé gbẹ́kẹ̀ lé.",
+    "culturalUses": "Ọ̀pá fún odi, ọ̀pá ìbò orí ilé, àti ọ̀pá ìrìn; ẹ̀ka oníyẹ̀ fún wíwá omi abẹ́ ilẹ̀.",
+    "description": "Igi ìgbẹ́ olọ́pọ̀-ẹsẹ̀ tó ní ewé yíká, rírọ̀, tó ní eyín méjì-méjì, ìdì òdòdó ofeefee bí catkin ní oṣù February, àti èso nínú ìkarahun ewé."
+  }
+}

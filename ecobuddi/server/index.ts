@@ -14,7 +14,7 @@ const here = path.dirname(fileURLToPath(import.meta.url))
 const app = express()
 app.use(express.json({ limit: '15mb' }))
 
-const LANG_NAMES: Record<string, string> = { en: 'English', es: 'Spanish', pt: 'Portuguese', th: 'Thai', yo: 'Yoruba', ml: 'Malayalam', fr: 'French', hi: 'Hindi', ar: 'Arabic' }
+const LANG_NAMES: Record<string, string> = { en: 'English', es: 'Spanish', pt: 'Portuguese', th: 'Thai', yo: 'Yoruba', ml: 'Malayalam', zh: 'Simplified Chinese', vi: 'Vietnamese', si: 'Sinhala', id: 'Indonesian', ne: 'Nepali', sw: 'Swahili', bn: 'Bengali', ko: 'Korean', hr: 'Croatian', ta: 'Tamil', kk: 'Kazakh', ru: 'Russian', ur: 'Urdu', fr: 'French', hi: 'Hindi', ar: 'Arabic' }
 
 const IdentifySchema = z.object({
   candidates: z.array(z.object({
@@ -136,6 +136,54 @@ app.post('/api/chat', async (req, res) => {
   } catch (err) {
     console.error('[chat]', err instanceof Error ? err.message : err)
     res.status(502).json({ error: 'api_error' })
+  }
+})
+
+const TranslateSchema = z.object({
+  commonName: z.string(),
+  description: z.string(),
+  reasoning: z.string().optional(),
+  uses: z.object({
+    edible: z.string().nullable(),
+    medicinal: z.string().nullable(),
+    ecologicalRole: z.string().nullable(),
+    pollinatorValue: z.string().nullable(),
+    waterNeeds: z.string().nullable(),
+    culturalUses: z.string().nullable(),
+  }),
+})
+
+/** Translate a uses card (common name, description, reasoning, uses) into another language. Strict JSON in, strict JSON out. */
+app.post('/api/translate', async (req, res) => {
+  if (!client) return res.status(503).json({ error: 'no_api_key' })
+  const { card, language = 'en', scientificName = '' } = req.body ?? {}
+  const parsedIn = TranslateSchema.safeParse(card)
+  if (!parsedIn.success) return res.status(400).json({ error: 'card required' })
+  const langName = LANG_NAMES[language] ?? 'English'
+  const system = `You translate plant field-guide notes for EcoBuddi. You receive a JSON object and return the SAME JSON object with every string value translated into ${langName}. Keep keys, nesting, and null values exactly as they are. Keep Latin scientific names, cultivar names, drug names, and measurements unchanged. Use the common name people actually use in ${langName} for the species ${scientificName || 'given'} when one exists. Safety sentences (not edible, toxic, dangerous) must stay unambiguous. Reply with strict JSON only, no prose, no markdown fences.`
+  try {
+    for (let attempt = 0; attempt < 2; attempt++) {
+      const msg = await client.messages.create({
+        model: MODEL,
+        max_tokens: 1500,
+        system: [{ type: 'text', text: system, cache_control: { type: 'ephemeral' } }],
+        messages: [{ role: 'user', content: JSON.stringify(parsedIn.data) }],
+      })
+      try {
+        const out = TranslateSchema.parse(JSON.parse(stripFences(textOf(msg))))
+        return res.json({ card: out, language })
+      } catch (parseErr) {
+        console.warn('[translate] parse failure, retrying once:', parseErr instanceof Error ? parseErr.message : parseErr)
+      }
+    }
+    return res.status(502).json({ error: 'unparseable' })
+  } catch (err) {
+    if (err instanceof Anthropic.APIError) {
+      console.error(`[translate] API error ${err.status}:`, err.message)
+      return res.status(502).json({ error: 'api_error', status: err.status })
+    }
+    console.error('[translate]', err)
+    return res.status(500).json({ error: 'server_error' })
   }
 })
 

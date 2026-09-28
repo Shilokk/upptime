@@ -1,4 +1,4 @@
-export type Lang = 'en' | 'es' | 'pt' | 'th' | 'yo' | 'ml' | 'fr' | 'hi' | 'ar'
+export type Lang = 'en' | 'es' | 'pt' | 'th' | 'yo' | 'ml' | 'zh' | 'vi' | 'si' | 'id' | 'ne' | 'sw' | 'bn' | 'ko' | 'hr' | 'ta' | 'kk' | 'ru' | 'ur' | 'fr' | 'hi' | 'ar'
 export type Organ = 'leaf' | 'flower' | 'fruit' | 'bark'
 export type ConfidenceBand = 'high' | 'likely' | 'uncertain'
 export type TimeBand = 'dawn' | 'morning' | 'midday' | 'afternoon' | 'dusk' | 'night'
@@ -24,6 +24,15 @@ export interface PlantUses {
   culturalUses: string | null
 }
 
+/** The translatable part of a uses card, as sent to and returned by /api/translate. */
+export interface TranslatedCard {
+  commonName: string
+  description: string
+  reasoning?: string
+  uses: PlantUses
+  source: 'claude' | 'library'
+}
+
 export interface Identification {
   candidates: Candidate[]
   sensitive: boolean
@@ -32,6 +41,8 @@ export interface Identification {
   description: string
   source: 'claude' | 'mock'
   language: Lang
+  /** Photo data URL the identification was made from (cache key for translations). */
+  photoRef?: string
 }
 
 export interface Observation {
@@ -116,6 +127,23 @@ export interface Species {
   flower: 'none' | 'daisy' | 'bell' | 'spike' | 'umbel' | 'cluster' | 'orchid' | 'star'
   hue: number
   text: Record<Lang, SpeciesText>
+}
+
+export type PostCategory = 'edible' | 'medicinal' | 'ecological' | 'cultural' | 'craft' | 'other'
+
+/** A community note: a use or observation shared by a person, not the AI. */
+export interface CommunityPost {
+  id: string
+  speciesKey: string
+  scientificName: string
+  commonName: string
+  category: PostCategory
+  body: string
+  author: string
+  language: Lang
+  createdAt: string
+  helpful: number
+  helpfulByMe: boolean
 }
 
 export interface ChatMessage {

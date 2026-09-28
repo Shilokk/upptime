@@ -140,7 +140,8 @@ function padCandidates(id: Identification, input: IdentifyInput): Identification
   return { ...id, candidates }
 }
 
-const REASONS: Record<Lang, [string, string, string]> = {
+// Mock reasoning templates. Languages without an entry fall back to English.
+const REASONS: Partial<Record<Lang, [string, string, string]>> = {
   en: [
     'Overall shape, colour, and surface texture match {{name}} closely.',
     'Colour and texture are consistent with {{name}}, but the framing limits the detail.',
@@ -222,7 +223,7 @@ export function mockIdentify(input: IdentifyInput, forceSpeciesId?: string): Ide
   const second = Math.max(8, top - 12 - Math.floor(rnd() * 18))
   const third = Math.max(4, second - 8 - Math.floor(rnd() * 14))
   const scores = [top, second, third]
-  const reasons = REASONS[input.language] ?? REASONS.en
+  const reasons = (REASONS[input.language] ?? REASONS.en) as [string, string, string]
   const candidates: Candidate[] = chosen.map((s, i) => {
     const t = speciesText(s, input.language)
     return {
@@ -243,6 +244,25 @@ export function mockIdentify(input: IdentifyInput, forceSpeciesId?: string): Ide
     description: speciesText(best, input.language).description,
     source: 'mock',
     language: input.language,
+  }
+}
+
+/** Re-render an identification in another language using the species library (names, uses, mock reasoning). */
+export function localizeIdentification(id: Identification, lang: Lang): Identification {
+  const reasons = (REASONS[lang] ?? REASONS.en) as [string, string, string]
+  const candidates = id.candidates.map((c, i) => {
+    const sp = findSpeciesByName(c.scientificName)
+    const name = sp ? speciesText(sp, lang).commonName : c.commonName
+    const reasoning = id.source === 'mock' && reasons[i] ? reasons[i].replace('{{name}}', name) : c.reasoning
+    return { ...c, commonName: name, reasoning }
+  })
+  const top = findSpeciesByName(candidates[0]?.scientificName)
+  return {
+    ...id,
+    candidates,
+    language: lang,
+    uses: top ? usesFromSpecies(top, lang) : id.uses,
+    description: top ? speciesText(top, lang).description : id.description,
   }
 }
 

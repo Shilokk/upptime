@@ -11,7 +11,7 @@ export interface DemoHooks {
   silent: boolean
   cameraPhoto: string
   position: Position
-  identify: () => Promise<Identification>
+  identify: (opts?: { instant?: boolean }) => Promise<Identification>
   onObservationSaved?: (id: string) => void
 }
 

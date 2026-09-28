@@ -49,7 +49,8 @@
     "nearby": "À proximité",
     "records": "Mes relevés",
     "settings": "Paramètres",
-    "leaderboard": "Classement"
+    "leaderboard": "Classement",
+    "community": "Communauté"
   },
   "languages": {
     "en": "English",
@@ -487,5 +488,42 @@
     "yourRank": "Votre rang : n° {{rank}}",
     "empty": "Aucune observation pour l'instant. Photographiez une plante pour entrer au classement.",
     "rank": "Rang"
+  },
+  "community": {
+    "title": "Communauté",
+    "subtitle": "Usages et savoirs partagés par des personnes, pas par l'IA",
+    "forSpecies": "Notes de la communauté sur {{name}}",
+    "notInAi": "L'IA n'en parle pas ? Ajoutez ce que vous savez.",
+    "empty": "Aucune note de la communauté pour l'instant. Partagez le premier usage.",
+    "share": "Partager un usage",
+    "placeholder": "Comment utilise-t-on cette plante là où vous vivez ?",
+    "post": "Publier",
+    "category": "Catégorie",
+    "categories": {
+      "edible": "Comestible",
+      "medicinal": "Médicinal",
+      "ecological": "Écologie",
+      "cultural": "Culturel",
+      "craft": "Artisanat",
+      "other": "Autre"
+    },
+    "helpful": "Utile",
+    "by": "par {{name}}",
+    "pickSpecies": "Trouver une espèce",
+    "yourName": "Votre nom",
+    "disclaimer": "Les notes de la communauté sont des expériences personnelles, pas des conseils vérifiés. Ne mangez ni n'utilisez jamais une plante sur cette base."
+  },
+  "world": {
+    "title": "Gardiens de la nature dans le monde",
+    "subtitle": "Chaque point est une personne qui a scanné une plante à cet endroit. Touchez-en un pour voir sa trouvaille.",
+    "scannedHere": "a scanné {{species}} ici"
+  },
+  "passport": {
+    "title": "Votre passeport de gardien",
+    "scans": "{{count}} scans",
+    "places": "{{count}} lieux",
+    "species": "{{count}} espèces",
+    "since": "Gardien depuis {{date}}",
+    "empty": "Scannez une plante pour obtenir votre premier tampon."
   }
 }

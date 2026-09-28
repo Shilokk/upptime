@@ -1,6 +1,6 @@
 import type { Lang } from './types'
 
-const BCP47: Record<Lang, string> = { en: 'en-GB', es: 'es-ES', pt: 'pt-BR', th: 'th-TH', yo: 'yo-NG', ml: 'ml-IN', fr: 'fr-FR', hi: 'hi-IN', ar: 'ar-SA' }
+const BCP47: Record<Lang, string> = { en: 'en-GB', es: 'es-ES', pt: 'pt-PT', th: 'th-TH', yo: 'yo-NG', ml: 'ml-IN', zh: 'zh-CN', vi: 'vi-VN', si: 'si-LK', id: 'id-ID', ne: 'ne-NP', sw: 'sw-KE', bn: 'bn-BD', ko: 'ko-KR', hr: 'hr-HR', ta: 'ta-IN', kk: 'kk-KZ', ru: 'ru-RU', ur: 'ur-PK', fr: 'fr-FR', hi: 'hi-IN', ar: 'ar-SA' }
 
 export function bcp47(lang: Lang): string {
   return BCP47[lang] ?? 'en-GB'
@@ -21,14 +21,24 @@ function pickVoice(lang: Lang): SpeechSynthesisVoice | null {
   )
 }
 
-/** Read text aloud in the selected language. Resolves when finished or cancelled. */
+/** The voice that will be used for a language: an exact match, a same-language match, or the browser default. */
+export function voiceFor(lang: Lang): { voice: SpeechSynthesisVoice | null; exact: boolean } {
+  if (!isSynthesisSupported()) return { voice: null, exact: false }
+  const v = pickVoice(lang)
+  return { voice: v, exact: !!v && v.lang.toLowerCase() === bcp47(lang).toLowerCase() }
+}
+
+/** Read text aloud in the selected language. Falls back to the default voice rather than staying silent. */
 export function speak(text: string, lang: Lang, onEnd?: () => void): void {
-  if (!isSynthesisSupported()) return
+  if (!isSynthesisSupported()) {
+    onEnd?.()
+    return
+  }
   const synth = window.speechSynthesis
   synth.cancel()
   const utter = new SpeechSynthesisUtterance(text)
   utter.lang = bcp47(lang)
-  const voice = pickVoice(lang)
+  const voice = pickVoice(lang) ?? synth.getVoices().find((v) => v.default) ?? null
   if (voice) utter.voice = voice
   utter.rate = 1
   utter.pitch = 1

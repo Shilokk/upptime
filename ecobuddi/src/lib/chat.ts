@@ -54,7 +54,8 @@ const KW = {
   medicinal: /medic|remed|herbal|heal|medicin|remède|remédio|औषध|दवा|دواء|علاج|طبي|ยา|สมุนไพร|oògùn|ഔഷധ|മരുന്ന്/i,
 }
 
-const T: Record<Lang, Record<string, string>> = {
+// Offline answer templates. Languages without an entry fall back to English.
+const T: Partial<Record<Lang, Record<string, string>>> = {
   en: {
     intro: 'Based on the chosen match, {{name}} ({{sci}}):',
     toxic: 'This plant is recorded as toxic, so keep pets and children from chewing it and wash hands after touching it.',
@@ -172,7 +173,7 @@ function fill(s: string, vars: Record<string, string>): string {
 /** Offline answers built from the species library. Used when the server or the model is unavailable. */
 export function mockAnswer(input: ChatInput): string {
   const lang = input.language
-  const t = T[lang] ?? T.en
+  const t = (T[lang] ?? T.en) as Record<string, string>
   const sp = findSpeciesByName(input.candidate.scientificName)
   const disclaimer = i18n.t('uses.disclaimer', { lng: lang })
   if (!sp) return fill(t.unknownSpecies, { reason: input.candidate.reasoning })
