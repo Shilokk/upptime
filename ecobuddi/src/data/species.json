@@ -54,12 +54,12 @@
     "description": "एक चौड़ा, लंबी उम्र वाला पर्णपाती वृक्ष जिसकी गहरी कटावदार पत्तियाँ बहुत छोटे डंठलों पर होती हैं और फल लंबे डंठलों पर लगते हैं। उम्र के साथ तना विशाल और दरारदार हो जाता है।"
    },
    "ar": {
-    "commonName": "English oak",
-    "edible": "Acorns are edible only after repeated leaching to remove bitter tannins; historically ground into flour in lean years.",
-    "medicinal": "Bark rich in tannins was used traditionally as an astringent for sore throats and skin complaints.",
-    "ecologicalRole": "A keystone tree supporting over 2,000 species of insects, fungi, birds, and mammals; veteran oaks hold rare deadwood beetles.",
-    "culturalUses": "Timber for ships, barrels, and timber-framed buildings; a national emblem in England and a symbol of endurance.",
-    "description": "A broad, long-lived deciduous tree with deeply lobed leaves on very short stalks and acorns carried on long stems. Trunks become massive and fissured with age."
+    "commonName": "البلوط الإنجليزي",
+    "edible": "لا تؤكل ثمار البلوط إلا بعد نقعها مرارًا لإزالة التانين المرّ؛ وكانت تُطحن دقيقًا في سنوات القحط.",
+    "medicinal": "استُخدم اللحاء الغني بالتانين تقليديًا كمادة قابضة لالتهاب الحلق وأمراض الجلد.",
+    "ecologicalRole": "شجرة محورية تدعم أكثر من 2,000 نوع من الحشرات والفطريات والطيور والثدييات؛ وتؤوي أشجار البلوط المعمّرة خنافس نادرة تعيش في الخشب الميت.",
+    "culturalUses": "خشب للسفن والبراميل والمباني ذات الهياكل الخشبية؛ ورمز وطني في إنجلترا ورمز للصمود.",
+    "description": "شجرة عريضة معمّرة متساقطة الأوراق، أوراقها عميقة الفصوص على أعناق قصيرة جدًا وثمارها محمولة على سويقات طويلة. تصبح الجذوع ضخمة ومتشققة مع تقدّم العمر."
    },
    "fr": {
     "commonName": "Chêne pédonculé",
@@ -130,12 +130,12 @@
     "description": "एक ऊँचा संकर सड़क-वृक्ष जिसकी बड़ी मेपल जैसी पत्तियाँ, काँटेदार गोल फल-गेंदें जो सर्दी भर लटकी रहती हैं, और छलावरण-पैटर्न वाली छाल जो टुकड़ों में झड़ती है।"
    },
    "ar": {
-    "commonName": "London plane",
+    "commonName": "الدلب اللندني",
     "edible": null,
     "medicinal": null,
-    "ecologicalRole": "Tolerates compacted soil and pollution, shading streets and cooling city air; its bark sheds in plates that discard grime.",
-    "culturalUses": "Planted along London's streets and squares since the 1700s, it is the capital's signature tree.",
-    "description": "A tall hybrid street tree with large maple-like leaves, spiky round fruit balls that hang through winter, and camouflage-patterned bark that flakes in patches."
+    "ecologicalRole": "تتحمل التربة المضغوطة والتلوث، فتظلل الشوارع وتبرّد هواء المدينة؛ ويتقشر لحاؤها في صفائح تتخلص من الأوساخ.",
+    "culturalUses": "تُزرع في شوارع لندن وميادينها منذ القرن الثامن عشر، وهي الشجرة المميزة للعاصمة.",
+    "description": "شجرة شوارع هجينة طويلة، أوراقها كبيرة تشبه أوراق القيقب، وثمارها كرات شائكة مستديرة تتدلى طوال الشتاء، ولحاؤها بنقوش تشبه التمويه يتقشر في بقع."
    },
    "fr": {
     "commonName": "Platane commun",
@@ -209,12 +209,12 @@
     "description": "एक सुंदर वृक्ष जिसकी छिलती सफ़ेद छाल पर काले हीरे जैसे निशान होते हैं, टहनियाँ झुकी हुई और छोटी तिकोनी पत्तियाँ दोहरे दाँतेदार किनारों वाली।"
    },
    "ar": {
-    "commonName": "Silver birch",
-    "edible": "Spring sap can be tapped as a lightly sweet drink; young leaves are added to teas.",
-    "medicinal": "Leaf tea was used traditionally as a mild diuretic and bark oil for skin conditions.",
-    "ecologicalRole": "A fast pioneer of open ground that enriches poor soils, feeds many moth caterpillars, and hosts fly agaric and other fungi.",
-    "culturalUses": "Bark used for tinder and canoes; twigs for besom brooms; a symbol of renewal in northern folklore.",
-    "description": "A graceful tree with peeling white bark marked by black diamonds, drooping twigs, and small triangular leaves with double-toothed edges."
+    "commonName": "البتولا الفضية",
+    "edible": "يمكن استخراج عصارة الربيع كمشروب خفيف الحلاوة؛ وتُضاف الأوراق الفتية إلى الشاي.",
+    "medicinal": "استُخدم شاي الأوراق تقليديًا كمدرّ خفيف للبول، وزيت اللحاء لأمراض الجلد.",
+    "ecologicalRole": "شجرة رائدة سريعة النمو في الأراضي المفتوحة، تُغني التربة الفقيرة وتغذي يرقات كثير من العث وتستضيف غاريقون الذباب وفطريات أخرى.",
+    "culturalUses": "استُخدم اللحاء للإشعال وصنع الزوارق؛ والأغصان لصنع مكانس الأغصان؛ وهي رمز للتجدد في الفولكلور الشمالي.",
+    "description": "شجرة رشيقة بلحاء أبيض متقشر تزيّنه علامات سوداء معيّنية الشكل، وأغصان متدلية، وأوراق صغيرة مثلثة ذات حواف مزدوجة التسنين."
    },
    "fr": {
     "commonName": "Bouleau verruqueux",
@@ -286,12 +286,12 @@
     "description": "एक भव्य वृक्ष जिसकी छाल चिकनी चाँदी-धूसर, पत्तियाँ अंडाकार लहरदार किनारों वाली और कोमल अवस्था में रेशमी रोएँदार, और काँटेदार छिलके जो फटकर तिकोने फल छोड़ते हैं।"
    },
    "ar": {
-    "commonName": "European beech",
-    "edible": "Beech nuts, or mast, are edible in small quantities when roasted; young spring leaves are mild in salads.",
+    "commonName": "الزان الأوروبي",
+    "edible": "جوز الزان صالح للأكل بكميات صغيرة عند تحميصه؛ والأوراق الربيعية الفتية خفيفة الطعم في السلطات.",
     "medicinal": null,
-    "ecologicalRole": "Casts deep shade that shapes whole woodland communities; mast years feed jays, mice, and wild boar.",
-    "culturalUses": "Smooth grey bark has been carved with initials for centuries; wood is prized for furniture and firewood.",
-    "description": "A stately tree with smooth silver-grey bark, oval leaves with wavy edges and silky hairs when young, and prickly husks that split to release triangular nuts."
+    "ecologicalRole": "تلقي ظلًا كثيفًا يشكّل مجتمعات الغابة بأكملها؛ وفي سنوات وفرة الجوز تغذي طيور القيق والفئران والخنازير البرية.",
+    "culturalUses": "نُقشت الأحرف الأولى للأسماء على لحائها الرمادي الأملس لقرون؛ وخشبها مرغوب للأثاث والوقود.",
+    "description": "شجرة مهيبة بلحاء رمادي فضي أملس، وأوراق بيضوية ذات حواف متموجة وشعيرات حريرية في صغرها، وقشور شائكة تنشق لتطلق جوزات مثلثة."
    },
    "fr": {
     "commonName": "Hêtre commun",
@@ -365,12 +365,12 @@
     "description": "एक बड़ा फैला हुआ वृक्ष जिसकी हथेली जैसी पत्तियों में पाँच से सात पत्रक होते हैं, मई में सफ़ेद फूल-गुच्छे और काँटेदार हरे खोलों में चमकदार भूरे बीज।"
    },
    "ar": {
-    "commonName": "Horse chestnut",
-    "edible": "Not edible. Conkers contain aesculin and are toxic to people and dogs; they are unrelated to sweet chestnuts.",
-    "medicinal": "Standardised seed extracts are used in Europe for poor leg circulation, but the raw seeds are poisonous.",
-    "ecologicalRole": "Large candle-like flower spikes feed bees in late spring; the leaf-mining moth now browns most leaves by August.",
-    "culturalUses": "Conkers are the classic British playground game every autumn.",
-    "description": "A big spreading tree with hand-shaped leaves of five to seven leaflets, white flower spikes in May, and glossy brown seeds inside spiny green cases."
+    "commonName": "كستناء الحصان",
+    "edible": "غير صالحة للأكل. تحتوي ثمارها على الإسكولين وهي سامة للبشر والكلاب؛ ولا صلة لها بالكستناء الحلوة.",
+    "medicinal": "تُستخدم مستخلصات البذور القياسية في أوروبا لضعف الدورة الدموية في الساقين، لكن البذور الخام سامة.",
+    "ecologicalRole": "سنابل زهرية كبيرة تشبه الشموع تغذي النحل في أواخر الربيع؛ وتحوّل عثة ناخرة الأوراق معظم أوراقها إلى اللون البني بحلول أغسطس.",
+    "culturalUses": "لعبة «كونكرز» (conkers) بثمارها هي لعبة الملاعب البريطانية الكلاسيكية كل خريف.",
+    "description": "شجرة كبيرة منتشرة الأغصان، أوراقها راحية الشكل من خمس إلى سبع وريقات، وسنابلها الزهرية بيضاء في مايو، وبذورها بنية لامعة داخل أغلفة خضراء شائكة."
    },
    "fr": {
     "commonName": "Marronnier d'Inde",
@@ -444,12 +444,12 @@
     "description": "एक ऊँचा वृक्ष जिसकी पत्तियाँ हृदयाकार और दाँतेदार होती हैं, तने के आधार के चारों ओर कोंपलें फूटती हैं, और सुगंधित हल्के पीले फूल एक पतले पत्तीनुमा सहपत्र के नीचे लटकते हैं।"
    },
    "ar": {
-    "commonName": "Common lime",
-    "edible": "Young leaves are pleasant in salads; dried flowers make the classic linden tea.",
-    "medicinal": "Linden flower tea is a traditional remedy for colds, anxiety, and restless sleep.",
-    "ecologicalRole": "Flowers hum with bees in July; aphids on the leaves feed ladybirds and drip honeydew onto pavements below.",
-    "culturalUses": "The village lime was a meeting place across central Europe; the soft wood is favoured by carvers.",
-    "description": "A tall tree with heart-shaped, toothed leaves, sprouting shoots around the trunk base, and fragrant pale yellow flowers hanging beneath a narrow leafy bract."
+    "commonName": "الزيزفون الشائع",
+    "edible": "الأوراق الفتية لذيذة في السلطات؛ والأزهار المجففة تصنع شاي الزيزفون الشهير.",
+    "medicinal": "شاي أزهار الزيزفون علاج تقليدي لنزلات البرد والقلق واضطراب النوم.",
+    "ecologicalRole": "تطنّ أزهاره بالنحل في يوليو؛ ويغذي المنّ على أوراقه الدعاسيق ويقطر الندوة العسلية على الأرصفة تحته.",
+    "culturalUses": "كانت شجرة الزيزفون في القرية مكانًا للاجتماع في أنحاء أوروبا الوسطى؛ وخشبه الليّن مفضّل لدى النحاتين.",
+    "description": "شجرة طويلة بأوراق قلبية الشكل مسننة، وفروع تنبت حول قاعدة الجذع، وأزهار عطرة صفراء باهتة تتدلى تحت قنابة ورقية ضيقة."
    },
    "fr": {
     "commonName": "Tilleul commun",
@@ -527,12 +527,12 @@
     "description": "एक सदाबहार वृक्ष या झाड़ी जिसकी चमकदार, काँटेदार, गहरी हरी पत्तियाँ ऊपर की ओर चिकनी हो जाती हैं, छोटे सफ़ेद फूल, और मादा पौधों पर चटख लाल फल।"
    },
    "ar": {
-    "commonName": "Holly",
-    "edible": "Not edible. The red berries cause vomiting if eaten.",
+    "commonName": "البهشية الشائكة",
+    "edible": "غير صالحة للأكل. التوت الأحمر يسبب القيء إذا أُكل.",
     "medicinal": null,
-    "ecologicalRole": "Evergreen shelter for wintering birds; berries feed thrushes and the leaves host the holly blue butterfly.",
-    "culturalUses": "Cut for midwinter and Christmas decorations for centuries; wood used for chess pieces and inlay.",
-    "description": "An evergreen tree or shrub with glossy, spiny, dark green leaves that become smoother higher up, small white flowers, and bright red berries on female plants."
+    "ecologicalRole": "مأوى دائم الخضرة للطيور المشتّية؛ ويغذي توتها طيور السُمنة وتستضيف أوراقها فراشة البهشية الزرقاء.",
+    "culturalUses": "تُقطع لزينة منتصف الشتاء وعيد الميلاد منذ قرون؛ ويُستخدم خشبها لقطع الشطرنج والتطعيم.",
+    "description": "شجرة أو شجيرة دائمة الخضرة بأوراق لامعة شائكة خضراء داكنة تصبح أكثر نعومة في الأعلى، وأزهار بيضاء صغيرة، وتوت أحمر زاهٍ على النباتات الأنثوية."
    },
    "fr": {
     "commonName": "Houx commun",
@@ -611,12 +611,12 @@
     "description": "एक काष्ठीय सदाबहार बेल जिसकी कम उम्र की पत्तियाँ कटावदार और फूलदार शाखाओं पर वयस्क पत्तियाँ बिना कटाव की होती हैं; पतझड़ में हरे-पीले फूलों के गोल गुच्छे और वसंत में काले फल।"
    },
    "ar": {
-    "commonName": "Common ivy",
-    "edible": "Not edible. Leaves and berries are mildly toxic.",
-    "medicinal": "Standardised leaf extracts are used in cough syrups; raw leaves can irritate skin.",
-    "ecologicalRole": "Autumn flowers are a vital late nectar source for bees and hoverflies; berries feed birds in winter and dense growth shelters bats and nesting wrens.",
-    "culturalUses": "A symbol of fidelity woven into wedding garlands; evergreen decoration in midwinter festivals.",
-    "description": "A woody evergreen climber with lobed juvenile leaves and unlobed adult leaves on flowering shoots; globular clusters of green-yellow flowers in autumn and black berries in spring."
+    "commonName": "اللبلاب",
+    "edible": "غير صالحة للأكل. الأوراق والتوت سامة بدرجة خفيفة.",
+    "medicinal": "تُستخدم مستخلصات الأوراق القياسية في أشربة السعال؛ وقد تهيّج الأوراق الخام الجلد.",
+    "ecologicalRole": "أزهار الخريف مصدر رحيق متأخر حيوي للنحل والذباب الحوّام؛ ويغذي التوت الطيور في الشتاء ويؤوي نموه الكثيف الخفافيش وأعشاش طيور النمنمة.",
+    "culturalUses": "رمز للوفاء يُنسج في أكاليل الأعراس؛ وزينة دائمة الخضرة في أعياد منتصف الشتاء.",
+    "description": "متسلق خشبي دائم الخضرة بأوراق فتية مفصصة وأوراق بالغة غير مفصصة على الفروع المزهرة؛ وعناقيد كروية من الأزهار الخضراء المصفرّة في الخريف وتوت أسود في الربيع."
    },
    "fr": {
     "commonName": "Lierre grimpant",
@@ -698,12 +698,12 @@
     "description": "एक काँटेदार छोटा वृक्ष जिसकी पत्तियाँ गहरी कटावदार, मई में झागदार सफ़ेद या गुलाबी फूल, और गहरे लाल फलों के गुच्छे जिनमें हर फल में एक ही गुठली होती है।"
    },
    "ar": {
-    "commonName": "Hawthorn",
-    "edible": "Young leaves were nibbled as 'bread and cheese'; haws are made into jelly and ketchup.",
-    "medicinal": "Flowers, leaves, and berries are a long-standing traditional heart tonic; only under supervision.",
-    "ecologicalRole": "Blossom feeds spring pollinators, thorny growth shelters nesting birds, and haws fuel migrating thrushes and waxwings.",
-    "culturalUses": "The May tree of English folklore; the classic hedgerow plant of enclosed farmland.",
-    "description": "A thorny small tree with deeply lobed leaves, frothy white or pink blossom in May, and clusters of dark red berries each holding a single stone."
+    "commonName": "الزعرور",
+    "edible": "كانت الأوراق الفتية تُقضم وتسمى «الخبز والجبن»؛ وتُصنع الثمار مربى هلاميًا وكاتشب.",
+    "medicinal": "الأزهار والأوراق والثمار مقوٍّ تقليدي عريق للقلب؛ ولا يُستخدم إلا تحت إشراف.",
+    "ecologicalRole": "تغذي أزهاره ملقّحات الربيع، ويؤوي نموه الشائك أعشاش الطيور، وتزوّد ثماره طيور السُمنة والشمعية المهاجرة بالطاقة.",
+    "culturalUses": "شجرة مايو في الفولكلور الإنجليزي؛ والنبتة الكلاسيكية لأسيجة الأراضي الزراعية المسيّجة.",
+    "description": "شجرة صغيرة شائكة بأوراق عميقة الفصوص، وزهر أبيض أو وردي كثيف في مايو، وعناقيد من ثمار حمراء داكنة تحمل كل منها نواة واحدة."
    },
    "fr": {
     "commonName": "Aubépine à un style",
@@ -778,12 +778,12 @@
     "description": "एक झाड़ी जिसकी पिच्छाकार पत्तियों में पाँच से सात पत्रक होते हैं, जून में चपटे मलाईदार फूल-गुच्छे, और गर्मी के अंत में नन्हे काले फलों के लटकते गुच्छे।"
    },
    "ar": {
-    "commonName": "Elder",
-    "edible": "Flowers flavour cordials and fritters; berries must be cooked before eating and are made into wine and jam.",
-    "medicinal": "Elderflower and elderberry preparations are traditional remedies for colds and flu; raw berries, leaves, and bark are mildly toxic.",
-    "ecologicalRole": "Fast-growing on disturbed ground; berries feed many birds and the flowers attract hoverflies.",
-    "culturalUses": "Surrounded by folklore about protection and witchcraft; hollow stems were made into whistles and pea-shooters.",
-    "description": "A shrub with pinnate leaves of five to seven leaflets, flat creamy flower heads in June, and drooping clusters of tiny black berries in late summer."
+    "commonName": "البيلسان الأسود",
+    "edible": "تنكّه الأزهار الشراب والفطائر المقلية؛ ويجب طهي الثمار قبل أكلها، وتُصنع منها النبيذ والمربى.",
+    "medicinal": "مستحضرات أزهار البيلسان وثماره علاجات تقليدية لنزلات البرد والإنفلونزا؛ أما الثمار الخام والأوراق واللحاء فسامة بدرجة خفيفة.",
+    "ecologicalRole": "سريع النمو في الأراضي المضطربة؛ تغذي ثماره طيورًا كثيرة وتجذب أزهاره الذباب الحوّام.",
+    "culturalUses": "يحيط به فولكلور عن الحماية والسحر؛ وكانت سيقانه المجوفة تُصنع صفارات وأنابيب لقذف البازلاء.",
+    "description": "شجيرة بأوراق ريشية من خمس إلى سبع وريقات، ورؤوس زهرية مسطحة كريمية اللون في يونيو، وعناقيد متدلية من ثمار سوداء صغيرة في أواخر الصيف."
    },
    "fr": {
     "commonName": "Sureau noir",
@@ -862,12 +862,12 @@
     "description": "एक झुकी हुई, काँटेदार झाड़ी जिसकी पत्तियों में तीन से पाँच दाँतेदार पत्रक, गर्मी भर सफ़ेद या गुलाबी फूल, और फल जो हरे से लाल होते हुए काले पकते हैं।"
    },
    "ar": {
-    "commonName": "Bramble",
-    "edible": "Blackberries are sweet and safe when ripe; young shoots and leaves make tea.",
-    "medicinal": "Leaf tea was a traditional treatment for diarrhoea and mouth ulcers thanks to its tannins.",
-    "ecologicalRole": "Flowers feed bees for months and thickets shelter nesting birds, dormice, and hedgehogs; invasive where it smothers native scrub abroad.",
+    "commonName": "العلّيق",
+    "edible": "توت العلّيق حلو وآمن عند نضجه؛ وتُصنع البراعم والأوراق الفتية شايًا.",
+    "medicinal": "كان شاي الأوراق علاجًا تقليديًا للإسهال وقرح الفم بفضل التانين فيه.",
+    "ecologicalRole": "تغذي أزهاره النحل لأشهر وتؤوي أدغاله أعشاش الطيور والزغبات والقنافذ؛ وهو غازٍ حيث يخنق الشجيرات المحلية في الخارج.",
     "culturalUses": null,
-    "description": "An arching, prickly shrub with leaves of three to five toothed leaflets, white or pink flowers all summer, and fruits ripening from green through red to black."
+    "description": "شجيرة مقوّسة شائكة بأوراق من ثلاث إلى خمس وريقات مسننة، وأزهار بيضاء أو وردية طوال الصيف، وثمار تنضج من الأخضر إلى الأحمر ثم الأسود."
    },
    "fr": {
     "commonName": "Ronce commune",
@@ -941,12 +941,12 @@
     "description": "एक सीधा बारहमासी पौधा जिसकी आमने-सामने लगी हृदयाकार, तेज़ दाँतेदार पत्तियाँ डंक वाले रोओं से ढकी होती हैं और नन्हे हरे फूलों की लटकती लड़ियाँ।"
    },
    "ar": {
-    "commonName": "Stinging nettle",
-    "edible": "Young tops lose their sting when cooked and make a rich soup or a spinach substitute.",
-    "medicinal": "Nettle tea and extracts are traditional for hay fever, joint pain, and as a spring tonic.",
-    "ecologicalRole": "Larval food plant for peacock, small tortoiseshell, red admiral, and comma butterflies; a sign of nitrogen-rich soil.",
-    "culturalUses": "Fibres were spun into cloth and rope; a folk remedy involved deliberate stinging for rheumatism.",
-    "description": "An upright perennial with opposite, heart-shaped, sharply toothed leaves covered in stinging hairs and dangling strings of tiny green flowers."
+    "commonName": "القرّاص",
+    "edible": "تفقد القمم الفتية لسعتها عند الطهي وتصنع حساءً غنيًا أو بديلًا للسبانخ.",
+    "medicinal": "شاي القرّاص ومستخلصاته تقليدية لحمى القش وآلام المفاصل وكمقوٍّ ربيعي.",
+    "ecologicalRole": "نبات غذائي ليرقات فراشات الطاووس والصدفية الصغيرة والأميرال الأحمر والفاصلة؛ وعلامة على تربة غنية بالنيتروجين.",
+    "culturalUses": "غُزلت أليافه قماشًا وحبالًا؛ وكان من العلاجات الشعبية اللسع المتعمد لعلاج الروماتيزم.",
+    "description": "نبات معمّر منتصب بأوراق متقابلة قلبية الشكل حادة التسنين مغطاة بشعيرات لاسعة، وسلاسل متدلية من أزهار خضراء صغيرة."
    },
    "fr": {
     "commonName": "Ortie dioïque",
@@ -1019,12 +1019,12 @@
     "description": "दाँतेदार पत्तियों का एक गुच्छा (रोज़ेट), खोखले डंठल जिनसे दूधिया रस निकलता है, चटख पीले फूल-शीर्ष, और छतरीदार बीजों का प्रसिद्ध गोला।"
    },
    "ar": {
-    "commonName": "Dandelion",
-    "edible": "Young leaves are bitter salad greens, roots are roasted as a coffee substitute, and flowers are made into wine.",
-    "medicinal": "Leaves are a traditional diuretic and the root a digestive bitter.",
-    "ecologicalRole": "One of the most important early spring nectar and pollen sources for bees and hoverflies.",
+    "commonName": "الهندباء البرية",
+    "edible": "الأوراق الفتية خضار سلطة مرّة، وتُحمّص الجذور كبديل للقهوة، وتُصنع الأزهار نبيذًا.",
+    "medicinal": "الأوراق مدرّ تقليدي للبول والجذر مرّ هاضم.",
+    "ecologicalRole": "من أهم مصادر الرحيق وحبوب اللقاح في أوائل الربيع للنحل والذباب الحوّام.",
     "culturalUses": null,
-    "description": "A rosette of toothed leaves with hollow stems that bleed milky sap, bright yellow flower heads, and the famous globe of parachuted seeds."
+    "description": "وردية من أوراق مسننة بسيقان مجوفة تنزف عصارة لبنية، ورؤوس زهرية صفراء زاهية، والكرة الشهيرة من البذور ذات المظلات."
    },
    "fr": {
     "commonName": "Pissenlit",
@@ -1098,12 +1098,12 @@
     "description": "एक छोटा बारहमासी पौधा जिसकी चम्मच जैसी पत्तियाँ चपटे रोज़ेट में होती हैं और पीले केंद्र के चारों ओर सफ़ेद, गुलाबी-सिरे वाली पंखुड़ियों के एकल फूल-शीर्ष जो रात में बंद हो जाते हैं।"
    },
    "ar": {
-    "commonName": "Daisy",
-    "edible": "Young leaves and flower buds can be added to salads in small amounts.",
-    "medicinal": "Once known as bruisewort, it was applied to bruises and wounds in folk medicine.",
-    "ecologicalRole": "Flowers nearly all year in short turf and feed small bees and hoverflies when little else is out.",
-    "culturalUses": "Daisy chains and the 'loves me, loves me not' game are childhood classics.",
-    "description": "A low perennial with spoon-shaped leaves in a flat rosette and single flower heads of white, pink-tipped petals around a yellow centre that close at night."
+    "commonName": "اللؤلؤية",
+    "edible": "يمكن إضافة الأوراق الفتية وبراعم الأزهار إلى السلطات بكميات صغيرة.",
+    "medicinal": "عُرفت قديمًا بعشبة الكدمات، وكانت توضع على الرضوض والجروح في الطب الشعبي.",
+    "ecologicalRole": "تزهر طوال العام تقريبًا في العشب القصير وتغذي النحل الصغير والذباب الحوّام حين يندر غيرها.",
+    "culturalUses": "سلاسل الأقحوان ولعبة «يحبني، لا يحبني» من كلاسيكيات الطفولة.",
+    "description": "نبات معمّر منخفض بأوراق ملعقية الشكل في وردية مسطحة ورؤوس زهرية منفردة ببتلات بيضاء وردية الأطراف حول مركز أصفر، تنغلق ليلًا."
    },
    "fr": {
     "commonName": "Pâquerette",
@@ -1177,12 +1177,12 @@
     "description": "एक चरागाह बारहमासी जिसके तीन अंडाकार पत्रक, हर एक पर अक्सर हल्का V-आकार का निशान, और गोल गुलाबी-बैंगनी फूल-शीर्ष।"
    },
    "ar": {
-    "commonName": "Red clover",
-    "edible": "Flower heads are sweet and can be eaten raw or dried for tea.",
-    "medicinal": "Used traditionally for coughs and skin complaints; isoflavone extracts are sold for menopausal symptoms.",
-    "ecologicalRole": "Fixes nitrogen into the soil and is a top forage plant for bumblebees, especially long-tongued species.",
+    "commonName": "البرسيم الأحمر",
+    "edible": "رؤوس الأزهار حلوة وتؤكل نيئة أو تُجفف للشاي.",
+    "medicinal": "استُخدم تقليديًا للسعال وأمراض الجلد؛ وتُباع مستخلصات الإيزوفلافون لأعراض انقطاع الطمث.",
+    "ecologicalRole": "يثبّت النيتروجين في التربة وهو من أفضل نباتات العلف للنحل الطنان، خاصة الأنواع طويلة اللسان.",
     "culturalUses": null,
-    "description": "A meadow perennial with three oval leaflets, each often marked with a pale chevron, and round pink-purple flower heads."
+    "description": "نبات مروج معمّر بثلاث وريقات بيضوية، غالبًا ما تحمل كل منها علامة باهتة على شكل حرف V، ورؤوس زهرية مستديرة وردية أرجوانية."
    },
    "fr": {
     "commonName": "Trèfle des prés",
@@ -1255,12 +1255,12 @@
     "description": "ज़मीन से सटा चौड़ी अंडाकार पत्तियों का रोज़ेट जिनमें मज़बूत समानांतर शिराएँ होती हैं, और चूहे की पूँछ जैसे पतले हरे फूल-दंड ऊपर उठते हैं।"
    },
    "ar": {
-    "commonName": "Greater plantain",
-    "edible": "Very young leaves are edible cooked; older leaves are stringy. Seeds can be eaten like psyllium.",
-    "medicinal": "Crushed leaves are a classic folk poultice for stings, cuts, and nettle rash.",
-    "ecologicalRole": "Thrives in trampled ground and paths; seeds feed finches and sparrows.",
-    "culturalUses": "Called 'white man's footprint' in North America because it followed European settlers' paths.",
-    "description": "A ground-hugging rosette of broad oval leaves with strong parallel veins, sending up slender green flower spikes like rat tails."
+    "commonName": "لسان الحمل الكبير",
+    "edible": "الأوراق الفتية جدًا تؤكل مطبوخة؛ أما الأكبر سنًا فليفية. ويمكن أكل البذور كبذور القطونة (السيليوم).",
+    "medicinal": "الأوراق المهروسة كمادة شعبية كلاسيكية للسعات والجروح وطفح القرّاص.",
+    "ecologicalRole": "يزدهر في الأرض المدوسة والممرات؛ وتغذي بذوره الحساسين والعصافير.",
+    "culturalUses": "سُمّي «أثر قدم الرجل الأبيض» في أمريكا الشمالية لأنه تبع مسارات المستوطنين الأوروبيين.",
+    "description": "وردية ملتصقة بالأرض من أوراق بيضوية عريضة بعروق متوازية قوية، ترسل سنابل زهرية خضراء نحيلة كذيول الجرذان."
    },
    "fr": {
     "commonName": "Grand plantain",
@@ -1334,12 +1334,12 @@
     "description": "एक सुगंधित बारहमासी पौधा जिसकी पत्तियाँ मुलायम, पंख जैसी और बारीक कटी हुई होती हैं, और नन्हे सफ़ेद या गुलाबी फूलों के चपटे-शीर्ष गुच्छे।"
    },
    "ar": {
-    "commonName": "Yarrow",
+    "commonName": "الأخيلية ذات الألف ورقة",
     "edible": null,
-    "medicinal": "Named for Achilles, who reputedly used it to staunch soldiers' wounds; still a traditional remedy for cuts, fever, and colds.",
-    "ecologicalRole": "Its flat flower heads are landing platforms for hoverflies, beetles, and solitary wasps; deep roots resist drought.",
-    "culturalUses": "Dried stalks were used for casting the I Ching in China.",
-    "description": "An aromatic perennial with soft, feathery, finely divided leaves and flat-topped clusters of tiny white or pink flowers."
+    "medicinal": "سُميت باسم أخيل الذي قيل إنه استخدمها لوقف نزيف جروح الجنود؛ ولا تزال علاجًا تقليديًا للجروح والحمى ونزلات البرد.",
+    "ecologicalRole": "رؤوسها الزهرية المسطحة منصات هبوط للذباب الحوّام والخنافس والزنابير المنفردة؛ وجذورها العميقة تقاوم الجفاف.",
+    "culturalUses": "استُخدمت سيقانها المجففة لإلقاء طالع «إي تشينغ» في الصين.",
+    "description": "نبات معمّر عطري بأوراق ناعمة ريشية دقيقة التقسيم وعناقيد مسطحة القمة من أزهار بيضاء أو وردية صغيرة."
    },
    "fr": {
     "commonName": "Achillée millefeuille",
@@ -1415,12 +1415,12 @@
     "description": "एक ऊँचा द्विवर्षीय पौधा जिसके पहले वर्ष में मुलायम, रोएँदार पत्तियों का रोज़ेट और दूसरे वर्ष में बैंगनी-गुलाबी, चित्तीदार नलीदार घंटियों की मीनार।"
    },
    "ar": {
-    "commonName": "Foxglove",
-    "edible": "Not edible. Every part is highly poisonous and can stop the heart.",
-    "medicinal": "The source of digoxin, a heart medicine; never self-administer, the margin between dose and poison is tiny.",
-    "ecologicalRole": "Tubular flowers are tailored to bumblebees, which crawl inside following spotted guide marks.",
-    "culturalUses": "Fairy folklore surrounds it; the spots inside the flowers were said to be fairy fingerprints.",
-    "description": "A tall biennial with a rosette of soft, downy leaves in its first year and a spire of purple-pink, spotted tubular bells in its second."
+    "commonName": "قفاز الثعلب",
+    "edible": "غير صالحة للأكل. كل أجزائها شديدة السمّية وقد توقف القلب.",
+    "medicinal": "مصدر الديجوكسين (digoxin)، وهو دواء للقلب؛ لا تتناولها بنفسك أبدًا، فالفرق بين الجرعة والسمّ ضئيل جدًا.",
+    "ecologicalRole": "أزهارها الأنبوبية مصممة للنحل الطنان الذي يزحف داخلها متتبعًا علامات إرشادية منقطة.",
+    "culturalUses": "يحيط بها فولكلور الجنيات؛ وقيل إن النقاط داخل الأزهار بصمات أصابع الجنيات.",
+    "description": "نبات ثنائي الحول طويل، بوردية من أوراق ناعمة زغبية في عامه الأول وبرج من أجراس أنبوبية أرجوانية وردية منقطة في عامه الثاني."
    },
    "fr": {
     "commonName": "Digitale pourpre",
@@ -1494,12 +1494,12 @@
     "description": "वन का एक कंदीय पौधा जिसकी चौड़ी, चमकदार, दीर्घवृत्ताकार पत्तियाँ मसलने पर तेज़ लहसुन की गंध देती हैं और गोल छत्रक में तारे जैसे सफ़ेद फूल।"
    },
    "ar": {
-    "commonName": "Wild garlic",
-    "edible": "Leaves, flowers, and bulbs are edible with a mild garlic flavour; classic in pesto and soups. Beware of look-alikes like lily of the valley.",
-    "medicinal": "Traditionally taken for blood pressure and as a spring cleanse, much like cultivated garlic.",
-    "ecologicalRole": "Carpets ancient damp woodland in April and feeds early hoverflies; an indicator of old woodland.",
-    "culturalUses": "Bear garlic in German and Slavic traditions, said to be eaten by bears waking from hibernation.",
-    "description": "A woodland bulb with broad, glossy, elliptical leaves that smell strongly of garlic when crushed and starry white flowers in a rounded umbel."
+    "commonName": "الثوم البري",
+    "edible": "الأوراق والأزهار والأبصال صالحة للأكل بنكهة ثوم خفيفة؛ كلاسيكي في البيستو والحساء. احذر الأنواع المشابهة مثل زنبق الوادي.",
+    "medicinal": "يؤخذ تقليديًا لضغط الدم وكمنقٍّ ربيعي، مثل الثوم المزروع تمامًا.",
+    "ecologicalRole": "يفرش الغابات الرطبة القديمة في أبريل ويغذي الذباب الحوّام المبكر؛ ومؤشر على الغابات القديمة.",
+    "culturalUses": "ثوم الدب في التقاليد الألمانية والسلافية، إذ يُقال إن الدببة تأكله عند استيقاظها من السبات.",
+    "description": "بصلة غابات بأوراق عريضة لامعة إهليلجية تفوح منها رائحة الثوم القوية عند هرسها، وأزهار بيضاء نجمية في خيمة مستديرة."
    },
    "fr": {
     "commonName": "Ail des ours",
@@ -1571,12 +1571,12 @@
     "description": "एक वसंत कंदीय पौधा जिसकी पत्तियाँ पतली पट्टी जैसी और एक तरफ़ झुकी, सुगंधित बैंगनी-नीली घंटियों की लटकती लड़ियाँ जिनकी पंखुड़ियों के सिरे पीछे मुड़े और परागकोष मलाईदार होते हैं।"
    },
    "ar": {
-    "commonName": "Bluebell",
-    "edible": "Not edible. All parts contain toxic glycosides.",
+    "commonName": "الجرس الأزرق",
+    "edible": "غير صالحة للأكل. كل أجزائها تحتوي على غليكوسيدات سامة.",
     "medicinal": null,
-    "ecologicalRole": "About half the world's bluebells grow in Britain; carpets of them feed early bees and butterflies and indicate ancient woodland.",
-    "culturalUses": "Protected by law in the UK; the sticky sap once glued feathers to arrows and bound books.",
-    "description": "A spring bulb with narrow, strap-like leaves and one-sided, drooping spikes of fragrant violet-blue bells with curled-back petal tips and cream anthers."
+    "ecologicalRole": "نحو نصف أزهار الجرس الأزرق في العالم تنمو في بريطانيا؛ وبُسطها تغذي النحل والفراشات المبكرة وتدل على الغابات القديمة.",
+    "culturalUses": "محمي بالقانون في المملكة المتحدة؛ وكانت عصارته اللزجة تُلصق الريش بالسهام وتُجلّد الكتب.",
+    "description": "بصلة ربيعية بأوراق ضيقة شريطية وسنابل متدلية أحادية الجانب من أجراس عطرة زرقاء بنفسجية بأطراف بتلات ملتفة إلى الخلف ومآبر كريمية."
    },
    "fr": {
     "commonName": "Jacinthe des bois",
@@ -1649,12 +1649,12 @@
     "description": "एक छोटा ऑर्किड जिसकी धूसर-हरी पत्तियों का रोज़ेट और कुछ फूल जिनके बाह्यदल गुलाबी और मखमली भूरा होंठ भौंरे जैसे पैटर्न वाला होता है।"
    },
    "ar": {
-    "commonName": "Bee orchid",
+    "commonName": "سحلب النحلة",
     "edible": null,
     "medicinal": null,
-    "ecologicalRole": "The flower mimics a female bee to lure males, though in Britain it mostly self-pollinates; a specialist of chalk and disturbed lime-rich ground.",
-    "culturalUses": "A prized find for botanists and a symbol of wild grassland restoration.",
-    "description": "A small orchid with a rosette of grey-green leaves and a few flowers with pink sepals and a velvety brown lip patterned like a bumblebee."
+    "ecologicalRole": "تحاكي الزهرة أنثى النحل لاستدراج الذكور، وإن كانت في بريطانيا تلقّح نفسها غالبًا؛ متخصص في الأراضي الطباشيرية والأراضي المضطربة الغنية بالجير.",
+    "culturalUses": "اكتشاف ثمين لعلماء النبات ورمز لاستعادة المراعي البرية.",
+    "description": "سحلب صغير بوردية من أوراق خضراء رمادية وبضع أزهار بسبلات وردية وشفة بنية مخملية بنقوش تشبه النحلة الطنانة."
    },
    "fr": {
     "commonName": "Ophrys abeille",
@@ -1727,12 +1727,12 @@
     "description": "वन और घास-मैदान का एक ऑर्किड जिसकी चमकदार पत्तियों पर आमतौर पर बैंगनी धब्बे होते हैं और बैंगनी फूलों का घना दंड जिससे हल्की बिल्ली जैसी गंध आती है।"
    },
    "ar": {
-    "commonName": "Early purple orchid",
+    "commonName": "السحلب الأرجواني المبكر",
     "edible": null,
-    "medicinal": "Tubers were once made into salep, a thick drink sold before coffee arrived in Europe.",
-    "ecologicalRole": "One of the first orchids to flower, offering no nectar but deceiving newly emerged bumblebees.",
-    "culturalUses": "Shakespeare's 'long purples' in Hamlet; surrounded by love-potion folklore.",
-    "description": "A woodland and grassland orchid with glossy leaves usually blotched with purple and a dense spike of purple flowers that smell faintly of tomcat."
+    "medicinal": "كانت درناته تُصنع سحلبًا، وهو مشروب كثيف بيع قبل وصول القهوة إلى أوروبا.",
+    "ecologicalRole": "من أوائل السحلبيات إزهارًا، لا يقدم رحيقًا لكنه يخدع النحل الطنان الخارج حديثًا.",
+    "culturalUses": "«الأرجوانيات الطويلة» عند شكسبير في هاملت؛ ويحيط به فولكلور جرعات الحب.",
+    "description": "سحلب غابات ومراعٍ بأوراق لامعة عادة ما تكون مبقعة بالأرجواني وسنبلة كثيفة من أزهار أرجوانية تفوح منها رائحة خفيفة تشبه رائحة القط الذكر."
    },
    "fr": {
     "commonName": "Orchis mâle",
@@ -1803,12 +1803,12 @@
     "description": "एक ऑर्किड जिसकी पतली पत्तियों पर गहरे बैंगनी धब्बे और हल्के गुलाबी से बैंगनी फूलों का शंक्वाकार दंड, हर होंठ पर लूप और बिंदुओं के निशान और तीन खंडों में बँटा हुआ।"
    },
    "ar": {
-    "commonName": "Common spotted orchid",
+    "commonName": "السحلب المرقّط الشائع",
     "edible": null,
     "medicinal": null,
-    "ecologicalRole": "The most frequent British orchid, colonising verges and old meadows; visited by bees and day-flying moths.",
+    "ecologicalRole": "أكثر السحلبيات البريطانية شيوعًا، يستوطن جوانب الطرق والمروج القديمة؛ ويزوره النحل والعث النهاري.",
     "culturalUses": null,
-    "description": "An orchid with narrow leaves spotted with dark purple and a conical spike of pale pink to lilac flowers, each lip marked with loops and dots and divided into three lobes."
+    "description": "سحلب بأوراق ضيقة مرقطة بالأرجواني الداكن وسنبلة مخروطية من أزهار وردية باهتة إلى ليلكية، شفة كل منها موسومة بحلقات ونقاط ومقسمة إلى ثلاثة فصوص."
    },
    "fr": {
     "commonName": "Orchis de Fuchs",
@@ -1879,12 +1879,12 @@
     "description": "एक पतला वसंत कंदीय पौधा जिसकी पत्तियाँ घास जैसी और झुके हुए, लालटेन के आकार के फूल बैंगनी और सफ़ेद शतरंजी पैटर्न में, कभी-कभी शुद्ध सफ़ेद।"
    },
    "ar": {
-    "commonName": "Snake's head fritillary",
-    "edible": "Not edible. The bulbs and leaves are poisonous.",
+    "commonName": "زنبق رأس الأفعى",
+    "edible": "غير صالحة للأكل. الأبصال والأوراق سامة.",
     "medicinal": null,
-    "ecologicalRole": "A specialist of traditionally managed flood meadows, now rare; flowers are pollinated by early bumblebees.",
-    "culturalUses": "The county flower of Oxfordshire; famous displays draw visitors to Magdalen Meadow and Cricklade every April.",
-    "description": "A slender spring bulb with grassy leaves and nodding, lantern-shaped flowers chequered in purple and white, occasionally pure white."
+    "ecologicalRole": "متخصص في المروج الفيضية المُدارة تقليديًا، وقد بات نادرًا؛ يلقّح أزهاره النحل الطنان المبكر.",
+    "culturalUses": "زهرة مقاطعة أكسفوردشير؛ وتجذب مشاهده الشهيرة الزوار إلى مرج ماغدالين وكريكليد كل أبريل.",
+    "description": "بصلة ربيعية نحيلة بأوراق عشبية وأزهار متدلية على شكل فانوس مرقّعة كرقعة الشطرنج بالأرجواني والأبيض، وأحيانًا بيضاء نقية."
    },
    "fr": {
     "commonName": "Fritillaire pintade",
@@ -1959,12 +1959,12 @@
     "description": "एक छोटा बारहमासी पौधा जिसकी झुर्रीदार, जीभ जैसी पत्तियों का रोज़ेट और हल्के पीले, पाँच पंखुड़ियों वाले फूल जिनके बीच गहरा पीला केंद्र होता है, हर फूल अपने रोएँदार डंठल पर।"
    },
    "ar": {
-    "commonName": "Primrose",
-    "edible": "Flowers are edible and used to decorate cakes and salads; leaves can be cooked.",
-    "medicinal": "Root and flower were traditional remedies for coughs and headaches.",
-    "ecologicalRole": "Among the first flowers of the year, feeding early bees, bee-flies, and brimstone butterflies.",
-    "culturalUses": "Primrose Day on 19 April commemorates Disraeli; a beloved emblem of spring in poetry.",
-    "description": "A low perennial with a rosette of crinkled, tongue-shaped leaves and pale yellow, five-petalled flowers with a deeper yellow eye, each on its own hairy stalk."
+    "commonName": "زهرة الربيع",
+    "edible": "الأزهار صالحة للأكل وتُستخدم لتزيين الكعك والسلطات؛ ويمكن طهي الأوراق.",
+    "medicinal": "كان الجذر والزهرة علاجين تقليديين للسعال والصداع.",
+    "ecologicalRole": "من أوائل أزهار العام، تغذي النحل المبكر وذباب النحل وفراشات الكبريت.",
+    "culturalUses": "يوم زهرة الربيع في 19 أبريل يخلّد ذكرى دزرائيلي؛ ورمز محبوب للربيع في الشعر.",
+    "description": "نبات معمّر منخفض بوردية من أوراق مجعدة لسانية الشكل وأزهار صفراء باهتة خماسية البتلات بعين صفراء أغمق، كل منها على ساقها المشعرة."
    },
    "fr": {
     "commonName": "Primevère acaule",
@@ -2036,12 +2036,12 @@
     "description": "एक छोटा कंदीय पौधा जिसकी दो धूसर-हरी पट्टीदार पत्तियाँ और एक अकेला झुका हुआ सफ़ेद फूल जिसकी तीन बाहरी पंखुड़ियाँ और हरे निशान वाला भीतरी प्याला होता है।"
    },
    "ar": {
-    "commonName": "Snowdrop",
-    "edible": "Not edible. The bulbs are toxic and easily mistaken for onions.",
-    "medicinal": "The source of galantamine, a drug used for early Alzheimer's disease; never use the raw plant.",
-    "ecologicalRole": "Flowers in late winter when little else does, and opens on mild days to reward foraging bees.",
-    "culturalUses": "A symbol of hope and Candlemas; 'galanthophiles' collect hundreds of named varieties.",
-    "description": "A small bulb with two grey-green strap leaves and a single nodding white flower with three outer petals and a green-marked inner cup."
+    "commonName": "زهرة الثلج",
+    "edible": "غير صالحة للأكل. الأبصال سامة ويسهل الخلط بينها وبين البصل.",
+    "medicinal": "مصدر الغالانتامين (galantamine)، وهو دواء يُستخدم لمرض ألزهايمر المبكر؛ لا تستخدم النبتة الخام أبدًا.",
+    "ecologicalRole": "تزهر في أواخر الشتاء حين يندر غيرها، وتتفتح في الأيام المعتدلة لتكافئ النحل الباحث عن الغذاء.",
+    "culturalUses": "رمز للأمل وعيد الشموع؛ ويجمع «عشّاق زهرة الثلج» مئات الأصناف المسماة.",
+    "description": "بصلة صغيرة بورقتين شريطيتين خضراوين رماديتين وزهرة بيضاء واحدة متدلية بثلاث بتلات خارجية وكأس داخلي موسوم بالأخضر."
    },
    "fr": {
     "commonName": "Perce-neige",
@@ -2127,12 +2127,12 @@
     "description": "एक ज़ोरदार बारहमासी पौधा जिसके खोखले, लाल-चित्तीदार बाँस जैसे तने, चपटे आधार वाली ढाल-आकार पत्तियाँ, और गर्मी के अंत में मलाईदार फूलों के गुच्छे। जड़ के नन्हे टुकड़ों से भी दोबारा उग आता है।"
    },
    "ar": {
-    "commonName": "Japanese knotweed",
-    "edible": "Young spring shoots taste like sharp rhubarb and are cooked in Japan; harvesting it can spread fragments, so take care.",
-    "medicinal": "The root is used in traditional East Asian medicine and is a commercial source of resveratrol.",
-    "ecologicalRole": "Forms dense stands that shade out native plants along rivers and railways; its late flowers do feed bees.",
+    "commonName": "البطباط الياباني",
+    "edible": "براعم الربيع الفتية بطعم الراوند الحاد وتُطهى في اليابان؛ لكن قطفها قد ينشر شظاياه، فتوخَّ الحذر.",
+    "medicinal": "يُستخدم الجذر في طب شرق آسيا التقليدي وهو مصدر تجاري للريسفيراترول (resveratrol).",
+    "ecologicalRole": "يشكّل تجمعات كثيفة تحجب الضوء عن النباتات المحلية على ضفاف الأنهار وخطوط السكك الحديدية؛ لكن أزهاره المتأخرة تغذي النحل فعلًا.",
     "culturalUses": null,
-    "description": "A vigorous perennial with hollow, red-speckled bamboo-like stems, shield-shaped leaves with a flat base, and sprays of creamy flowers in late summer. Regrows from tiny root fragments."
+    "description": "نبات معمّر قوي بسيقان مجوفة تشبه الخيزران مرقطة بالأحمر، وأوراق درعية الشكل بقاعدة مسطحة، وعناقيد من أزهار كريمية في أواخر الصيف. ينمو مجددًا من أصغر شظايا الجذور."
    },
    "fr": {
     "commonName": "Renouée du Japon",
@@ -2213,12 +2213,12 @@
     "description": "एक ऊँचा, गूदेदार वार्षिक पौधा जिसके लालिमा लिए खोखले तने, चक्रों में भाले जैसी दाँतेदार पत्तियाँ, टोपीदार गुलाबी फूल, और बीज-फलियाँ जो छूते ही फट जाती हैं।"
    },
    "ar": {
-    "commonName": "Himalayan balsam",
-    "edible": "Seeds are edible and nutty; young leaves can be cooked. Picking seeds before they pop is one way to help control it.",
+    "commonName": "بلسمينة الهيمالايا",
+    "edible": "البذور صالحة للأكل وبطعم الجوز؛ ويمكن طهي الأوراق الفتية. وقطف البذور قبل انفجارها إحدى طرق المساعدة في مكافحتها.",
     "medicinal": null,
-    "ecologicalRole": "Outcompetes riverbank plants and leaves banks bare to erosion in winter; its nectar-rich flowers distract bees from native species.",
-    "culturalUses": "Introduced to Victorian gardens in 1839 and nicknamed 'policeman's helmet' for its flower shape.",
-    "description": "A tall, fleshy annual with reddish hollow stems, lance-shaped toothed leaves in whorls, hooded pink flowers, and seed pods that explode at a touch."
+    "ecologicalRole": "تتفوق على نباتات ضفاف الأنهار وتترك الضفاف عارية للتعرية في الشتاء؛ وتصرف أزهارها الغنية بالرحيق النحل عن الأنواع المحلية.",
+    "culturalUses": "أُدخلت إلى الحدائق الفيكتورية عام 1839 ولُقبت بـ«خوذة الشرطي» لشكل زهرتها.",
+    "description": "نبات حولي طويل لحمي بسيقان مجوفة محمرّة، وأوراق رمحية مسننة في حلقات، وأزهار وردية مقنّعة، وقرون بذور تنفجر عند لمسها."
    },
    "fr": {
     "commonName": "Balsamine de l'Himalaya",
@@ -2296,12 +2296,12 @@
     "description": "पाँच मीटर तक ऊँचा एक विशालकाय छत्रक पौधा जिसके बैंगनी-धब्बेदार, खुरदुरे तने, एक मीटर से भी चौड़ी गहरी कटी पत्तियाँ, और छतरी जैसे सफ़ेद फूल-शीर्ष। छूने के लिए ख़तरनाक पौधा।"
    },
    "ar": {
-    "commonName": "Giant hogweed",
-    "edible": "Not edible. Do not touch: the sap causes severe burns and blistering in sunlight.",
+    "commonName": "الهرقلية العملاقة",
+    "edible": "غير صالحة للأكل. لا تلمسها: تسبب عصارتها حروقًا شديدة وبثورًا عند التعرض لأشعة الشمس.",
     "medicinal": null,
-    "ecologicalRole": "Huge umbels feed insects, but colonies crowd out riverside plants and expose soil to erosion.",
+    "ecologicalRole": "خيماتها الضخمة تغذي الحشرات، لكن مستعمراتها تزاحم نباتات ضفاف الأنهار وتعرّض التربة للتعرية.",
     "culturalUses": null,
-    "description": "A colossal umbellifer up to five metres tall with purple-blotched, bristly stems, deeply cut leaves over a metre wide, and umbrella-like white flower heads. A dangerous plant to handle."
+    "description": "نبات خيمي هائل يصل ارتفاعه إلى خمسة أمتار بسيقان خشنة مبقعة بالأرجواني، وأوراق عميقة التقطيع يتجاوز عرضها المتر، ورؤوس زهرية بيضاء كالمظلات. نبات خطير عند التعامل معه."
    },
    "fr": {
     "commonName": "Berce du Caucase",
@@ -2380,12 +2380,12 @@
     "description": "एक बड़ी सदाबहार झाड़ी जिसकी चमड़े जैसी गहरी पत्तियाँ और वसंत के अंत में बैंगनी-गुलाबी कीप-आकार के फूलों के दिखावटी गुच्छे।"
    },
    "ar": {
-    "commonName": "Rhododendron",
-    "edible": "Not edible. Leaves and nectar contain grayanotoxins; honey from it can cause 'mad honey' poisoning.",
+    "commonName": "الرودودندرون",
+    "edible": "غير صالحة للأكل. تحتوي الأوراق والرحيق على غرايانوتوكسينات؛ وقد يسبب عسله تسمم «العسل المجنون».",
     "medicinal": null,
-    "ecologicalRole": "Dense evergreen thickets acidify soil and shade out woodland flora; it also hosts the plant disease Phytophthora ramorum.",
-    "culturalUses": "Planted on Victorian estates for game cover and spring colour before its invasive nature was understood.",
-    "description": "A large evergreen shrub with leathery dark leaves and showy trusses of purple-pink funnel-shaped flowers in late spring."
+    "ecologicalRole": "أدغاله الكثيفة دائمة الخضرة تحمّض التربة وتحجب الضوء عن نباتات الغابة؛ ويستضيف أيضًا مرض النبات Phytophthora ramorum.",
+    "culturalUses": "زُرع في العقارات الفيكتورية غطاءً لطرائد الصيد وألوانًا ربيعية قبل فهم طبيعته الغازية.",
+    "description": "شجيرة كبيرة دائمة الخضرة بأوراق داكنة جلدية وباقات مبهرة من أزهار قمعية أرجوانية وردية في أواخر الربيع."
    },
    "fr": {
     "commonName": "Rhododendron pontique",
@@ -2463,12 +2463,12 @@
     "description": "एक तेज़ी से बढ़ने वाली झाड़ी जिसकी शाखाएँ झुकी हुई, पत्तियाँ धूसर-हरी भाले जैसी, और गर्मियों में शहद की ख़ुशबू वाले बकाइनी से बैंगनी फूलों के लंबे शंकु।"
    },
    "ar": {
-    "commonName": "Butterfly bush",
+    "commonName": "شجيرة الفراشات",
     "edible": null,
     "medicinal": null,
-    "ecologicalRole": "Flowers attract clouds of butterflies and moths, but seedlings colonise railways, walls, and brownfield land and can dominate native scrub.",
-    "culturalUses": "A cottage-garden staple since its introduction from China in the 1890s.",
-    "description": "A fast-growing shrub with arching branches, grey-green lance-shaped leaves, and long, honey-scented cones of lilac to purple flowers in summer."
+    "ecologicalRole": "تجذب أزهارها أسرابًا من الفراشات والعث، لكن شتلاتها تستوطن خطوط السكك الحديدية والجدران والأراضي الصناعية المهجورة وقد تهيمن على الشجيرات المحلية.",
+    "culturalUses": "من أساسيات حدائق الأكواخ الريفية منذ إدخالها من الصين في تسعينيات القرن التاسع عشر.",
+    "description": "شجيرة سريعة النمو بأغصان مقوّسة وأوراق رمحية خضراء رمادية ومخاريط طويلة بعبير العسل من أزهار ليلكية إلى أرجوانية في الصيف."
    },
    "fr": {
     "commonName": "Arbre aux papillons",
@@ -2546,12 +2546,12 @@
     "description": "एक घनी सदाबहार झाड़ी जिसकी बड़ी, चमकदार, चमड़े जैसी पत्तियाँ, वसंत में छोटे सफ़ेद फूलों के सीधे दंड, और चेरी जैसे फल जो पककर काले हो जाते हैं।"
    },
    "ar": {
-    "commonName": "Cherry laurel",
-    "edible": "Not edible. Leaves and seeds release cyanide; crushed leaves smell of almonds for that reason.",
+    "commonName": "غار الكرز",
+    "edible": "غير صالحة للأكل. تطلق الأوراق والبذور السيانيد؛ ولهذا تفوح من الأوراق المهروسة رائحة اللوز.",
     "medicinal": null,
-    "ecologicalRole": "Escapes from hedges into woodland where its heavy shade suppresses ground flora and tree regeneration.",
-    "culturalUses": "A common privacy hedge; the leaves were once used in killing jars by butterfly collectors.",
-    "description": "A dense evergreen shrub with large, glossy, leathery leaves, upright spikes of small white flowers in spring, and cherry-like fruits that ripen black."
+    "ecologicalRole": "يهرب من الأسيجة إلى الغابات حيث يكبت ظله الكثيف نباتات الأرض وتجدد الأشجار.",
+    "culturalUses": "سياج خصوصية شائع؛ وكانت أوراقه تُستخدم قديمًا في جرار القتل لدى جامعي الفراشات.",
+    "description": "شجيرة كثيفة دائمة الخضرة بأوراق كبيرة لامعة جلدية، وسنابل منتصبة من أزهار بيضاء صغيرة في الربيع، وثمار تشبه الكرز تنضج سوداء."
    },
    "fr": {
     "commonName": "Laurier-cerise",
@@ -2629,12 +2629,12 @@
     "description": "आर्द्रभूमि का एक बारहमासी पौधा जिसके चौकोर तने, आमने-सामने भाले जैसी पत्तियाँ, और गर्मियों में छह पंखुड़ियों वाले मैजेंटा फूलों के ऊँचे घने दंड।"
    },
    "ar": {
-    "commonName": "Purple loosestrife",
+    "commonName": "الخثرية الأرجوانية",
     "edible": null,
-    "medicinal": "Traditionally used for diarrhoea and as a wound wash thanks to its tannins.",
-    "ecologicalRole": "A rich nectar plant of British wetlands, but a serious invader of North American marshes where it displaces native plants.",
+    "medicinal": "استُخدمت تقليديًا للإسهال وكغسول للجروح بفضل التانين فيها.",
+    "ecologicalRole": "نبات غني بالرحيق في الأراضي الرطبة البريطانية، لكنها غازية خطيرة في مستنقعات أمريكا الشمالية حيث تزيح النباتات المحلية.",
     "culturalUses": null,
-    "description": "A wetland perennial with square stems, opposite lance-shaped leaves, and tall dense spikes of magenta six-petalled flowers in summer."
+    "description": "نبات أراضٍ رطبة معمّر بسيقان مربعة، وأوراق رمحية متقابلة، وسنابل طويلة كثيفة من أزهار قرمزية سداسية البتلات في الصيف."
    },
    "fr": {
     "commonName": "Salicaire commune",
@@ -2711,12 +2711,12 @@
     "description": "एक द्विवर्षीय पौधा जिसकी गहरी कटावदार, गहरी हरी पत्तियों का रोज़ेट और एक मीटर तक ऊँचे तनों पर सुनहरे पीले डेज़ी जैसे फूलों के चपटे गुच्छे।"
    },
    "ar": {
-    "commonName": "Common ragwort",
-    "edible": "Not edible. Contains liver-damaging alkaloids; toxic to horses and cattle, especially when dried in hay.",
+    "commonName": "الشيخة اليعقوبية",
+    "edible": "غير صالحة للأكل. تحتوي على قلويدات تضر الكبد؛ وهي سامة للخيول والماشية، خاصة عند تجفيفها في التبن.",
     "medicinal": null,
-    "ecologicalRole": "Supports around 30 specialist insects, including the black-and-yellow cinnabar moth caterpillar, and is a rich nectar source.",
-    "culturalUses": "Nicknamed 'stinking Willie' in Scotland after the Duke of Cumberland; the subject of long-running weed control debates.",
-    "description": "A biennial with a rosette of deeply lobed, dark green leaves and flat clusters of golden yellow daisy-like flowers on stems up to a metre tall."
+    "ecologicalRole": "تدعم نحو 30 حشرة متخصصة، منها يرقة عثة الزنجفر السوداء والصفراء، وهي مصدر غني بالرحيق.",
+    "culturalUses": "لُقبت بـ«ويلي النتن» في اسكتلندا نسبة إلى دوق كمبرلاند؛ وهي موضوع نقاشات طويلة حول مكافحة الأعشاب الضارة.",
+    "description": "نبات ثنائي الحول بوردية من أوراق خضراء داكنة عميقة الفصوص وعناقيد مسطحة من أزهار صفراء ذهبية تشبه الأقحوان على سيقان يصل ارتفاعها إلى متر."
    },
    "fr": {
     "commonName": "Séneçon jacobée",
@@ -2791,12 +2791,12 @@
     "description": "एक ऊँचा बारहमासी पौधा जिसकी पतली, विलो जैसी पत्तियाँ तने पर सर्पिल में ऊपर चढ़ती हैं और गुलाबी चार-पंखुड़ी फूलों की लंबी मीनारें, जिनके बाद रोएँदार बीज आते हैं।"
    },
    "ar": {
-    "commonName": "Rosebay willowherb",
-    "edible": "Young shoots can be cooked like asparagus; fermented leaves make the Russian tea 'Ivan chai'.",
-    "medicinal": "Leaf tea was a folk remedy for digestive and prostate complaints.",
-    "ecologicalRole": "A pioneer of burnt and cleared ground, hence 'fireweed'; flowers feed bees and the leaves host the elephant hawk-moth.",
-    "culturalUses": "Nicknamed 'bombweed' after it covered London's bomb sites in the 1940s.",
-    "description": "A tall perennial with narrow, willow-like leaves spiralling up the stem and long spires of rose-pink four-petalled flowers followed by fluffy seeds."
+    "commonName": "حشيشة النار",
+    "edible": "يمكن طهي البراعم الفتية كالهليون؛ وتصنع الأوراق المخمّرة الشاي الروسي «إيفان تشاي».",
+    "medicinal": "كان شاي الأوراق علاجًا شعبيًا لمشاكل الهضم والبروستاتا.",
+    "ecologicalRole": "رائدة الأراضي المحروقة والمُزالة، ومن هنا جاء اسمها «حشيشة النار»؛ تغذي أزهارها النحل وتستضيف أوراقها عثة صقر الفيل.",
+    "culturalUses": "لُقبت بـ«عشبة القنابل» بعد أن غطت مواقع القصف في لندن في أربعينيات القرن العشرين.",
+    "description": "نبات معمّر طويل بأوراق ضيقة تشبه أوراق الصفصاف تلتف صعودًا على الساق وأبراج طويلة من أزهار وردية رباعية البتلات تعقبها بذور زغبية."
    },
    "fr": {
     "commonName": "Épilobe en épi",
@@ -2869,12 +2869,12 @@
     "description": "एक मज़बूत, खुरदुरा बारहमासी पौधा जिसकी बड़ी, खुरदुरी, भाले जैसी पत्तियाँ तने के साथ नीचे तक चलती हैं और बैंगनी, गुलाबी या मलाईदार घंटी-फूलों के मुड़े हुए गुच्छे।"
    },
    "ar": {
-    "commonName": "Comfrey",
-    "edible": "Not for eating. Contains pyrrolizidine alkaloids that damage the liver.",
-    "medicinal": "Known as knitbone: leaf poultices are used externally for sprains and bruises, never internally.",
-    "ecologicalRole": "Deep-rooted and rich in nutrients; flowers are worked by bumblebees, some of which bite holes to rob the nectar.",
-    "culturalUses": "Gardeners steep leaves for a potent liquid fertiliser.",
-    "description": "A robust, bristly perennial with large, rough, lance-shaped leaves running down the stem and curled clusters of purple, pink, or cream bell flowers."
+    "commonName": "السنفيتون الطبي",
+    "edible": "لا تؤكل. تحتوي على قلويدات البيروليزيدين التي تضر الكبد.",
+    "medicinal": "يُعرف بـ«جابر العظام»: تُستخدم كمادات أوراقه خارجيًا للالتواءات والكدمات، ولا تُستخدم داخليًا أبدًا.",
+    "ecologicalRole": "عميق الجذور وغني بالمغذيات؛ ويعمل النحل الطنان على أزهاره، وبعضه يثقب فيها ثقوبًا لسرقة الرحيق.",
+    "culturalUses": "ينقع البستانيون أوراقه لصنع سماد سائل قوي.",
+    "description": "نبات معمّر قوي خشن بأوراق كبيرة خشنة رمحية تمتد نزولًا على الساق وعناقيد ملتفة من أزهار جرسية أرجوانية أو وردية أو كريمية."
    },
    "fr": {
     "commonName": "Consoude officinale",
@@ -2951,12 +2951,12 @@
     "description": "नम चरागाह का एक ऊँचा बारहमासी पौधा जिसकी पिच्छाकार पत्तियाँ नीचे से सफ़ेद होती हैं और मलाईदार सफ़ेद फूलों के घने झागदार गुच्छे जिनसे बादाम और शहद की गंध आती है।"
    },
    "ar": {
-    "commonName": "Meadowsweet",
-    "edible": "Sweet-scented flowers flavour cordials, mead, and desserts.",
-    "medicinal": "Contains salicylates and was the plant from which aspirin was named; a traditional remedy for fever, pain, and heartburn.",
-    "ecologicalRole": "A wetland and ditch plant whose frothy flowers attract hoverflies and beetles.",
-    "culturalUses": "A sacred herb of the Druids and a medieval strewing herb for floors.",
-    "description": "A tall damp-meadow perennial with pinnate leaves, white underneath, and dense frothy clusters of creamy white flowers that smell of almonds and honey."
+    "commonName": "ملكة المروج",
+    "edible": "تنكّه أزهارها العطرة الحلوة الشراب وشراب العسل المخمّر والحلويات.",
+    "medicinal": "تحتوي على الساليسيلات وهي النبتة التي سُمي الأسبرين باسمها؛ علاج تقليدي للحمى والألم وحرقة المعدة.",
+    "ecologicalRole": "نبات أراضٍ رطبة وخنادق تجذب أزهاره الرغوية الذباب الحوّام والخنافس.",
+    "culturalUses": "عشبة مقدسة عند الدرويد وعشبة تُفرش على الأرضيات في العصور الوسطى.",
+    "description": "نبات مروج رطبة معمّر طويل بأوراق ريشية بيضاء من الأسفل وعناقيد كثيفة رغوية من أزهار بيضاء كريمية تفوح منها رائحة اللوز والعسل."
    },
    "fr": {
     "commonName": "Reine-des-prés",
@@ -3030,12 +3030,12 @@
     "description": "गीली ज़मीन का एक सुगंधित बारहमासी पौधा जिसकी रोएँदार, दाँतेदार अंडाकार पत्तियाँ अक्सर बैंगनी रंगत लिए होती हैं और तने के सिरों पर बकाइनी-गुलाबी फूलों के गोल शीर्ष।"
    },
    "ar": {
-    "commonName": "Water mint",
-    "edible": "Leaves are used like garden mint for teas, sauces, and drinks.",
-    "medicinal": "A traditional digestive and remedy for headaches, like other mints.",
-    "ecologicalRole": "A pondside plant whose flowers attract bees, hoverflies, and butterflies in late summer.",
+    "commonName": "النعناع المائي",
+    "edible": "تُستخدم الأوراق كنعناع الحديقة للشاي والصلصات والمشروبات.",
+    "medicinal": "هاضم تقليدي وعلاج للصداع، مثل أنواع النعناع الأخرى.",
+    "ecologicalRole": "نبات ضفاف البرك تجذب أزهاره النحل والذباب الحوّام والفراشات في أواخر الصيف.",
     "culturalUses": null,
-    "description": "An aromatic perennial of wet ground with hairy, toothed oval leaves, often purple-tinged, and rounded heads of lilac-pink flowers at the stem tips."
+    "description": "نبات معمّر عطري في الأراضي الرطبة بأوراق بيضوية مشعرة مسننة، غالبًا بمسحة أرجوانية، ورؤوس مستديرة من أزهار ليلكية وردية عند أطراف السيقان."
    },
    "fr": {
     "commonName": "Menthe aquatique",
@@ -3114,12 +3114,12 @@
     "description": "एक झुकी हुई, काँटेदार झाड़ी जिसकी पिच्छाकार पत्तियों में पाँच से सात पत्रक, जून में हल्के गुलाबी पाँच-पंखुड़ी फूल, और पतझड़ में चमकदार लाल अंडाकार फल।"
    },
    "ar": {
-    "commonName": "Dog rose",
-    "edible": "Rose hips are rich in vitamin C and are made into syrup, jelly, and tea; remove the irritant seed hairs first.",
-    "medicinal": "Rosehip syrup was given to children in wartime Britain against scurvy and is still used for joint health.",
-    "ecologicalRole": "Flowers feed bees and hoverflies; hips feed birds and small mammals through winter; thorny stems shelter nests.",
-    "culturalUses": "The wild rose of English heraldry and folklore.",
-    "description": "An arching, thorny shrub with pinnate leaves of five to seven leaflets, pale pink five-petalled flowers in June, and glossy red oval hips in autumn."
+    "commonName": "الورد البري",
+    "edible": "ثمار الورد غنية بفيتامين C وتُصنع شرابًا ومربى هلاميًا وشايًا؛ أزل شعيرات البذور المهيّجة أولًا.",
+    "medicinal": "كان شراب ثمار الورد يُعطى للأطفال في بريطانيا زمن الحرب ضد الإسقربوط، ولا يزال يُستخدم لصحة المفاصل.",
+    "ecologicalRole": "تغذي أزهاره النحل والذباب الحوّام؛ وتغذي ثماره الطيور والثدييات الصغيرة طوال الشتاء؛ وتؤوي سيقانه الشائكة الأعشاش.",
+    "culturalUses": "الوردة البرية في شعارات النبالة والفولكلور الإنجليزي.",
+    "description": "شجيرة مقوّسة شائكة بأوراق ريشية من خمس إلى سبع وريقات، وأزهار وردية باهتة خماسية البتلات في يونيو، وثمار حمراء لامعة بيضوية في الخريف."
    },
    "fr": {
     "commonName": "Églantier",
@@ -3192,12 +3192,12 @@
     "description": "कई तनों वाली एक झाड़ी जिसकी पत्तियाँ गोल, मुलायम, दोहरे दाँतेदार, फ़रवरी में पीले लटकन-फूल (कैटकिन), और पत्तीदार छिलकों में फल।"
    },
    "ar": {
-    "commonName": "Hazel",
-    "edible": "Hazelnuts are edible raw or roasted and ripen in September, if squirrels leave any.",
+    "commonName": "البندق الشائع",
+    "edible": "البندق صالح للأكل نيئًا أو محمصًا وينضج في سبتمبر، إن تركت السناجب شيئًا منه.",
     "medicinal": null,
-    "ecologicalRole": "Coppiced hazel creates the dappled woodland that dormice, fritillary butterflies, and spring flowers depend on.",
-    "culturalUses": "Rods for hurdles, thatching spars, and walking sticks; forked twigs for water divining.",
-    "description": "A multi-stemmed shrub with rounded, soft, double-toothed leaves, yellow catkins in February, and nuts in leafy husks."
+    "ecologicalRole": "البندق المقلَّم بانتظام يخلق الغابة المرقطة الضوء التي تعتمد عليها الزغبات وفراشات الفريتيلاري وأزهار الربيع.",
+    "culturalUses": "قضبان لصنع الحواجز المضفورة وأوتاد تثبيت القش وعصي المشي؛ وأغصان متشعبة للكشف عن الماء.",
+    "description": "شجيرة متعددة السيقان بأوراق مستديرة ناعمة مزدوجة التسنين، ونورات هُريرية صفراء متدلية في فبراير، وجوزات في أغلفة ورقية."
    },
    "fr": {
     "commonName": "Noisetier commun",
