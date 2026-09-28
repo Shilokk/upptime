@@ -193,7 +193,9 @@
     "qualityStored": "Qualidade {{score}}/100",
     "candidateAria": "Escolher {{name}}, {{score}} por cento de confiança",
     "readMore": "Ler mais",
-    "readLess": "Ler menos"
+    "readLess": "Ler menos",
+    "savedToast": "Salvo na pesquisa",
+    "shutter": "Tirar foto"
   },
   "uses": {
     "title": "O que esta planta faz",

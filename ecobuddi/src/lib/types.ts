@@ -86,7 +86,6 @@ export interface Settings {
   language: Lang
   onboarded: boolean
   verifiedBuyer: boolean
-  theme: 'system' | 'light' | 'dark'
   points: number
   observerName: string
 }

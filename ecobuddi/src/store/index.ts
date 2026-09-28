@@ -16,6 +16,7 @@ interface AppState {
   deleteObservation: (id: string) => void
   setLanguage: (lang: Lang) => void
   setSettings: (patch: Partial<Settings>) => void
+  addPoints: (n: number) => void
   resetDemo: () => void
   setHydrated: () => void
 }
@@ -26,7 +27,7 @@ const idbStorage = createJSONStorage(() => ({
   removeItem: (k: string) => idbDel(k),
 }))
 
-const defaultSettings: Settings = { language: 'en', onboarded: false, verifiedBuyer: false, theme: 'system', points: 0, observerName: 'You' }
+const defaultSettings: Settings = { language: 'en', onboarded: false, verifiedBuyer: false, points: 0, observerName: 'You' }
 
 export const useAppStore = create<AppState>()(
   persist(
@@ -41,6 +42,7 @@ export const useAppStore = create<AppState>()(
       deleteObservation: (id) => set((s) => ({ observations: s.observations.filter((o) => o.id !== id) })),
       setLanguage: (language) => set((s) => ({ settings: { ...s.settings, language, onboarded: true } })),
       setSettings: (patch) => set((s) => ({ settings: { ...s.settings, ...patch } })),
+      addPoints: (n) => set((s) => ({ settings: { ...s.settings, points: s.settings.points + n } })),
       resetDemo: () => {
         const seed = generateSeed()
         set({ observations: seed.observations, campaigns: seed.campaigns, seedVersion: SEED_VERSION })

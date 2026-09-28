@@ -193,7 +193,9 @@
     "qualityStored": "गुणवत्ता {{score}}/100",
     "candidateAria": "{{name}} चुनें, {{score}} प्रतिशत विश्वास",
     "readMore": "और पढ़ें",
-    "readLess": "कम पढ़ें"
+    "readLess": "कम पढ़ें",
+    "savedToast": "सर्वे में सहेजा गया",
+    "shutter": "फ़ोटो लें"
   },
   "uses": {
     "title": "यह पौधा क्या करता है",

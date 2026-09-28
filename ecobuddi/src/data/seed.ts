@@ -1,5 +1,6 @@
 import { DEMO_LOCATION, OBSERVATION_COUNT } from '@/config'
 import { jitter, regionCodeForCoords } from '@/lib/geo'
+import { matchCampaign } from '@/lib/campaigns'
 import { mulberry32, speciesIllustration } from '@/lib/illustration'
 import { SPECIES, speciesText, usesFromSpecies, isInvasiveIn } from '@/lib/species'
 import { timeBandFor } from '@/lib/time'
@@ -21,11 +22,63 @@ const SPOTS = [
 const LANGS: Lang[] = ['en', 'en', 'en', 'es', 'es', 'pt', 'pt', 'th', 'yo', 'ml', 'fr', 'hi', 'ar']
 const NAMES = ['Amara', 'Tomás', 'Priya', 'Léa', 'Youssef', 'Beatriz', 'Oscar', 'Mei', 'Zainab', 'Felix']
 
+function seedCampaigns(offsetLat: number, offsetLng: number, now: number): Campaign[] {
+  const day = 86_400_000
+  const iso = (d: number) => new Date(d).toISOString().slice(0, 10)
+  return [
+    {
+      id: 'camp_balsam',
+      title: 'Balsam watch: Thames corridor',
+      description: 'Environment Agency survey of Himalayan balsam and Japanese knotweed along the river before the autumn clearance.',
+      targetSpecies: ['Impatiens glandulifera', 'Reynoutria japonica'],
+      region: { type: 'radius', center: { lat: DEMO_LOCATION.lat, lng: DEMO_LOCATION.lng }, radiusM: 6500 },
+      startDate: iso(now - 20 * day),
+      endDate: iso(now + 40 * day),
+      bountyPoints: 25,
+      createdBy: 'Environment Agency',
+      color: '#f2a33a',
+    },
+    {
+      id: 'camp_pollinators',
+      title: "Pollinator plants of Regent's Park",
+      description: 'Royal Parks mapping of nectar sources for the London pollinator strategy.',
+      targetSpecies: ['Trifolium pratense', 'Taraxacum officinale', 'Buddleja davidii', 'Tilia × europaea', 'Chamaenerion angustifolium'],
+      region: { type: 'radius', center: { lat: 51.5313 + offsetLat, lng: -0.157 + offsetLng }, radiusM: 1600 },
+      startDate: iso(now - 25 * day),
+      endDate: iso(now + 30 * day),
+      bountyPoints: 15,
+      createdBy: 'The Royal Parks',
+      color: '#33d24a',
+    },
+    {
+      id: 'camp_oaks',
+      title: 'Veteran oaks of Hyde Park',
+      description: 'Ancient Tree Inventory: photograph mature oaks and beeches with a bark shot where possible.',
+      targetSpecies: ['Quercus robur', 'Fagus sylvatica'],
+      region: {
+        type: 'polygon',
+        coords: [
+          [51.5137 + offsetLat, -0.1926 + offsetLng],
+          [51.5125 + offsetLat, -0.1519 + offsetLng],
+          [51.5023 + offsetLat, -0.1530 + offsetLng],
+          [51.5030 + offsetLat, -0.1900 + offsetLng],
+        ],
+      },
+      startDate: iso(now - 30 * day),
+      endDate: iso(now + 60 * day),
+      bountyPoints: 20,
+      createdBy: 'Woodland Trust',
+      color: '#0a5c2b',
+    },
+  ]
+}
+
 export function generateSeed(): { observations: Observation[]; campaigns: Campaign[] } {
   const rnd = mulberry32(20260928)
   const offsetLat = DEMO_LOCATION.lat - 51.5074
   const offsetLng = DEMO_LOCATION.lng + 0.1278
   const now = Date.now()
+  const campaigns = seedCampaigns(offsetLat, offsetLng, now)
   const observations: Observation[] = []
   for (let i = 0; i < OBSERVATION_COUNT; i++) {
     const sp = SPECIES[Math.floor(rnd() * SPECIES.length)]
@@ -80,6 +133,13 @@ export function generateSeed(): { observations: Observation[]; campaigns: Campai
       source: 'mock',
     })
   }
+  for (const o of observations) {
+    const c = matchCampaign(campaigns, { scientificName: o.candidates[0].scientificName, lat: o.lat, lng: o.lng, timestamp: o.timestamp })
+    if (c) {
+      o.campaignId = c.id
+      o.pointsAwarded = c.bountyPoints
+    }
+  }
   observations.sort((a, b) => b.timestamp.localeCompare(a.timestamp))
-  return { observations, campaigns: [] }
+  return { observations, campaigns }
 }

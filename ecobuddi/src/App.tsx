@@ -20,6 +20,7 @@ export default function App() {
     i18n.changeLanguage(language)
     document.documentElement.lang = language
     document.documentElement.dir = language === 'ar' ? 'rtl' : 'ltr'
+    document.documentElement.removeAttribute('data-theme')
   }, [language, i18n])
   return (
     <Routes>

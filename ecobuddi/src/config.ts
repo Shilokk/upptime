@@ -9,7 +9,7 @@ export const DEMO_LOCATION = {
   lng: -0.1278,
 }
 
-export const SEED_VERSION = 3
+export const SEED_VERSION = 4
 export const OBSERVATION_COUNT = 60
 export const PHOTO_MAX_PX = 800
 export const GPS_ACCURACY_WARN_M = 50

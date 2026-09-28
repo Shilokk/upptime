@@ -193,7 +193,9 @@
     "qualityStored": "Qualité {{score}}/100",
     "candidateAria": "Choisir {{name}}, {{score}} pour cent de confiance",
     "readMore": "Lire la suite",
-    "readLess": "Réduire"
+    "readLess": "Réduire",
+    "savedToast": "Enregistré dans le relevé",
+    "shutter": "Prendre la photo"
   },
   "uses": {
     "title": "Usages et rôle de cette plante",

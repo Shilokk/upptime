@@ -193,7 +193,9 @@
     "qualityStored": "الجودة {{score}}/100",
     "candidateAria": "اختر {{name}}، ثقة {{score}} بالمئة",
     "readMore": "اقرأ المزيد",
-    "readLess": "اقرأ أقل"
+    "readLess": "اقرأ أقل",
+    "savedToast": "تم الحفظ في المسح",
+    "shutter": "التقاط الصورة"
   },
   "uses": {
     "title": "ما تقدّمه هذه النبتة",

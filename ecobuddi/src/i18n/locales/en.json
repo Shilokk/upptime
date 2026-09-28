@@ -193,7 +193,9 @@
     "qualityStored": "Quality {{score}}/100",
     "candidateAria": "Choose {{name}}, {{score}} percent confidence",
     "readMore": "Read more",
-    "readLess": "Read less"
+    "readLess": "Read less",
+    "savedToast": "Saved to survey",
+    "shutter": "Take photo"
   },
   "uses": {
     "title": "What this plant does",
