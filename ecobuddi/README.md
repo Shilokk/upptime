@@ -21,20 +21,23 @@ Other scripts: `npm run build` (typecheck + production bundle), `npm start` (ser
 
 The phone only needs a URL; the API key stays on the laptop. Three ways, most reliable first.
 
-**1. Public tunnel (works on venue Wi-Fi or mobile data).** On the laptop:
+**1. Public tunnel (works on venue Wi-Fi or mobile data).** Put `ANTHROPIC_API_KEY=sk-ant-...` in `ecobuddi/.env` (copy `.env.example`), then run one command on the laptop:
 
 ```bash
-cd ecobuddi
-cp .env.example .env         # put ANTHROPIC_API_KEY=sk-ant-... in it for live Claude
-npm run phone                # builds the app and serves it with the API on http://localhost:8787
+npm run share
 ```
 
-Then in a second terminal, one of:
+It builds the app, starts the server, opens an HTTPS tunnel, checks that the tunnel reaches the app, and prints the address to open on the phone in a box. Leave that terminal open; Ctrl+C stops everything. If the tunnel drops, it reopens it and prints the address again.
+
+It uses cloudflared when it is installed and localtunnel otherwise. Cloudflared is steadier. Install it once with this command on its own line:
 
 ```bash
-cloudflared tunnel --url http://localhost:8787   # brew install cloudflared; prints an https://....trycloudflare.com URL
-npm run tunnel                                   # or localtunnel: prints an https://....loca.lt URL (first visit asks for the laptop's public IP as a password; get it from https://loca.lt/mytunnelpassword)
+brew install cloudflared
 ```
+
+With localtunnel, the phone shows a reminder page on its first visit and asks for a tunnel password. The box prints that password.
+
+"Bad Gateway" on the phone means the tunnel is up but nothing is answering behind it. The usual cause is stopping the server, for example pressing Ctrl+C on `npm run phone` before starting a tunnel. `npm run share` runs both in one terminal to avoid that. If `npm run dev` is running, stop it first, because it holds the same port without serving the app.
 
 Open the printed https URL on the phone. HTTPS is what lets the phone give the app its GPS position; the camera works either way.
 
@@ -67,7 +70,7 @@ Every external call has a fallback so the demo never dies on stage:
 
 `http://localhost:5173/demo` renders the real user app inside a phone frame and plays a looping, scripted walkthrough: home, camera and shutter, skeleton, the 92% result, switching to Español, Read aloud and the safety banner, Save with the toast, the campaign card with +25 points, then My Records. A finger indicator moves between tap targets and fires the same handlers a user would. No network calls: the viewfinder photo, the identification, and the campaigns all come from bundled data, and anything it saves is removed at the end of each loop.
 
-Keys: Space pauses, R restarts, F goes full screen with the phone scaled to the viewport. The hint hides after 3 s. `http://localhost:5173/demo?clean=1` hides the hint entirely and scales the phone to the viewport height for screen recording. Add `&nolang=1` to keep the whole walkthrough in one language and skip the Español step. Add `&nolang=1` to keep the whole walkthrough in one language and skip the Español step. A pre-rendered `demo/ecobuddi-demo.mp4` (1080x1920, English, recorded from `/demo?clean=1&nolang=1`) is in the repo.
+Keys: Space pauses, R restarts, F goes full screen with the phone scaled to the viewport. The hint hides after 3 s. `http://localhost:5173/demo?clean=1` hides the hint entirely and scales the phone to the viewport height for screen recording. Add `&nolang=1` to keep the whole walkthrough in one language and skip the Español step. A pre-rendered `demo/ecobuddi-demo.mp4` (1080x1920, English, recorded from `/demo?clean=1&nolang=1`) is in the repo.
 
 ## What is in, what was cut for the 12-minute build
 

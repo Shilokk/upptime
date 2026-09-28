@@ -14,7 +14,7 @@ export default function SettingsPage() {
   const count = useAppStore((s) => s.observations.length)
   const live = useServerStatus((s) => s.live)
   return (
-    <div className="grid gap-4">
+    <div className="grid grid-cols-1 gap-4">
       <h2 className="text-2xl">{t('settings.title')}</h2>
       <section className="card card-hairline p-5">
         <h3 className="text-lg">{t('settings.language')}</h3>

@@ -7,7 +7,7 @@ import LeaderboardPage from './LeaderboardPage'
 export default function ExplorePage() {
   const { t } = useTranslation()
   return (
-    <div className="grid gap-4">
+    <div className="grid grid-cols-1 gap-4">
       <h2 className="text-2xl">{t('tabs.explore')}</h2>
       <GlobeExplorer />
       <StewardsMap />

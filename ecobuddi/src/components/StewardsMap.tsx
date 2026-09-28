@@ -43,7 +43,7 @@ export default function StewardsMap() {
   const since = mine.length ? mine[mine.length - 1].timestamp : new Date().toISOString()
 
   return (
-    <div className="grid gap-3">
+    <div className="grid grid-cols-1 gap-3">
       <section className="card card-hairline overflow-hidden">
         <div className="p-4 pb-2">
           <h3 className="text-xl">{t('world.title')}</h3>

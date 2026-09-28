@@ -54,12 +54,10 @@ export default function CommunityNotes({ scientificName, commonName, variant = '
 
   return (
     <section className={variant === 'card' ? 'card p-5' : ''} data-demo="community">
-      <div className="flex items-start justify-between gap-3">
-        <div>
-          <h3 className="text-xl">{t('community.forSpecies', { name: commonName })}</h3>
-          <p className="mt-1 text-sm text-muted">{t('community.notInAi')}</p>
-        </div>
-        <button type="button" className="btn btn-secondary h-10 min-h-10 px-4 text-sm" aria-expanded={open} onClick={() => setOpen((v) => !v)}>
+      <div>
+        <h3 className="text-xl">{t('community.forSpecies', { name: commonName })}</h3>
+        <p className="mt-1 text-sm text-muted">{t('community.notInAi')}</p>
+        <button type="button" className="btn btn-secondary mt-3 h-10 min-h-10 px-4 text-sm" aria-expanded={open} onClick={() => setOpen((v) => !v)}>
           {t('community.share')}
         </button>
       </div>
@@ -86,11 +84,11 @@ export default function CommunityNotes({ scientificName, commonName, variant = '
                 ))}
               </div>
             </div>
-            <label className="grid gap-1 text-sm font-semibold">
+            <label className="grid grid-cols-1 gap-1 text-sm font-semibold">
               {t('community.yourName')}
               <input value={author} onChange={(e) => setAuthor(e.target.value)} maxLength={40} className="rounded-2xl border-2 border-line bg-cream px-3 py-2 font-normal" />
             </label>
-            <label className="grid gap-1 text-sm font-semibold">
+            <label className="grid grid-cols-1 gap-1 text-sm font-semibold">
               {t('community.share')}
               <textarea value={body} onChange={(e) => setBody(e.target.value)} rows={3} maxLength={600} placeholder={t('community.placeholder')} className="rounded-2xl border-2 border-line bg-cream px-3 py-2 font-normal placeholder:text-muted" />
             </label>

@@ -31,7 +31,7 @@ export default function LeaderboardPage() {
   const medal = ['bg-lime', 'bg-sage', 'bg-orange']
 
   return (
-    <div className="grid gap-3">
+    <div className="grid grid-cols-1 gap-3">
       <h3 className="text-xl">{t('leaderboard.title')}</h3>
       <p className="text-muted">{t('leaderboard.subtitle')}</p>
       {myRank > 0 && (

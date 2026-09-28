@@ -53,6 +53,12 @@ export function commonName(sp: Species, lang: Lang): string {
   return speciesText(sp, lang).commonName
 }
 
+/** Common name in the reader's language when the species is in the library, otherwise the name as it was saved. */
+export function displayName(scientificName: string | null | undefined, savedName: string | null | undefined, lang: Lang): string {
+  const sp = findSpeciesByName(scientificName)
+  return sp ? commonName(sp, lang) : (savedName ?? '')
+}
+
 export function usesFromSpecies(sp: Species, lang: Lang): PlantUses {
   const t = speciesText(sp, lang)
   return {

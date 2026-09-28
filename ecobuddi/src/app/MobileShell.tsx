@@ -1,5 +1,5 @@
-import { useState } from 'react'
-import { NavLink, Outlet } from 'react-router-dom'
+import { useRef, useState } from 'react'
+import { NavLink, useLocation, useOutlet } from 'react-router-dom'
 import { AnimatePresence, motion, useReducedMotion } from 'framer-motion'
 import { useTranslation } from 'react-i18next'
 import { useServerStatus } from '@/lib/identify'
@@ -7,6 +7,7 @@ import Wordmark from '@/components/Wordmark'
 import LanguageRow from '@/components/LanguageRow'
 import { useDemo } from '@/demo/DemoContext'
 import { useAppStore } from '@/store'
+import { pageVariants, scrollContainerToTop } from '@/lib/motion'
 
 const TABS = [
   { key: 'identify', to: '/', icon: 'M4 7h3l2-3h6l2 3h3v12H4z M12 17a4 4 0 100-8 4 4 0 000 8z' },
@@ -23,6 +24,9 @@ export default function MobileShell() {
   const language = useAppStore((s) => s.settings.language)
   const demo = useDemo()
   const [langOpen, setLangOpen] = useState(false)
+  const location = useLocation()
+  const outlet = useOutlet()
+  const mainRef = useRef<HTMLElement>(null)
   return (
     <div className="relative mx-auto flex min-h-full max-w-lg flex-col bg-cream">
       <header className="safe-top px-4 pb-2 pt-4">
@@ -53,8 +57,12 @@ export default function MobileShell() {
           )}
         </AnimatePresence>
       </header>
-      <main className="flex-1 px-4 pb-28 pt-1">
-        <Outlet />
+      <main ref={mainRef} className="flex-1 px-4 pb-28 pt-1">
+        <AnimatePresence mode="wait" initial={false} onExitComplete={() => scrollContainerToTop(mainRef.current)}>
+          <motion.div key={location.pathname} variants={pageVariants(!!reduce)} initial="initial" animate="enter" exit="exit">
+            {outlet}
+          </motion.div>
+        </AnimatePresence>
       </main>
       <nav className="safe-bottom fixed inset-x-0 bottom-0 z-20 bg-sage" aria-label="Primary">
         <div className="mx-auto flex max-w-lg">

@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useAppStore } from '@/store'
-import { SPECIES, commonName, normalizeName } from '@/lib/species'
+import { SPECIES, commonName, displayName, normalizeName } from '@/lib/species'
 import { formatDate } from '@/lib/time'
 import CommunityNotes from '@/components/CommunityNotes'
 
@@ -25,11 +25,11 @@ export default function CommunityPage() {
   }, [posts])
 
   return (
-    <div className="grid gap-3">
+    <div className="grid grid-cols-1 gap-3">
       <h2 className="text-2xl">{t('community.title')}</h2>
       <p className="text-muted">{t('community.subtitle')}</p>
       <section className="card card-hairline p-4">
-        <label className="grid gap-1 text-sm font-semibold">
+        <label className="grid grid-cols-1 gap-1 text-sm font-semibold">
           {t('community.pickSpecies')}
           <input value={query} onChange={(e) => { setQuery(e.target.value); setSelected(null) }} placeholder={t('common.search')} className="rounded-2xl border-2 border-line bg-cream px-3 py-2 font-normal placeholder:text-muted" />
         </label>
@@ -52,7 +52,7 @@ export default function CommunityPage() {
         </div>
       )}
       {!species && (
-        <ul className="grid gap-3">
+        <ul className="grid grid-cols-1 gap-3">
           {posts.map((p) => (
             <li key={p.id} className="card card-hairline p-4">
               <div className="flex flex-wrap items-center gap-2 text-sm">
@@ -60,8 +60,8 @@ export default function CommunityPage() {
                 <span className="text-muted">{formatDate(p.createdAt, language)}</span>
                 <span className="pill pill-uncertain ms-auto uppercase">{p.language}</span>
               </div>
-              <button type="button" onClick={() => { setSelected(SPECIES.find((s) => normalizeName(s.scientificName) === p.speciesKey)?.id ?? null); setQuery(p.commonName) }} className="mt-2 block text-start">
-                <span className="block font-bold">{p.commonName}</span>
+              <button type="button" onClick={() => { setSelected(SPECIES.find((s) => normalizeName(s.scientificName) === p.speciesKey)?.id ?? null); setQuery(displayName(p.scientificName, p.commonName, language)) }} className="mt-2 block text-start">
+                <span className="block font-bold">{displayName(p.scientificName, p.commonName, language)}</span>
                 <span className="latin block text-sm text-muted">{p.scientificName}</span>
               </button>
               <p className="mt-2" lang={p.language} dir={p.language === 'ar' || p.language === 'ur' ? 'rtl' : 'ltr'}>{p.body}</p>
