@@ -1,0 +1,322 @@
+{
+  "quercus-robur": {
+    "commonName": "Chêne pédonculé",
+    "edible": "Les glands ne sont comestibles qu'après plusieurs trempages pour éliminer les tanins amers ; ils étaient autrefois moulus en farine lors des disettes.",
+    "medicinal": "L'écorce, riche en tanins, était utilisée traditionnellement comme astringent contre les maux de gorge et les affections cutanées.",
+    "ecologicalRole": "Arbre clé de voûte qui abrite plus de 2 000 espèces d'insectes, de champignons, d'oiseaux et de mammifères ; les vieux chênes hébergent des coléoptères rares du bois mort.",
+    "culturalUses": "Bois pour les navires, les tonneaux et les maisons à colombages ; emblème national en Angleterre et symbole d'endurance.",
+    "description": "Grand arbre caduc à longue vie, aux feuilles profondément lobées portées par de très courts pétioles et aux glands suspendus à de longs pédoncules. Le tronc devient massif et crevassé avec l'âge."
+  },
+  "platanus-hispanica": {
+    "commonName": "Platane commun",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Tolère les sols compactés et la pollution, ombrage les rues et rafraîchit l'air des villes ; son écorce se détache en plaques qui évacuent la crasse.",
+    "culturalUses": "Planté le long des rues et des places de Londres depuis le XVIIIe siècle, c'est l'arbre emblématique de la capitale britannique.",
+    "description": "Grand arbre d'alignement hybride aux larges feuilles semblables à celles de l'érable, aux fruits en boules hérissées qui pendent tout l'hiver et à l'écorce à motif de camouflage qui s'exfolie par plaques."
+  },
+  "betula-pendula": {
+    "commonName": "Bouleau verruqueux",
+    "edible": "La sève de printemps peut être récoltée comme boisson légèrement sucrée ; les jeunes feuilles s'ajoutent aux tisanes.",
+    "medicinal": "Tisane de feuilles utilisée jadis comme diurétique léger ; huile d'écorce contre les affections de la peau.",
+    "ecologicalRole": "Pionnier rapide des terrains ouverts qui enrichit les sols pauvres, nourrit de nombreuses chenilles de papillons de nuit et héberge l'amanite tue-mouches et d'autres champignons.",
+    "culturalUses": "Écorce utilisée comme amadou et pour les canoës ; rameaux pour les balais de bouleau ; symbole de renouveau dans le folklore nordique.",
+    "description": "Arbre gracieux à l'écorce blanche qui pèle, marquée de losanges noirs, aux rameaux retombants et aux petites feuilles triangulaires à bord doublement denté."
+  },
+  "fagus-sylvatica": {
+    "commonName": "Hêtre commun",
+    "edible": "Les faînes sont comestibles en petites quantités une fois grillées ; les jeunes feuilles de printemps sont douces en salade.",
+    "medicinal": null,
+    "ecologicalRole": "Projette une ombre dense qui façonne des communautés forestières entières ; les années de fainée nourrissent geais, souris et sangliers.",
+    "culturalUses": "L'écorce grise et lisse est gravée d'initiales depuis des siècles ; le bois est prisé pour le mobilier et le chauffage.",
+    "description": "Arbre majestueux à l'écorce lisse gris argenté, aux feuilles ovales à bord ondulé, soyeuses quand elles sont jeunes, et aux bogues épineuses qui s'ouvrent pour libérer des faînes triangulaires."
+  },
+  "aesculus-hippocastanum": {
+    "commonName": "Marronnier d'Inde",
+    "edible": "Non comestible. Les marrons contiennent de l'esculine et sont toxiques pour les humains et les chiens ; ils n'ont rien à voir avec les châtaignes.",
+    "medicinal": "Des extraits de graines standardisés sont utilisés en Europe contre la mauvaise circulation des jambes, mais les graines crues sont toxiques.",
+    "ecologicalRole": "Ses grands épis en chandelles nourrissent les abeilles en fin de printemps ; la mineuse du marronnier brunit désormais la plupart des feuilles dès août.",
+    "culturalUses": "Les marrons servent chaque automne au jeu des « conkers », classique des cours d'école britanniques.",
+    "description": "Grand arbre étalé aux feuilles palmées de cinq à sept folioles, aux épis de fleurs blanches en mai et aux graines brunes et luisantes enfermées dans des bogues vertes épineuses."
+  },
+  "tilia-europaea": {
+    "commonName": "Tilleul commun",
+    "edible": "Les jeunes feuilles sont agréables en salade ; les fleurs séchées donnent la classique tisane de tilleul.",
+    "medicinal": "La tisane de fleurs de tilleul est un remède traditionnel contre les rhumes, l'anxiété et les troubles du sommeil.",
+    "ecologicalRole": "Les fleurs bourdonnent d'abeilles en juillet ; les pucerons des feuilles nourrissent les coccinelles et font goutter du miellat sur les trottoirs.",
+    "culturalUses": "Le tilleul du village était un lieu de rassemblement dans toute l'Europe centrale ; son bois tendre est apprécié des sculpteurs.",
+    "description": "Grand arbre aux feuilles dentées en forme de cœur, aux rejets qui poussent autour de la base du tronc et aux fleurs jaune pâle parfumées suspendues sous une étroite bractée foliacée."
+  },
+  "ilex-aquifolium": {
+    "commonName": "Houx commun",
+    "edible": "Non comestible. Les baies rouges provoquent des vomissements si on les mange.",
+    "medicinal": null,
+    "ecologicalRole": "Abri persistant pour les oiseaux en hiver ; les baies nourrissent les grives et les feuilles accueillent l'azuré du houx.",
+    "culturalUses": "Coupé depuis des siècles pour les décorations du solstice d'hiver et de Noël ; bois utilisé pour les pièces d'échecs et la marqueterie.",
+    "description": "Arbre ou arbuste persistant aux feuilles vert foncé, luisantes et épineuses, plus lisses en hauteur, aux petites fleurs blanches et aux baies rouge vif sur les pieds femelles."
+  },
+  "hedera-helix": {
+    "commonName": "Lierre grimpant",
+    "edible": "Non comestible. Les feuilles et les baies sont légèrement toxiques.",
+    "medicinal": "Des extraits standardisés de feuilles entrent dans des sirops contre la toux ; les feuilles crues peuvent irriter la peau.",
+    "ecologicalRole": "Ses fleurs d'automne sont une source de nectar tardive vitale pour les abeilles et les syrphes ; les baies nourrissent les oiseaux en hiver et son feuillage dense abrite chauves-souris et troglodytes nicheurs.",
+    "culturalUses": "Symbole de fidélité tressé dans les guirlandes de mariage ; décoration persistante des fêtes du solstice d'hiver.",
+    "description": "Liane ligneuse persistante aux feuilles juvéniles lobées et aux feuilles adultes entières sur les rameaux florifères ; ombelles globuleuses de fleurs vert-jaune en automne et baies noires au printemps."
+  },
+  "crataegus-monogyna": {
+    "commonName": "Aubépine à un style",
+    "edible": "Les jeunes feuilles se grignotaient comme « pain et fromage » ; les cenelles donnent gelée et ketchup.",
+    "medicinal": "Fleurs, feuilles et fruits constituent un tonique cardiaque traditionnel de longue date ; uniquement sous contrôle médical.",
+    "ecologicalRole": "La floraison nourrit les pollinisateurs printaniers, les rameaux épineux abritent les nids et les cenelles ravitaillent grives et jaseurs en migration.",
+    "culturalUses": "L'« arbre de mai » du folklore anglais ; la plante par excellence des haies du bocage.",
+    "description": "Petit arbre épineux aux feuilles profondément lobées, à la floraison mousseuse blanche ou rose en mai et aux grappes de fruits rouge foncé contenant chacun un seul noyau."
+  },
+  "sambucus-nigra": {
+    "commonName": "Sureau noir",
+    "edible": "Les fleurs parfument sirops et beignets ; les baies doivent être cuites avant consommation et servent à faire du vin et de la confiture.",
+    "medicinal": "Les préparations de fleurs et de baies de sureau sont des remèdes traditionnels contre les rhumes et la grippe ; les baies crues, les feuilles et l'écorce sont légèrement toxiques.",
+    "ecologicalRole": "Croissance rapide sur les terrains remaniés ; les baies nourrissent de nombreux oiseaux et les fleurs attirent les syrphes.",
+    "culturalUses": "Entouré de légendes sur la protection et la sorcellerie ; les tiges creuses servaient à fabriquer sifflets et sarbacanes.",
+    "description": "Arbuste aux feuilles pennées de cinq à sept folioles, aux inflorescences plates couleur crème en juin et aux grappes retombantes de petites baies noires en fin d'été."
+  },
+  "rubus-fruticosus": {
+    "commonName": "Ronce commune",
+    "edible": "Les mûres sont sucrées et sans danger à maturité ; les jeunes pousses et les feuilles se préparent en tisane.",
+    "medicinal": "La tisane de feuilles était un traitement traditionnel de la diarrhée et des aphtes grâce à ses tanins.",
+    "ecologicalRole": "Les fleurs nourrissent les abeilles pendant des mois et les fourrés abritent oiseaux nicheurs, muscardins et hérissons ; invasive à l'étranger lorsqu'elle étouffe la végétation indigène.",
+    "culturalUses": null,
+    "description": "Arbuste arqué et épineux aux feuilles de trois à cinq folioles dentées, aux fleurs blanches ou roses tout l'été et aux fruits qui mûrissent du vert au noir en passant par le rouge."
+  },
+  "urtica-dioica": {
+    "commonName": "Ortie dioïque",
+    "edible": "Les jeunes sommités perdent leur pouvoir urticant à la cuisson et donnent une soupe riche ou un substitut d'épinards.",
+    "medicinal": "Tisane et extraits d'ortie sont traditionnels contre le rhume des foins et les douleurs articulaires, et comme tonique de printemps.",
+    "ecologicalRole": "Plante nourricière des chenilles du paon-du-jour, de la petite tortue, du vulcain et du robert-le-diable ; signe d'un sol riche en azote.",
+    "culturalUses": "Les fibres étaient filées en tissu et en corde ; un remède populaire consistait à se faire piquer volontairement contre les rhumatismes.",
+    "description": "Vivace dressée aux feuilles opposées, en forme de cœur, fortement dentées et couvertes de poils urticants, avec des chatons pendants de minuscules fleurs vertes."
+  },
+  "taraxacum-officinale": {
+    "commonName": "Pissenlit",
+    "edible": "Les jeunes feuilles sont une salade amère, les racines torréfiées remplacent le café et les fleurs se transforment en vin.",
+    "medicinal": "Les feuilles sont un diurétique traditionnel et la racine un amer digestif.",
+    "ecologicalRole": "L'une des sources de nectar et de pollen les plus importantes du début du printemps pour les abeilles et les syrphes.",
+    "culturalUses": null,
+    "description": "Rosette de feuilles dentées aux tiges creuses qui laissent couler un latex blanc, capitules jaune vif et célèbre boule de graines à aigrettes."
+  },
+  "bellis-perennis": {
+    "commonName": "Pâquerette",
+    "edible": "Les jeunes feuilles et les boutons floraux peuvent s'ajouter aux salades en petites quantités.",
+    "medicinal": "Autrefois surnommée « herbe aux contusions », elle s'appliquait sur les bleus et les plaies en médecine populaire.",
+    "ecologicalRole": "Fleurit presque toute l'année dans les pelouses rases et nourrit petites abeilles et syrphes quand peu d'autres fleurs sont ouvertes.",
+    "culturalUses": "Les colliers de pâquerettes et le jeu « je t'aime, un peu, beaucoup… » sont des classiques de l'enfance.",
+    "description": "Vivace basse aux feuilles spatulées en rosette plate et aux capitules solitaires de pétales blancs à pointe rosée autour d'un cœur jaune, qui se ferment la nuit."
+  },
+  "trifolium-pratense": {
+    "commonName": "Trèfle des prés",
+    "edible": "Les capitules sont sucrés et se mangent crus ou séchés en tisane.",
+    "medicinal": "Utilisé traditionnellement contre la toux et les affections cutanées ; des extraits d'isoflavones sont vendus contre les symptômes de la ménopause.",
+    "ecologicalRole": "Fixe l'azote dans le sol et figure parmi les meilleures plantes fourragères pour les bourdons, surtout les espèces à langue longue.",
+    "culturalUses": null,
+    "description": "Vivace des prairies à trois folioles ovales, souvent marquées d'un chevron pâle, et aux capitules ronds rose-pourpre."
+  },
+  "plantago-major": {
+    "commonName": "Grand plantain",
+    "edible": "Les très jeunes feuilles sont comestibles cuites ; les feuilles plus âgées sont fibreuses. Les graines se consomment comme le psyllium.",
+    "medicinal": "Les feuilles écrasées font un cataplasme populaire classique contre piqûres, coupures et brûlures d'ortie.",
+    "ecologicalRole": "Prospère sur les sols piétinés et les chemins ; les graines nourrissent pinsons et moineaux.",
+    "culturalUses": "Appelé « empreinte de l'homme blanc » en Amérique du Nord parce qu'il suivait les pas des colons européens.",
+    "description": "Rosette plaquée au sol de larges feuilles ovales à fortes nervures parallèles, d'où s'élèvent de fins épis floraux verts semblables à des queues de rat."
+  },
+  "achillea-millefolium": {
+    "commonName": "Achillée millefeuille",
+    "edible": null,
+    "medicinal": "Nommée d'après Achille, qui l'aurait utilisée pour étancher les blessures de ses soldats ; reste un remède traditionnel contre les coupures, la fièvre et les rhumes.",
+    "ecologicalRole": "Ses inflorescences plates servent de piste d'atterrissage aux syrphes, coléoptères et guêpes solitaires ; ses racines profondes résistent à la sécheresse.",
+    "culturalUses": "Les tiges séchées servaient à tirer le Yi King en Chine.",
+    "description": "Vivace aromatique aux feuilles souples, plumeuses et finement découpées, et aux corymbes plats de minuscules fleurs blanches ou roses."
+  },
+  "digitalis-purpurea": {
+    "commonName": "Digitale pourpre",
+    "edible": "Non comestible. Toutes les parties sont extrêmement toxiques et peuvent arrêter le cœur.",
+    "medicinal": "Source de la digoxine, un médicament cardiaque ; ne jamais s'automédiquer, la marge entre la dose et le poison est infime.",
+    "ecologicalRole": "Les fleurs tubulaires sont taillées pour les bourdons, qui s'y glissent en suivant les taches qui les guident.",
+    "culturalUses": "Entourée de légendes de fées ; les taches à l'intérieur des fleurs passaient pour des empreintes de doigts de fées.",
+    "description": "Grande bisannuelle formant une rosette de feuilles douces et duveteuses la première année, puis une haute hampe de clochettes tubulaires rose-pourpre tachetées la seconde."
+  },
+  "allium-ursinum": {
+    "commonName": "Ail des ours",
+    "edible": "Feuilles, fleurs et bulbes sont comestibles, avec un goût d'ail doux ; classique en pesto et en soupe. Attention aux sosies comme le muguet.",
+    "medicinal": "Pris traditionnellement contre la tension artérielle et comme cure de printemps, tout comme l'ail cultivé.",
+    "ecologicalRole": "Tapisse les vieux bois humides en avril et nourrit les premiers syrphes ; indicateur de forêt ancienne.",
+    "culturalUses": "« Ail des ours » dans les traditions germaniques et slaves, car les ours en mangeraient au sortir de l'hibernation.",
+    "description": "Bulbe forestier aux larges feuilles elliptiques et luisantes qui sentent fortement l'ail quand on les froisse, et aux fleurs blanches étoilées en ombelle arrondie."
+  },
+  "hyacinthoides-non-scripta": {
+    "commonName": "Jacinthe des bois",
+    "edible": "Non comestible. Toute la plante contient des glycosides toxiques.",
+    "medicinal": null,
+    "ecologicalRole": "Environ la moitié des jacinthes des bois du monde poussent en Grande-Bretagne ; leurs tapis nourrissent les premières abeilles et papillons et signalent une forêt ancienne.",
+    "culturalUses": "Protégée par la loi au Royaume-Uni ; sa sève collante servait autrefois à fixer les plumes des flèches et à relier les livres.",
+    "description": "Bulbe printanier aux feuilles étroites en lanière et aux épis unilatéraux et retombants de clochettes bleu-violet parfumées, aux pointes de pétales recourbées et aux anthères crème."
+  },
+  "ophrys-apifera": {
+    "commonName": "Ophrys abeille",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "La fleur imite une abeille femelle pour attirer les mâles, mais en Grande-Bretagne elle s'autopollinise le plus souvent ; spécialiste des sols crayeux et des terrains calcaires remaniés.",
+    "culturalUses": "Une trouvaille prisée des botanistes et un symbole de la restauration des prairies sauvages.",
+    "description": "Petite orchidée à rosette de feuilles gris-vert et à quelques fleurs aux sépales roses et au labelle brun velouté dessiné comme un bourdon."
+  },
+  "orchis-mascula": {
+    "commonName": "Orchis mâle",
+    "edible": null,
+    "medicinal": "Les tubercules servaient autrefois à préparer le salep, une boisson épaisse vendue avant l'arrivée du café en Europe.",
+    "ecologicalRole": "L'une des premières orchidées à fleurir ; elle n'offre aucun nectar mais trompe les bourdons fraîchement émergés.",
+    "culturalUses": "Les « long purples » de Shakespeare dans Hamlet ; entourée de légendes de philtres d'amour.",
+    "description": "Orchidée des bois et des prairies aux feuilles luisantes généralement tachées de pourpre et à l'épi dense de fleurs pourpres à légère odeur de chat."
+  },
+  "dactylorhiza-fuchsii": {
+    "commonName": "Orchis de Fuchs",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "L'orchidée la plus fréquente de Grande-Bretagne, colonisant talus et vieilles prairies ; visitée par les abeilles et les papillons de nuit diurnes.",
+    "culturalUses": null,
+    "description": "Orchidée aux feuilles étroites tachetées de pourpre foncé et à l'épi conique de fleurs rose pâle à lilas, chaque labelle trilobé étant orné de boucles et de points."
+  },
+  "fritillaria-meleagris": {
+    "commonName": "Fritillaire pintade",
+    "edible": "Non comestible. Les bulbes et les feuilles sont toxiques.",
+    "medicinal": null,
+    "ecologicalRole": "Spécialiste des prairies inondables gérées de façon traditionnelle, aujourd'hui rare ; les fleurs sont pollinisées par les premiers bourdons.",
+    "culturalUses": "Fleur emblème du comté d'Oxfordshire ; ses floraisons célèbres attirent les visiteurs à Magdalen Meadow et à Cricklade chaque avril.",
+    "description": "Bulbe printanier élancé aux feuilles étroites comme de l'herbe et aux fleurs penchées en forme de lanterne, à damier pourpre et blanc, parfois entièrement blanches."
+  },
+  "primula-vulgaris": {
+    "commonName": "Primevère acaule",
+    "edible": "Les fleurs sont comestibles et décorent gâteaux et salades ; les feuilles peuvent se cuisiner.",
+    "medicinal": "Racine et fleur étaient des remèdes traditionnels contre la toux et les maux de tête.",
+    "ecologicalRole": "Parmi les premières fleurs de l'année, elle nourrit les premières abeilles, les bombyles et les citrons.",
+    "culturalUses": "Le Primrose Day, le 19 avril, commémore Disraeli ; emblème du printemps chéri des poètes.",
+    "description": "Vivace basse à rosette de feuilles gaufrées en forme de langue et aux fleurs jaune pâle à cinq pétales, au cœur d'un jaune plus soutenu, chacune portée par sa propre tige velue."
+  },
+  "galanthus-nivalis": {
+    "commonName": "Perce-neige",
+    "edible": "Non comestible. Les bulbes sont toxiques et facilement confondus avec des oignons.",
+    "medicinal": "Source de la galantamine, un médicament utilisé au début de la maladie d'Alzheimer ; ne jamais utiliser la plante brute.",
+    "ecologicalRole": "Fleurit en fin d'hiver, quand presque rien d'autre ne le fait, et s'ouvre les jours doux pour récompenser les abeilles butineuses.",
+    "culturalUses": "Symbole d'espoir et de la Chandeleur ; les « galanthophiles » collectionnent des centaines de variétés nommées.",
+    "description": "Petit bulbe à deux feuilles gris-vert en lanière et à une fleur blanche unique et penchée, à trois pétales externes et à coupe interne marquée de vert."
+  },
+  "reynoutria-japonica": {
+    "commonName": "Renouée du Japon",
+    "edible": "Les jeunes pousses de printemps ont un goût de rhubarbe acidulée et se cuisinent au Japon ; la récolte peut disperser des fragments, alors prenez garde.",
+    "medicinal": "La racine est utilisée en médecine traditionnelle d'Asie de l'Est et constitue une source commerciale de resvératrol.",
+    "ecologicalRole": "Forme des massifs denses qui étouffent la flore indigène le long des rivières et voies ferrées ; ses fleurs tardives nourrissent toutefois les abeilles.",
+    "culturalUses": null,
+    "description": "Vivace vigoureuse aux tiges creuses semblables à du bambou, mouchetées de rouge, aux feuilles en écusson à base plate et aux gerbes de fleurs crème en fin d'été. Repousse à partir de minuscules fragments de racine."
+  },
+  "impatiens-glandulifera": {
+    "commonName": "Balsamine de l'Himalaya",
+    "edible": "Graines comestibles au goût de noisette ; jeunes feuilles cuisinables. Cueillir les graines avant qu'elles n'éclatent aide à la contrôler.",
+    "medicinal": null,
+    "ecologicalRole": "Supplante les plantes des berges et laisse celles-ci nues face à l'érosion en hiver ; ses fleurs riches en nectar détournent les abeilles des espèces indigènes.",
+    "culturalUses": "Introduite dans les jardins victoriens en 1839 et surnommée « casque de policier » pour la forme de sa fleur.",
+    "description": "Grande annuelle charnue aux tiges creuses rougeâtres, aux feuilles lancéolées et dentées disposées en verticilles, aux fleurs roses en casque et aux capsules qui explosent au moindre contact."
+  },
+  "heracleum-mantegazzianum": {
+    "commonName": "Berce du Caucase",
+    "edible": "Non comestible. Ne pas toucher : la sève provoque de graves brûlures et des cloques sous l'effet du soleil.",
+    "medicinal": null,
+    "ecologicalRole": "Ses immenses ombelles nourrissent les insectes, mais ses colonies évincent les plantes des berges et exposent le sol à l'érosion.",
+    "culturalUses": null,
+    "description": "Ombellifère colossale pouvant atteindre cinq mètres, aux tiges hérissées tachées de pourpre, aux feuilles profondément découpées de plus d'un mètre de large et aux inflorescences blanches en parasol. Une plante dangereuse à manipuler."
+  },
+  "rhododendron-ponticum": {
+    "commonName": "Rhododendron pontique",
+    "edible": "Non comestible. Feuilles et nectar contiennent des grayanotoxines ; son miel peut provoquer l'intoxication dite « du miel fou ».",
+    "medicinal": null,
+    "ecologicalRole": "Ses fourrés persistants et denses acidifient le sol et étouffent la flore forestière ; il héberge aussi Phytophthora ramorum, un agent pathogène des plantes.",
+    "culturalUses": "Planté dans les domaines victoriens pour abriter le gibier et colorer le printemps, avant que l'on ne comprenne son caractère invasif.",
+    "description": "Grand arbuste persistant aux feuilles sombres et coriaces et aux bouquets spectaculaires de fleurs rose-pourpre en entonnoir à la fin du printemps."
+  },
+  "buddleja-davidii": {
+    "commonName": "Arbre aux papillons",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Les fleurs attirent des nuées de papillons de jour et de nuit, mais les semis colonisent voies ferrées, murs et friches et peuvent dominer la végétation indigène.",
+    "culturalUses": "Un incontournable des jardins de curé depuis son introduction de Chine dans les années 1890.",
+    "description": "Arbuste à croissance rapide aux branches arquées, aux feuilles lancéolées gris-vert et aux longues panicules coniques de fleurs lilas à pourpres, au parfum de miel, en été."
+  },
+  "prunus-laurocerasus": {
+    "commonName": "Laurier-cerise",
+    "edible": "Non comestible. Les feuilles et les graines libèrent du cyanure ; c'est pour cela que les feuilles froissées sentent l'amande.",
+    "medicinal": null,
+    "ecologicalRole": "S'échappe des haies vers les bois, où son ombre dense étouffe la flore du sol et la régénération des arbres.",
+    "culturalUses": "Haie brise-vue courante ; ses feuilles servaient autrefois dans les flacons à tuer des collectionneurs de papillons.",
+    "description": "Arbuste persistant et dense aux grandes feuilles luisantes et coriaces, aux épis dressés de petites fleurs blanches au printemps et aux fruits semblables à des cerises qui noircissent à maturité."
+  },
+  "lythrum-salicaria": {
+    "commonName": "Salicaire commune",
+    "edible": null,
+    "medicinal": "Utilisée traditionnellement contre la diarrhée et comme lotion pour les plaies grâce à ses tanins.",
+    "ecologicalRole": "Plante nectarifère précieuse des zones humides britanniques, mais envahisseuse redoutable des marais d'Amérique du Nord, où elle supplante les plantes indigènes.",
+    "culturalUses": null,
+    "description": "Vivace des zones humides aux tiges carrées, aux feuilles opposées lancéolées et aux hauts épis denses de fleurs magenta à six pétales en été."
+  },
+  "jacobaea-vulgaris": {
+    "commonName": "Séneçon jacobée",
+    "edible": "Non comestible. Contient des alcaloïdes qui endommagent le foie ; toxique pour les chevaux et les bovins, surtout séché dans le foin.",
+    "medicinal": null,
+    "ecologicalRole": "Nourrit une trentaine d'insectes spécialisés, dont la chenille jaune et noire de la goutte-de-sang, et constitue une riche source de nectar.",
+    "culturalUses": "Surnommé « stinking Willie » en Écosse d'après le duc de Cumberland ; au cœur de longs débats sur la lutte contre les mauvaises herbes.",
+    "description": "Bisannuelle à rosette de feuilles vert foncé profondément lobées et aux corymbes plats de fleurs jaune d'or semblables à des marguerites, sur des tiges pouvant atteindre un mètre."
+  },
+  "chamaenerion-angustifolium": {
+    "commonName": "Épilobe en épi",
+    "edible": "Les jeunes pousses se cuisinent comme des asperges ; les feuilles fermentées donnent le thé russe « Ivan tchaï ».",
+    "medicinal": "La tisane de feuilles était un remède populaire contre les troubles digestifs et prostatiques.",
+    "ecologicalRole": "Pionnière des sols brûlés ou défrichés (« fireweed » en anglais) ; fleurs pour les abeilles, feuilles pour le grand sphinx de la vigne.",
+    "culturalUses": "Surnommée « bombweed » après avoir recouvert les sites bombardés de Londres dans les années 1940.",
+    "description": "Grande vivace aux feuilles étroites semblables à celles du saule, disposées en spirale le long de la tige, et aux longues hampes de fleurs rose vif à quatre pétales suivies de graines cotonneuses."
+  },
+  "symphytum-officinale": {
+    "commonName": "Consoude officinale",
+    "edible": "À ne pas consommer. Contient des alcaloïdes pyrrolizidiniques qui endommagent le foie.",
+    "medicinal": "Son nom vient de « consolider » les fractures : cataplasmes de feuilles en usage externe sur entorses et contusions, jamais en interne.",
+    "ecologicalRole": "Racines profondes et riche en nutriments ; ses fleurs sont visitées par les bourdons, dont certains percent la corolle pour voler le nectar.",
+    "culturalUses": "Les jardiniers font macérer ses feuilles en un puissant engrais liquide.",
+    "description": "Vivace robuste et hérissée aux grandes feuilles rugueuses et lancéolées, décurrentes le long de la tige, et aux grappes enroulées de clochettes pourpres, roses ou crème."
+  },
+  "filipendula-ulmaria": {
+    "commonName": "Reine-des-prés",
+    "edible": "Ses fleurs au parfum sucré aromatisent sirops, hydromel et desserts.",
+    "medicinal": "Contient des salicylates et a donné son nom à l'aspirine ; remède traditionnel contre la fièvre, la douleur et les brûlures d'estomac.",
+    "ecologicalRole": "Plante des zones humides et des fossés dont les fleurs mousseuses attirent syrphes et coléoptères.",
+    "culturalUses": "Herbe sacrée des druides et herbe de jonchée médiévale pour les sols.",
+    "description": "Grande vivace des prairies humides aux feuilles pennées, blanches au revers, et aux corymbes denses et mousseux de fleurs blanc crème qui sentent l'amande et le miel."
+  },
+  "mentha-aquatica": {
+    "commonName": "Menthe aquatique",
+    "edible": "Les feuilles s'utilisent comme la menthe de jardin : tisanes, sauces et boissons.",
+    "medicinal": "Digestif traditionnel et remède contre les maux de tête, comme les autres menthes.",
+    "ecologicalRole": "Plante des berges d'étang dont les fleurs attirent abeilles, syrphes et papillons en fin d'été.",
+    "culturalUses": null,
+    "description": "Vivace aromatique des terrains humides aux feuilles ovales, velues et dentées, souvent teintées de pourpre, et aux capitules arrondis de fleurs rose lilas à l'extrémité des tiges."
+  },
+  "rosa-canina": {
+    "commonName": "Églantier",
+    "edible": "Les cynorrhodons, riches en vitamine C, se préparent en sirop, en gelée et en tisane ; retirez d'abord les poils irritants des graines.",
+    "medicinal": "Le sirop de cynorrhodon était donné aux enfants britanniques en temps de guerre contre le scorbut ; il sert encore pour les articulations.",
+    "ecologicalRole": "Les fleurs nourrissent abeilles et syrphes ; les cynorrhodons nourrissent oiseaux et petits mammifères tout l'hiver ; les tiges épineuses abritent les nids.",
+    "culturalUses": "La rose sauvage de l'héraldique et du folklore anglais.",
+    "description": "Arbuste arqué et épineux aux feuilles pennées de cinq à sept folioles, aux fleurs rose pâle à cinq pétales en juin et aux cynorrhodons ovales, rouges et luisants en automne."
+  },
+  "corylus-avellana": {
+    "commonName": "Noisetier commun",
+    "edible": "Les noisettes se mangent crues ou grillées et mûrissent en septembre, si les écureuils en laissent.",
+    "medicinal": null,
+    "ecologicalRole": "Le noisetier en taillis crée la lumière tamisée des sous-bois dont dépendent muscardins, papillons nacrés et fleurs printanières.",
+    "culturalUses": "Baguettes pour les claies, les liens de chaume et les cannes ; branches fourchues pour la sourcellerie.",
+    "description": "Arbuste à tiges multiples aux feuilles arrondies, douces et doublement dentées, aux chatons jaunes en février et aux noisettes enveloppées d'un involucre foliacé."
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "quercus-robur": {
+    "commonName": "Carvalho-alvarinho",
+    "edible": "As bolotas só são comestíveis após lavagens repetidas para remover os taninos amargos; historicamente eram moídas em farinha em anos de escassez.",
+    "medicinal": "A casca, rica em taninos, era usada tradicionalmente como adstringente para dores de garganta e problemas de pele.",
+    "ecologicalRole": "Árvore-chave que sustenta mais de 2.000 espécies de insetos, fungos, aves e mamíferos; carvalhos antigos abrigam besouros raros de madeira morta.",
+    "culturalUses": "Madeira para navios, barris e construções com estrutura de madeira; emblema nacional na Inglaterra e símbolo de resistência.",
+    "description": "Árvore decídua ampla e de vida longa, com folhas profundamente lobadas em pecíolos muito curtos e bolotas sustentadas por hastes longas. Os troncos tornam-se maciços e fissurados com a idade."
+  },
+  "platanus-hispanica": {
+    "commonName": "Plátano-de-Londres",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Tolera solo compactado e poluição, sombreando ruas e refrescando o ar da cidade; a casca se solta em placas que descartam a sujeira.",
+    "culturalUses": "Plantado nas ruas e praças de Londres desde o século XVIII, é a árvore emblemática da capital.",
+    "description": "Árvore urbana híbrida e alta, com folhas grandes semelhantes às do bordo, frutos esféricos e espinhosos que ficam pendurados durante o inverno e casca com padrão de camuflagem que descama em placas."
+  },
+  "betula-pendula": {
+    "commonName": "Bétula-branca",
+    "edible": "A seiva de primavera pode ser extraída como bebida levemente adocicada; as folhas jovens são adicionadas a chás.",
+    "medicinal": "O chá das folhas era usado tradicionalmente como diurético suave, e o óleo da casca para problemas de pele.",
+    "ecologicalRole": "Pioneira rápida de terrenos abertos que enriquece solos pobres, alimenta muitas lagartas de mariposas e hospeda o amanita-mata-moscas e outros fungos.",
+    "culturalUses": "Casca usada como isca para fogo e em canoas; ramos para vassouras; símbolo de renovação no folclore do norte da Europa.",
+    "description": "Árvore elegante, de casca branca que descama, marcada por losangos negros, ramos pendentes e folhas pequenas e triangulares com margens duplamente serradas."
+  },
+  "fagus-sylvatica": {
+    "commonName": "Faia-europeia",
+    "edible": "As sementes são comestíveis em pequenas quantidades quando torradas; as folhas jovens de primavera são suaves em saladas.",
+    "medicinal": null,
+    "ecologicalRole": "Projeta uma sombra densa que molda comunidades inteiras de floresta; os anos de grande frutificação alimentam gaios, ratos e javalis.",
+    "culturalUses": "A casca lisa e cinzenta é gravada com iniciais há séculos; a madeira é apreciada para móveis e lenha.",
+    "description": "Árvore imponente de casca lisa cinza-prateada, folhas ovais de margens onduladas e pelos sedosos quando jovens, e invólucros espinhosos que se abrem para liberar sementes triangulares."
+  },
+  "aesculus-hippocastanum": {
+    "commonName": "Castanheiro-da-índia",
+    "edible": "Não é comestível. As castanhas-da-índia contêm esculina e são tóxicas para pessoas e cães; não têm relação com as castanhas comestíveis.",
+    "medicinal": "Extratos padronizados das sementes são usados na Europa para a má circulação nas pernas, mas as sementes cruas são venenosas.",
+    "ecologicalRole": "Grandes espigas florais em forma de vela alimentam abelhas no fim da primavera; a mariposa mineira das folhas hoje deixa a maioria das folhas acastanhadas já em agosto.",
+    "culturalUses": "As castanhas-da-índia são o clássico jogo de pátio escolar britânico (conkers) a cada outono.",
+    "description": "Árvore grande e frondosa com folhas em forma de mão, de cinco a sete folíolos, espigas de flores brancas em maio e sementes castanhas e brilhantes dentro de cápsulas verdes espinhosas."
+  },
+  "tilia-europaea": {
+    "commonName": "Tília-comum",
+    "edible": "As folhas jovens são agradáveis em saladas; as flores secas fazem o clássico chá de tília.",
+    "medicinal": "O chá de flor de tília é um remédio tradicional para resfriados, ansiedade e sono agitado.",
+    "ecologicalRole": "As flores zumbem de abelhas em julho; os pulgões das folhas alimentam joaninhas e pingam melada nas calçadas abaixo.",
+    "culturalUses": "A tília da aldeia era ponto de encontro em toda a Europa Central; a madeira macia é a preferida dos entalhadores.",
+    "description": "Árvore alta com folhas cordiformes e serradas, rebentos brotando ao redor da base do tronco e flores perfumadas amarelo-pálidas pendentes sob uma bráctea estreita e foliácea."
+  },
+  "ilex-aquifolium": {
+    "commonName": "Azevinho",
+    "edible": "Não é comestível. Os frutos vermelhos provocam vômitos se ingeridos.",
+    "medicinal": null,
+    "ecologicalRole": "Abrigo perene para aves que passam o inverno; os frutos alimentam tordos e as folhas hospedam a borboleta azul-do-azevinho.",
+    "culturalUses": "Cortado há séculos para decorações do solstício de inverno e do Natal; a madeira é usada em peças de xadrez e marchetaria.",
+    "description": "Árvore ou arbusto perene com folhas verde-escuras, brilhantes e espinhosas que se tornam mais lisas nas partes altas, pequenas flores brancas e frutos vermelhos vivos nas plantas femininas."
+  },
+  "hedera-helix": {
+    "commonName": "Hera",
+    "edible": "Não é comestível. As folhas e os frutos são levemente tóxicos.",
+    "medicinal": "Extratos padronizados das folhas são usados em xaropes para tosse; as folhas cruas podem irritar a pele.",
+    "ecologicalRole": "As flores de outono são uma fonte tardia e vital de néctar para abelhas e sirfídeos; os frutos alimentam aves no inverno e o crescimento denso abriga morcegos e carriças em nidificação.",
+    "culturalUses": "Símbolo de fidelidade entrelaçado em grinaldas de casamento; decoração perene nas festas do solstício de inverno.",
+    "description": "Trepadeira lenhosa e perene com folhas juvenis lobadas e folhas adultas inteiras nos ramos floríferos; cachos globosos de flores verde-amareladas no outono e frutos negros na primavera."
+  },
+  "crataegus-monogyna": {
+    "commonName": "Pilriteiro",
+    "edible": "As folhas jovens eram mordiscadas como 'pão com queijo'; os frutos são transformados em geleia e molho.",
+    "medicinal": "Flores, folhas e frutos são um antigo tônico cardíaco tradicional; apenas sob supervisão.",
+    "ecologicalRole": "A floração alimenta os polinizadores da primavera, os ramos espinhosos abrigam ninhos de aves e os frutos sustentam tordos e tagarelas em migração.",
+    "culturalUses": "A árvore de maio do folclore inglês; a planta clássica das sebes das terras agrícolas cercadas.",
+    "description": "Pequena árvore espinhosa com folhas profundamente lobadas, floração espumosa branca ou rosada em maio e cachos de frutos vermelho-escuros, cada um com um único caroço."
+  },
+  "sambucus-nigra": {
+    "commonName": "Sabugueiro",
+    "edible": "As flores aromatizam xaropes e frituras doces; os frutos devem ser cozidos antes de consumidos e são usados em vinho e geleia.",
+    "medicinal": "Preparações de flor e fruto de sabugueiro são remédios tradicionais para resfriados e gripe; os frutos crus, as folhas e a casca são levemente tóxicos.",
+    "ecologicalRole": "Cresce rápido em terrenos perturbados; os frutos alimentam muitas aves e as flores atraem sirfídeos.",
+    "culturalUses": "Cercado de folclore sobre proteção e bruxaria; os caules ocos eram transformados em apitos e zarabatanas.",
+    "description": "Arbusto com folhas pinadas de cinco a sete folíolos, inflorescências achatadas e cremosas em junho e cachos pendentes de pequenos frutos negros no fim do verão."
+  },
+  "rubus-fruticosus": {
+    "commonName": "Amoreira-silvestre",
+    "edible": "As amoras são doces e seguras quando maduras; os rebentos e as folhas jovens fazem chá.",
+    "medicinal": "O chá das folhas era um tratamento tradicional para diarreia e aftas graças aos seus taninos.",
+    "ecologicalRole": "As flores alimentam abelhas durante meses e os matagais abrigam ninhos de aves, leirões e ouriços; invasora onde sufoca a vegetação nativa fora da Europa.",
+    "culturalUses": null,
+    "description": "Arbusto arqueado e espinhoso com folhas de três a cinco folíolos serrados, flores brancas ou rosadas durante todo o verão e frutos que amadurecem do verde ao vermelho e depois ao negro."
+  },
+  "urtica-dioica": {
+    "commonName": "Urtiga",
+    "edible": "Os brotos jovens perdem a ardência ao serem cozidos e rendem uma sopa rica ou um substituto do espinafre.",
+    "medicinal": "O chá e os extratos de urtiga são tradicionais para rinite alérgica, dores nas articulações e como tônico de primavera.",
+    "ecologicalRole": "Planta hospedeira das lagartas das borboletas pavão, vanessa, almirante-vermelho e vírgula; sinal de solo rico em nitrogênio.",
+    "culturalUses": "As fibras eram fiadas em tecido e corda; um remédio popular consistia em urticar-se de propósito contra o reumatismo.",
+    "description": "Perene ereta com folhas opostas, cordiformes e agudamente serradas, cobertas de pelos urticantes, e cordões pendentes de minúsculas flores verdes."
+  },
+  "taraxacum-officinale": {
+    "commonName": "Dente-de-leão",
+    "edible": "As folhas jovens são verduras amargas para salada, as raízes são torradas como substituto do café e as flores viram vinho.",
+    "medicinal": "As folhas são um diurético tradicional e a raiz, um amargo digestivo.",
+    "ecologicalRole": "Uma das fontes mais importantes de néctar e pólen no início da primavera para abelhas e sirfídeos.",
+    "culturalUses": null,
+    "description": "Roseta de folhas dentadas com hastes ocas que exsudam látex leitoso, capítulos amarelo-vivos e o famoso globo de sementes com paraquedas."
+  },
+  "bellis-perennis": {
+    "commonName": "Margarida-comum",
+    "edible": "As folhas jovens e os botões florais podem ser adicionados a saladas em pequenas quantidades.",
+    "medicinal": "Outrora conhecida como erva-das-contusões, era aplicada sobre hematomas e feridas na medicina popular.",
+    "ecologicalRole": "Floresce quase o ano todo em relvados baixos e alimenta pequenas abelhas e sirfídeos quando pouco mais está em flor.",
+    "culturalUses": "Colares de margaridas e o jogo do 'bem-me-quer, mal-me-quer' são clássicos da infância.",
+    "description": "Perene baixa com folhas espatuladas em roseta achatada e capítulos solitários de pétalas brancas com pontas rosadas ao redor de um centro amarelo, que se fecham à noite."
+  },
+  "trifolium-pratense": {
+    "commonName": "Trevo-vermelho",
+    "edible": "Os capítulos florais são doces e podem ser comidos crus ou secos para chá.",
+    "medicinal": "Usado tradicionalmente para tosse e problemas de pele; extratos de isoflavonas são vendidos para sintomas da menopausa.",
+    "ecologicalRole": "Fixa nitrogênio no solo e é uma das principais plantas forrageiras para abelhões, sobretudo as espécies de língua longa.",
+    "culturalUses": null,
+    "description": "Perene de prado com três folíolos ovais, cada um geralmente marcado com um 'V' pálido, e capítulos florais redondos rosa-arroxeados."
+  },
+  "plantago-major": {
+    "commonName": "Tanchagem-maior",
+    "edible": "As folhas muito jovens são comestíveis cozidas; as mais velhas são fibrosas. As sementes podem ser consumidas como o psílio.",
+    "medicinal": "As folhas amassadas são um clássico cataplasma popular para picadas, cortes e irritação causada por urtigas.",
+    "ecologicalRole": "Prospera em terrenos pisoteados e caminhos; as sementes alimentam tentilhões e pardais.",
+    "culturalUses": "Chamada de 'pegada do homem branco' na América do Norte porque seguia os caminhos dos colonos europeus.",
+    "description": "Roseta rente ao chão de folhas largas e ovais com nervuras paralelas marcadas, de onde sobem espigas florais verdes e delgadas como caudas de rato."
+  },
+  "achillea-millefolium": {
+    "commonName": "Mil-folhas",
+    "edible": null,
+    "medicinal": "Batizada em homenagem a Aquiles, que teria usado a planta para estancar as feridas dos soldados; ainda é um remédio tradicional para cortes, febre e resfriados.",
+    "ecologicalRole": "Seus capítulos achatados são plataformas de pouso para sirfídeos, besouros e vespas solitárias; as raízes profundas resistem à seca.",
+    "culturalUses": "Hastes secas eram usadas para consultar o I Ching na China.",
+    "description": "Perene aromática com folhas macias, plumosas e finamente divididas e cachos achatados de minúsculas flores brancas ou rosadas."
+  },
+  "digitalis-purpurea": {
+    "commonName": "Dedaleira",
+    "edible": "Não é comestível. Todas as partes são altamente venenosas e podem parar o coração.",
+    "medicinal": "Fonte da digoxina, um medicamento cardíaco; nunca se automedique, pois a margem entre dose e veneno é mínima.",
+    "ecologicalRole": "As flores tubulares são feitas sob medida para abelhões, que rastejam para dentro seguindo as marcas-guia pintalgadas.",
+    "culturalUses": "Cercada de folclore sobre fadas; dizia-se que as pintas dentro das flores eram impressões digitais de fadas.",
+    "description": "Bienal alta com uma roseta de folhas macias e aveludadas no primeiro ano e, no segundo, uma espiga de sinos tubulares rosa-arroxeados e pintalgados."
+  },
+  "allium-ursinum": {
+    "commonName": "Alho-de-urso",
+    "edible": "Folhas, flores e bulbos são comestíveis, com sabor suave de alho; clássico em pesto e sopas. Cuidado com plantas parecidas, como o lírio-do-vale.",
+    "medicinal": "Tomado tradicionalmente para a pressão arterial e como depurativo de primavera, tal como o alho cultivado.",
+    "ecologicalRole": "Forra florestas antigas e úmidas em abril e alimenta os primeiros sirfídeos; indicador de mata antiga.",
+    "culturalUses": "'Alho-de-urso' nas tradições germânicas e eslavas, que dizem ser comido pelos ursos ao despertar da hibernação.",
+    "description": "Bulbo de floresta com folhas largas, brilhantes e elípticas que cheiram fortemente a alho quando esmagadas e flores brancas estreladas em umbela arredondada."
+  },
+  "hyacinthoides-non-scripta": {
+    "commonName": "Jacinto-dos-bosques",
+    "edible": "Não é comestível. Todas as partes contêm glicosídeos tóxicos.",
+    "medicinal": null,
+    "ecologicalRole": "Cerca de metade dos jacintos-dos-bosques do mundo cresce na Grã-Bretanha; seus tapetes alimentam as primeiras abelhas e borboletas e indicam floresta antiga.",
+    "culturalUses": "Protegido por lei no Reino Unido; a seiva pegajosa já serviu para colar penas em flechas e encadernar livros.",
+    "description": "Bulbo de primavera com folhas estreitas em forma de fita e espigas pendentes unilaterais de sinos perfumados azul-violeta, com as pontas das pétalas enroladas para trás e anteras cor de creme."
+  },
+  "ophrys-apifera": {
+    "commonName": "Orquídea-abelha",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "A flor imita uma abelha fêmea para atrair os machos, embora na Grã-Bretanha se autopolinize na maioria das vezes; especialista de solos calcários e terrenos perturbados ricos em cal.",
+    "culturalUses": "Um achado valioso para botânicos e um símbolo da restauração de prados silvestres.",
+    "description": "Pequena orquídea com roseta de folhas verde-acinzentadas e poucas flores de sépalas rosadas e labelo aveludado castanho com padrão de abelhão."
+  },
+  "orchis-mascula": {
+    "commonName": "Satirião-macho",
+    "edible": null,
+    "medicinal": "Os tubérculos eram outrora transformados em salepo, uma bebida espessa vendida antes da chegada do café à Europa.",
+    "ecologicalRole": "Uma das primeiras orquídeas a florescer, sem oferecer néctar, mas enganando abelhões recém-emergidos.",
+    "culturalUses": "As 'long purples' de Shakespeare em Hamlet; cercada de folclore sobre poções do amor.",
+    "description": "Orquídea de bosques e prados com folhas brilhantes, geralmente manchadas de púrpura, e uma espiga densa de flores púrpura com leve cheiro de gato."
+  },
+  "dactylorhiza-fuchsii": {
+    "commonName": "Orquídea-malhada",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "A orquídea mais frequente da Grã-Bretanha, colonizando bermas e prados antigos; visitada por abelhas e mariposas diurnas.",
+    "culturalUses": null,
+    "description": "Orquídea com folhas estreitas salpicadas de púrpura-escuro e espiga cônica de flores rosa-pálido a lilás, cada labelo marcado com laços e pontos e dividido em três lobos."
+  },
+  "fritillaria-meleagris": {
+    "commonName": "Fritilária-xadrez",
+    "edible": "Não é comestível. Os bulbos e as folhas são venenosos.",
+    "medicinal": null,
+    "ecologicalRole": "Especialista de prados inundáveis de manejo tradicional, hoje rara; as flores são polinizadas pelos primeiros abelhões.",
+    "culturalUses": "Flor do condado de Oxfordshire; exibições famosas atraem visitantes a Magdalen Meadow e Cricklade todo mês de abril.",
+    "description": "Bulbo delgado de primavera com folhas semelhantes a relva e flores pendentes em forma de lanterna, quadriculadas em púrpura e branco, ocasionalmente brancas puras."
+  },
+  "primula-vulgaris": {
+    "commonName": "Prímula",
+    "edible": "As flores são comestíveis e usadas para decorar bolos e saladas; as folhas podem ser cozidas.",
+    "medicinal": "Raiz e flor eram remédios tradicionais para tosse e dores de cabeça.",
+    "ecologicalRole": "Entre as primeiras flores do ano, alimenta as primeiras abelhas, bombilídeos e borboletas-limão.",
+    "culturalUses": "O Dia da Prímula, em 19 de abril, homenageia Disraeli; um emblema querido da primavera na poesia.",
+    "description": "Perene baixa com roseta de folhas enrugadas em forma de língua e flores amarelo-pálidas de cinco pétalas, com um centro amarelo mais intenso, cada uma em seu próprio pedúnculo piloso."
+  },
+  "galanthus-nivalis": {
+    "commonName": "Campainha-branca",
+    "edible": "Não é comestível. Os bulbos são tóxicos e facilmente confundidos com cebolas.",
+    "medicinal": "Fonte da galantamina, um medicamento usado no início da doença de Alzheimer; nunca use a planta crua.",
+    "ecologicalRole": "Floresce no fim do inverno, quando pouco mais floresce, e abre-se nos dias amenos para recompensar as abelhas em busca de alimento.",
+    "culturalUses": "Símbolo de esperança e da Candelária; os 'galantófilos' colecionam centenas de variedades nomeadas.",
+    "description": "Pequeno bulbo com duas folhas verde-acinzentadas em forma de fita e uma única flor branca pendente, com três pétalas externas e uma taça interna marcada de verde."
+  },
+  "reynoutria-japonica": {
+    "commonName": "Erva-nó-japonesa",
+    "edible": "Os brotos jovens de primavera têm sabor de ruibarbo ácido e são cozidos no Japão; a colheita pode espalhar fragmentos, portanto tenha cuidado.",
+    "medicinal": "A raiz é usada na medicina tradicional do Leste Asiático e é uma fonte comercial de resveratrol.",
+    "ecologicalRole": "Forma maciços densos que sombreiam as plantas nativas ao longo de rios e ferrovias; as flores tardias, contudo, alimentam abelhas.",
+    "culturalUses": null,
+    "description": "Perene vigorosa com caules ocos semelhantes a bambu, salpicados de vermelho, folhas em forma de escudo com base reta e ramalhetes de flores cremosas no fim do verão. Rebrota a partir de fragmentos minúsculos de raiz."
+  },
+  "impatiens-glandulifera": {
+    "commonName": "Bálsamo-do-Himalaia",
+    "edible": "As sementes são comestíveis, com sabor de nozes; as folhas jovens podem ser cozidas. Colher as sementes antes que estourem é uma forma de ajudar a controlá-lo.",
+    "medicinal": null,
+    "ecologicalRole": "Supera as plantas ribeirinhas e deixa as margens nuas à erosão no inverno; as flores ricas em néctar desviam as abelhas das espécies nativas.",
+    "culturalUses": "Introduzido nos jardins vitorianos em 1839 e apelidado de 'capacete de polícia' pela forma da flor.",
+    "description": "Anual alta e carnosa com caules ocos avermelhados, folhas lanceoladas e serradas em verticilos, flores rosadas em forma de capuz e vagens que explodem ao toque."
+  },
+  "heracleum-mantegazzianum": {
+    "commonName": "Canabrás-gigante",
+    "edible": "Não é comestível. Não toque: a seiva provoca queimaduras graves e bolhas sob a luz do sol.",
+    "medicinal": null,
+    "ecologicalRole": "As umbelas enormes alimentam insetos, mas as colônias expulsam as plantas ribeirinhas e expõem o solo à erosão.",
+    "culturalUses": null,
+    "description": "Umbelífera colossal de até cinco metros, com caules ásperos manchados de púrpura, folhas profundamente recortadas com mais de um metro de largura e inflorescências brancas em forma de guarda-chuva. Uma planta perigosa de manusear."
+  },
+  "rhododendron-ponticum": {
+    "commonName": "Rododendro",
+    "edible": "Não é comestível. As folhas e o néctar contêm grayanotoxinas; o mel produzido a partir dele pode causar o envenenamento por 'mel louco'.",
+    "medicinal": null,
+    "ecologicalRole": "Matagais perenes densos acidificam o solo e sombreiam a flora do bosque; também hospeda a doença de plantas Phytophthora ramorum.",
+    "culturalUses": "Plantado em propriedades vitorianas como abrigo para a caça e cor primaveril, antes de se compreender sua natureza invasora.",
+    "description": "Grande arbusto perene com folhas escuras e coriáceas e vistosos cachos de flores rosa-arroxeadas em forma de funil no fim da primavera."
+  },
+  "buddleja-davidii": {
+    "commonName": "Budleia",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "As flores atraem nuvens de borboletas e mariposas, mas as plântulas colonizam ferrovias, muros e terrenos baldios e podem dominar a vegetação nativa.",
+    "culturalUses": "Um clássico dos jardins rústicos desde sua introdução a partir da China, na década de 1890.",
+    "description": "Arbusto de crescimento rápido com ramos arqueados, folhas lanceoladas verde-acinzentadas e longos cones de flores lilás a púrpura, com aroma de mel, no verão."
+  },
+  "prunus-laurocerasus": {
+    "commonName": "Louro-cerejo",
+    "edible": "Não é comestível. As folhas e as sementes liberam cianeto; por isso as folhas esmagadas cheiram a amêndoa.",
+    "medicinal": null,
+    "ecologicalRole": "Escapa das sebes para os bosques, onde sua sombra pesada suprime a flora rasteira e a regeneração das árvores.",
+    "culturalUses": "Sebe comum para privacidade; as folhas já foram usadas em frascos mortíferos por colecionadores de borboletas.",
+    "description": "Arbusto perene denso com folhas grandes, brilhantes e coriáceas, espigas eretas de pequenas flores brancas na primavera e frutos semelhantes a cerejas que amadurecem negros."
+  },
+  "lythrum-salicaria": {
+    "commonName": "Salgueirinha",
+    "edible": null,
+    "medicinal": "Usada tradicionalmente para diarreia e como lavagem de feridas graças aos seus taninos.",
+    "ecologicalRole": "Planta rica em néctar das zonas úmidas britânicas, mas invasora grave dos pântanos norte-americanos, onde desloca as plantas nativas.",
+    "culturalUses": null,
+    "description": "Perene de zonas úmidas com caules quadrangulares, folhas opostas e lanceoladas e espigas altas e densas de flores magenta de seis pétalas no verão."
+  },
+  "jacobaea-vulgaris": {
+    "commonName": "Tasneira",
+    "edible": "Não é comestível. Contém alcaloides que danificam o fígado; tóxica para cavalos e gado, sobretudo quando seca no feno.",
+    "medicinal": null,
+    "ecologicalRole": "Sustenta cerca de 30 insetos especializados, incluindo a lagarta preta e amarela da mariposa-cinábrio, e é uma fonte rica de néctar.",
+    "culturalUses": "Apelidada de 'stinking Willie' na Escócia, em alusão ao Duque de Cumberland; tema de longos debates sobre o controle de ervas daninhas.",
+    "description": "Bienal com roseta de folhas verde-escuras profundamente lobadas e cachos achatados de flores amarelo-douradas semelhantes a margaridas, em hastes de até um metro."
+  },
+  "chamaenerion-angustifolium": {
+    "commonName": "Epilóbio-de-folhas-estreitas",
+    "edible": "Os brotos jovens podem ser cozidos como aspargos; as folhas fermentadas fazem o chá russo 'Ivan chai'.",
+    "medicinal": "O chá das folhas era um remédio popular para problemas digestivos e da próstata.",
+    "ecologicalRole": "Pioneira de terrenos queimados e desmatados, daí o nome inglês 'fireweed'; as flores alimentam abelhas e as folhas hospedam a mariposa-esfinge-elefante.",
+    "culturalUses": "Apelidada de 'erva das bombas' depois de cobrir as áreas bombardeadas de Londres nos anos 1940.",
+    "description": "Perene alta com folhas estreitas semelhantes às do salgueiro, dispostas em espiral ao longo do caule, e longas espigas de flores rosa de quatro pétalas seguidas de sementes plumosas."
+  },
+  "symphytum-officinale": {
+    "commonName": "Confrei",
+    "edible": "Não é para comer. Contém alcaloides pirrolizidínicos que danificam o fígado.",
+    "medicinal": "Conhecido como 'consolda': cataplasmas das folhas são usados externamente para entorses e contusões, nunca por via interna.",
+    "ecologicalRole": "De raízes profundas e rico em nutrientes; as flores são visitadas por abelhões, alguns dos quais furam a base para roubar o néctar.",
+    "culturalUses": "Jardineiros deixam as folhas de molho para obter um fertilizante líquido potente.",
+    "description": "Perene robusta e áspera, com folhas grandes, rugosas e lanceoladas que descem pelo caule, e cachos enrolados de flores em sino púrpura, rosadas ou cor de creme."
+  },
+  "filipendula-ulmaria": {
+    "commonName": "Ulmária",
+    "edible": "As flores de aroma doce aromatizam xaropes, hidromel e sobremesas.",
+    "medicinal": "Contém salicilatos e foi a planta que deu nome à aspirina; remédio tradicional para febre, dor e azia.",
+    "ecologicalRole": "Planta de zonas úmidas e valas cujas flores espumosas atraem sirfídeos e besouros.",
+    "culturalUses": "Erva sagrada dos druidas e erva medieval para forrar o chão.",
+    "description": "Perene alta de prados úmidos com folhas pinadas, brancas na face inferior, e cachos densos e espumosos de flores branco-cremosas com cheiro de amêndoa e mel."
+  },
+  "mentha-aquatica": {
+    "commonName": "Hortelã-de-água",
+    "edible": "As folhas são usadas como a hortelã de jardim em chás, molhos e bebidas.",
+    "medicinal": "Digestivo tradicional e remédio para dores de cabeça, como as outras hortelãs.",
+    "ecologicalRole": "Planta de beira de lagoa cujas flores atraem abelhas, sirfídeos e borboletas no fim do verão.",
+    "culturalUses": null,
+    "description": "Perene aromática de terrenos úmidos com folhas ovais, pilosas e serradas, muitas vezes com tons de púrpura, e cabeças arredondadas de flores rosa-lilás nas pontas dos caules."
+  },
+  "rosa-canina": {
+    "commonName": "Roseira-brava",
+    "edible": "Os frutos são ricos em vitamina C e são transformados em xarope, geleia e chá; remova antes os pelos irritantes das sementes.",
+    "medicinal": "O xarope de frutos de roseira-brava era dado às crianças na Grã-Bretanha em tempo de guerra contra o escorbuto e ainda é usado para a saúde das articulações.",
+    "ecologicalRole": "As flores alimentam abelhas e sirfídeos; os frutos alimentam aves e pequenos mamíferos durante o inverno; os ramos espinhosos abrigam ninhos.",
+    "culturalUses": "A rosa silvestre da heráldica e do folclore ingleses.",
+    "description": "Arbusto arqueado e espinhoso com folhas pinadas de cinco a sete folíolos, flores rosa-pálidas de cinco pétalas em junho e frutos ovais vermelhos e brilhantes no outono."
+  },
+  "corylus-avellana": {
+    "commonName": "Aveleira",
+    "edible": "As avelãs são comestíveis cruas ou torradas e amadurecem em setembro, se os esquilos deixarem alguma.",
+    "medicinal": null,
+    "ecologicalRole": "A aveleira em talhadia cria o bosque de luz filtrada de que dependem leirões, borboletas fritilárias e flores de primavera.",
+    "culturalUses": "Varas para cercas entrançadas, ripas de colmo e bengalas; ramos bifurcados para a radiestesia em busca de água.",
+    "description": "Arbusto de vários caules com folhas arredondadas, macias e duplamente serradas, amentilhos amarelos em fevereiro e avelãs envoltas em brácteas foliáceas."
+  }
+}

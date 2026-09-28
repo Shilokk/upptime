@@ -1,0 +1,322 @@
+{
+  "quercus-robur": {
+    "commonName": "English oak",
+    "edible": "Acorns are edible only after repeated leaching to remove bitter tannins; historically ground into flour in lean years.",
+    "medicinal": "Bark rich in tannins was used traditionally as an astringent for sore throats and skin complaints.",
+    "ecologicalRole": "A keystone tree supporting over 2,000 species of insects, fungi, birds, and mammals; veteran oaks hold rare deadwood beetles.",
+    "culturalUses": "Timber for ships, barrels, and timber-framed buildings; a national emblem in England and a symbol of endurance.",
+    "description": "A broad, long-lived deciduous tree with deeply lobed leaves on very short stalks and acorns carried on long stems. Trunks become massive and fissured with age."
+  },
+  "platanus-hispanica": {
+    "commonName": "London plane",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Tolerates compacted soil and pollution, shading streets and cooling city air; its bark sheds in plates that discard grime.",
+    "culturalUses": "Planted along London's streets and squares since the 1700s, it is the capital's signature tree.",
+    "description": "A tall hybrid street tree with large maple-like leaves, spiky round fruit balls that hang through winter, and camouflage-patterned bark that flakes in patches."
+  },
+  "betula-pendula": {
+    "commonName": "Silver birch",
+    "edible": "Spring sap can be tapped as a lightly sweet drink; young leaves are added to teas.",
+    "medicinal": "Leaf tea was used traditionally as a mild diuretic and bark oil for skin conditions.",
+    "ecologicalRole": "A fast pioneer of open ground that enriches poor soils, feeds many moth caterpillars, and hosts fly agaric and other fungi.",
+    "culturalUses": "Bark used for tinder and canoes; twigs for besom brooms; a symbol of renewal in northern folklore.",
+    "description": "A graceful tree with peeling white bark marked by black diamonds, drooping twigs, and small triangular leaves with double-toothed edges."
+  },
+  "fagus-sylvatica": {
+    "commonName": "European beech",
+    "edible": "Beech nuts, or mast, are edible in small quantities when roasted; young spring leaves are mild in salads.",
+    "medicinal": null,
+    "ecologicalRole": "Casts deep shade that shapes whole woodland communities; mast years feed jays, mice, and wild boar.",
+    "culturalUses": "Smooth grey bark has been carved with initials for centuries; wood is prized for furniture and firewood.",
+    "description": "A stately tree with smooth silver-grey bark, oval leaves with wavy edges and silky hairs when young, and prickly husks that split to release triangular nuts."
+  },
+  "aesculus-hippocastanum": {
+    "commonName": "Horse chestnut",
+    "edible": "Not edible. Conkers contain aesculin and are toxic to people and dogs; they are unrelated to sweet chestnuts.",
+    "medicinal": "Standardised seed extracts are used in Europe for poor leg circulation, but the raw seeds are poisonous.",
+    "ecologicalRole": "Large candle-like flower spikes feed bees in late spring; the leaf-mining moth now browns most leaves by August.",
+    "culturalUses": "Conkers are the classic British playground game every autumn.",
+    "description": "A big spreading tree with hand-shaped leaves of five to seven leaflets, white flower spikes in May, and glossy brown seeds inside spiny green cases."
+  },
+  "tilia-europaea": {
+    "commonName": "Common lime",
+    "edible": "Young leaves are pleasant in salads; dried flowers make the classic linden tea.",
+    "medicinal": "Linden flower tea is a traditional remedy for colds, anxiety, and restless sleep.",
+    "ecologicalRole": "Flowers hum with bees in July; aphids on the leaves feed ladybirds and drip honeydew onto pavements below.",
+    "culturalUses": "The village lime was a meeting place across central Europe; the soft wood is favoured by carvers.",
+    "description": "A tall tree with heart-shaped, toothed leaves, sprouting shoots around the trunk base, and fragrant pale yellow flowers hanging beneath a narrow leafy bract."
+  },
+  "ilex-aquifolium": {
+    "commonName": "Holly",
+    "edible": "Not edible. The red berries cause vomiting if eaten.",
+    "medicinal": null,
+    "ecologicalRole": "Evergreen shelter for wintering birds; berries feed thrushes and the leaves host the holly blue butterfly.",
+    "culturalUses": "Cut for midwinter and Christmas decorations for centuries; wood used for chess pieces and inlay.",
+    "description": "An evergreen tree or shrub with glossy, spiny, dark green leaves that become smoother higher up, small white flowers, and bright red berries on female plants."
+  },
+  "hedera-helix": {
+    "commonName": "Common ivy",
+    "edible": "Not edible. Leaves and berries are mildly toxic.",
+    "medicinal": "Standardised leaf extracts are used in cough syrups; raw leaves can irritate skin.",
+    "ecologicalRole": "Autumn flowers are a vital late nectar source for bees and hoverflies; berries feed birds in winter and dense growth shelters bats and nesting wrens.",
+    "culturalUses": "A symbol of fidelity woven into wedding garlands; evergreen decoration in midwinter festivals.",
+    "description": "A woody evergreen climber with lobed juvenile leaves and unlobed adult leaves on flowering shoots; globular clusters of green-yellow flowers in autumn and black berries in spring."
+  },
+  "crataegus-monogyna": {
+    "commonName": "Hawthorn",
+    "edible": "Young leaves were nibbled as 'bread and cheese'; haws are made into jelly and ketchup.",
+    "medicinal": "Flowers, leaves, and berries are a long-standing traditional heart tonic; only under supervision.",
+    "ecologicalRole": "Blossom feeds spring pollinators, thorny growth shelters nesting birds, and haws fuel migrating thrushes and waxwings.",
+    "culturalUses": "The May tree of English folklore; the classic hedgerow plant of enclosed farmland.",
+    "description": "A thorny small tree with deeply lobed leaves, frothy white or pink blossom in May, and clusters of dark red berries each holding a single stone."
+  },
+  "sambucus-nigra": {
+    "commonName": "Elder",
+    "edible": "Flowers flavour cordials and fritters; berries must be cooked before eating and are made into wine and jam.",
+    "medicinal": "Elderflower and elderberry preparations are traditional remedies for colds and flu; raw berries, leaves, and bark are mildly toxic.",
+    "ecologicalRole": "Fast-growing on disturbed ground; berries feed many birds and the flowers attract hoverflies.",
+    "culturalUses": "Surrounded by folklore about protection and witchcraft; hollow stems were made into whistles and pea-shooters.",
+    "description": "A shrub with pinnate leaves of five to seven leaflets, flat creamy flower heads in June, and drooping clusters of tiny black berries in late summer."
+  },
+  "rubus-fruticosus": {
+    "commonName": "Bramble",
+    "edible": "Blackberries are sweet and safe when ripe; young shoots and leaves make tea.",
+    "medicinal": "Leaf tea was a traditional treatment for diarrhoea and mouth ulcers thanks to its tannins.",
+    "ecologicalRole": "Flowers feed bees for months and thickets shelter nesting birds, dormice, and hedgehogs; invasive where it smothers native scrub abroad.",
+    "culturalUses": null,
+    "description": "An arching, prickly shrub with leaves of three to five toothed leaflets, white or pink flowers all summer, and fruits ripening from green through red to black."
+  },
+  "urtica-dioica": {
+    "commonName": "Stinging nettle",
+    "edible": "Young tops lose their sting when cooked and make a rich soup or a spinach substitute.",
+    "medicinal": "Nettle tea and extracts are traditional for hay fever, joint pain, and as a spring tonic.",
+    "ecologicalRole": "Larval food plant for peacock, small tortoiseshell, red admiral, and comma butterflies; a sign of nitrogen-rich soil.",
+    "culturalUses": "Fibres were spun into cloth and rope; a folk remedy involved deliberate stinging for rheumatism.",
+    "description": "An upright perennial with opposite, heart-shaped, sharply toothed leaves covered in stinging hairs and dangling strings of tiny green flowers."
+  },
+  "taraxacum-officinale": {
+    "commonName": "Dandelion",
+    "edible": "Young leaves are bitter salad greens, roots are roasted as a coffee substitute, and flowers are made into wine.",
+    "medicinal": "Leaves are a traditional diuretic and the root a digestive bitter.",
+    "ecologicalRole": "One of the most important early spring nectar and pollen sources for bees and hoverflies.",
+    "culturalUses": null,
+    "description": "A rosette of toothed leaves with hollow stems that bleed milky sap, bright yellow flower heads, and the famous globe of parachuted seeds."
+  },
+  "bellis-perennis": {
+    "commonName": "Daisy",
+    "edible": "Young leaves and flower buds can be added to salads in small amounts.",
+    "medicinal": "Once known as bruisewort, it was applied to bruises and wounds in folk medicine.",
+    "ecologicalRole": "Flowers nearly all year in short turf and feed small bees and hoverflies when little else is out.",
+    "culturalUses": "Daisy chains and the 'loves me, loves me not' game are childhood classics.",
+    "description": "A low perennial with spoon-shaped leaves in a flat rosette and single flower heads of white, pink-tipped petals around a yellow centre that close at night."
+  },
+  "trifolium-pratense": {
+    "commonName": "Red clover",
+    "edible": "Flower heads are sweet and can be eaten raw or dried for tea.",
+    "medicinal": "Used traditionally for coughs and skin complaints; isoflavone extracts are sold for menopausal symptoms.",
+    "ecologicalRole": "Fixes nitrogen into the soil and is a top forage plant for bumblebees, especially long-tongued species.",
+    "culturalUses": null,
+    "description": "A meadow perennial with three oval leaflets, each often marked with a pale chevron, and round pink-purple flower heads."
+  },
+  "plantago-major": {
+    "commonName": "Greater plantain",
+    "edible": "Very young leaves are edible cooked; older leaves are stringy. Seeds can be eaten like psyllium.",
+    "medicinal": "Crushed leaves are a classic folk poultice for stings, cuts, and nettle rash.",
+    "ecologicalRole": "Thrives in trampled ground and paths; seeds feed finches and sparrows.",
+    "culturalUses": "Called 'white man's footprint' in North America because it followed European settlers' paths.",
+    "description": "A ground-hugging rosette of broad oval leaves with strong parallel veins, sending up slender green flower spikes like rat tails."
+  },
+  "achillea-millefolium": {
+    "commonName": "Yarrow",
+    "edible": null,
+    "medicinal": "Named for Achilles, who reputedly used it to staunch soldiers' wounds; still a traditional remedy for cuts, fever, and colds.",
+    "ecologicalRole": "Its flat flower heads are landing platforms for hoverflies, beetles, and solitary wasps; deep roots resist drought.",
+    "culturalUses": "Dried stalks were used for casting the I Ching in China.",
+    "description": "An aromatic perennial with soft, feathery, finely divided leaves and flat-topped clusters of tiny white or pink flowers."
+  },
+  "digitalis-purpurea": {
+    "commonName": "Foxglove",
+    "edible": "Not edible. Every part is highly poisonous and can stop the heart.",
+    "medicinal": "The source of digoxin, a heart medicine; never self-administer, the margin between dose and poison is tiny.",
+    "ecologicalRole": "Tubular flowers are tailored to bumblebees, which crawl inside following spotted guide marks.",
+    "culturalUses": "Fairy folklore surrounds it; the spots inside the flowers were said to be fairy fingerprints.",
+    "description": "A tall biennial with a rosette of soft, downy leaves in its first year and a spire of purple-pink, spotted tubular bells in its second."
+  },
+  "allium-ursinum": {
+    "commonName": "Wild garlic",
+    "edible": "Leaves, flowers, and bulbs are edible with a mild garlic flavour; classic in pesto and soups. Beware of look-alikes like lily of the valley.",
+    "medicinal": "Traditionally taken for blood pressure and as a spring cleanse, much like cultivated garlic.",
+    "ecologicalRole": "Carpets ancient damp woodland in April and feeds early hoverflies; an indicator of old woodland.",
+    "culturalUses": "Bear garlic in German and Slavic traditions, said to be eaten by bears waking from hibernation.",
+    "description": "A woodland bulb with broad, glossy, elliptical leaves that smell strongly of garlic when crushed and starry white flowers in a rounded umbel."
+  },
+  "hyacinthoides-non-scripta": {
+    "commonName": "Bluebell",
+    "edible": "Not edible. All parts contain toxic glycosides.",
+    "medicinal": null,
+    "ecologicalRole": "About half the world's bluebells grow in Britain; carpets of them feed early bees and butterflies and indicate ancient woodland.",
+    "culturalUses": "Protected by law in the UK; the sticky sap once glued feathers to arrows and bound books.",
+    "description": "A spring bulb with narrow, strap-like leaves and one-sided, drooping spikes of fragrant violet-blue bells with curled-back petal tips and cream anthers."
+  },
+  "ophrys-apifera": {
+    "commonName": "Bee orchid",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "The flower mimics a female bee to lure males, though in Britain it mostly self-pollinates; a specialist of chalk and disturbed lime-rich ground.",
+    "culturalUses": "A prized find for botanists and a symbol of wild grassland restoration.",
+    "description": "A small orchid with a rosette of grey-green leaves and a few flowers with pink sepals and a velvety brown lip patterned like a bumblebee."
+  },
+  "orchis-mascula": {
+    "commonName": "Early purple orchid",
+    "edible": null,
+    "medicinal": "Tubers were once made into salep, a thick drink sold before coffee arrived in Europe.",
+    "ecologicalRole": "One of the first orchids to flower, offering no nectar but deceiving newly emerged bumblebees.",
+    "culturalUses": "Shakespeare's 'long purples' in Hamlet; surrounded by love-potion folklore.",
+    "description": "A woodland and grassland orchid with glossy leaves usually blotched with purple and a dense spike of purple flowers that smell faintly of tomcat."
+  },
+  "dactylorhiza-fuchsii": {
+    "commonName": "Common spotted orchid",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "The most frequent British orchid, colonising verges and old meadows; visited by bees and day-flying moths.",
+    "culturalUses": null,
+    "description": "An orchid with narrow leaves spotted with dark purple and a conical spike of pale pink to lilac flowers, each lip marked with loops and dots and divided into three lobes."
+  },
+  "fritillaria-meleagris": {
+    "commonName": "Snake's head fritillary",
+    "edible": "Not edible. The bulbs and leaves are poisonous.",
+    "medicinal": null,
+    "ecologicalRole": "A specialist of traditionally managed flood meadows, now rare; flowers are pollinated by early bumblebees.",
+    "culturalUses": "The county flower of Oxfordshire; famous displays draw visitors to Magdalen Meadow and Cricklade every April.",
+    "description": "A slender spring bulb with grassy leaves and nodding, lantern-shaped flowers chequered in purple and white, occasionally pure white."
+  },
+  "primula-vulgaris": {
+    "commonName": "Primrose",
+    "edible": "Flowers are edible and used to decorate cakes and salads; leaves can be cooked.",
+    "medicinal": "Root and flower were traditional remedies for coughs and headaches.",
+    "ecologicalRole": "Among the first flowers of the year, feeding early bees, bee-flies, and brimstone butterflies.",
+    "culturalUses": "Primrose Day on 19 April commemorates Disraeli; a beloved emblem of spring in poetry.",
+    "description": "A low perennial with a rosette of crinkled, tongue-shaped leaves and pale yellow, five-petalled flowers with a deeper yellow eye, each on its own hairy stalk."
+  },
+  "galanthus-nivalis": {
+    "commonName": "Snowdrop",
+    "edible": "Not edible. The bulbs are toxic and easily mistaken for onions.",
+    "medicinal": "The source of galantamine, a drug used for early Alzheimer's disease; never use the raw plant.",
+    "ecologicalRole": "Flowers in late winter when little else does, and opens on mild days to reward foraging bees.",
+    "culturalUses": "A symbol of hope and Candlemas; 'galanthophiles' collect hundreds of named varieties.",
+    "description": "A small bulb with two grey-green strap leaves and a single nodding white flower with three outer petals and a green-marked inner cup."
+  },
+  "reynoutria-japonica": {
+    "commonName": "Japanese knotweed",
+    "edible": "Young spring shoots taste like sharp rhubarb and are cooked in Japan; harvesting it can spread fragments, so take care.",
+    "medicinal": "The root is used in traditional East Asian medicine and is a commercial source of resveratrol.",
+    "ecologicalRole": "Forms dense stands that shade out native plants along rivers and railways; its late flowers do feed bees.",
+    "culturalUses": null,
+    "description": "A vigorous perennial with hollow, red-speckled bamboo-like stems, shield-shaped leaves with a flat base, and sprays of creamy flowers in late summer. Regrows from tiny root fragments."
+  },
+  "impatiens-glandulifera": {
+    "commonName": "Himalayan balsam",
+    "edible": "Seeds are edible and nutty; young leaves can be cooked. Picking seeds before they pop is one way to help control it.",
+    "medicinal": null,
+    "ecologicalRole": "Outcompetes riverbank plants and leaves banks bare to erosion in winter; its nectar-rich flowers distract bees from native species.",
+    "culturalUses": "Introduced to Victorian gardens in 1839 and nicknamed 'policeman's helmet' for its flower shape.",
+    "description": "A tall, fleshy annual with reddish hollow stems, lance-shaped toothed leaves in whorls, hooded pink flowers, and seed pods that explode at a touch."
+  },
+  "heracleum-mantegazzianum": {
+    "commonName": "Giant hogweed",
+    "edible": "Not edible. Do not touch: the sap causes severe burns and blistering in sunlight.",
+    "medicinal": null,
+    "ecologicalRole": "Huge umbels feed insects, but colonies crowd out riverside plants and expose soil to erosion.",
+    "culturalUses": null,
+    "description": "A colossal umbellifer up to five metres tall with purple-blotched, bristly stems, deeply cut leaves over a metre wide, and umbrella-like white flower heads. A dangerous plant to handle."
+  },
+  "rhododendron-ponticum": {
+    "commonName": "Rhododendron",
+    "edible": "Not edible. Leaves and nectar contain grayanotoxins; honey from it can cause 'mad honey' poisoning.",
+    "medicinal": null,
+    "ecologicalRole": "Dense evergreen thickets acidify soil and shade out woodland flora; it also hosts the plant disease Phytophthora ramorum.",
+    "culturalUses": "Planted on Victorian estates for game cover and spring colour before its invasive nature was understood.",
+    "description": "A large evergreen shrub with leathery dark leaves and showy trusses of purple-pink funnel-shaped flowers in late spring."
+  },
+  "buddleja-davidii": {
+    "commonName": "Butterfly bush",
+    "edible": null,
+    "medicinal": null,
+    "ecologicalRole": "Flowers attract clouds of butterflies and moths, but seedlings colonise railways, walls, and brownfield land and can dominate native scrub.",
+    "culturalUses": "A cottage-garden staple since its introduction from China in the 1890s.",
+    "description": "A fast-growing shrub with arching branches, grey-green lance-shaped leaves, and long, honey-scented cones of lilac to purple flowers in summer."
+  },
+  "prunus-laurocerasus": {
+    "commonName": "Cherry laurel",
+    "edible": "Not edible. Leaves and seeds release cyanide; crushed leaves smell of almonds for that reason.",
+    "medicinal": null,
+    "ecologicalRole": "Escapes from hedges into woodland where its heavy shade suppresses ground flora and tree regeneration.",
+    "culturalUses": "A common privacy hedge; the leaves were once used in killing jars by butterfly collectors.",
+    "description": "A dense evergreen shrub with large, glossy, leathery leaves, upright spikes of small white flowers in spring, and cherry-like fruits that ripen black."
+  },
+  "lythrum-salicaria": {
+    "commonName": "Purple loosestrife",
+    "edible": null,
+    "medicinal": "Traditionally used for diarrhoea and as a wound wash thanks to its tannins.",
+    "ecologicalRole": "A rich nectar plant of British wetlands, but a serious invader of North American marshes where it displaces native plants.",
+    "culturalUses": null,
+    "description": "A wetland perennial with square stems, opposite lance-shaped leaves, and tall dense spikes of magenta six-petalled flowers in summer."
+  },
+  "jacobaea-vulgaris": {
+    "commonName": "Common ragwort",
+    "edible": "Not edible. Contains liver-damaging alkaloids; toxic to horses and cattle, especially when dried in hay.",
+    "medicinal": null,
+    "ecologicalRole": "Supports around 30 specialist insects, including the black-and-yellow cinnabar moth caterpillar, and is a rich nectar source.",
+    "culturalUses": "Nicknamed 'stinking Willie' in Scotland after the Duke of Cumberland; the subject of long-running weed control debates.",
+    "description": "A biennial with a rosette of deeply lobed, dark green leaves and flat clusters of golden yellow daisy-like flowers on stems up to a metre tall."
+  },
+  "chamaenerion-angustifolium": {
+    "commonName": "Rosebay willowherb",
+    "edible": "Young shoots can be cooked like asparagus; fermented leaves make the Russian tea 'Ivan chai'.",
+    "medicinal": "Leaf tea was a folk remedy for digestive and prostate complaints.",
+    "ecologicalRole": "A pioneer of burnt and cleared ground, hence 'fireweed'; flowers feed bees and the leaves host the elephant hawk-moth.",
+    "culturalUses": "Nicknamed 'bombweed' after it covered London's bomb sites in the 1940s.",
+    "description": "A tall perennial with narrow, willow-like leaves spiralling up the stem and long spires of rose-pink four-petalled flowers followed by fluffy seeds."
+  },
+  "symphytum-officinale": {
+    "commonName": "Comfrey",
+    "edible": "Not for eating. Contains pyrrolizidine alkaloids that damage the liver.",
+    "medicinal": "Known as knitbone: leaf poultices are used externally for sprains and bruises, never internally.",
+    "ecologicalRole": "Deep-rooted and rich in nutrients; flowers are worked by bumblebees, some of which bite holes to rob the nectar.",
+    "culturalUses": "Gardeners steep leaves for a potent liquid fertiliser.",
+    "description": "A robust, bristly perennial with large, rough, lance-shaped leaves running down the stem and curled clusters of purple, pink, or cream bell flowers."
+  },
+  "filipendula-ulmaria": {
+    "commonName": "Meadowsweet",
+    "edible": "Sweet-scented flowers flavour cordials, mead, and desserts.",
+    "medicinal": "Contains salicylates and was the plant from which aspirin was named; a traditional remedy for fever, pain, and heartburn.",
+    "ecologicalRole": "A wetland and ditch plant whose frothy flowers attract hoverflies and beetles.",
+    "culturalUses": "A sacred herb of the Druids and a medieval strewing herb for floors.",
+    "description": "A tall damp-meadow perennial with pinnate leaves, white underneath, and dense frothy clusters of creamy white flowers that smell of almonds and honey."
+  },
+  "mentha-aquatica": {
+    "commonName": "Water mint",
+    "edible": "Leaves are used like garden mint for teas, sauces, and drinks.",
+    "medicinal": "A traditional digestive and remedy for headaches, like other mints.",
+    "ecologicalRole": "A pondside plant whose flowers attract bees, hoverflies, and butterflies in late summer.",
+    "culturalUses": null,
+    "description": "An aromatic perennial of wet ground with hairy, toothed oval leaves, often purple-tinged, and rounded heads of lilac-pink flowers at the stem tips."
+  },
+  "rosa-canina": {
+    "commonName": "Dog rose",
+    "edible": "Rose hips are rich in vitamin C and are made into syrup, jelly, and tea; remove the irritant seed hairs first.",
+    "medicinal": "Rosehip syrup was given to children in wartime Britain against scurvy and is still used for joint health.",
+    "ecologicalRole": "Flowers feed bees and hoverflies; hips feed birds and small mammals through winter; thorny stems shelter nests.",
+    "culturalUses": "The wild rose of English heraldry and folklore.",
+    "description": "An arching, thorny shrub with pinnate leaves of five to seven leaflets, pale pink five-petalled flowers in June, and glossy red oval hips in autumn."
+  },
+  "corylus-avellana": {
+    "commonName": "Hazel",
+    "edible": "Hazelnuts are edible raw or roasted and ripen in September, if squirrels leave any.",
+    "medicinal": null,
+    "ecologicalRole": "Coppiced hazel creates the dappled woodland that dormice, fritillary butterflies, and spring flowers depend on.",
+    "culturalUses": "Rods for hurdles, thatching spars, and walking sticks; forked twigs for water divining.",
+    "description": "A multi-stemmed shrub with rounded, soft, double-toothed leaves, yellow catkins in February, and nuts in leafy husks."
+  }
+}
